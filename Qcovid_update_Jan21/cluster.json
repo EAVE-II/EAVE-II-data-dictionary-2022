@@ -1,0 +1,42 @@
+[
+  {
+    "cluster": "Q_ETHNICITY",
+    "frac": "0.408649514465913"
+  },
+  {
+    "cluster": "Q_BMI",
+    "frac": "0.239863850235259"
+  },
+  {
+    "cluster": "Q_DIAG_ASTHMA",
+    "frac": "0.073881269396336"
+  },
+  {
+    "cluster": "Q_DIAG_SEV_MENT_ILL",
+    "frac": "0.0604665131644809"
+  },
+  {
+    "cluster": "Q_DIAG_DIABETES_2",
+    "frac": "0.0294323756131745"
+  },
+  {
+    "cluster": "Q_DIAG_CHD",
+    "frac": "0.0237260987085794"
+  },
+  {
+    "cluster": "Q_DIAG_FRACTURE",
+    "frac": "0.022724997497247"
+  },
+  {
+    "cluster": "Q_DIAG_CKD_LEVEL",
+    "frac": "0.0204224647111823"
+  },
+  {
+    "cluster": "Q_DIAG_AF",
+    "frac": "0.0143157473220543"
+  },
+  {
+    "cluster": "Q_DIAG_COPD",
+    "frac": "0.0137150865952548"
+  }
+]

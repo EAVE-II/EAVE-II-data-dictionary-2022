@@ -1,0 +1,14 @@
+[
+  {
+    "vacc_status": "completed",
+    "frac": "0.9904"
+  },
+  {
+    "vacc_status": "not-done",
+    "frac": "0.0079"
+  },
+  {
+    "vacc_status": "entered-in-error",
+    "frac": "0.0017"
+  }
+]

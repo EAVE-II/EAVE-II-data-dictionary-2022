@@ -1,0 +1,14 @@
+[
+  {
+    "hosp_covid": "0",
+    "frac": "0.9815"
+  },
+  {
+    "hosp_covid": null,
+    "frac": "0.0166"
+  },
+  {
+    "hosp_covid": "1",
+    "frac": "0.0019"
+  }
+]

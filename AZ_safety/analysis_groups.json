@@ -1,0 +1,30 @@
+[
+  {
+    "analysis_groups": "exclude",
+    "frac": "0.474574574574575"
+  },
+  {
+    "analysis_groups": "Arterial_thromb",
+    "frac": "0.381581581581582"
+  },
+  {
+    "analysis_groups": "Thrombo_emb excl CSVT",
+    "frac": "0.0992992992992993"
+  },
+  {
+    "analysis_groups": "all haem",
+    "frac": "0.025025025025025"
+  },
+  {
+    "analysis_groups": "Thrombocytopenia_excl_itp",
+    "frac": "0.00890890890890891"
+  },
+  {
+    "analysis_groups": "haem_sc",
+    "frac": "0.00790790790790791"
+  },
+  {
+    "analysis_groups": "itp",
+    "frac": "0.0027027027027027"
+  }
+]

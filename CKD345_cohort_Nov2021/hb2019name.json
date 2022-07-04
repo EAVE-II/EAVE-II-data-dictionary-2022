@@ -1,0 +1,42 @@
+[
+  {
+    "hb2019name": "NHS Greater Glasgow and Clyde",
+    "frac": "0.1987"
+  },
+  {
+    "hb2019name": "NHS Lothian",
+    "frac": "0.127"
+  },
+  {
+    "hb2019name": "NHS Lanarkshire",
+    "frac": "0.1147"
+  },
+  {
+    "hb2019name": "NHS Fife",
+    "frac": "0.1142"
+  },
+  {
+    "hb2019name": "NHS Ayrshire and Arran",
+    "frac": "0.0983"
+  },
+  {
+    "hb2019name": "NHS Grampian",
+    "frac": "0.0947"
+  },
+  {
+    "hb2019name": "NHS Tayside",
+    "frac": "0.0687"
+  },
+  {
+    "hb2019name": "NHS Highland",
+    "frac": "0.0594"
+  },
+  {
+    "hb2019name": "NHS Forth Valley",
+    "frac": "0.0558"
+  },
+  {
+    "hb2019name": "NHS Dumfries and Galloway",
+    "frac": "0.0262"
+  }
+]

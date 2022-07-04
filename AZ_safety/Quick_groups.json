@@ -1,0 +1,42 @@
+[
+  {
+    "Quick_groups": "Arterial_thromb",
+    "frac": "0.381849143544025"
+  },
+  {
+    "Quick_groups": "haem_gigu",
+    "frac": "0.267955524391465"
+  },
+  {
+    "Quick_groups": "not relevant",
+    "frac": "0.196734448562556"
+  },
+  {
+    "Quick_groups": "pulm_emb",
+    "frac": "0.0468796954823199"
+  },
+  {
+    "Quick_groups": "dv_throm",
+    "frac": "0.0435740759290794"
+  },
+  {
+    "Quick_groups": "haem",
+    "frac": "0.00951617750175298"
+  },
+  {
+    "Quick_groups": "itp_gen",
+    "frac": "0.00891515576480016"
+  },
+  {
+    "Quick_groups": "cereb_haem",
+    "frac": "0.00851447460683161"
+  },
+  {
+    "Quick_groups": "haem_sc",
+    "frac": "0.00791345286987879"
+  },
+  {
+    "Quick_groups": "sub_arach_haem",
+    "frac": "0.00701192026444956"
+  }
+]

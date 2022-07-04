@@ -1,0 +1,42 @@
+[
+  {
+    "patient_derived_council_area_name": "Glasgow City",
+    "frac": "0.0973584150490294"
+  },
+  {
+    "patient_derived_council_area_name": "City of Edinburgh",
+    "frac": "0.0921552931759055"
+  },
+  {
+    "patient_derived_council_area_name": "Fife",
+    "frac": "0.069541725035021"
+  },
+  {
+    "patient_derived_council_area_name": "South Lanarkshire",
+    "frac": "0.0654392635581349"
+  },
+  {
+    "patient_derived_council_area_name": "North Lanarkshire",
+    "frac": "0.0613368020812487"
+  },
+  {
+    "patient_derived_council_area_name": "Aberdeenshire",
+    "frac": "0.0474284570742445"
+  },
+  {
+    "patient_derived_council_area_name": "Highland",
+    "frac": "0.0453271963177907"
+  },
+  {
+    "patient_derived_council_area_name": "Aberdeen City",
+    "frac": "0.0381228737242345"
+  },
+  {
+    "patient_derived_council_area_name": "West Lothian",
+    "frac": "0.0347208324994997"
+  },
+  {
+    "patient_derived_council_area_name": "Renfrewshire",
+    "frac": "0.0307184310586352"
+  }
+]

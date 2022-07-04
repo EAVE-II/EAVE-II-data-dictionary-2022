@@ -1,0 +1,38 @@
+[
+  {
+    "ethnic_grp": "White",
+    "frac": "0.498948843728101"
+  },
+  {
+    "ethnic_grp": "Not recorded",
+    "frac": "0.461807988787666"
+  },
+  {
+    "ethnic_grp": "Other",
+    "frac": "0.00991090199219141"
+  },
+  {
+    "ethnic_grp": "Pakistani",
+    "frac": "0.00830914005405946"
+  },
+  {
+    "ethnic_grp": "Chinese",
+    "frac": "0.00600660726799479"
+  },
+  {
+    "ethnic_grp": "Indian",
+    "frac": "0.00570627690459505"
+  },
+  {
+    "ethnic_grp": "Black African",
+    "frac": "0.00460506557212934"
+  },
+  {
+    "ethnic_grp": "Other Asian",
+    "frac": "0.00360396436079688"
+  },
+  {
+    "ethnic_grp": "Other Black",
+    "frac": "0.00110121133246571"
+  }
+]

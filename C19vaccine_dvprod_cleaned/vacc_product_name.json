@@ -1,0 +1,14 @@
+[
+  {
+    "vacc_product_name": "Covid-19 mRNA Vaccine Pfizer",
+    "frac": "0.54"
+  },
+  {
+    "vacc_product_name": "Covid-19 Vaccine AstraZeneca",
+    "frac": "0.3326"
+  },
+  {
+    "vacc_product_name": "Covid-19 mRNA Vaccine Moderna",
+    "frac": "0.1274"
+  }
+]

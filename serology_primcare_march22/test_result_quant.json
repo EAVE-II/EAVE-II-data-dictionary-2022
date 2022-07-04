@@ -1,0 +1,52 @@
+[
+  {
+    "test_result_quant": "<3.8",
+    "frac": 0.4311,
+    "n": 4311
+  },
+  {
+    "test_result_quant": "<4.81",
+    "frac": 0.0907,
+    "n": 907
+  },
+  {
+    "test_result_quant": ">2080.00",
+    "frac": 0.078,
+    "n": 780
+  },
+  {
+    "test_result_quant": "<3.80",
+    "frac": 0.0056,
+    "n": 56
+  },
+  {
+    "test_result_quant": ">400.0",
+    "frac": 0.0046,
+    "n": 46
+  },
+  {
+    "test_result_quant": "4.0",
+    "frac": 0.0031,
+    "n": 31
+  },
+  {
+    "test_result_quant": "4.1",
+    "frac": 0.003,
+    "n": 30
+  },
+  {
+    "test_result_quant": "5.0",
+    "frac": 0.003,
+    "n": 30
+  },
+  {
+    "test_result_quant": "4.4",
+    "frac": 0.0026,
+    "n": 26
+  },
+  {
+    "test_result_quant": "3.9",
+    "frac": 0.0025,
+    "n": 25
+  }
+]
