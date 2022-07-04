@@ -1,0 +1,26 @@
+[
+  {
+    "simd2020v2_sc_quintile": "1",
+    "frac": "0.211"
+  },
+  {
+    "simd2020v2_sc_quintile": "3",
+    "frac": "0.1996"
+  },
+  {
+    "simd2020v2_sc_quintile": "2",
+    "frac": "0.1982"
+  },
+  {
+    "simd2020v2_sc_quintile": "4",
+    "frac": "0.1966"
+  },
+  {
+    "simd2020v2_sc_quintile": "5",
+    "frac": "0.1904"
+  },
+  {
+    "simd2020v2_sc_quintile": null,
+    "frac": "0.0042"
+  }
+]
