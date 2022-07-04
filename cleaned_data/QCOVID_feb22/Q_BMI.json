@@ -1,0 +1,82 @@
+[
+  {
+    "Q_BMI": "0",
+    "frac": "0.488796931772305",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_BMI": "26",
+    "frac": "0.0380500605571256",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_BMI": "27",
+    "frac": "0.0341138473960436",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_BMI": "28",
+    "frac": "0.0338110617682681",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_BMI": "24",
+    "frac": "0.0335082761404925",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_BMI": "25",
+    "frac": "0.0324989907145741",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_BMI": "29",
+    "frac": "0.0310859911182883",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_BMI": "23",
+    "frac": "0.0285627775534921",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_BMI": "22",
+    "frac": "0.0269479208720226",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_BMI": "30",
+    "frac": "0.0269479208720226",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  }
+]

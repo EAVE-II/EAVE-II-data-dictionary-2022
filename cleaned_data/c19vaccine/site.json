@@ -1,0 +1,42 @@
+[
+  {
+    "site": "LUA",
+    "frac": "0.738107160741112",
+    "table": "c19vaccine.rds",
+    "field": "site",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "site": "RUA",
+    "frac": "0.231947921882824",
+    "table": "c19vaccine.rds",
+    "field": "site",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "site": null,
+    "frac": "0.0204306459689534",
+    "table": "c19vaccine.rds",
+    "field": "site",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "site": "",
+    "frac": "0.00841261892839259",
+    "table": "c19vaccine.rds",
+    "field": "site",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "site": "None",
+    "frac": "0.00110165247871808",
+    "table": "c19vaccine.rds",
+    "field": "site",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  }
+]

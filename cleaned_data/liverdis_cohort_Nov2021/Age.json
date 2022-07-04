@@ -1,0 +1,82 @@
+[
+  {
+    "Age": "59   ",
+    "frac": "0.0303214069132808",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "Age": "60   ",
+    "frac": "0.0293106933495048",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "Age": "65   ",
+    "frac": "0.0271881948655751",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "Age": "52   ",
+    "frac": "0.0262785526581767",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "Age": "58   ",
+    "frac": "0.0262785526581767",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "Age": "64   ",
+    "frac": "0.0261774813017991",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "Age": "56   ",
+    "frac": "0.0260764099454215",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "Age": "62   ",
+    "frac": "0.0257731958762887",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "Age": "54   ",
+    "frac": "0.0256721245199111",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "Age": "57   ",
+    "frac": "0.0255710531635335",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  }
+]

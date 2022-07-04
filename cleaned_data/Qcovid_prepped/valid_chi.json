@@ -1,0 +1,18 @@
+[
+  {
+    "valid_chi": "Valid CHI",
+    "frac": "0.7342",
+    "table": "Qcovid_prepped.rds",
+    "field": "valid_chi",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "valid_chi": null,
+    "frac": "0.2658",
+    "table": "Qcovid_prepped.rds",
+    "field": "valid_chi",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

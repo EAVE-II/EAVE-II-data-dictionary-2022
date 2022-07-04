@@ -1,0 +1,18 @@
+[
+  {
+    "COV_IMMRX_CORT_20": null,
+    "frac": "0.9988",
+    "table": "C6_cohort.rds",
+    "field": "COV_IMMRX_CORT_20",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "COV_IMMRX_CORT_20": "1",
+    "frac": "0.0012",
+    "table": "C6_cohort.rds",
+    "field": "COV_IMMRX_CORT_20",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  }
+]

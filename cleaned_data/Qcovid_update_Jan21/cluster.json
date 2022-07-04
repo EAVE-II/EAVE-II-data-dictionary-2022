@@ -1,0 +1,82 @@
+[
+  {
+    "cluster": "Q_ETHNICITY",
+    "frac": "0.396135749324257",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "cluster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "cluster": "Q_BMI",
+    "frac": "0.23836219841826",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "cluster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "cluster": "Q_DIAG_ASTHMA",
+    "frac": "0.0744819301231354",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "cluster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "cluster": "Q_DIAG_SEV_MENT_ILL",
+    "frac": "0.066172790069076",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "cluster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "cluster": "Q_DIAG_DIABETES_2",
+    "frac": "0.029232155370908",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "cluster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "cluster": "Q_DIAG_FRACTURE",
+    "frac": "0.0256281910101111",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "cluster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "cluster": "Q_DIAG_CHD",
+    "frac": "0.022324557012714",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "cluster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "cluster": "Q_DIAG_CKD_LEVEL",
+    "frac": "0.0181199319251176",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "cluster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "cluster": "Q_DIAG_COPD",
+    "frac": "0.0167183902292522",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "cluster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "cluster": "Q_DIAG_STROKE",
+    "frac": "0.0147161878065872",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "cluster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "StartDate": "2020-01-06",
+    "frac": "0.00436398900921287",
+    "table": "AZ_safety.rds",
+    "field": "StartDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "StartDate": "2019-11-26",
+    "frac": "0.00387910134152255",
+    "table": "AZ_safety.rds",
+    "field": "StartDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "StartDate": "2019-05-17",
+    "frac": "0.00355584289639567",
+    "table": "AZ_safety.rds",
+    "field": "StartDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "StartDate": "2020-03-04",
+    "frac": "0.00355584289639567",
+    "table": "AZ_safety.rds",
+    "field": "StartDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "StartDate": "2019-11-29",
+    "frac": "0.00339421367383223",
+    "table": "AZ_safety.rds",
+    "field": "StartDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "StartDate": "2020-02-18",
+    "frac": "0.00339421367383223",
+    "table": "AZ_safety.rds",
+    "field": "StartDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "StartDate": "2019-02-11",
+    "frac": "0.00323258445126879",
+    "table": "AZ_safety.rds",
+    "field": "StartDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "StartDate": "2019-05-07",
+    "frac": "0.00323258445126879",
+    "table": "AZ_safety.rds",
+    "field": "StartDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "StartDate": "2019-07-11",
+    "frac": "0.00323258445126879",
+    "table": "AZ_safety.rds",
+    "field": "StartDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "StartDate": "2019-11-12",
+    "frac": "0.00323258445126879",
+    "table": "AZ_safety.rds",
+    "field": "StartDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  }
+]

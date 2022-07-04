@@ -1,0 +1,50 @@
+[
+  {
+    "datazone2011": null,
+    "frac": "0.407766990291262",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "datazone2011": "S01008712",
+    "frac": "0.135922330097087",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "datazone2011": "S01010055",
+    "frac": "0.12621359223301",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "datazone2011": "S01010138",
+    "frac": "0.116504854368932",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "datazone2011": "S01008704",
+    "frac": "0.106796116504854",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "datazone2011": "S01010323",
+    "frac": "0.106796116504854",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  }
+]

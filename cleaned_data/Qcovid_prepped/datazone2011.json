@@ -1,0 +1,42 @@
+[
+  {
+    "datazone2011": null,
+    "frac": "0.6",
+    "table": "Qcovid_prepped.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "datazone2011": "S01010286",
+    "frac": "0.128",
+    "table": "Qcovid_prepped.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "datazone2011": "S01008425",
+    "frac": "0.096",
+    "table": "Qcovid_prepped.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "datazone2011": "S01010259",
+    "frac": "0.088",
+    "table": "Qcovid_prepped.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "datazone2011": "S01010260",
+    "frac": "0.088",
+    "table": "Qcovid_prepped.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

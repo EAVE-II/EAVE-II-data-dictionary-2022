@@ -1,0 +1,50 @@
+[
+  {
+    "simd2020": "1",
+    "frac": "0.2193",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "simd2020": "2",
+    "frac": "0.2031",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "simd2020": "3",
+    "frac": "0.2013",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "simd2020": "4",
+    "frac": "0.1888",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "simd2020": "5",
+    "frac": "0.1834",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "simd2020": null,
+    "frac": "0.0041",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  }
+]

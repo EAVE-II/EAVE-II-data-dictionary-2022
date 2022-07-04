@@ -1,0 +1,58 @@
+[
+  {
+    "ur6_2016": "2",
+    "frac": "0.369424964936886",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "ur6_2016": "1",
+    "frac": "0.31304347826087",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "ur6_2016": "5",
+    "frac": "0.121739130434783",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "ur6_2016": "3",
+    "frac": "0.0788218793828892",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "ur6_2016": "6",
+    "frac": "0.0673211781206171",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "ur6_2016": "4",
+    "frac": "0.0451612903225806",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "ur6_2016": null,
+    "frac": "0.00448807854137447",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  }
+]

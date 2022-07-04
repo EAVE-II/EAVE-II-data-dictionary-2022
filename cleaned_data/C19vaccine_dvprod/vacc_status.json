@@ -1,0 +1,26 @@
+[
+  {
+    "vacc_status": "completed",
+    "frac": "0.9916",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "vacc_status",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "vacc_status": "not-done",
+    "frac": "0.0071",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "vacc_status",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "vacc_status": "entered-in-error",
+    "frac": "0.0013",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "vacc_status",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  }
+]

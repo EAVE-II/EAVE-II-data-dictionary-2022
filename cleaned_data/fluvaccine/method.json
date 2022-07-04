@@ -1,0 +1,18 @@
+[
+  {
+    "method": "IM",
+    "frac": "0.9681",
+    "table": "fluvaccine.rds",
+    "field": "method",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:52"
+  },
+  {
+    "method": "NASAL",
+    "frac": "0.0319",
+    "table": "fluvaccine.rds",
+    "field": "method",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:52"
+  }
+]

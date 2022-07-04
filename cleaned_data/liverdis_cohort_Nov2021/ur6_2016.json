@@ -1,0 +1,58 @@
+[
+  {
+    "ur6_2016": "1",
+    "frac": "0.4311",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "ur6_2016": "2",
+    "frac": "0.3196",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "ur6_2016": "5",
+    "frac": "0.0906",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "ur6_2016": "3",
+    "frac": "0.0689",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "ur6_2016": "6",
+    "frac": "0.0512",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "ur6_2016": "4",
+    "frac": "0.0344",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  },
+  {
+    "ur6_2016": null,
+    "frac": "0.0042",
+    "table": "liverdis_cohort_Nov2021.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:55:22"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "vacc_product_name": "Covid-19 mRNA Vaccine Pfizer",
+    "frac": "0.5561",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "vacc_product_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "vacc_product_name": "Covid-19 Vaccine AstraZeneca",
+    "frac": "0.3254",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "vacc_product_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "vacc_product_name": "Covid-19 mRNA Vaccine Moderna",
+    "frac": "0.1185",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "vacc_product_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  }
+]

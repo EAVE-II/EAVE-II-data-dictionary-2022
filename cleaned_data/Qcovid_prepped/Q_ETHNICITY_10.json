@@ -1,0 +1,10 @@
+[
+  {
+    "Q_ETHNICITY_10": "0",
+    "frac": "1",
+    "table": "Qcovid_prepped.rds",
+    "field": "Q_ETHNICITY_10",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "date_of_birth": null,
+    "frac": null,
+    "table": "fluvaccine_20220209.rds",
+    "field": "date_of_birth",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "Q_DIAG_SICKLE_CELL": "0",
+    "frac": "1",
+    "table": "QCOVIDdeduped.rds",
+    "field": "Q_DIAG_SICKLE_CELL",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  }
+]

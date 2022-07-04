@@ -1,0 +1,18 @@
+[
+  {
+    "fourth_eligible_8wk": "1",
+    "frac": "0.8541",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "fourth_eligible_8wk",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "fourth_eligible_8wk": "0",
+    "frac": "0.1459",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "fourth_eligible_8wk",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  }
+]

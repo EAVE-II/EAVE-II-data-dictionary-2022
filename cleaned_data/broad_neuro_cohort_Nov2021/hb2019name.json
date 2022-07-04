@@ -1,0 +1,82 @@
+[
+  {
+    "hb2019name": "NHS Greater Glasgow and Clyde",
+    "frac": "0.2056",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019name": "NHS Lothian",
+    "frac": "0.1437",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019name": "NHS Lanarkshire",
+    "frac": "0.1159",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019name": "NHS Grampian",
+    "frac": "0.1061",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019name": "NHS Ayrshire and Arran",
+    "frac": "0.0811",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019name": "NHS Tayside",
+    "frac": "0.0798",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019name": "NHS Fife",
+    "frac": "0.0703",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019name": "NHS Highland",
+    "frac": "0.068",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019name": "NHS Forth Valley",
+    "frac": "0.0527",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019name": "NHS Dumfries and Galloway",
+    "frac": "0.0329",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  }
+]

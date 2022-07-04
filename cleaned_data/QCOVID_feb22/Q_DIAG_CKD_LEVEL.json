@@ -1,0 +1,18 @@
+[
+  {
+    "Q_DIAG_CKD_LEVEL": "0",
+    "frac": "0.9603",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_DIAG_CKD_LEVEL",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_DIAG_CKD_LEVEL": "3",
+    "frac": "0.0397",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_DIAG_CKD_LEVEL",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  }
+]

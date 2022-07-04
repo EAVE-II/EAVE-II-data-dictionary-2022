@@ -1,0 +1,10 @@
+[
+  {
+    "EAVE_LINKNO": null,
+    "frac": null,
+    "table": "AZ_safety_2022-02-21_myopericarditis.rds",
+    "field": "EAVE_LINKNO",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-21 11:43:36"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "postcode": null,
+    "frac": "1",
+    "table": "C19vaccine.rds",
+    "field": "postcode",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  }
+]

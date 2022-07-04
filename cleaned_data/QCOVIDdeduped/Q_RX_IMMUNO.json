@@ -1,0 +1,18 @@
+[
+  {
+    "Q_RX_IMMUNO": "0",
+    "frac": "0.9916",
+    "table": "QCOVIDdeduped.rds",
+    "field": "Q_RX_IMMUNO",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "Q_RX_IMMUNO": "1",
+    "frac": "0.0084",
+    "table": "QCOVIDdeduped.rds",
+    "field": "Q_RX_IMMUNO",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  }
+]

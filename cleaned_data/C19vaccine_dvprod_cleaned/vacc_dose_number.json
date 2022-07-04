@@ -1,0 +1,42 @@
+[
+  {
+    "vacc_dose_number": "1",
+    "frac": "0.3493",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "vacc_dose_number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "vacc_dose_number": "2",
+    "frac": "0.3325",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "vacc_dose_number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "vacc_dose_number": "3",
+    "frac": "0.2767",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "vacc_dose_number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "vacc_dose_number": "4",
+    "frac": "0.0402",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "vacc_dose_number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "vacc_dose_number": "5",
+    "frac": "0.0013",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "vacc_dose_number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  }
+]

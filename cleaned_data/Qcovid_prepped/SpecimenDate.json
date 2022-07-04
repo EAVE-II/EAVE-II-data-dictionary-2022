@@ -1,0 +1,26 @@
+[
+  {
+    "SpecimenDate": null,
+    "frac": "0.997710718002081",
+    "table": "Qcovid_prepped.rds",
+    "field": "SpecimenDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "SpecimenDate": "2020-05-19",
+    "frac": "0.00114464099895942",
+    "table": "Qcovid_prepped.rds",
+    "field": "SpecimenDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "SpecimenDate": "2020-05-21",
+    "frac": "0.00114464099895942",
+    "table": "Qcovid_prepped.rds",
+    "field": "SpecimenDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

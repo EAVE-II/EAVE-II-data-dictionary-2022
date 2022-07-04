@@ -1,0 +1,10 @@
+[
+  {
+    "validchi": "Valid CHI",
+    "frac": "1",
+    "table": "c19vaccine.rds",
+    "field": "validchi",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  }
+]

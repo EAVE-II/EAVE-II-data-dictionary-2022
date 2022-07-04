@@ -1,0 +1,18 @@
+[
+  {
+    "Q_DIAG_EPILEPSY": "0",
+    "frac": "0.9834",
+    "table": "QCOVIDdeduped.rds",
+    "field": "Q_DIAG_EPILEPSY",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "Q_DIAG_EPILEPSY": "1",
+    "frac": "0.0166",
+    "table": "QCOVIDdeduped.rds",
+    "field": "Q_DIAG_EPILEPSY",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  }
+]

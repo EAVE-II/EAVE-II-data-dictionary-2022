@@ -1,0 +1,42 @@
+[
+  {
+    "SIMDrank": null,
+    "frac": "0.6",
+    "table": "Qcovid_prepped.rds",
+    "field": "SIMDrank",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "SIMDrank": "6347",
+    "frac": "0.128",
+    "table": "Qcovid_prepped.rds",
+    "field": "SIMDrank",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "SIMDrank": "6483",
+    "frac": "0.096",
+    "table": "Qcovid_prepped.rds",
+    "field": "SIMDrank",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "SIMDrank": "1740",
+    "frac": "0.088",
+    "table": "Qcovid_prepped.rds",
+    "field": "SIMDrank",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "SIMDrank": "3550",
+    "frac": "0.088",
+    "table": "Qcovid_prepped.rds",
+    "field": "SIMDrank",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

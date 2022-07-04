@@ -1,0 +1,10 @@
+[
+  {
+    "EAVE_LINKNO": null,
+    "frac": null,
+    "table": "QCOVIDdeduped.rds",
+    "field": "EAVE_LINKNO",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  }
+]

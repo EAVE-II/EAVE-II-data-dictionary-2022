@@ -1,0 +1,82 @@
+[
+  {
+    "Age": "12   ",
+    "frac": "0.0222348916761688",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "Age": "5    ",
+    "frac": "0.0213797035347777",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "Age": "17   ",
+    "frac": "0.0205245153933865",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "Age": "54   ",
+    "frac": "0.0205245153933865",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "Age": "9    ",
+    "frac": "0.0199543899657925",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "Age": "16   ",
+    "frac": "0.0196693272519954",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "Age": "8    ",
+    "frac": "0.0196693272519954",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "Age": "14   ",
+    "frac": "0.0193842645381984",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "Age": "47   ",
+    "frac": "0.0188141391106043",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "Age": "20   ",
+    "frac": "0.0185290763968073",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  }
+]

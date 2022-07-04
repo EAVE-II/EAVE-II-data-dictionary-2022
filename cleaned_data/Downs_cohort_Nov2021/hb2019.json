@@ -1,0 +1,82 @@
+[
+  {
+    "hb2019": "S08000031",
+    "frac": "0.22805049088359",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "hb2019": "S08000024",
+    "frac": "0.138288920056101",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "hb2019": "S08000032",
+    "frac": "0.127349228611501",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "hb2019": "S08000020",
+    "frac": "0.094249649368864",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "hb2019": "S08000030",
+    "frac": "0.0776998597475456",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "hb2019": "S08000022",
+    "frac": "0.0748948106591865",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "hb2019": "S08000015",
+    "frac": "0.0701262272089762",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "hb2019": "S08000029",
+    "frac": "0.0572230014025245",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "hb2019": "S08000019",
+    "frac": "0.0563814866760168",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "hb2019": "S08000017",
+    "frac": "0.0336605890603086",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  }
+]

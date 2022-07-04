@@ -1,0 +1,82 @@
+[
+  {
+    "patient_derived_council_area_name": "Glasgow City",
+    "frac": "0.106942777110844",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_name": "City of Edinburgh",
+    "frac": "0.0935374149659864",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_name": "Fife",
+    "frac": "0.0665266106442577",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_name": "North Lanarkshire",
+    "frac": "0.062124849939976",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_name": "South Lanarkshire",
+    "frac": "0.0617246898759504",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_name": "Aberdeenshire",
+    "frac": "0.0508203281312525",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_name": "Highland",
+    "frac": "0.0432172869147659",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_name": "Aberdeen City",
+    "frac": "0.0368147258903561",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_name": "Renfrewshire",
+    "frac": "0.0331132452981193",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_name": "West Lothian",
+    "frac": "0.0320128051220488",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  }
+]

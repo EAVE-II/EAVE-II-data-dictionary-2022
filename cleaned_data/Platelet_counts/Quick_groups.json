@@ -1,0 +1,10 @@
+[
+  {
+    "Quick_groups": "platelet count",
+    "frac": "1",
+    "table": "Platelet_counts.rds",
+    "field": "Quick_groups",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:05"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Time.To.Test": "114",
+    "frac": "0.982609601166302",
+    "table": "Qcovid_prepped.rds",
+    "field": "Time.To.Test",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "Time.To.Test": null,
+    "frac": "0.0139539727168593",
+    "table": "Qcovid_prepped.rds",
+    "field": "Time.To.Test",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "Time.To.Test": "64",
+    "frac": "0.0011454753722795",
+    "table": "Qcovid_prepped.rds",
+    "field": "Time.To.Test",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "Time.To.Test": "79",
+    "frac": "0.0011454753722795",
+    "table": "Qcovid_prepped.rds",
+    "field": "Time.To.Test",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "Time.To.Test": "81",
+    "frac": "0.0011454753722795",
+    "table": "Qcovid_prepped.rds",
+    "field": "Time.To.Test",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

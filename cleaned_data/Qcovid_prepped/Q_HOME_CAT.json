@@ -1,0 +1,18 @@
+[
+  {
+    "Q_HOME_CAT": "0",
+    "frac": "0.9946",
+    "table": "Qcovid_prepped.rds",
+    "field": "Q_HOME_CAT",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "Q_HOME_CAT": "1",
+    "frac": "0.0054",
+    "table": "Qcovid_prepped.rds",
+    "field": "Q_HOME_CAT",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

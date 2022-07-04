@@ -1,0 +1,82 @@
+[
+  {
+    "EventDate": "1900-01-01",
+    "frac": "0.109792284866469",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "EventDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "EventDate": "2019-09-10",
+    "frac": "0.0504451038575668",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "EventDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "EventDate": "2019-09-18",
+    "frac": "0.0415430267062315",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "EventDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "EventDate": "2019-10-22",
+    "frac": "0.0415430267062315",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "EventDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "EventDate": "2019-09-24",
+    "frac": "0.0385756676557863",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "EventDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "EventDate": "2019-12-10",
+    "frac": "0.0385756676557863",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "EventDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "EventDate": "2018-09-25",
+    "frac": "0.0356083086053412",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "EventDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "EventDate": "2019-01-15",
+    "frac": "0.0356083086053412",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "EventDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "EventDate": "2019-06-12",
+    "frac": "0.0356083086053412",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "EventDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "EventDate": "2019-10-21",
+    "frac": "0.0356083086053412",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "EventDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  }
+]

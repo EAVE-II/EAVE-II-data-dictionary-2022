@@ -1,0 +1,18 @@
+[
+  {
+    "Q_DIAG_SEV_MENT_ILL": "0",
+    "frac": "0.8773",
+    "table": "QCOVIDdeduped.rds",
+    "field": "Q_DIAG_SEV_MENT_ILL",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "Q_DIAG_SEV_MENT_ILL": "1",
+    "frac": "0.1227",
+    "table": "QCOVIDdeduped.rds",
+    "field": "Q_DIAG_SEV_MENT_ILL",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  }
+]

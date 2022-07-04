@@ -1,0 +1,18 @@
+[
+  {
+    "vacc_status": "completed",
+    "frac": "0.9652791675005",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "vacc_status",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  },
+  {
+    "vacc_status": "not-done",
+    "frac": "0.0347208324994997",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "vacc_status",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  }
+]

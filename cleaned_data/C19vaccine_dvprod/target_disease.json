@@ -1,0 +1,10 @@
+[
+  {
+    "target_disease": "COVID-19",
+    "frac": "1",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "target_disease",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  }
+]

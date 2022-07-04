@@ -1,0 +1,82 @@
+[
+  {
+    "Age": "74   ",
+    "frac": "0.0247958875113396",
+    "table": "AZ_safety.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Age": "73   ",
+    "frac": "0.02247757282532",
+    "table": "AZ_safety.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Age": "79   ",
+    "frac": "0.0215704062090515",
+    "table": "AZ_safety.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Age": "71   ",
+    "frac": "0.0195544803951215",
+    "table": "AZ_safety.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Age": "68   ",
+    "frac": "0.019252091523032",
+    "table": "AZ_safety.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Age": "59   ",
+    "frac": "0.0190504989416389",
+    "table": "AZ_safety.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Age": "60   ",
+    "frac": "0.0190504989416389",
+    "table": "AZ_safety.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Age": "61   ",
+    "frac": "0.0189497026509424",
+    "table": "AZ_safety.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Age": "64   ",
+    "frac": "0.0189497026509424",
+    "table": "AZ_safety.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Age": "69   ",
+    "frac": "0.0187481100695494",
+    "table": "AZ_safety.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  }
+]

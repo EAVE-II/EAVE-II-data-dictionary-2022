@@ -1,0 +1,82 @@
+[
+  {
+    "hb2019": "S08000031",
+    "frac": "0.2172",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019": "S08000024",
+    "frac": "0.1508",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019": "S08000032",
+    "frac": "0.1211",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019": "S08000020",
+    "frac": "0.0974",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019": "S08000015",
+    "frac": "0.0756",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019": "S08000030",
+    "frac": "0.0745",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019": "S08000022",
+    "frac": "0.0658",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019": "S08000029",
+    "frac": "0.0649",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019": "S08000019",
+    "frac": "0.058",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019": "S08000017",
+    "frac": "0.0325",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  }
+]

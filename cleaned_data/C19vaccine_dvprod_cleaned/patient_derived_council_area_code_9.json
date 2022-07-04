@@ -1,0 +1,82 @@
+[
+  {
+    "patient_derived_council_area_code_9": "S12000049",
+    "frac": "0.106942777110844",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_code_9",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_code_9": "S12000036",
+    "frac": "0.0935374149659864",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_code_9",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_code_9": "S12000047",
+    "frac": "0.0665266106442577",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_code_9",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_code_9": "S12000050",
+    "frac": "0.062124849939976",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_code_9",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_code_9": "S12000029",
+    "frac": "0.0617246898759504",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_code_9",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_code_9": "S12000034",
+    "frac": "0.0508203281312525",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_code_9",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_code_9": "S12000017",
+    "frac": "0.0432172869147659",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_code_9",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_code_9": "S12000033",
+    "frac": "0.0368147258903561",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_code_9",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_code_9": "S12000038",
+    "frac": "0.0331132452981193",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_code_9",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  },
+  {
+    "patient_derived_council_area_code_9": "S12000040",
+    "frac": "0.0320128051220488",
+    "table": "C19vaccine_dvprod_cleaned.rds",
+    "field": "patient_derived_council_area_code_9",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 09:11:55"
+  }
+]

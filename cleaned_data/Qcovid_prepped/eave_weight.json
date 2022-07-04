@@ -1,0 +1,82 @@
+[
+  {
+    "eave_weight": "1",
+    "frac": "0.103972780946663",
+    "table": "Qcovid_prepped.rds",
+    "field": "eave_weight",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "eave_weight": "0.9115",
+    "frac": "0.0116081256879816",
+    "table": "Qcovid_prepped.rds",
+    "field": "eave_weight",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "eave_weight": "0.9515",
+    "frac": "0.01110777544281",
+    "table": "Qcovid_prepped.rds",
+    "field": "eave_weight",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "eave_weight": "0.9055",
+    "frac": "0.0109076353447413",
+    "table": "Qcovid_prepped.rds",
+    "field": "eave_weight",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "eave_weight": "0.8607",
+    "frac": "0.010507355148604",
+    "table": "Qcovid_prepped.rds",
+    "field": "eave_weight",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "eave_weight": "0.8166",
+    "frac": "0.0104072850995697",
+    "table": "Qcovid_prepped.rds",
+    "field": "eave_weight",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "eave_weight": "0.897",
+    "frac": "0.0101070749524667",
+    "table": "Qcovid_prepped.rds",
+    "field": "eave_weight",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "eave_weight": "0.8753",
+    "frac": "0.0100070049034324",
+    "table": "Qcovid_prepped.rds",
+    "field": "eave_weight",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "eave_weight": "0.9218",
+    "frac": "0.0100070049034324",
+    "table": "Qcovid_prepped.rds",
+    "field": "eave_weight",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "eave_weight": "0.8079",
+    "frac": "0.00990693485439808",
+    "table": "Qcovid_prepped.rds",
+    "field": "eave_weight",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Time.To.ICU.Death": "103",
+    "frac": "0.986550235872729",
+    "table": "Qcovid_prepped.rds",
+    "field": "Time.To.ICU.Death",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "Time.To.ICU.Death": null,
+    "frac": "0.0134497641272709",
+    "table": "Qcovid_prepped.rds",
+    "field": "Time.To.ICU.Death",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

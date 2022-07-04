@@ -1,0 +1,58 @@
+[
+  {
+    "analysis_groups": "exclude",
+    "frac": "0.46262383668568",
+    "table": "AZ_safety.rds",
+    "field": "analysis_groups",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "analysis_groups": "Arterial_thromb",
+    "frac": "0.387371159811868",
+    "table": "AZ_safety.rds",
+    "field": "analysis_groups",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "analysis_groups": "Thrombo_emb excl CSVT",
+    "frac": "0.103072150505354",
+    "table": "AZ_safety.rds",
+    "field": "analysis_groups",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "analysis_groups": "all haem",
+    "frac": "0.0255178625037526",
+    "table": "AZ_safety.rds",
+    "field": "analysis_groups",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "analysis_groups": "Thrombocytopenia_excl_itp",
+    "frac": "0.0104072850995697",
+    "table": "AZ_safety.rds",
+    "field": "analysis_groups",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "analysis_groups": "haem_sc",
+    "frac": "0.00760532372660863",
+    "table": "AZ_safety.rds",
+    "field": "analysis_groups",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "analysis_groups": "itp",
+    "frac": "0.00340238166716702",
+    "table": "AZ_safety.rds",
+    "field": "analysis_groups",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  }
+]

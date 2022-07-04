@@ -1,0 +1,82 @@
+[
+  {
+    "age_at_vacc": "2.96439387504748e-322",
+    "frac": "0.0291369436350849",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  },
+  {
+    "age_at_vacc": "3.65608577922522e-322",
+    "frac": "0.0277303325630463",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  },
+  {
+    "age_at_vacc": "3.2114266979681e-322",
+    "frac": "0.0272279714658897",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  },
+  {
+    "age_at_vacc": "3.6066792146411e-322",
+    "frac": "0.0269265548075957",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  },
+  {
+    "age_at_vacc": "3.31023982713635e-322",
+    "frac": "0.0268260825881644",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  },
+  {
+    "age_at_vacc": "3.16202013338398e-322",
+    "frac": "0.0265246659298704",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  },
+  {
+    "age_at_vacc": "3.06320700421573e-322",
+    "frac": "0.0263237214910077",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  },
+  {
+    "age_at_vacc": "3.0138004396316e-322",
+    "frac": "0.0259218326132824",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  },
+  {
+    "age_at_vacc": "3.35964639172048e-322",
+    "frac": "0.0258213603938511",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  },
+  {
+    "age_at_vacc": "3.26083326255223e-322",
+    "frac": "0.0254194715161258",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  }
+]

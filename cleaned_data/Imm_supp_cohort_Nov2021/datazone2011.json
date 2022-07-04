@@ -1,0 +1,18 @@
+[
+  {
+    "datazone2011": null,
+    "frac": "0.710526315789474",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "datazone2011": "S01013298",
+    "frac": "0.289473684210526",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  }
+]

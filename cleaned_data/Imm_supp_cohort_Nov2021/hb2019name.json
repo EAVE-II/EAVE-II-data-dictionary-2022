@@ -1,0 +1,82 @@
+[
+  {
+    "hb2019name": "NHS Greater Glasgow and Clyde",
+    "frac": "0.2172",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019name": "NHS Lothian",
+    "frac": "0.1508",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019name": "NHS Lanarkshire",
+    "frac": "0.1211",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019name": "NHS Grampian",
+    "frac": "0.0974",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019name": "NHS Ayrshire and Arran",
+    "frac": "0.0756",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019name": "NHS Tayside",
+    "frac": "0.0745",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019name": "NHS Highland",
+    "frac": "0.0658",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019name": "NHS Fife",
+    "frac": "0.0649",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019name": "NHS Forth Valley",
+    "frac": "0.058",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "hb2019name": "NHS Dumfries and Galloway",
+    "frac": "0.0325",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  }
+]

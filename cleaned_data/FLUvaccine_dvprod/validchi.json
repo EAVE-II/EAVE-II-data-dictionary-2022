@@ -1,0 +1,10 @@
+[
+  {
+    "validchi": "Valid CHI",
+    "frac": "1",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "validchi",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  }
+]

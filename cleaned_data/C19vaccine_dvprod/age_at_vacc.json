@@ -1,0 +1,82 @@
+[
+  {
+    "age_at_vacc": "2.96439387504748e-322",
+    "frac": "0.0217522052927025",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "age_at_vacc": "3.0138004396316e-322",
+    "frac": "0.020850040096231",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "age_at_vacc": "2.47032822920623e-322",
+    "frac": "0.0207497995188452",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "age_at_vacc": "2.66795448754273e-322",
+    "frac": "0.0207497995188452",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "age_at_vacc": "2.56914135837448e-322",
+    "frac": "0.0203488372093023",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "age_at_vacc": "2.76676761671098e-322",
+    "frac": "0.0203488372093023",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "age_at_vacc": "2.81617418129511e-322",
+    "frac": "0.0200481154771451",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "age_at_vacc": "2.86558074587923e-322",
+    "frac": "0.0198476343223737",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "age_at_vacc": "2.71736105212686e-322",
+    "frac": "0.0196471531676022",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "age_at_vacc": "3.06320700421573e-322",
+    "frac": "0.0196471531676022",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "age_at_vacc",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  }
+]

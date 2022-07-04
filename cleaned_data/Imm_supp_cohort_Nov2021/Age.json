@@ -1,0 +1,82 @@
+[
+  {
+    "Age": "74   ",
+    "frac": "0.0255430410297667",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "Age": "60   ",
+    "frac": "0.0245374094931617",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "Age": "64   ",
+    "frac": "0.0240345937248592",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "Age": "63   ",
+    "frac": "0.0237329042638777",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "Age": "65   ",
+    "frac": "0.0235317779565567",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "Age": "73   ",
+    "frac": "0.0234312148028962",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "Age": "72   ",
+    "frac": "0.0233306516492357",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "Age": "66   ",
+    "frac": "0.0232300884955752",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "Age": "69   ",
+    "frac": "0.0227272727272727",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  },
+  {
+    "Age": "71   ",
+    "frac": "0.0220233306516492",
+    "table": "Imm_supp_cohort_Nov2021.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-11-18 18:09:24"
+  }
+]

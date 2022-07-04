@@ -1,0 +1,10 @@
+[
+  {
+    "first_vacc_date": null,
+    "frac": "1",
+    "table": "FLUvaccine_dvprod.rds",
+    "field": "first_vacc_date",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:18"
+  }
+]

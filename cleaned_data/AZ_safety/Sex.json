@@ -1,0 +1,18 @@
+[
+  {
+    "Sex": "F",
+    "frac": "0.57",
+    "table": "AZ_safety.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Sex": "M",
+    "frac": "0.43",
+    "table": "AZ_safety.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  }
+]

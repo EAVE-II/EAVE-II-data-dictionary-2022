@@ -1,0 +1,82 @@
+[
+  {
+    "batch": "FK0596",
+    "frac": "0.0631898734177215",
+    "table": "C19vaccine.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  },
+  {
+    "batch": "FF8288",
+    "frac": "0.0297721518987342",
+    "table": "C19vaccine.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  },
+  {
+    "batch": "FK9706",
+    "frac": "0.0267341772151899",
+    "table": "C19vaccine.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  },
+  {
+    "batch": "FE3380",
+    "frac": "0.0248101265822785",
+    "table": "C19vaccine.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  },
+  {
+    "batch": "4120Z002",
+    "frac": "0.0241012658227848",
+    "table": "C19vaccine.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  },
+  {
+    "batch": "FH3220",
+    "frac": "0.0224810126582278",
+    "table": "C19vaccine.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  },
+  {
+    "batch": "3004674",
+    "frac": "0.0203544303797468",
+    "table": "C19vaccine.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  },
+  {
+    "batch": "3004675",
+    "frac": "0.0199493670886076",
+    "table": "C19vaccine.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  },
+  {
+    "batch": "FM3802",
+    "frac": "0.0193417721518987",
+    "table": "C19vaccine.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  },
+  {
+    "batch": "FK0112",
+    "frac": "0.0178227848101266",
+    "table": "C19vaccine.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-01-03 09:15:47"
+  }
+]

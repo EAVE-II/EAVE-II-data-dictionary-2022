@@ -1,0 +1,82 @@
+[
+  {
+    "BMI": null,
+    "frac": "0.412854139553509",
+    "table": "QCOVIDdeduped.rds",
+    "field": "BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "BMI": "25",
+    "frac": "0.0445490039042947",
+    "table": "QCOVIDdeduped.rds",
+    "field": "BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "BMI": "27",
+    "frac": "0.0433476824506958",
+    "table": "QCOVIDdeduped.rds",
+    "field": "BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "BMI": "24",
+    "frac": "0.0432475723295625",
+    "table": "QCOVIDdeduped.rds",
+    "field": "BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "BMI": "26",
+    "frac": "0.0416458103914306",
+    "table": "QCOVIDdeduped.rds",
+    "field": "BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "BMI": "28",
+    "frac": "0.0412453699068976",
+    "table": "QCOVIDdeduped.rds",
+    "field": "BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "BMI": "23",
+    "frac": "0.0404444889378316",
+    "table": "QCOVIDdeduped.rds",
+    "field": "BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "BMI": "22",
+    "frac": "0.0333366703373711",
+    "table": "QCOVIDdeduped.rds",
+    "field": "BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "BMI": "29",
+    "frac": "0.0330363399739714",
+    "table": "QCOVIDdeduped.rds",
+    "field": "BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "BMI": "30",
+    "frac": "0.0328361197317049",
+    "table": "QCOVIDdeduped.rds",
+    "field": "BMI",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  }
+]

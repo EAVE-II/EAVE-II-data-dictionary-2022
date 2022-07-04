@@ -1,0 +1,66 @@
+[
+  {
+    "agegrp": "19-29",
+    "frac": "0.1792",
+    "table": "Qcovid_prepped.rds",
+    "field": "agegrp",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "agegrp": "50-59",
+    "frac": "0.1786",
+    "table": "Qcovid_prepped.rds",
+    "field": "agegrp",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "agegrp": "30-39",
+    "frac": "0.1755",
+    "table": "Qcovid_prepped.rds",
+    "field": "agegrp",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "agegrp": "40-49",
+    "frac": "0.1534",
+    "table": "Qcovid_prepped.rds",
+    "field": "agegrp",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "agegrp": "60-69",
+    "frac": "0.1452",
+    "table": "Qcovid_prepped.rds",
+    "field": "agegrp",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "agegrp": "70-79",
+    "frac": "0.1045",
+    "table": "Qcovid_prepped.rds",
+    "field": "agegrp",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "agegrp": "80-80",
+    "frac": "0.0512",
+    "table": "Qcovid_prepped.rds",
+    "field": "agegrp",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "agegrp": "90+",
+    "frac": "0.0124",
+    "table": "Qcovid_prepped.rds",
+    "field": "agegrp",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

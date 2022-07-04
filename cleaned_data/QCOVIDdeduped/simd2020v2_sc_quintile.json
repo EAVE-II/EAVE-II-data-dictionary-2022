@@ -1,0 +1,50 @@
+[
+  {
+    "simd2020v2_sc_quintile": "1",
+    "frac": "0.2104",
+    "table": "QCOVIDdeduped.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "simd2020v2_sc_quintile": "3",
+    "frac": "0.1997",
+    "table": "QCOVIDdeduped.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "simd2020v2_sc_quintile": "5",
+    "frac": "0.1992",
+    "table": "QCOVIDdeduped.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "simd2020v2_sc_quintile": "4",
+    "frac": "0.1957",
+    "table": "QCOVIDdeduped.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "simd2020v2_sc_quintile": "2",
+    "frac": "0.1915",
+    "table": "QCOVIDdeduped.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "simd2020v2_sc_quintile": null,
+    "frac": "0.0035",
+    "table": "QCOVIDdeduped.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  }
+]

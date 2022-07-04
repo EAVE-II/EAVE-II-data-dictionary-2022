@@ -1,0 +1,82 @@
+[
+  {
+    "Practice_Number": "20752",
+    "frac": "0.0223159613552864",
+    "table": "AZ_safety.rds",
+    "field": "Practice_Number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Practice_Number": "16545",
+    "frac": "0.0141515852496938",
+    "table": "AZ_safety.rds",
+    "field": "Practice_Number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Practice_Number": "32815",
+    "frac": "0.0115661994829228",
+    "table": "AZ_safety.rds",
+    "field": "Practice_Number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Practice_Number": "70785",
+    "frac": "0.0115661994829228",
+    "table": "AZ_safety.rds",
+    "field": "Practice_Number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Practice_Number": "70592",
+    "frac": "0.00979725132671112",
+    "table": "AZ_safety.rds",
+    "field": "Practice_Number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Practice_Number": "32779",
+    "frac": "0.00843652197577902",
+    "table": "AZ_safety.rds",
+    "field": "Practice_Number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Practice_Number": "31901",
+    "frac": "0.00775615730031297",
+    "table": "AZ_safety.rds",
+    "field": "Practice_Number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Practice_Number": "31259",
+    "frac": "0.00762008436521976",
+    "table": "AZ_safety.rds",
+    "field": "Practice_Number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Practice_Number": "32209",
+    "frac": "0.00721186555994013",
+    "table": "AZ_safety.rds",
+    "field": "Practice_Number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "Practice_Number": "20606",
+    "frac": "0.00693971968975371",
+    "table": "AZ_safety.rds",
+    "field": "Practice_Number",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  }
+]

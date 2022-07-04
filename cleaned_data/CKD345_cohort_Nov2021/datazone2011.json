@@ -1,0 +1,26 @@
+[
+  {
+    "datazone2011": null,
+    "frac": "0.530612244897959",
+    "table": "CKD345_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:56:38"
+  },
+  {
+    "datazone2011": "S01012029",
+    "frac": "0.244897959183673",
+    "table": "CKD345_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:56:38"
+  },
+  {
+    "datazone2011": "S01007510",
+    "frac": "0.224489795918367",
+    "table": "CKD345_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:56:38"
+  }
+]

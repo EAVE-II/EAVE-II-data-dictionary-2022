@@ -1,0 +1,18 @@
+[
+  {
+    "SG_IMMRX_COD": "0",
+    "frac": "0.9859",
+    "table": "QCOVIDdeduped.rds",
+    "field": "SG_IMMRX_COD",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "SG_IMMRX_COD": "1",
+    "frac": "0.0141",
+    "table": "QCOVIDdeduped.rds",
+    "field": "SG_IMMRX_COD",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  }
+]

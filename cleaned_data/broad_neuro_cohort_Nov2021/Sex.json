@@ -1,0 +1,18 @@
+[
+  {
+    "Sex": "F",
+    "frac": "0.51",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "Sex": "M",
+    "frac": "0.49",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  }
+]

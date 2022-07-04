@@ -1,0 +1,18 @@
+[
+  {
+    "vacc_booster": "FALSE",
+    "frac": "0.8092",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "vacc_booster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  },
+  {
+    "vacc_booster": "TRUE",
+    "frac": "0.1908",
+    "table": "C19vaccine_dvprod.rds",
+    "field": "vacc_booster",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-13 07:31:03"
+  }
+]

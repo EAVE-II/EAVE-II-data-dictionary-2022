@@ -1,0 +1,10 @@
+[
+  {
+    "NRS.Reg.Date": null,
+    "frac": "1",
+    "table": "Qcovid_prepped.rds",
+    "field": "NRS.Reg.Date",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

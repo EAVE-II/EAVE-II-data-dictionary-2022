@@ -1,0 +1,18 @@
+[
+  {
+    "COV_CLD_COD": null,
+    "frac": "0.9723",
+    "table": "C6_cohort.rds",
+    "field": "COV_CLD_COD",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "COV_CLD_COD": "1",
+    "frac": "0.0277",
+    "table": "C6_cohort.rds",
+    "field": "COV_CLD_COD",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  }
+]

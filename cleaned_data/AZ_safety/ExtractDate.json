@@ -1,0 +1,82 @@
+[
+  {
+    "ExtractDate": "2021-05-12",
+    "frac": "0.490139914068525",
+    "table": "AZ_safety.rds",
+    "field": "ExtractDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "ExtractDate": "2021-08-16",
+    "frac": "0.162829128566707",
+    "table": "AZ_safety.rds",
+    "field": "ExtractDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "ExtractDate": "2021-05-11",
+    "frac": "0.0428555690206015",
+    "table": "AZ_safety.rds",
+    "field": "ExtractDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "ExtractDate": "2021-11-11",
+    "frac": "0.029194667841798",
+    "table": "AZ_safety.rds",
+    "field": "ExtractDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "ExtractDate": "2021-06-16",
+    "frac": "0.0180676434945467",
+    "table": "AZ_safety.rds",
+    "field": "ExtractDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "ExtractDate": "2022-01-14",
+    "frac": "0.00837281039991187",
+    "table": "AZ_safety.rds",
+    "field": "ExtractDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "ExtractDate": "2021-08-17",
+    "frac": "0.00815247328412471",
+    "table": "AZ_safety.rds",
+    "field": "ExtractDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "ExtractDate": "2021-06-24",
+    "frac": "0.00683045058940178",
+    "table": "AZ_safety.rds",
+    "field": "ExtractDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "ExtractDate": "2021-05-13",
+    "frac": "0.00605927068414674",
+    "table": "AZ_safety.rds",
+    "field": "ExtractDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "ExtractDate": "2022-05-17",
+    "frac": "0.00506775366310455",
+    "table": "AZ_safety.rds",
+    "field": "ExtractDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  }
+]

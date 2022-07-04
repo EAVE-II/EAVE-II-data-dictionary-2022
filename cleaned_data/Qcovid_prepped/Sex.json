@@ -1,0 +1,18 @@
+[
+  {
+    "Sex": "F",
+    "frac": "0.5065",
+    "table": "Qcovid_prepped.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "Sex": "M",
+    "frac": "0.4935",
+    "table": "Qcovid_prepped.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

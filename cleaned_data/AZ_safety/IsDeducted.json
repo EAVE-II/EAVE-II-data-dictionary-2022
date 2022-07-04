@@ -1,0 +1,18 @@
+[
+  {
+    "IsDeducted": "FALSE",
+    "frac": "0.9129",
+    "table": "AZ_safety.rds",
+    "field": "IsDeducted",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "IsDeducted": "TRUE",
+    "frac": "0.0871",
+    "table": "AZ_safety.rds",
+    "field": "IsDeducted",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  }
+]

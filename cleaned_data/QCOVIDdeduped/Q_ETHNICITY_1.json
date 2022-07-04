@@ -1,0 +1,18 @@
+[
+  {
+    "Q_ETHNICITY_1": "0",
+    "frac": "0.8064",
+    "table": "QCOVIDdeduped.rds",
+    "field": "Q_ETHNICITY_1",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  },
+  {
+    "Q_ETHNICITY_1": "1",
+    "frac": "0.1936",
+    "table": "QCOVIDdeduped.rds",
+    "field": "Q_ETHNICITY_1",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-22 11:00:54"
+  }
+]

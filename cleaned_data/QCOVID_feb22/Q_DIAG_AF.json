@@ -1,0 +1,18 @@
+[
+  {
+    "Q_DIAG_AF": "0",
+    "frac": "0.9734",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_DIAG_AF",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  },
+  {
+    "Q_DIAG_AF": "1",
+    "frac": "0.0266",
+    "table": "QCOVID_feb22.rds",
+    "field": "Q_DIAG_AF",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-03-10 14:43:24"
+  }
+]

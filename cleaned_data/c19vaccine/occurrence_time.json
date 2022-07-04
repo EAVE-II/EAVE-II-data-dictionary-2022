@@ -1,0 +1,82 @@
+[
+  {
+    "occurrence_time": "2021-12-21",
+    "frac": "0.0148564997186269",
+    "table": "c19vaccine.rds",
+    "field": "occurrence_time",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "occurrence_time": "2021-12-19",
+    "frac": "0.00990433314575127",
+    "table": "c19vaccine.rds",
+    "field": "occurrence_time",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "occurrence_time": "2021-12-20",
+    "frac": "0.00945413618458075",
+    "table": "c19vaccine.rds",
+    "field": "occurrence_time",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "occurrence_time": "2021-12-16",
+    "frac": "0.00866629150253236",
+    "table": "c19vaccine.rds",
+    "field": "occurrence_time",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "occurrence_time": "2021-12-15",
+    "frac": "0.00855374226223973",
+    "table": "c19vaccine.rds",
+    "field": "occurrence_time",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "occurrence_time": "2021-12-17",
+    "frac": "0.0084411930219471",
+    "table": "c19vaccine.rds",
+    "field": "occurrence_time",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "occurrence_time": "2021-12-22",
+    "frac": "0.0084411930219471",
+    "table": "c19vaccine.rds",
+    "field": "occurrence_time",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "occurrence_time": "2021-12-18",
+    "frac": "0.00832864378165447",
+    "table": "c19vaccine.rds",
+    "field": "occurrence_time",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "occurrence_time": "2021-12-14",
+    "frac": "0.00765334833989871",
+    "table": "c19vaccine.rds",
+    "field": "occurrence_time",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  },
+  {
+    "occurrence_time": "2021-12-13",
+    "frac": "0.00720315137872819",
+    "table": "c19vaccine.rds",
+    "field": "occurrence_time",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 06:18:43"
+  }
+]

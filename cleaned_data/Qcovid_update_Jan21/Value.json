@@ -1,0 +1,82 @@
+[
+  {
+    "Value": "1",
+    "frac": "0.450745366639807",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Value",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Value": "3",
+    "frac": "0.265108783239323",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Value",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Value": "27",
+    "frac": "0.0170225624496374",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Value",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Value": "26",
+    "frac": "0.0164182111200645",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Value",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Value": "25",
+    "frac": "0.0162167606768735",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Value",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Value": "23",
+    "frac": "0.0153102336825141",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Value",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Value": "24",
+    "frac": "0.0145044319097502",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Value",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Value": "28",
+    "frac": "0.0142022562449637",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Value",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Value": "30",
+    "frac": "0.0141015310233683",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Value",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Value": "29",
+    "frac": "0.0132957292506044",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Value",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  }
+]

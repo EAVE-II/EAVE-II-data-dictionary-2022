@@ -1,0 +1,82 @@
+[
+  {
+    "Age": "56   ",
+    "frac": "0.0314",
+    "table": "C6_cohort.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "Age": "62   ",
+    "frac": "0.0313",
+    "table": "C6_cohort.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "Age": "57   ",
+    "frac": "0.0311",
+    "table": "C6_cohort.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "Age": "63   ",
+    "frac": "0.0309",
+    "table": "C6_cohort.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "Age": "59   ",
+    "frac": "0.0308",
+    "table": "C6_cohort.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "Age": "61   ",
+    "frac": "0.0302",
+    "table": "C6_cohort.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "Age": "53   ",
+    "frac": "0.0298",
+    "table": "C6_cohort.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "Age": "60   ",
+    "frac": "0.0287",
+    "table": "C6_cohort.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "Age": "54   ",
+    "frac": "0.0283",
+    "table": "C6_cohort.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  },
+  {
+    "Age": "58   ",
+    "frac": "0.0276",
+    "table": "C6_cohort.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-03-12 14:57:09"
+  }
+]

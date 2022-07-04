@@ -1,0 +1,82 @@
+[
+  {
+    "RegDate": "1860-01-01",
+    "frac": "0.426027397260274",
+    "table": "AZ_safety.rds",
+    "field": "RegDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "RegDate": "1948-07-05",
+    "frac": "0.0712328767123288",
+    "table": "AZ_safety.rds",
+    "field": "RegDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "RegDate": "1899-12-31",
+    "frac": "0.0698630136986301",
+    "table": "AZ_safety.rds",
+    "field": "RegDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "RegDate": "1948-01-01",
+    "frac": "0.0534246575342466",
+    "table": "AZ_safety.rds",
+    "field": "RegDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "RegDate": "1989-08-01",
+    "frac": "0.0273972602739726",
+    "table": "AZ_safety.rds",
+    "field": "RegDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "RegDate": "1974-01-01",
+    "frac": "0.0246575342465753",
+    "table": "AZ_safety.rds",
+    "field": "RegDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "RegDate": "1979-05-03",
+    "frac": "0.0232876712328767",
+    "table": "AZ_safety.rds",
+    "field": "RegDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "RegDate": "1990-01-01",
+    "frac": "0.0232876712328767",
+    "table": "AZ_safety.rds",
+    "field": "RegDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "RegDate": "1993-08-01",
+    "frac": "0.0232876712328767",
+    "table": "AZ_safety.rds",
+    "field": "RegDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "RegDate": "1979-05-02",
+    "frac": "0.0219178082191781",
+    "table": "AZ_safety.rds",
+    "field": "RegDate",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  }
+]

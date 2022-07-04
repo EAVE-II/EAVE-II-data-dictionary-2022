@@ -1,0 +1,82 @@
+[
+  {
+    "hb2019name": "NHS Greater Glasgow and Clyde",
+    "frac": "0.2259",
+    "table": "Qcovid_prepped.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "hb2019name": "NHS Lothian",
+    "frac": "0.167",
+    "table": "Qcovid_prepped.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "hb2019name": "NHS Lanarkshire",
+    "frac": "0.1165",
+    "table": "Qcovid_prepped.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "hb2019name": "NHS Grampian",
+    "frac": "0.1083",
+    "table": "Qcovid_prepped.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "hb2019name": "NHS Tayside",
+    "frac": "0.0802",
+    "table": "Qcovid_prepped.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "hb2019name": "NHS Highland",
+    "frac": "0.0627",
+    "table": "Qcovid_prepped.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "hb2019name": "NHS Fife",
+    "frac": "0.0618",
+    "table": "Qcovid_prepped.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "hb2019name": "NHS Ayrshire and Arran",
+    "frac": "0.0588",
+    "table": "Qcovid_prepped.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "hb2019name": "NHS Forth Valley",
+    "frac": "0.0513",
+    "table": "Qcovid_prepped.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "hb2019name": "NHS Dumfries and Galloway",
+    "frac": "0.0278",
+    "table": "Qcovid_prepped.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

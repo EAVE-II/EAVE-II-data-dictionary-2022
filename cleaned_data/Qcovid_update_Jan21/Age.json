@@ -1,0 +1,82 @@
+[
+  {
+    "Age": "73   ",
+    "frac": "0.0193600160497542",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Age": "57   ",
+    "frac": "0.0178553515899288",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Age": "63   ",
+    "frac": "0.0170528638780219",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Age": "72   ",
+    "frac": "0.0169525529140335",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Age": "74   ",
+    "frac": "0.0163506871301033",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Age": "54   ",
+    "frac": "0.0158491323101615",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Age": "53   ",
+    "frac": "0.0157488213461731",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Age": "39   ",
+    "frac": "0.0156485103821848",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Age": "71   ",
+    "frac": "0.015447888454208",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  },
+  {
+    "Age": "58   ",
+    "frac": "0.015146955562243",
+    "table": "Qcovid_update_Jan21.rds",
+    "field": "Age",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-02-09 11:02:59"
+  }
+]

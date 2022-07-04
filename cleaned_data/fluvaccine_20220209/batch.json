@@ -1,0 +1,82 @@
+[
+  {
+    "batch": "8636B1A",
+    "frac": "0.117428800641797",
+    "table": "fluvaccine_20220209.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  },
+  {
+    "batch": "8556B1A",
+    "frac": "0.117127958283193",
+    "table": "fluvaccine_20220209.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  },
+  {
+    "batch": "8636A1A",
+    "frac": "0.105395106297633",
+    "table": "fluvaccine_20220209.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  },
+  {
+    "batch": "3079171A",
+    "frac": "0.0921580425190534",
+    "table": "fluvaccine_20220209.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  },
+  {
+    "batch": "8642A1A",
+    "frac": "0.087645407139992",
+    "table": "fluvaccine_20220209.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  },
+  {
+    "batch": "3079181A",
+    "frac": "0.0776173285198556",
+    "table": "fluvaccine_20220209.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  },
+  {
+    "batch": "3079311A",
+    "frac": "0.0754111512234256",
+    "table": "fluvaccine_20220209.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  },
+  {
+    "batch": "P100368151",
+    "frac": "0.0662855996791015",
+    "table": "fluvaccine_20220209.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  },
+  {
+    "batch": "P100362174",
+    "frac": "0.0606698756518251",
+    "table": "fluvaccine_20220209.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  },
+  {
+    "batch": "3079371A",
+    "frac": "0.060369033293221",
+    "table": "fluvaccine_20220209.rds",
+    "field": "batch",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-02-09 17:16:52"
+  }
+]

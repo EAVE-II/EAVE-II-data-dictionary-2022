@@ -1,0 +1,18 @@
+[
+  {
+    "Sex": "M",
+    "frac": "0.539971949509116",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  },
+  {
+    "Sex": "F",
+    "frac": "0.460028050490884",
+    "table": "Downs_cohort_Nov2021.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-15 17:48:59"
+  }
+]

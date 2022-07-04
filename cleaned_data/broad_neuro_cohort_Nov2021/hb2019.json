@@ -1,0 +1,82 @@
+[
+  {
+    "hb2019": "S08000031",
+    "frac": "0.2056",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019": "S08000024",
+    "frac": "0.1437",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019": "S08000032",
+    "frac": "0.1159",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019": "S08000020",
+    "frac": "0.1061",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019": "S08000015",
+    "frac": "0.0811",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019": "S08000030",
+    "frac": "0.0798",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019": "S08000029",
+    "frac": "0.0703",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019": "S08000022",
+    "frac": "0.068",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019": "S08000019",
+    "frac": "0.0527",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "hb2019": "S08000017",
+    "frac": "0.0329",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Q_RX_PRED": "0",
+    "frac": "0.9952",
+    "table": "Qcovid_prepped.rds",
+    "field": "Q_RX_PRED",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "Q_RX_PRED": "1",
+    "frac": "0.0048",
+    "table": "Qcovid_prepped.rds",
+    "field": "Q_RX_PRED",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "tested": "0",
+    "frac": "0.9454",
+    "table": "Qcovid_prepped.rds",
+    "field": "tested",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "tested": "1",
+    "frac": "0.0412",
+    "table": "Qcovid_prepped.rds",
+    "field": "tested",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "tested": null,
+    "frac": "0.0134",
+    "table": "Qcovid_prepped.rds",
+    "field": "tested",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  }
+]
