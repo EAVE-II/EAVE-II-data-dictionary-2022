@@ -1,6 +1,6 @@
 [
   {
-    "first_vacc_date": null,
+    "value": null,
     "frac": "1",
     "table": "FLUvaccine_dvprod.rds",
     "field": "first_vacc_date",

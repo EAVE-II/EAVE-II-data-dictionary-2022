@@ -1,6 +1,6 @@
 [
   {
-    "age": null,
+    "value": null,
     "frac": null,
     "table": "C19vaccine_dvprod.rds",
     "field": "age",

@@ -1,31 +1,31 @@
 [
   {
-    "vacc_type_code": "36509011000001106",
-    "frac": "0.488695478191277",
+    "value": "36509011000001106",
+    "frac": "0.496947863504453",
     "table": "FLUvaccine_dvprod.rds",
     "field": "vacc_type_code",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "vacc_type_code": "38973211000001108",
-    "frac": "0.4468787515006",
+    "value": "38973211000001108",
+    "frac": "0.438907235064545",
     "table": "FLUvaccine_dvprod.rds",
     "field": "vacc_type_code",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "vacc_type_code": "9894511000001108",
-    "frac": "0.0347138855542217",
+    "value": "27114211000001105",
+    "frac": "0.0336235364755329",
     "table": "FLUvaccine_dvprod.rds",
     "field": "vacc_type_code",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "vacc_type_code": "27114211000001105",
-    "frac": "0.0297118847539016",
+    "value": "9894511000001108",
+    "frac": "0.0305213649554688",
     "table": "FLUvaccine_dvprod.rds",
     "field": "vacc_type_code",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

@@ -1,6 +1,6 @@
 [
   {
-    "fifth_dose": null,
+    "value": null,
     "frac": "1",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fifth_dose",

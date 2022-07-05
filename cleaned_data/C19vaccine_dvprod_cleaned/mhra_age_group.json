@@ -1,63 +1,63 @@
 [
   {
-    "mhra_age_group": "50 to 59",
-    "frac": "0.1724",
+    "value": "50 to 59",
+    "frac": "0.1764",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "mhra_age_group",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "mhra_age_group": "60 to 69",
-    "frac": "0.1604",
+    "value": "60 to 69",
+    "frac": "0.1573",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "mhra_age_group",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "mhra_age_group": "70 to 79",
-    "frac": "0.1358",
+    "value": "18 to 29",
+    "frac": "0.139",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "mhra_age_group",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "mhra_age_group": "30 to 39",
-    "frac": "0.1346",
+    "value": "70 to 79",
+    "frac": "0.1341",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "mhra_age_group",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "mhra_age_group": "18 to 29",
-    "frac": "0.1344",
+    "value": "30 to 39",
+    "frac": "0.1317",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "mhra_age_group",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "mhra_age_group": "40 to 49",
-    "frac": "0.1316",
+    "value": "40 to 49",
+    "frac": "0.1276",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "mhra_age_group",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "mhra_age_group": "80+",
-    "frac": "0.0883",
+    "value": "80+",
+    "frac": "0.0912",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "mhra_age_group",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "mhra_age_group": "Under 18",
-    "frac": "0.0425",
+    "value": "Under 18",
+    "frac": "0.0427",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "mhra_age_group",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

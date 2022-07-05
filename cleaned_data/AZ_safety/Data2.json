@@ -1,55 +1,63 @@
 [
   {
-    "Data2": null,
-    "frac": "0.593473895582329",
+    "value": null,
+    "frac": "0.601242983159583",
     "table": "AZ_safety.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Data2": "",
-    "frac": "0.371987951807229",
+    "value": "",
+    "frac": "0.362971130713713",
     "table": "AZ_safety.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Data2": "0",
-    "frac": "0.0170682730923695",
+    "value": "0",
+    "frac": "0.0184442662389735",
     "table": "AZ_safety.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Data2": "1.00",
-    "frac": "0.00903614457831325",
+    "value": "1.00",
+    "frac": "0.00922213311948677",
     "table": "AZ_safety.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Data2": "1.10",
-    "frac": "0.00381526104417671",
+    "value": "1.10",
+    "frac": "0.00340817963111468",
     "table": "AZ_safety.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Data2": "0.90",
-    "frac": "0.0034136546184739",
+    "value": "0.90",
+    "frac": "0.00230553327987169",
     "table": "AZ_safety.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Data2": "1",
-    "frac": "0.00120481927710843",
+    "value": "1",
+    "frac": "0.00130312750601443",
+    "table": "AZ_safety.rds",
+    "field": "Data2",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2022-07-04 07:05:10"
+  },
+  {
+    "value": "1.1",
+    "frac": "0.00110264635124298",
     "table": "AZ_safety.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

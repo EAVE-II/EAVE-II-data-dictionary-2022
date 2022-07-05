@@ -1,79 +1,79 @@
 [
   {
-    "ExtractDate": "2021-08-16",
-    "frac": "0.45603205544726",
+    "value": "2021-08-16",
+    "frac": "0.444300657823789",
     "table": "Platelet_counts.rds",
     "field": "ExtractDate",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "ExtractDate": "2021-05-12",
-    "frac": "0.1667749620966",
+    "value": "2021-05-12",
+    "frac": "0.175239943923218",
     "table": "Platelet_counts.rds",
     "field": "ExtractDate",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "ExtractDate": "2021-11-11",
-    "frac": "0.0402858999350227",
+    "value": "2021-11-11",
+    "frac": "0.0416262266796075",
     "table": "Platelet_counts.rds",
     "field": "ExtractDate",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "ExtractDate": "2021-08-17",
-    "frac": "0.0153779510504657",
+    "value": "2021-05-11",
+    "frac": "0.0139113555483662",
     "table": "Platelet_counts.rds",
     "field": "ExtractDate",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "ExtractDate": "2021-05-11",
-    "frac": "0.0116959064327485",
+    "value": "2021-08-17",
+    "frac": "0.0127251159279629",
     "table": "Platelet_counts.rds",
     "field": "ExtractDate",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "ExtractDate": "2021-06-16",
-    "frac": "0.0111544292830843",
+    "value": "2021-08-21",
+    "frac": "0.0109996764801035",
     "table": "Platelet_counts.rds",
     "field": "ExtractDate",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "ExtractDate": "2021-08-21",
-    "frac": "0.0108295429932857",
+    "value": "2021-06-16",
+    "frac": "0.0105683166181387",
     "table": "Platelet_counts.rds",
     "field": "ExtractDate",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "ExtractDate": "2022-01-14",
-    "frac": "0.0100714749837557",
+    "value": "2021-09-25",
+    "frac": "0.00819583737733204",
     "table": "Platelet_counts.rds",
     "field": "ExtractDate",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "ExtractDate": "2021-11-13",
-    "frac": "0.00844704353476283",
+    "value": "2022-01-14",
+    "frac": "0.00722527768791114",
     "table": "Platelet_counts.rds",
     "field": "ExtractDate",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "ExtractDate": "2021-08-22",
-    "frac": "0.00638943036603855",
+    "value": "2021-08-22",
+    "frac": "0.00614687803299903",
     "table": "Platelet_counts.rds",
     "field": "ExtractDate",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

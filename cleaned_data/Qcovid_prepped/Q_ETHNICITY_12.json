@@ -1,6 +1,6 @@
 [
   {
-    "Q_ETHNICITY_12": "0",
+    "value": "0",
     "frac": "1",
     "table": "Qcovid_prepped.rds",
     "field": "Q_ETHNICITY_12",

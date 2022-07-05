@@ -1,79 +1,79 @@
 [
   {
-    "Age": "74   ",
-    "frac": "0.0316277195809831",
+    "value": "74   ",
+    "frac": "0.0300895642548053",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "Age": "78   ",
-    "frac": "0.028505237711523",
+    "value": "73   ",
+    "frac": "0.029988930260642",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "Age": "81   ",
-    "frac": "0.0280016116035455",
+    "value": "72   ",
+    "frac": "0.0294857602898259",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "Age": "75   ",
-    "frac": "0.02790088638195",
+    "value": "82   ",
+    "frac": "0.0285800543423568",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "Age": "79   ",
-    "frac": "0.0274979854955681",
+    "value": "81   ",
+    "frac": "0.0281775183657039",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "Age": "82   ",
-    "frac": "0.0274979854955681",
+    "value": "78   ",
+    "frac": "0.0274730804065613",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "Age": "77   ",
-    "frac": "0.0272965350523771",
+    "value": "77   ",
+    "frac": "0.0270705444299084",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "Age": "83   ",
-    "frac": "0.0270950846091861",
+    "value": "84   ",
+    "frac": "0.0270705444299084",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "Age": "80   ",
-    "frac": "0.0269943593875907",
+    "value": "79   ",
+    "frac": "0.0267686424474187",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "Age": "76   ",
-    "frac": "0.0258863819500403",
+    "value": "75   ",
+    "frac": "0.0261648384824394",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

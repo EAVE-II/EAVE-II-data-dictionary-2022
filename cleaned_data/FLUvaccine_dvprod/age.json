@@ -1,6 +1,6 @@
 [
   {
-    "age": null,
+    "value": null,
     "frac": null,
     "table": "FLUvaccine_dvprod.rds",
     "field": "age",

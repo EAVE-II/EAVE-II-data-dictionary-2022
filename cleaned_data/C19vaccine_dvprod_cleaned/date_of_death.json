@@ -1,6 +1,6 @@
 [
   {
-    "date_of_death": null,
+    "value": null,
     "frac": "1",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "date_of_death",

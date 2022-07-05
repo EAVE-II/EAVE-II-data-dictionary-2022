@@ -1,15 +1,15 @@
 [
   {
-    "COV2_DECL_COD": null,
-    "frac": "0.9981",
+    "value": null,
+    "frac": "0.9986",
     "table": "C6_cohort.rds",
     "field": "COV2_DECL_COD",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-03-12 14:57:09"
   },
   {
-    "COV2_DECL_COD": "1",
-    "frac": "0.0019",
+    "value": "1",
+    "frac": "0.0014",
     "table": "C6_cohort.rds",
     "field": "COV2_DECL_COD",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

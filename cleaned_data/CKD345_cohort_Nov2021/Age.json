@@ -1,79 +1,79 @@
 [
   {
-    "Age": "74   ",
-    "frac": "0.0417635756901608",
+    "value": "78   ",
+    "frac": "0.0407998384164815",
     "table": "CKD345_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:56:38"
   },
   {
-    "Age": "78   ",
-    "frac": "0.0403478612599858",
+    "value": "74   ",
+    "frac": "0.0401939002221773",
     "table": "CKD345_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:56:38"
   },
   {
-    "Age": "80   ",
-    "frac": "0.0383254120740216",
+    "value": "84   ",
+    "frac": "0.0394869723288225",
     "table": "CKD345_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:56:38"
   },
   {
-    "Age": "79   ",
-    "frac": "0.0382242896147234",
+    "value": "77   ",
+    "frac": "0.0388810341345183",
     "table": "CKD345_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:56:38"
   },
   {
-    "Age": "84   ",
-    "frac": "0.0381231671554252",
+    "value": "81   ",
+    "frac": "0.0387800444354676",
     "table": "CKD345_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:56:38"
   },
   {
-    "Age": "77   ",
-    "frac": "0.0377186773182324",
+    "value": "83   ",
+    "frac": "0.0385780650373662",
     "table": "CKD345_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:56:38"
   },
   {
-    "Age": "81   ",
-    "frac": "0.0369096976438467",
+    "value": "85   ",
+    "frac": "0.0384770753383155",
     "table": "CKD345_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:56:38"
   },
   {
-    "Age": "85   ",
-    "frac": "0.0369096976438467",
+    "value": "80   ",
+    "frac": "0.0383760856392648",
     "table": "CKD345_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:56:38"
   },
   {
-    "Age": "83   ",
-    "frac": "0.0365052078066539",
+    "value": "82   ",
+    "frac": "0.0367602504544536",
     "table": "CKD345_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:56:38"
   },
   {
-    "Age": "82   ",
-    "frac": "0.0359995955101628",
+    "value": "86   ",
+    "frac": "0.0366592607554029",
     "table": "CKD345_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

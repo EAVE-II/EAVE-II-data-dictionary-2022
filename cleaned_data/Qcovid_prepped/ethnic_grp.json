@@ -1,63 +1,63 @@
 [
   {
-    "ethnic_grp": "White",
-    "frac": "0.489274258219727",
+    "value": "White",
+    "frac": "0.488675085187412",
     "table": "Qcovid_prepped.rds",
     "field": "ethnic_grp",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "ethnic_grp": "Not recorded",
-    "frac": "0.469125902165196",
+    "value": "Not recorded",
+    "frac": "0.467227901383043",
     "table": "Qcovid_prepped.rds",
     "field": "ethnic_grp",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "ethnic_grp": "Other",
-    "frac": "0.0123295910184443",
+    "value": "Other",
+    "frac": "0.0144317498496693",
     "table": "Qcovid_prepped.rds",
     "field": "ethnic_grp",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "ethnic_grp": "Pakistani",
-    "frac": "0.00691659983961508",
+    "value": "Pakistani",
+    "frac": "0.00761675686510323",
     "table": "Qcovid_prepped.rds",
     "field": "ethnic_grp",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "ethnic_grp": "Chinese",
-    "frac": "0.00651563753007217",
+    "value": "Indian",
+    "frac": "0.0065143315293646",
     "table": "Qcovid_prepped.rds",
     "field": "ethnic_grp",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "ethnic_grp": "Indian",
-    "frac": "0.00651563753007217",
+    "value": "Black African",
+    "frac": "0.00581278813389457",
     "table": "Qcovid_prepped.rds",
     "field": "ethnic_grp",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "ethnic_grp": "Black African",
-    "frac": "0.00561347233360064",
+    "value": "Chinese",
+    "frac": "0.00561234716376027",
     "table": "Qcovid_prepped.rds",
     "field": "ethnic_grp",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "ethnic_grp": "Other Asian",
-    "frac": "0.00370890136327185",
+    "value": "Other Asian",
+    "frac": "0.00410903988775306",
     "table": "Qcovid_prepped.rds",
     "field": "ethnic_grp",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

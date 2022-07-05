@@ -1,6 +1,6 @@
 [
   {
-    "date_of_birth": null,
+    "value": null,
     "frac": null,
     "table": "c19vaccine.rds",
     "field": "date_of_birth",

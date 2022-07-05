@@ -1,6 +1,6 @@
 [
   {
-    "validchi": "Valid CHI",
+    "value": "Valid CHI",
     "frac": "1",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "validchi",

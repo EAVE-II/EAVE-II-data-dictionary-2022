@@ -1,15 +1,15 @@
 [
   {
-    "third_eligible_any_cohort": "1",
-    "frac": "0.9665",
+    "value": "1",
+    "frac": "0.9659",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "third_eligible_any_cohort",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "third_eligible_any_cohort": "0",
-    "frac": "0.0335",
+    "value": "0",
+    "frac": "0.0341",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "third_eligible_any_cohort",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

@@ -1,6 +1,6 @@
 [
   {
-    "date_of_birth": null,
+    "value": null,
     "frac": null,
     "table": "fluvaccine_20220209.rds",
     "field": "date_of_birth",

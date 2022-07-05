@@ -1,14 +1,6 @@
 [
   {
-    "SIMD5": "3",
-    "frac": "0.205",
-    "table": "Qcovid_prepped.rds",
-    "field": "SIMD5",
-    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
-    "date_last_modified": "2020-12-10 09:58:00"
-  },
-  {
-    "SIMD5": "4",
+    "value": "5",
     "frac": "0.2021",
     "table": "Qcovid_prepped.rds",
     "field": "SIMD5",
@@ -16,32 +8,40 @@
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "SIMD5": "1",
-    "frac": "0.2008",
+    "value": "4",
+    "frac": "0.2002",
     "table": "Qcovid_prepped.rds",
     "field": "SIMD5",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "SIMD5": "5",
-    "frac": "0.1951",
+    "value": "1",
+    "frac": "0.1977",
     "table": "Qcovid_prepped.rds",
     "field": "SIMD5",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "SIMD5": "2",
-    "frac": "0.1895",
+    "value": "3",
+    "frac": "0.1973",
     "table": "Qcovid_prepped.rds",
     "field": "SIMD5",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "SIMD5": "9 Not known",
-    "frac": "0.0075",
+    "value": "2",
+    "frac": "0.1969",
+    "table": "Qcovid_prepped.rds",
+    "field": "SIMD5",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2020-12-10 09:58:00"
+  },
+  {
+    "value": "9 Not known",
+    "frac": "0.0058",
     "table": "Qcovid_prepped.rds",
     "field": "SIMD5",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

@@ -1,6 +1,6 @@
 [
   {
-    "patient_derived_post_code": null,
+    "value": null,
     "frac": null,
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_post_code",

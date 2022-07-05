@@ -1,15 +1,15 @@
 [
   {
-    "Q_RX_LABA": "0",
-    "frac": "0.9861",
+    "value": "0",
+    "frac": "0.9842",
     "table": "Qcovid_prepped.rds",
     "field": "Q_RX_LABA",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Q_RX_LABA": "1",
-    "frac": "0.0139",
+    "value": "1",
+    "frac": "0.0158",
     "table": "Qcovid_prepped.rds",
     "field": "Q_RX_LABA",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

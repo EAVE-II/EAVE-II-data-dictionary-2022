@@ -1,79 +1,79 @@
 [
   {
-    "Data2": null,
-    "frac": "0.00769724182168056",
+    "value": null,
+    "frac": "0.0067853027781334",
     "table": "Platelet_counts.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "Data2": "",
-    "frac": "0.00692751763951251",
+    "value": "",
+    "frac": "0.00640122903597491",
     "table": "Platelet_counts.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "Data2": "235",
-    "frac": "0.00513149454778704",
+    "value": "263",
+    "frac": "0.00512098322877993",
     "table": "Platelet_counts.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "Data2": "263",
-    "frac": "0.00487491982039769",
+    "value": "257",
+    "frac": "0.00486493406734093",
     "table": "Platelet_counts.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "Data2": "237",
-    "frac": "0.00474663245670301",
+    "value": "211",
+    "frac": "0.00460888490590193",
     "table": "Platelet_counts.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "Data2": "247",
-    "frac": "0.00474663245670301",
+    "value": "247",
+    "frac": "0.00448086032518244",
     "table": "Platelet_counts.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "Data2": "257.00",
-    "frac": "0.00474663245670301",
+    "value": "252",
+    "frac": "0.00448086032518244",
     "table": "Platelet_counts.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "Data2": "256.00",
-    "frac": "0.00461834509300834",
+    "value": "282",
+    "frac": "0.00448086032518244",
     "table": "Platelet_counts.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "Data2": "242",
-    "frac": "0.00449005772931366",
+    "value": "220",
+    "frac": "0.00435283574446294",
     "table": "Platelet_counts.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:05"
   },
   {
-    "Data2": "259",
-    "frac": "0.00449005772931366",
+    "value": "240.00",
+    "frac": "0.00435283574446294",
     "table": "Platelet_counts.rds",
     "field": "Data2",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

@@ -1,6 +1,6 @@
 [
   {
-    "FLUCOV_IMMUNO_GROUP": "1",
+    "value": "1",
     "frac": "1",
     "table": "Imm_supp_cohort_Nov2021.rds",
     "field": "FLUCOV_IMMUNO_GROUP",

@@ -1,79 +1,79 @@
 [
   {
-    "first_vacc_date": null,
-    "frac": "0.654602840610205",
+    "value": null,
+    "frac": "0.652525464664496",
     "table": "C19vaccine_dvprod.rds",
     "field": "first_vacc_date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "first_vacc_date": "2021-02-10",
-    "frac": "0.00725933719095213",
+    "value": "2021-02-09",
+    "frac": "0.00724561587734957",
     "table": "C19vaccine_dvprod.rds",
     "field": "first_vacc_date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "first_vacc_date": "2021-02-09",
-    "frac": "0.00673329826407154",
+    "value": "2021-02-08",
+    "frac": "0.00609051769400399",
     "table": "C19vaccine_dvprod.rds",
     "field": "first_vacc_date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "first_vacc_date": "2021-02-06",
-    "frac": "0.00641767490794319",
+    "value": "2021-02-10",
+    "frac": "0.00609051769400399",
     "table": "C19vaccine_dvprod.rds",
     "field": "first_vacc_date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "first_vacc_date": "2021-02-12",
-    "frac": "0.00631246712256707",
+    "value": "2021-02-12",
+    "frac": "0.00546046413945185",
     "table": "C19vaccine_dvprod.rds",
     "field": "first_vacc_date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "first_vacc_date": "2021-02-13",
-    "frac": "0.00599684376643872",
+    "value": "2021-02-04",
+    "frac": "0.00525044628793447",
     "table": "C19vaccine_dvprod.rds",
     "field": "first_vacc_date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "first_vacc_date": "2021-02-08",
-    "frac": "0.0058916359810626",
+    "value": "2021-02-05",
+    "frac": "0.00493541951065841",
     "table": "C19vaccine_dvprod.rds",
     "field": "first_vacc_date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "first_vacc_date": "2021-02-11",
-    "frac": "0.00578642819568648",
+    "value": "2021-02-06",
+    "frac": "0.00493541951065841",
     "table": "C19vaccine_dvprod.rds",
     "field": "first_vacc_date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "first_vacc_date": "2021-02-04",
-    "frac": "0.00494476591267754",
+    "value": "2021-02-13",
+    "frac": "0.00483041058489972",
     "table": "C19vaccine_dvprod.rds",
     "field": "first_vacc_date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "first_vacc_date": "2021-02-05",
-    "frac": "0.0047343503419253",
+    "value": "2021-03-18",
+    "frac": "0.00483041058489972",
     "table": "C19vaccine_dvprod.rds",
     "field": "first_vacc_date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

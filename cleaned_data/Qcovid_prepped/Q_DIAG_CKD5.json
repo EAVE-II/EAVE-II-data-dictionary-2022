@@ -1,6 +1,6 @@
 [
   {
-    "Q_DIAG_CKD5": "0",
+    "value": "0",
     "frac": "1",
     "table": "Qcovid_prepped.rds",
     "field": "Q_DIAG_CKD5",

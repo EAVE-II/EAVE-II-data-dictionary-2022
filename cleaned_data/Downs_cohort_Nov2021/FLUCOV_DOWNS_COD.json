@@ -1,6 +1,6 @@
 [
   {
-    "FLUCOV_DOWNS_COD": "1",
+    "value": "1",
     "frac": "1",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "FLUCOV_DOWNS_COD",

@@ -1,6 +1,6 @@
 [
   {
-    "date_hosp_covid": null,
+    "value": null,
     "frac": "1",
     "table": "Qcovid_prepped.rds",
     "field": "date_hosp_covid",

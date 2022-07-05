@@ -1,6 +1,6 @@
 [
   {
-    "postcode": null,
+    "value": null,
     "frac": "1",
     "table": "fluvaccine_20220209.rds",
     "field": "postcode",

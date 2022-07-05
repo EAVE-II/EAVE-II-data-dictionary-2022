@@ -1,15 +1,15 @@
 [
   {
-    "Time.To.Hosp": "103",
-    "frac": "0.98653536977492",
+    "value": "103",
+    "frac": "0.985625251306795",
     "table": "Qcovid_prepped.rds",
     "field": "Time.To.Hosp",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Time.To.Hosp": null,
-    "frac": "0.0134646302250804",
+    "value": null,
+    "frac": "0.0143747486932047",
     "table": "Qcovid_prepped.rds",
     "field": "Time.To.Hosp",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

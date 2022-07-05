@@ -1,79 +1,79 @@
 [
   {
-    "batch_number": "8556B1A",
-    "frac": "0.120392628205128",
+    "value": "8556B1A",
+    "frac": "0.122432621981765",
     "table": "FLUvaccine_dvprod.rds",
     "field": "batch_number",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "batch_number": "8636B1A",
-    "frac": "0.116486378205128",
+    "value": "8636A1A",
+    "frac": "0.110309588217613",
     "table": "FLUvaccine_dvprod.rds",
     "field": "batch_number",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "batch_number": "8636A1A",
-    "frac": "0.108072916666667",
+    "value": "8636B1A",
+    "frac": "0.110309588217613",
     "table": "FLUvaccine_dvprod.rds",
     "field": "batch_number",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "batch_number": "8642A1A",
-    "frac": "0.0881410256410256",
+    "value": "3079171A",
+    "frac": "0.092074942390542",
     "table": "FLUvaccine_dvprod.rds",
     "field": "batch_number",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "batch_number": "3079171A",
-    "frac": "0.0880408653846154",
+    "value": "8642A1A",
+    "frac": "0.0844604749023144",
     "table": "FLUvaccine_dvprod.rds",
     "field": "batch_number",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "batch_number": "3079181A",
-    "frac": "0.081630608974359",
+    "value": "3079181A",
+    "frac": "0.0764452459673379",
     "table": "FLUvaccine_dvprod.rds",
     "field": "batch_number",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "batch_number": "3079311A",
-    "frac": "0.0696113782051282",
+    "value": "3079311A",
+    "frac": "0.0729385833082857",
     "table": "FLUvaccine_dvprod.rds",
     "field": "batch_number",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "batch_number": "3079371A",
-    "frac": "0.0670072115384615",
+    "value": "3079371A",
+    "frac": "0.0704338242661056",
     "table": "FLUvaccine_dvprod.rds",
     "field": "batch_number",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "batch_number": "P100368151",
-    "frac": "0.0621995192307692",
+    "value": "P100368151",
+    "frac": "0.0612163109908827",
     "table": "FLUvaccine_dvprod.rds",
     "field": "batch_number",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "batch_number": "P100362174",
-    "frac": "0.0535857371794872",
+    "value": "P100362174",
+    "frac": "0.0546037471195271",
     "table": "FLUvaccine_dvprod.rds",
     "field": "batch_number",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

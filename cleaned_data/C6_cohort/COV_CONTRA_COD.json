@@ -1,6 +1,6 @@
 [
   {
-    "COV_CONTRA_COD": null,
+    "value": null,
     "frac": "1",
     "table": "C6_cohort.rds",
     "field": "COV_CONTRA_COD",

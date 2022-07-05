@@ -1,15 +1,15 @@
 [
   {
-    "Q_DIAG_FRACTURE": "0",
-    "frac": "0.9445",
+    "value": "0",
+    "frac": "0.946",
     "table": "QCOVID_feb22.rds",
     "field": "Q_DIAG_FRACTURE",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-03-10 14:43:24"
   },
   {
-    "Q_DIAG_FRACTURE": "1",
-    "frac": "0.0555",
+    "value": "1",
+    "frac": "0.054",
     "table": "QCOVID_feb22.rds",
     "field": "Q_DIAG_FRACTURE",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

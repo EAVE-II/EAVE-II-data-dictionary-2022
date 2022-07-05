@@ -1,6 +1,6 @@
 [
   {
-    "Quick_groups": "platelet count",
+    "value": "platelet count",
     "frac": "1",
     "table": "Platelet_counts.rds",
     "field": "Quick_groups",

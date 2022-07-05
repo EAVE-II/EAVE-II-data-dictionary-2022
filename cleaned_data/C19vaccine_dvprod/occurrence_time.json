@@ -1,79 +1,79 @@
 [
   {
-    "occurrence_time": "2021-02-10",
-    "frac": "0.00713399503722084",
+    "value": "2021-02-10",
+    "frac": "0.00709367828082621",
     "table": "C19vaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "occurrence_time": "2021-03-16",
-    "frac": "0.00692721257237386",
+    "value": "2021-04-21",
+    "frac": "0.00709367828082621",
     "table": "C19vaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "occurrence_time": "2021-02-08",
-    "frac": "0.00682382133995037",
+    "value": "2021-02-11",
+    "frac": "0.00698935948257876",
     "table": "C19vaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "occurrence_time": "2021-04-29",
-    "frac": "0.00682382133995037",
+    "value": "2021-02-12",
+    "frac": "0.00678072188608387",
     "table": "C19vaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "occurrence_time": "2021-02-09",
-    "frac": "0.00672043010752688",
+    "value": "2021-03-20",
+    "frac": "0.00657208428958898",
     "table": "C19vaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "occurrence_time": "2021-03-18",
-    "frac": "0.00630686517783292",
+    "value": "2021-06-11",
+    "frac": "0.00625912789484665",
     "table": "C19vaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "occurrence_time": "2021-04-30",
-    "frac": "0.00610008271298594",
+    "value": "2021-03-23",
+    "frac": "0.00615480909659921",
     "table": "C19vaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "occurrence_time": "2021-06-04",
-    "frac": "0.00589330024813896",
+    "value": "2021-05-31",
+    "frac": "0.00605049029835176",
     "table": "C19vaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "occurrence_time": "2021-02-04",
-    "frac": "0.00578990901571547",
+    "value": "2021-03-17",
+    "frac": "0.00594617150010432",
     "table": "C19vaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:03"
   },
   {
-    "occurrence_time": "2021-02-11",
-    "frac": "0.00558312655086849",
+    "value": "2021-02-05",
+    "frac": "0.00573753390360943",
     "table": "C19vaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

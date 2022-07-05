@@ -1,15 +1,15 @@
 [
   {
-    "Q_DIAG_STROKE": "0",
-    "frac": "0.9738",
+    "value": "0",
+    "frac": "0.9762",
     "table": "Qcovid_prepped.rds",
     "field": "Q_DIAG_STROKE",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Q_DIAG_STROKE": "1",
-    "frac": "0.0262",
+    "value": "1",
+    "frac": "0.0238",
     "table": "Qcovid_prepped.rds",
     "field": "Q_DIAG_STROKE",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

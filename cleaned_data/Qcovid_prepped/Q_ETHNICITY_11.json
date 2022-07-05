@@ -1,15 +1,15 @@
 [
   {
-    "Q_ETHNICITY_11": "0",
-    "frac": "0.9963",
+    "value": "0",
+    "frac": "0.9959",
     "table": "Qcovid_prepped.rds",
     "field": "Q_ETHNICITY_11",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Q_ETHNICITY_11": "1",
-    "frac": "0.0037",
+    "value": "1",
+    "frac": "0.0041",
     "table": "Qcovid_prepped.rds",
     "field": "Q_ETHNICITY_11",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

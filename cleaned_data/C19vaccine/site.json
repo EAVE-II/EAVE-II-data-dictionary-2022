@@ -1,31 +1,31 @@
 [
   {
-    "site": "LUA",
-    "frac": "0.736958045459097",
+    "value": "LUA",
+    "frac": "0.72636217948718",
     "table": "C19vaccine.rds",
     "field": "site",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "site": "RUA",
-    "frac": "0.227395614298588",
+    "value": "RUA",
+    "frac": "0.237279647435897",
     "table": "C19vaccine.rds",
     "field": "site",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "site": null,
-    "frac": "0.0260338439971964",
+    "value": null,
+    "frac": "0.0265424679487179",
     "table": "C19vaccine.rds",
     "field": "site",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "site": "",
-    "frac": "0.00961249624511865",
+    "value": "",
+    "frac": "0.00981570512820513",
     "table": "C19vaccine.rds",
     "field": "site",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

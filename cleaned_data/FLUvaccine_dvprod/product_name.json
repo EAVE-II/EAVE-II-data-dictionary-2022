@@ -1,31 +1,31 @@
 [
   {
-    "product_name": "Flucelvax Tetra Vaccine Seqirus",
-    "frac": "0.488695478191277",
+    "value": "Flucelvax Tetra Vaccine Seqirus",
+    "frac": "0.496947863504453",
     "table": "FLUvaccine_dvprod.rds",
     "field": "product_name",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "product_name": "Fluad Tetra Vaccine Seqirus",
-    "frac": "0.4468787515006",
+    "value": "Fluad Tetra Vaccine Seqirus",
+    "frac": "0.438907235064545",
     "table": "FLUvaccine_dvprod.rds",
     "field": "product_name",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "product_name": "Influenza Vaccine (Not Administered)",
-    "frac": "0.0347138855542217",
+    "value": "Fluenz Tetra Vaccine AstraZeneca",
+    "frac": "0.0336235364755329",
     "table": "FLUvaccine_dvprod.rds",
     "field": "product_name",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "product_name": "Fluenz Tetra Vaccine AstraZeneca",
-    "frac": "0.0297118847539016",
+    "value": "Influenza Vaccine (Not Administered)",
+    "frac": "0.0305213649554688",
     "table": "FLUvaccine_dvprod.rds",
     "field": "product_name",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

@@ -1,6 +1,6 @@
 [
   {
-    "target_disease": "Influenza (disorder)",
+    "value": "Influenza (disorder)",
     "frac": "1",
     "table": "FLUvaccine_dvprod.rds",
     "field": "target_disease",

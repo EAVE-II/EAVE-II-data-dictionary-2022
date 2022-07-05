@@ -1,79 +1,79 @@
 [
   {
-    "Age": "59   ",
-    "frac": "0.0303214069132808",
+    "value": "57   ",
+    "frac": "0.0289385814024082",
     "table": "liverdis_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:55:22"
   },
   {
-    "Age": "60   ",
-    "frac": "0.0293106933495048",
+    "value": "61   ",
+    "frac": "0.027522007487605",
     "table": "liverdis_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:55:22"
   },
   {
-    "Age": "65   ",
-    "frac": "0.0271881948655751",
+    "value": "62   ",
+    "frac": "0.027522007487605",
     "table": "liverdis_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:55:22"
   },
   {
-    "Age": "52   ",
-    "frac": "0.0262785526581767",
+    "value": "58   ",
+    "frac": "0.0274208236365476",
     "table": "liverdis_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:55:22"
   },
   {
-    "Age": "58   ",
-    "frac": "0.0262785526581767",
+    "value": "60   ",
+    "frac": "0.0270160882323181",
     "table": "liverdis_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:55:22"
   },
   {
-    "Age": "64   ",
-    "frac": "0.0261774813017991",
+    "value": "54   ",
+    "frac": "0.0265101689770313",
     "table": "liverdis_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:55:22"
   },
   {
-    "Age": "56   ",
-    "frac": "0.0260764099454215",
+    "value": "56   ",
+    "frac": "0.0261054335728018",
     "table": "liverdis_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:55:22"
   },
   {
-    "Age": "62   ",
-    "frac": "0.0257731958762887",
+    "value": "59   ",
+    "frac": "0.0261054335728018",
     "table": "liverdis_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:55:22"
   },
   {
-    "Age": "54   ",
-    "frac": "0.0256721245199111",
+    "value": "64   ",
+    "frac": "0.0253971466154002",
     "table": "liverdis_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:55:22"
   },
   {
-    "Age": "57   ",
-    "frac": "0.0255710531635335",
+    "value": "55   ",
+    "frac": "0.0250935950622281",
     "table": "liverdis_cohort_Nov2021.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

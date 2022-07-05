@@ -1,62 +1,62 @@
 [
   {
-    "any_comorb": "1",
-    "frac": "0.282382382382382",
+    "value": "1",
+    "frac": "0.285885885885886",
     "table": "Qcovid_prepped.rds",
     "field": "any_comorb",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "any_comorb": "0",
-    "frac": "0.266066066066066",
+    "value": "0",
+    "frac": "0.265465465465465",
     "table": "Qcovid_prepped.rds",
     "field": "any_comorb",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "any_comorb": "2",
-    "frac": "0.21981981981982",
+    "value": "2",
+    "frac": "0.222722722722723",
     "table": "Qcovid_prepped.rds",
     "field": "any_comorb",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "any_comorb": "3",
-    "frac": "0.115715715715716",
+    "value": "3",
+    "frac": "0.105705705705706",
     "table": "Qcovid_prepped.rds",
     "field": "any_comorb",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "any_comorb": "4",
-    "frac": "0.056956956956957",
+    "value": "4",
+    "frac": "0.0608608608608609",
     "table": "Qcovid_prepped.rds",
     "field": "any_comorb",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "any_comorb": "5",
-    "frac": "0.0283283283283283",
+    "value": "5",
+    "frac": "0.0293293293293293",
     "table": "Qcovid_prepped.rds",
     "field": "any_comorb",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "any_comorb": "6",
-    "frac": "0.0179179179179179",
+    "value": "6",
+    "frac": "0.0169169169169169",
     "table": "Qcovid_prepped.rds",
     "field": "any_comorb",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "any_comorb": "7",
+    "value": "7",
     "frac": "0.00770770770770771",
     "table": "Qcovid_prepped.rds",
     "field": "any_comorb",
@@ -64,16 +64,16 @@
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "any_comorb": "8",
-    "frac": "0.0034034034034034",
+    "value": "8",
+    "frac": "0.0039039039039039",
     "table": "Qcovid_prepped.rds",
     "field": "any_comorb",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "any_comorb": "9",
-    "frac": "0.0017017017017017",
+    "value": "9",
+    "frac": "0.0015015015015015",
     "table": "Qcovid_prepped.rds",
     "field": "any_comorb",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

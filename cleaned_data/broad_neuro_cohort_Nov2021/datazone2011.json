@@ -1,7 +1,31 @@
 [
   {
-    "datazone2011": null,
-    "frac": "1",
+    "value": null,
+    "frac": "0.46031746031746",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "value": "S01012029",
+    "frac": "0.19047619047619",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "value": "S01008577",
+    "frac": "0.174603174603175",
+    "table": "broad_neuro_cohort_Nov2021.rds",
+    "field": "datazone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
+    "date_last_modified": "2021-12-17 11:57:51"
+  },
+  {
+    "value": "S01013099",
+    "frac": "0.174603174603175",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "datazone2011",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

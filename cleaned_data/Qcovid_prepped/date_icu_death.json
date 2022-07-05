@@ -1,6 +1,6 @@
 [
   {
-    "date_icu_death": null,
+    "value": null,
     "frac": "1",
     "table": "Qcovid_prepped.rds",
     "field": "date_icu_death",

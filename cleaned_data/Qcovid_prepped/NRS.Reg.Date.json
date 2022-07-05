@@ -1,6 +1,6 @@
 [
   {
-    "NRS.Reg.Date": null,
+    "value": null,
     "frac": "1",
     "table": "Qcovid_prepped.rds",
     "field": "NRS.Reg.Date",

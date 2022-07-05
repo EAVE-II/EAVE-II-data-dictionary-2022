@@ -1,6 +1,6 @@
 [
   {
-    "hb2019name": "NHS Greater Glasgow and Clyde",
+    "value": "NHS Greater Glasgow and Clyde",
     "frac": "0.22805049088359",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "hb2019name",
@@ -8,7 +8,7 @@
     "date_last_modified": "2021-12-15 17:48:59"
   },
   {
-    "hb2019name": "NHS Lothian",
+    "value": "NHS Lothian",
     "frac": "0.138288920056101",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "hb2019name",
@@ -16,7 +16,7 @@
     "date_last_modified": "2021-12-15 17:48:59"
   },
   {
-    "hb2019name": "NHS Lanarkshire",
+    "value": "NHS Lanarkshire",
     "frac": "0.127349228611501",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "hb2019name",
@@ -24,7 +24,7 @@
     "date_last_modified": "2021-12-15 17:48:59"
   },
   {
-    "hb2019name": "NHS Grampian",
+    "value": "NHS Grampian",
     "frac": "0.094249649368864",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "hb2019name",
@@ -32,7 +32,7 @@
     "date_last_modified": "2021-12-15 17:48:59"
   },
   {
-    "hb2019name": "NHS Tayside",
+    "value": "NHS Tayside",
     "frac": "0.0776998597475456",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "hb2019name",
@@ -40,7 +40,7 @@
     "date_last_modified": "2021-12-15 17:48:59"
   },
   {
-    "hb2019name": "NHS Highland",
+    "value": "NHS Highland",
     "frac": "0.0748948106591865",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "hb2019name",
@@ -48,7 +48,7 @@
     "date_last_modified": "2021-12-15 17:48:59"
   },
   {
-    "hb2019name": "NHS Ayrshire and Arran",
+    "value": "NHS Ayrshire and Arran",
     "frac": "0.0701262272089762",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "hb2019name",
@@ -56,7 +56,7 @@
     "date_last_modified": "2021-12-15 17:48:59"
   },
   {
-    "hb2019name": "NHS Fife",
+    "value": "NHS Fife",
     "frac": "0.0572230014025245",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "hb2019name",
@@ -64,7 +64,7 @@
     "date_last_modified": "2021-12-15 17:48:59"
   },
   {
-    "hb2019name": "NHS Forth Valley",
+    "value": "NHS Forth Valley",
     "frac": "0.0563814866760168",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "hb2019name",
@@ -72,7 +72,7 @@
     "date_last_modified": "2021-12-15 17:48:59"
   },
   {
-    "hb2019name": "NHS Dumfries and Galloway",
+    "value": "NHS Dumfries and Galloway",
     "frac": "0.0336605890603086",
     "table": "Downs_cohort_Nov2021.rds",
     "field": "hb2019name",

@@ -1,23 +1,23 @@
 [
   {
-    "site": "LUA",
-    "frac": "0.490192153722978",
+    "value": "LUA",
+    "frac": "0.490943660562394",
     "table": "fluvaccine.rds",
     "field": "site",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "site": "RUA",
-    "frac": "0.477882305844676",
+    "value": "RUA",
+    "frac": "0.474932452716902",
     "table": "fluvaccine.rds",
     "field": "site",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "site": "BN",
-    "frac": "0.0319255404323459",
+    "value": "BN",
+    "frac": "0.0341238867207045",
     "table": "fluvaccine.rds",
     "field": "site",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

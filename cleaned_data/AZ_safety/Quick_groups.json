@@ -1,79 +1,79 @@
 [
   {
-    "Quick_groups": "Arterial_thromb",
-    "frac": "0.387526278906797",
+    "value": "Arterial_thromb",
+    "frac": "0.377817853922453",
     "table": "AZ_safety.rds",
     "field": "Quick_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Quick_groups": "haem_gigu",
-    "frac": "0.26118730603664",
+    "value": "haem_gigu",
+    "frac": "0.265103697024346",
     "table": "AZ_safety.rds",
     "field": "Quick_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Quick_groups": "not relevant",
-    "frac": "0.190309340274302",
+    "value": "not relevant",
+    "frac": "0.19757539324717",
     "table": "AZ_safety.rds",
     "field": "Quick_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Quick_groups": "pulm_emb",
-    "frac": "0.0518570427470217",
+    "value": "pulm_emb",
+    "frac": "0.0517984169922853",
     "table": "AZ_safety.rds",
     "field": "Quick_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Quick_groups": "dv_throm",
-    "frac": "0.042646911602763",
+    "value": "dv_throm",
+    "frac": "0.0455866145676786",
     "table": "AZ_safety.rds",
     "field": "Quick_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Quick_groups": "itp_gen",
-    "frac": "0.0104114525978576",
+    "value": "itp_gen",
+    "frac": "0.00991884580703336",
     "table": "AZ_safety.rds",
     "field": "Quick_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Quick_groups": "cereb_haem",
-    "frac": "0.0100110121133247",
+    "value": "cereb_haem",
+    "frac": "0.00901713255184851",
     "table": "AZ_safety.rds",
     "field": "Quick_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Quick_groups": "haem",
-    "frac": "0.00810891981179297",
+    "value": "haem",
+    "frac": "0.00831580002003807",
     "table": "AZ_safety.rds",
     "field": "Quick_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Quick_groups": "haem_sc",
-    "frac": "0.00760836920612674",
+    "value": "haem_sc",
+    "frac": "0.00811541929666366",
     "table": "AZ_safety.rds",
     "field": "Quick_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "Quick_groups": "sub_arach_haem",
-    "frac": "0.00740814896386025",
+    "value": "sub_arach_haem",
+    "frac": "0.00741408676485322",
     "table": "AZ_safety.rds",
     "field": "Quick_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

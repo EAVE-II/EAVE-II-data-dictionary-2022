@@ -1,55 +1,55 @@
 [
   {
-    "analysis_groups": "exclude",
-    "frac": "0.46262383668568",
+    "value": "exclude",
+    "frac": "0.471977582065653",
     "table": "AZ_safety.rds",
     "field": "analysis_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "analysis_groups": "Arterial_thromb",
-    "frac": "0.387371159811868",
+    "value": "Arterial_thromb",
+    "frac": "0.37740192153723",
     "table": "AZ_safety.rds",
     "field": "analysis_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "analysis_groups": "Thrombo_emb excl CSVT",
-    "frac": "0.103072150505354",
+    "value": "Thrombo_emb excl CSVT",
+    "frac": "0.104383506805444",
     "table": "AZ_safety.rds",
     "field": "analysis_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "analysis_groups": "all haem",
-    "frac": "0.0255178625037526",
+    "value": "all haem",
+    "frac": "0.0247197758206565",
     "table": "AZ_safety.rds",
     "field": "analysis_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "analysis_groups": "Thrombocytopenia_excl_itp",
-    "frac": "0.0104072850995697",
+    "value": "Thrombocytopenia_excl_itp",
+    "frac": "0.00990792634107286",
     "table": "AZ_safety.rds",
     "field": "analysis_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "analysis_groups": "haem_sc",
-    "frac": "0.00760532372660863",
+    "value": "haem_sc",
+    "frac": "0.00810648518815052",
     "table": "AZ_safety.rds",
     "field": "analysis_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 07:05:10"
   },
   {
-    "analysis_groups": "itp",
-    "frac": "0.00340238166716702",
+    "value": "itp",
+    "frac": "0.00350280224179343",
     "table": "AZ_safety.rds",
     "field": "analysis_groups",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

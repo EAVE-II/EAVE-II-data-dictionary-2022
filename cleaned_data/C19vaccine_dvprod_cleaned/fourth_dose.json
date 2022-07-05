@@ -1,79 +1,79 @@
 [
   {
-    "fourth_dose": null,
-    "frac": "0.86325407538158",
+    "value": null,
+    "frac": "0.856995140109606",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fourth_dose",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "fourth_dose": "2022-04-13",
-    "frac": "0.00612605129270065",
+    "value": "2022-04-13",
+    "frac": "0.00589390962671906",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fourth_dose",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "fourth_dose": "2022-04-11",
-    "frac": "0.00591838853701589",
+    "value": "2022-04-11",
+    "frac": "0.00579050770344328",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fourth_dose",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "fourth_dose": "2022-04-12",
-    "frac": "0.00560689440348873",
+    "value": "2022-04-12",
+    "frac": "0.00568710578016751",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fourth_dose",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "fourth_dose": "2022-04-21",
-    "frac": "0.00529540026996158",
+    "value": "2022-04-14",
+    "frac": "0.00485989039396133",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fourth_dose",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "fourth_dose": "2022-04-14",
-    "frac": "0.00508773751427681",
+    "value": "2022-04-27",
+    "frac": "0.00485989039396133",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fourth_dose",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "fourth_dose": "2022-04-29",
-    "frac": "0.00477624338074966",
+    "value": "2022-04-20",
+    "frac": "0.00465308654740978",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fourth_dose",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "fourth_dose": "2022-04-26",
-    "frac": "0.00394559235801059",
+    "value": "2022-04-22",
+    "frac": "0.00465308654740978",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fourth_dose",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "fourth_dose": "2022-04-19",
-    "frac": "0.00384176098016821",
+    "value": "2022-04-25",
+    "frac": "0.00423947885430669",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fourth_dose",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "fourth_dose": "2022-04-27",
-    "frac": "0.00384176098016821",
+    "value": "2022-04-19",
+    "frac": "0.00392927308447937",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "fourth_dose",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

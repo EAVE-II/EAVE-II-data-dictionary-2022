@@ -1,79 +1,79 @@
 [
   {
-    "eave_weight": "1",
-    "frac": "0.103972780946663",
+    "value": "1",
+    "frac": "0.0944944944944945",
     "table": "Qcovid_prepped.rds",
     "field": "eave_weight",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "eave_weight": "0.9115",
-    "frac": "0.0116081256879816",
+    "value": "0.8609",
+    "frac": "0.0157157157157157",
     "table": "Qcovid_prepped.rds",
     "field": "eave_weight",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "eave_weight": "0.9515",
-    "frac": "0.01110777544281",
+    "value": "0.9115",
+    "frac": "0.0127127127127127",
     "table": "Qcovid_prepped.rds",
     "field": "eave_weight",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "eave_weight": "0.9055",
-    "frac": "0.0109076353447413",
+    "value": "0.9116",
+    "frac": "0.0115115115115115",
     "table": "Qcovid_prepped.rds",
     "field": "eave_weight",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "eave_weight": "0.8607",
-    "frac": "0.010507355148604",
+    "value": "0.8186",
+    "frac": "0.0107107107107107",
     "table": "Qcovid_prepped.rds",
     "field": "eave_weight",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "eave_weight": "0.8166",
-    "frac": "0.0104072850995697",
+    "value": "0.8607",
+    "frac": "0.0106106106106106",
     "table": "Qcovid_prepped.rds",
     "field": "eave_weight",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "eave_weight": "0.897",
-    "frac": "0.0101070749524667",
+    "value": "0.9088",
+    "frac": "0.0105105105105105",
     "table": "Qcovid_prepped.rds",
     "field": "eave_weight",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "eave_weight": "0.8753",
-    "frac": "0.0100070049034324",
+    "value": "0.8542",
+    "frac": "0.01001001001001",
     "table": "Qcovid_prepped.rds",
     "field": "eave_weight",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "eave_weight": "0.9218",
-    "frac": "0.0100070049034324",
+    "value": "0.9057",
+    "frac": "0.00990990990990991",
     "table": "Qcovid_prepped.rds",
     "field": "eave_weight",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "eave_weight": "0.8079",
-    "frac": "0.00990693485439808",
+    "value": "0.9242",
+    "frac": "0.00990990990990991",
     "table": "Qcovid_prepped.rds",
     "field": "eave_weight",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

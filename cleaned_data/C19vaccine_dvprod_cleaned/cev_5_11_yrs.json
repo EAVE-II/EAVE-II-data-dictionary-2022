@@ -1,6 +1,6 @@
 [
   {
-    "cev_5_11_yrs": "0",
+    "value": "0",
     "frac": "1",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "cev_5_11_yrs",

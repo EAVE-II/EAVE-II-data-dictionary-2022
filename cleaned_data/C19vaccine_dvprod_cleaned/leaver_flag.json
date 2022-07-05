@@ -1,15 +1,15 @@
 [
   {
-    "leaver_flag": "0",
-    "frac": "0.9919",
+    "value": "0",
+    "frac": "0.9924",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "leaver_flag",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "leaver_flag": "1",
-    "frac": "0.0081",
+    "value": "1",
+    "frac": "0.0076",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "leaver_flag",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

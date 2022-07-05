@@ -1,15 +1,15 @@
 [
   {
-    "COV_CNSGROUP_COD": null,
-    "frac": "0.8858",
+    "value": null,
+    "frac": "0.8896",
     "table": "C6_cohort.rds",
     "field": "COV_CNSGROUP_COD",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-03-12 14:57:09"
   },
   {
-    "COV_CNSGROUP_COD": "1",
-    "frac": "0.1142",
+    "value": "1",
+    "frac": "0.1104",
     "table": "C6_cohort.rds",
     "field": "COV_CNSGROUP_COD",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

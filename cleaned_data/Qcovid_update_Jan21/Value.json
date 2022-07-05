@@ -1,79 +1,79 @@
 [
   {
-    "Value": "1",
-    "frac": "0.450745366639807",
+    "value": "1",
+    "frac": "0.439947649249975",
     "table": "Qcovid_update_Jan21.rds",
     "field": "Value",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-02-09 11:02:59"
   },
   {
-    "Value": "3",
-    "frac": "0.265108783239323",
+    "value": "3",
+    "frac": "0.262961844357193",
     "table": "Qcovid_update_Jan21.rds",
     "field": "Value",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-02-09 11:02:59"
   },
   {
-    "Value": "27",
-    "frac": "0.0170225624496374",
+    "value": "26",
+    "frac": "0.0196315312594382",
     "table": "Qcovid_update_Jan21.rds",
     "field": "Value",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-02-09 11:02:59"
   },
   {
-    "Value": "26",
-    "frac": "0.0164182111200645",
+    "value": "27",
+    "frac": "0.0190274841437632",
     "table": "Qcovid_update_Jan21.rds",
     "field": "Value",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-02-09 11:02:59"
   },
   {
-    "Value": "25",
-    "frac": "0.0162167606768735",
+    "value": "23",
+    "frac": "0.0161079230846673",
     "table": "Qcovid_update_Jan21.rds",
     "field": "Value",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-02-09 11:02:59"
   },
   {
-    "Value": "23",
-    "frac": "0.0153102336825141",
+    "value": "29",
+    "frac": "0.0158058995268298",
     "table": "Qcovid_update_Jan21.rds",
     "field": "Value",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-02-09 11:02:59"
   },
   {
-    "Value": "24",
-    "frac": "0.0145044319097502",
+    "value": "25",
+    "frac": "0.0151011778918756",
     "table": "Qcovid_update_Jan21.rds",
     "field": "Value",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-02-09 11:02:59"
   },
   {
-    "Value": "28",
-    "frac": "0.0142022562449637",
+    "value": "30",
+    "frac": "0.0146984798147589",
     "table": "Qcovid_update_Jan21.rds",
     "field": "Value",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-02-09 11:02:59"
   },
   {
-    "Value": "30",
-    "frac": "0.0141015310233683",
+    "value": "24",
+    "frac": "0.013591060102688",
     "table": "Qcovid_update_Jan21.rds",
     "field": "Value",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-02-09 11:02:59"
   },
   {
-    "Value": "29",
-    "frac": "0.0132957292506044",
+    "value": "28",
+    "frac": "0.0132890365448505",
     "table": "Qcovid_update_Jan21.rds",
     "field": "Value",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

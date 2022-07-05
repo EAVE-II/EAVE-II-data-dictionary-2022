@@ -1,6 +1,6 @@
 [
   {
-    "StartDate": "2019-11-12",
+    "value": "2019-11-12",
     "frac": "1",
     "table": "AZ_safety_2022-02-21_myopericarditis.rds",
     "field": "StartDate",

@@ -1,15 +1,15 @@
 [
   {
-    "Time.To.Death": "103",
-    "frac": "0.986552935273457",
+    "value": "103",
+    "frac": "0.985635359116022",
     "table": "Qcovid_prepped.rds",
     "field": "Time.To.Death",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Time.To.Death": null,
-    "frac": "0.0134470647265429",
+    "value": null,
+    "frac": "0.0143646408839779",
     "table": "Qcovid_prepped.rds",
     "field": "Time.To.Death",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

@@ -1,6 +1,6 @@
 [
   {
-    "EAVE_LINKNO": null,
+    "value": null,
     "frac": null,
     "table": "Platelet_counts.rds",
     "field": "EAVE_LINKNO",

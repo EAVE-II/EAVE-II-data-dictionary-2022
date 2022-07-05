@@ -1,55 +1,55 @@
 [
   {
-    "ur6_2016": "2",
-    "frac": "0.3697",
+    "value": "2",
+    "frac": "0.3681",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "ur6_2016",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "ur6_2016": "1",
-    "frac": "0.3038",
+    "value": "1",
+    "frac": "0.3046",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "ur6_2016",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "ur6_2016": "5",
-    "frac": "0.1242",
+    "value": "5",
+    "frac": "0.116",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "ur6_2016",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "ur6_2016": "3",
-    "frac": "0.0907",
+    "value": "3",
+    "frac": "0.0948",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "ur6_2016",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "ur6_2016": "6",
-    "frac": "0.0656",
+    "value": "6",
+    "frac": "0.0672",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "ur6_2016",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "ur6_2016": "4",
-    "frac": "0.0438",
+    "value": "4",
+    "frac": "0.0464",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "ur6_2016",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-17 11:57:51"
   },
   {
-    "ur6_2016": null,
-    "frac": "0.0022",
+    "value": null,
+    "frac": "0.0029",
     "table": "broad_neuro_cohort_Nov2021.rds",
     "field": "ur6_2016",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

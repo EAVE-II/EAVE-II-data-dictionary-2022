@@ -1,79 +1,79 @@
 [
   {
-    "patient_derived_health_board_code_9": "S08000031",
-    "frac": "0.211484593837535",
+    "value": "S08000031",
+    "frac": "0.210205102551276",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_health_board_code_9",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "patient_derived_health_board_code_9": "S08000024",
-    "frac": "0.163665466186475",
+    "value": "S08000024",
+    "frac": "0.160780390195098",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_health_board_code_9",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "patient_derived_health_board_code_9": "S08000032",
-    "frac": "0.123849539815926",
+    "value": "S08000032",
+    "frac": "0.119159579789895",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_health_board_code_9",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "patient_derived_health_board_code_9": "S08000020",
-    "frac": "0.102841136454582",
+    "value": "S08000020",
+    "frac": "0.105452726363182",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_health_board_code_9",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "patient_derived_health_board_code_9": "S08000030",
-    "frac": "0.0764305722288916",
+    "value": "S08000030",
+    "frac": "0.0789394697348674",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_health_board_code_9",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "patient_derived_health_board_code_9": "S08000015",
-    "frac": "0.0711284513805522",
+    "value": "S08000015",
+    "frac": "0.072536268134067",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_health_board_code_9",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "patient_derived_health_board_code_9": "S08000029",
-    "frac": "0.0665266106442577",
+    "value": "S08000029",
+    "frac": "0.0679339669834917",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_health_board_code_9",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "patient_derived_health_board_code_9": "S08000022",
-    "frac": "0.0605242096838736",
+    "value": "S08000022",
+    "frac": "0.0617308654327164",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_health_board_code_9",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "patient_derived_health_board_code_9": "S08000019",
-    "frac": "0.055922368947579",
+    "value": "S08000019",
+    "frac": "0.0545272636318159",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_health_board_code_9",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "patient_derived_health_board_code_9": "S08000017",
-    "frac": "0.030812324929972",
+    "value": "S08000017",
+    "frac": "0.0330165082541271",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "patient_derived_health_board_code_9",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

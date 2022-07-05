@@ -1,79 +1,79 @@
 [
   {
-    "batch": "8556B1A",
-    "frac": "0.120349012135192",
+    "value": "8556B1A",
+    "frac": "0.12085926520779",
     "table": "fluvaccine.rds",
     "field": "batch",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "batch": "8636B1A",
-    "frac": "0.118242904422826",
+    "value": "8636B1A",
+    "frac": "0.111021883155993",
     "table": "fluvaccine.rds",
     "field": "batch",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "batch": "8636A1A",
-    "frac": "0.105305385618293",
+    "value": "8636A1A",
+    "frac": "0.108411965468781",
     "table": "fluvaccine.rds",
     "field": "batch",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "batch": "3079171A",
-    "frac": "0.0918664125965299",
+    "value": "8642A1A",
+    "frac": "0.0870307167235495",
     "table": "fluvaccine.rds",
     "field": "batch",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "batch": "8642A1A",
-    "frac": "0.0862501253635543",
+    "value": "3079171A",
+    "frac": "0.085123469182895",
     "table": "fluvaccine.rds",
     "field": "batch",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "batch": "3079181A",
-    "frac": "0.0814361648781466",
+    "value": "3079181A",
+    "frac": "0.0849227062838787",
     "table": "fluvaccine.rds",
     "field": "batch",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "batch": "3079311A",
-    "frac": "0.0806338381305787",
+    "value": "3079311A",
+    "frac": "0.0761895201766714",
     "table": "fluvaccine.rds",
     "field": "batch",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "batch": "P100368151",
-    "frac": "0.0635843947447598",
+    "value": "3079371A",
+    "frac": "0.0652479421802851",
     "table": "fluvaccine.rds",
     "field": "batch",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "batch": "3079371A",
-    "frac": "0.0595727610069201",
+    "value": "P100362174",
+    "frac": "0.0640433647861875",
     "table": "fluvaccine.rds",
     "field": "batch",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 06:18:52"
   },
   {
-    "batch": "P100362174",
-    "frac": "0.0539564737739444",
+    "value": "P100368151",
+    "frac": "0.0619353543465168",
     "table": "fluvaccine.rds",
     "field": "batch",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

@@ -1,6 +1,6 @@
 [
   {
-    "DeductionDate": null,
+    "value": null,
     "frac": "1",
     "table": "Qcovid_prepped.rds",
     "field": "DeductionDate",

@@ -1,6 +1,6 @@
 [
   {
-    "dose_number": "1",
+    "value": "1",
     "frac": "1",
     "table": "FLUvaccine_dvprod.rds",
     "field": "dose_number",

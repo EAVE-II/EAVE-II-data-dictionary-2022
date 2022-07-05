@@ -1,79 +1,79 @@
 [
   {
-    "Age": "50",
-    "frac": "0.0199598796389167",
+    "value": "56",
+    "frac": "0.01985559566787",
     "table": "Qcovid_prepped.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Age": "54",
-    "frac": "0.0198595787362086",
+    "value": "27",
+    "frac": "0.0196550340954673",
     "table": "Qcovid_prepped.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Age": "51",
-    "frac": "0.0197592778335005",
+    "value": "28",
+    "frac": "0.0193541917368632",
     "table": "Qcovid_prepped.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Age": "30",
-    "frac": "0.0191574724172518",
+    "value": "54",
+    "frac": "0.0192539109506619",
     "table": "Qcovid_prepped.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Age": "55",
-    "frac": "0.0191574724172518",
+    "value": "30",
+    "frac": "0.0190533493782591",
     "table": "Qcovid_prepped.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Age": "23",
-    "frac": "0.0189568706118355",
+    "value": "34",
+    "frac": "0.0189530685920578",
     "table": "Qcovid_prepped.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Age": "32",
-    "frac": "0.0187562688064193",
+    "value": "31",
+    "frac": "0.018752507019655",
     "table": "Qcovid_prepped.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Age": "39",
-    "frac": "0.0184553660982949",
+    "value": "33",
+    "frac": "0.0184516646610509",
     "table": "Qcovid_prepped.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Age": "31",
-    "frac": "0.0183550651955868",
+    "value": "48",
+    "frac": "0.0184516646610509",
     "table": "Qcovid_prepped.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Age": "35",
-    "frac": "0.0182547642928786",
+    "value": "49",
+    "frac": "0.0184516646610509",
     "table": "Qcovid_prepped.rds",
     "field": "Age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

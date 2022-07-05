@@ -1,79 +1,79 @@
 [
   {
-    "age": "57",
-    "frac": "0.019647355163728",
+    "value": "57",
+    "frac": "0.0212595266746891",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "age": "75",
-    "frac": "0.0193450881612091",
+    "value": "58",
+    "frac": "0.0197553148816687",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "age": "60",
-    "frac": "0.0190428211586902",
+    "value": "55",
+    "frac": "0.0193541917368632",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "age": "59",
-    "frac": "0.0184382871536524",
+    "value": "53",
+    "frac": "0.018752507019655",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "age": "63",
-    "frac": "0.0184382871536524",
+    "value": "75",
+    "frac": "0.0185519454472523",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "age": "64",
-    "frac": "0.0182367758186398",
+    "value": "59",
+    "frac": "0.0174488567990373",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "age": "61",
-    "frac": "0.0180352644836272",
+    "value": "54",
+    "frac": "0.0173485760128359",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "age": "54",
-    "frac": "0.0179345088161209",
+    "value": "60",
+    "frac": "0.0172482952266346",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "age": "56",
-    "frac": "0.0178337531486146",
+    "value": "65",
+    "frac": "0.0171480144404332",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "age": "51",
-    "frac": "0.017632241813602",
+    "value": "66",
+    "frac": "0.0171480144404332",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "age",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

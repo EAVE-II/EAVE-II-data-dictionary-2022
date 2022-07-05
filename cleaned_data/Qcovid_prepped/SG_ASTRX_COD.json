@@ -1,15 +1,15 @@
 [
   {
-    "SG_ASTRX_COD": "0",
-    "frac": "0.9262",
+    "value": "0",
+    "frac": "0.9258",
     "table": "Qcovid_prepped.rds",
     "field": "SG_ASTRX_COD",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "SG_ASTRX_COD": "1",
-    "frac": "0.0738",
+    "value": "1",
+    "frac": "0.0742",
     "table": "Qcovid_prepped.rds",
     "field": "SG_ASTRX_COD",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

@@ -1,6 +1,6 @@
 [
   {
-    "Q_DIAG_DIABETES_2": "0",
+    "value": "0",
     "frac": "1",
     "table": "QCOVID_feb22.rds",
     "field": "Q_DIAG_DIABETES_2",

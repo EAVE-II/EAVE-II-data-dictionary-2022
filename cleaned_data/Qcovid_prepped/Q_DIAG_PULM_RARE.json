@@ -1,15 +1,15 @@
 [
   {
-    "Q_DIAG_PULM_RARE": "0",
-    "frac": "0.9954",
+    "value": "0",
+    "frac": "0.9958",
     "table": "Qcovid_prepped.rds",
     "field": "Q_DIAG_PULM_RARE",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Q_DIAG_PULM_RARE": "1",
-    "frac": "0.0046",
+    "value": "1",
+    "frac": "0.0042",
     "table": "Qcovid_prepped.rds",
     "field": "Q_DIAG_PULM_RARE",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

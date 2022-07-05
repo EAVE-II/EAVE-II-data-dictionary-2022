@@ -1,79 +1,79 @@
 [
   {
-    "occurrence_time": "2021-10-26",
-    "frac": "0.0173290443083947",
+    "value": "2021-11-02",
+    "frac": "0.01828890266584",
     "table": "FLUvaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "occurrence_time": "2021-11-25",
-    "frac": "0.0172252775760091",
+    "value": "2021-11-05",
+    "frac": "0.0170489770613763",
     "table": "FLUvaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "occurrence_time": "2021-11-04",
-    "frac": "0.0167064439140811",
+    "value": "2021-10-23",
+    "frac": "0.0164290142591445",
     "table": "FLUvaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "occurrence_time": "2021-11-11",
-    "frac": "0.0160838435197676",
+    "value": "2021-11-03",
+    "frac": "0.0163256871254391",
     "table": "FLUvaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "occurrence_time": "2021-10-21",
-    "frac": "0.015980076787382",
+    "value": "2021-10-28",
+    "frac": "0.0161190328580285",
     "table": "FLUvaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "occurrence_time": "2021-11-03",
-    "frac": "0.0158763100549964",
+    "value": "2021-11-24",
+    "frac": "0.015602397189502",
     "table": "FLUvaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "occurrence_time": "2021-10-20",
-    "frac": "0.0157725433226108",
+    "value": "2021-11-12",
+    "frac": "0.015292415788386",
     "table": "FLUvaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "occurrence_time": "2021-10-23",
-    "frac": "0.0156687765902252",
+    "value": "2021-11-22",
+    "frac": "0.015292415788386",
     "table": "FLUvaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "occurrence_time": "2021-11-10",
-    "frac": "0.0156687765902252",
+    "value": "2021-11-10",
+    "frac": "0.0150857615209754",
     "table": "FLUvaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-12-13 07:31:18"
   },
   {
-    "occurrence_time": "2021-11-17",
-    "frac": "0.0155650098578396",
+    "value": "2021-11-11",
+    "frac": "0.0150857615209754",
     "table": "FLUvaccine_dvprod.rds",
     "field": "occurrence_time",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

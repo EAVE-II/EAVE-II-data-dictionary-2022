@@ -1,6 +1,6 @@
 [
   {
-    "postcode": null,
+    "value": null,
     "frac": "1",
     "table": "C19vaccine.rds",
     "field": "postcode",

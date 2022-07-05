@@ -1,6 +1,6 @@
 [
   {
-    "stage": "1",
+    "value": "1",
     "frac": "1",
     "table": "fluvaccine_20220209.rds",
     "field": "stage",

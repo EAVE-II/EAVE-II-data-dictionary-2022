@@ -1,15 +1,15 @@
 [
   {
-    "COV_ASTRX_COD": null,
-    "frac": "0.9605",
+    "value": null,
+    "frac": "0.9626",
     "table": "C6_cohort.rds",
     "field": "COV_ASTRX_COD",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2021-03-12 14:57:09"
   },
   {
-    "COV_ASTRX_COD": "1",
-    "frac": "0.0395",
+    "value": "1",
+    "frac": "0.0374",
     "table": "C6_cohort.rds",
     "field": "COV_ASTRX_COD",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

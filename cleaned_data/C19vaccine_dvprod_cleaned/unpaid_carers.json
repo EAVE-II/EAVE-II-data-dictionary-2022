@@ -1,15 +1,15 @@
 [
   {
-    "unpaid_carers": "0",
-    "frac": "0.9276",
+    "value": "0",
+    "frac": "0.9329",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "unpaid_carers",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-07-04 09:11:55"
   },
   {
-    "unpaid_carers": "1",
-    "frac": "0.0724",
+    "value": "1",
+    "frac": "0.0671",
     "table": "C19vaccine_dvprod_cleaned.rds",
     "field": "unpaid_carers",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

@@ -1,23 +1,15 @@
 [
   {
-    "Q_HOME_CAT": null,
-    "frac": "0.9859",
+    "value": null,
+    "frac": "0.989990991892703",
     "table": "QCOVIDdeduped.rds",
     "field": "Q_HOME_CAT",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-22 11:00:54"
   },
   {
-    "Q_HOME_CAT": "1",
-    "frac": "0.0126",
-    "table": "QCOVIDdeduped.rds",
-    "field": "Q_HOME_CAT",
-    "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
-    "date_last_modified": "2020-12-22 11:00:54"
-  },
-  {
-    "Q_HOME_CAT": "2",
-    "frac": "0.0015",
+    "value": "1",
+    "frac": "0.0100090081072966",
     "table": "QCOVIDdeduped.rds",
     "field": "Q_HOME_CAT",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

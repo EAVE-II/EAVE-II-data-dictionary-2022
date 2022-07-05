@@ -1,15 +1,15 @@
 [
   {
-    "Q_DIAG_CONGEN_HD": "0",
-    "frac": "0.9917",
+    "value": "0",
+    "frac": "0.9926",
     "table": "Qcovid_prepped.rds",
     "field": "Q_DIAG_CONGEN_HD",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2020-12-10 09:58:00"
   },
   {
-    "Q_DIAG_CONGEN_HD": "1",
-    "frac": "0.0083",
+    "value": "1",
+    "frac": "0.0074",
     "table": "Qcovid_prepped.rds",
     "field": "Q_DIAG_CONGEN_HD",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",

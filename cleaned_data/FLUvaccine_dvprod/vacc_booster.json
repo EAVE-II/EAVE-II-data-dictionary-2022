@@ -1,6 +1,6 @@
 [
   {
-    "vacc_booster": "FALSE",
+    "value": "FALSE",
     "frac": "1",
     "table": "FLUvaccine_dvprod.rds",
     "field": "vacc_booster",

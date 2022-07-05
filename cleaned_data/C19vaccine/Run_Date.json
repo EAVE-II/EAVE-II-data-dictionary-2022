@@ -1,79 +1,79 @@
 [
   {
-    "Run_Date": "2021-12-02 14:16:10",
-    "frac": "0.112896315338475",
+    "value": "2021-12-02 14:16:10",
+    "frac": "0.111337771097273",
     "table": "C19vaccine.rds",
     "field": "Run_Date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "Run_Date": "2021-06-28 16:23:21",
-    "frac": "0.0528063410454156",
+    "value": "2021-06-28 16:23:21",
+    "frac": "0.0550783766373202",
     "table": "C19vaccine.rds",
     "field": "Run_Date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "Run_Date": "2021-02-07 04:01:15",
-    "frac": "0.046700942587832",
+    "value": "2021-02-07 04:01:15",
+    "frac": "0.0443418509770238",
     "table": "C19vaccine.rds",
     "field": "Run_Date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "Run_Date": "2021-12-06 07:34:50",
-    "frac": "0.0276349614395887",
+    "value": "2021-12-06 07:34:50",
+    "frac": "0.0281296972299764",
     "table": "C19vaccine.rds",
     "field": "Run_Date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "Run_Date": "2021-11-01 08:34:35",
-    "frac": "0.015209940017138",
+    "value": "2021-11-01 08:34:35",
+    "frac": "0.0148164054112089",
     "table": "C19vaccine.rds",
     "field": "Run_Date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "Run_Date": "2021-04-01 08:56:00",
-    "frac": "0.0149957155098543",
+    "value": "2021-02-07 03:57:07",
+    "frac": "0.0142795791281941",
     "table": "C19vaccine.rds",
     "field": "Run_Date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "Run_Date": "2021-02-07 03:57:07",
-    "frac": "0.0144601542416452",
+    "value": "2021-04-01 08:56:00",
+    "frac": "0.0133132918187674",
     "table": "C19vaccine.rds",
     "field": "Run_Date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "Run_Date": "2021-12-22 08:59:23",
-    "frac": "0.0121036846615253",
+    "value": "2021-12-22 08:59:23",
+    "frac": "0.0133132918187674",
     "table": "C19vaccine.rds",
     "field": "Run_Date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "Run_Date": "2021-12-18 08:57:52",
-    "frac": "0.0113538988860326",
+    "value": "2021-12-19 08:58:49",
+    "frac": "0.0123470045093408",
     "table": "C19vaccine.rds",
     "field": "Run_Date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
     "date_last_modified": "2022-01-03 09:15:47"
   },
   {
-    "Run_Date": "2021-02-13 23:09:53",
-    "frac": "0.0110325621251071",
+    "value": "2021-12-17 09:00:21",
+    "frac": "0.0121322739961349",
     "table": "C19vaccine.rds",
     "field": "Run_Date",
     "folder": "/conf/EAVE/GPanalysis/data/cleaned_data",
