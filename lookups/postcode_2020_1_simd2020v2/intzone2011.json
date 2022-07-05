@@ -1,0 +1,82 @@
+[
+  {
+    "value": "S02001932",
+    "frac": "0.0164762741652021",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "S02001934",
+    "frac": "0.0160369068541301",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "S02001660",
+    "frac": "0.0147188049209139",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "S02001622",
+    "frac": "0.0112038664323374",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "S02001890",
+    "frac": "0.00966608084358524",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "S02001446",
+    "frac": "0.00834797891036907",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "S02001998",
+    "frac": "0.00834797891036907",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "S02001249",
+    "frac": "0.00768892794376098",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "S02001336",
+    "frac": "0.00746924428822496",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "S02001647",
+    "frac": "0.00746924428822496",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  }
+]

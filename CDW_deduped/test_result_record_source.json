@@ -1,0 +1,42 @@
+[
+  {
+    "value": "NHS DIGITAL",
+    "frac": "0.7644",
+    "table": "CDW_deduped.rds",
+    "field": "test_result_record_source",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 05:46:21"
+  },
+  {
+    "value": "ECOSS",
+    "frac": "0.2066",
+    "table": "CDW_deduped.rds",
+    "field": "test_result_record_source",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 05:46:21"
+  },
+  {
+    "value": "SGSS",
+    "frac": "0.0217",
+    "table": "CDW_deduped.rds",
+    "field": "test_result_record_source",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 05:46:21"
+  },
+  {
+    "value": "SCOT",
+    "frac": "0.0053",
+    "table": "CDW_deduped.rds",
+    "field": "test_result_record_source",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 05:46:21"
+  },
+  {
+    "value": "ONS",
+    "frac": "0.002",
+    "table": "CDW_deduped.rds",
+    "field": "test_result_record_source",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 05:46:21"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "0",
+    "frac": "0.673367346938776",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighHR",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "90",
+    "frac": "0.0156122448979592",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighHR",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "100",
+    "frac": "0.0151020408163265",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighHR",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "110",
+    "frac": "0.0123469387755102",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighHR",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "95",
+    "frac": "0.0112244897959184",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighHR",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "105",
+    "frac": "0.0110204081632653",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighHR",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "120",
+    "frac": "0.0108163265306122",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighHR",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "85",
+    "frac": "0.00989795918367347",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighHR",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "80",
+    "frac": "0.00969387755102041",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighHR",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "115",
+    "frac": "0.00969387755102041",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighHR",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

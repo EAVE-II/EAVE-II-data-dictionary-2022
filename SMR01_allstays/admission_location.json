@@ -1,0 +1,82 @@
+[
+  {
+    "value": "G405H",
+    "frac": "0.0699868140785069",
+    "table": "SMR01_allstays.rds",
+    "field": "admission_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "S314H",
+    "frac": "0.0568008925854549",
+    "table": "SMR01_allstays.rds",
+    "field": "admission_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "S116H",
+    "frac": "0.0543665686175068",
+    "table": "SMR01_allstays.rds",
+    "field": "admission_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "N101H",
+    "frac": "0.0537579876255198",
+    "table": "SMR01_allstays.rds",
+    "field": "admission_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "G107H",
+    "frac": "0.0536565574601887",
+    "table": "SMR01_allstays.rds",
+    "field": "admission_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "F704H",
+    "frac": "0.0527436859722081",
+    "table": "SMR01_allstays.rds",
+    "field": "admission_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "T101H",
+    "frac": "0.0527436859722081",
+    "table": "SMR01_allstays.rds",
+    "field": "admission_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "G516H",
+    "frac": "0.0473678872096562",
+    "table": "SMR01_allstays.rds",
+    "field": "admission_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "V217H",
+    "frac": "0.0452378537377016",
+    "table": "SMR01_allstays.rds",
+    "field": "admission_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "L308H",
+    "frac": "0.04249923927376",
+    "table": "SMR01_allstays.rds",
+    "field": "admission_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  }
+]

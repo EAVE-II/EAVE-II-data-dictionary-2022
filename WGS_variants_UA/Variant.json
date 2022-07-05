@@ -1,0 +1,26 @@
+[
+  {
+    "value": "DELTA",
+    "frac": "0.578",
+    "table": "WGS_variants_UA.rds",
+    "field": "Variant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "ALPHA",
+    "frac": "0.2875",
+    "table": "WGS_variants_UA.rds",
+    "field": "Variant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": null,
+    "frac": "0.1345",
+    "table": "WGS_variants_UA.rds",
+    "field": "Variant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  }
+]

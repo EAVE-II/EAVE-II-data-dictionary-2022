@@ -1,0 +1,82 @@
+[
+  {
+    "value": "consult_telephone",
+    "frac": "0.181551532315161",
+    "table": "longcovid_060222.rds",
+    "field": "group",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "consult_admin",
+    "frac": "0.102356629918074",
+    "table": "longcovid_060222.rds",
+    "field": "group",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "consult_message",
+    "frac": "0.0983109133205219",
+    "table": "longcovid_060222.rds",
+    "field": "group",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "bloodtests_renal",
+    "frac": "0.0957823404470517",
+    "table": "longcovid_060222.rds",
+    "field": "group",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "bloodtests_taken",
+    "frac": "0.0938606250632143",
+    "table": "longcovid_060222.rds",
+    "field": "group",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "consult_type",
+    "frac": "0.0700920400525943",
+    "table": "longcovid_060222.rds",
+    "field": "group",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "bloodtests_haem",
+    "frac": "0.0668554667745524",
+    "table": "longcovid_060222.rds",
+    "field": "group",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "consult_bloodpressure",
+    "frac": "0.0471325983614848",
+    "table": "longcovid_060222.rds",
+    "field": "group",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "bloodtests_glucose",
+    "frac": "0.0439971679983817",
+    "table": "longcovid_060222.rds",
+    "field": "group",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "bloodtests_biochem",
+    "frac": "0.0321634469505411",
+    "table": "longcovid_060222.rds",
+    "field": "group",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  }
+]

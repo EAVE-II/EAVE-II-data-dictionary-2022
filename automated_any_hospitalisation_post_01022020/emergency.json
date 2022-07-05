@@ -1,0 +1,18 @@
+[
+  {
+    "value": "TRUE",
+    "frac": "0.7769",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "emergency",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 03:26:23"
+  },
+  {
+    "value": "FALSE",
+    "frac": "0.2231",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "emergency",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 03:26:23"
+  }
+]

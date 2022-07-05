@@ -1,0 +1,82 @@
+[
+  {
+    "value": "140",
+    "frac": "0.0166172106824926",
+    "table": "HB2019_pop_est_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:13"
+  },
+  {
+    "value": "138",
+    "frac": "0.0154302670623145",
+    "table": "HB2019_pop_est_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:13"
+  },
+  {
+    "value": "141",
+    "frac": "0.0154302670623145",
+    "table": "HB2019_pop_est_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:13"
+  },
+  {
+    "value": "144",
+    "frac": "0.0142433234421365",
+    "table": "HB2019_pop_est_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:13"
+  },
+  {
+    "value": "151",
+    "frac": "0.0142433234421365",
+    "table": "HB2019_pop_est_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:13"
+  },
+  {
+    "value": "124",
+    "frac": "0.0136498516320475",
+    "table": "HB2019_pop_est_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:13"
+  },
+  {
+    "value": "147",
+    "frac": "0.0136498516320475",
+    "table": "HB2019_pop_est_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:13"
+  },
+  {
+    "value": "161",
+    "frac": "0.0136498516320475",
+    "table": "HB2019_pop_est_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:13"
+  },
+  {
+    "value": "126",
+    "frac": "0.0130563798219585",
+    "table": "HB2019_pop_est_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:13"
+  },
+  {
+    "value": "132",
+    "frac": "0.0130563798219585",
+    "table": "HB2019_pop_est_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:13"
+  }
+]

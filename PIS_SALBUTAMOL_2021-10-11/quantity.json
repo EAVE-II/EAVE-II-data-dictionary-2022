@@ -1,0 +1,82 @@
+[
+  {
+    "value": "1",
+    "frac": "0.670977443609023",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "quantity",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "2",
+    "frac": "0.290726817042607",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "quantity",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "20",
+    "frac": "0.00611528822055138",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "quantity",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "120",
+    "frac": "0.00581453634085213",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "quantity",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "60",
+    "frac": "0.00571428571428571",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "quantity",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "3",
+    "frac": "0.00451127819548872",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "quantity",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "40",
+    "frac": "0.00431077694235589",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "quantity",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "4",
+    "frac": "0.00380952380952381",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "quantity",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": null,
+    "frac": "0.0025062656641604",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "quantity",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "100",
+    "frac": "0.00200501253132832",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "quantity",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  }
+]

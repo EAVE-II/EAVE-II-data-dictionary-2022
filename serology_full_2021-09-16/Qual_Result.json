@@ -1,0 +1,26 @@
+[
+  {
+    "value": "negative",
+    "frac": "0.8268",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Qual_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": null,
+    "frac": "0.1636",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Qual_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "equivocal",
+    "frac": "0.0096",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Qual_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  }
+]

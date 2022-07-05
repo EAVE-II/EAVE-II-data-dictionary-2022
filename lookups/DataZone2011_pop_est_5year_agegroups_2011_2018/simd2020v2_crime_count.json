@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.121844319775596",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_crime_count",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "3.059732",
+    "frac": "0.00771388499298738",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_crime_count",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "12.056847",
+    "frac": "0.0073632538569425",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_crime_count",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "8.064947",
+    "frac": "0.00718793828892006",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_crime_count",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "10.057248",
+    "frac": "0.00701262272089762",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_crime_count",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "5.099553",
+    "frac": "0.00683730715287518",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_crime_count",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "8.159284",
+    "frac": "0.00683730715287518",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_crime_count",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "5.040592",
+    "frac": "0.00666199158485273",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_crime_count",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "17.080533",
+    "frac": "0.00666199158485273",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_crime_count",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "7.056829",
+    "frac": "0.00648667601683029",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_crime_count",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  }
+]

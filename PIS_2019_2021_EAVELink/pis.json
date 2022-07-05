@@ -1,0 +1,10 @@
+[
+  {
+    "value": "PIS",
+    "frac": "1",
+    "table": "PIS_2019_2021_EAVELink.rds",
+    "field": "pis",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-30 08:25:17"
+  }
+]

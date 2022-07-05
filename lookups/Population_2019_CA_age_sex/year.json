@@ -1,0 +1,10 @@
+[
+  {
+    "value": "2019",
+    "frac": "1",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  }
+]

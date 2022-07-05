@@ -1,0 +1,82 @@
+[
+  {
+    "value": "S02001845",
+    "frac": "0.00633111744222855",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "S02001580",
+    "frac": "0.00601456157011713",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "S02001618",
+    "frac": "0.0056980056980057",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "S02001889",
+    "frac": "0.0056980056980057",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "S02001952",
+    "frac": "0.0056980056980057",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "S02002104",
+    "frac": "0.0056980056980057",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "S02002481",
+    "frac": "0.0056980056980057",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "S02001338",
+    "frac": "0.00538144982589427",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "S02001474",
+    "frac": "0.00538144982589427",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "S02001503",
+    "frac": "0.00538144982589427",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "intzone2011",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  }
+]

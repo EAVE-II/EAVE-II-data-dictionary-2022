@@ -1,0 +1,18 @@
+[
+  {
+    "value": "20200901",
+    "frac": "0.9795",
+    "table": "CharlsonSept.rds",
+    "field": "extract_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-12-16 16:07:17"
+  },
+  {
+    "value": null,
+    "frac": "0.0205",
+    "table": "CharlsonSept.rds",
+    "field": "extract_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-12-16 16:07:17"
+  }
+]

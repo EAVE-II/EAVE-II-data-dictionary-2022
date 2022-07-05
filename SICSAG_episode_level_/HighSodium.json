@@ -1,0 +1,82 @@
+[
+  {
+    "value": "0",
+    "frac": "0.684614607536115",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighSodium",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "139",
+    "frac": "0.0359632286089504",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighSodium",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "138",
+    "frac": "0.0320234367107789",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighSodium",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "140",
+    "frac": "0.0306091524396404",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighSodium",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "137",
+    "frac": "0.0290938478634205",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighSodium",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "141",
+    "frac": "0.0280836448126073",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighSodium",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "136",
+    "frac": "0.0240428326093545",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighSodium",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "142",
+    "frac": "0.0229316092534599",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighSodium",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "135",
+    "frac": "0.0176785533892312",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighSodium",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "143",
+    "frac": "0.0175775330841499",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighSodium",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

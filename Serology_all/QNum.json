@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.89440353460972",
+    "table": "Serology_all.rds",
+    "field": "QNum",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "3.9",
+    "frac": "0.004860088365243",
+    "table": "Serology_all.rds",
+    "field": "QNum",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "5.1",
+    "frac": "0.004860088365243",
+    "table": "Serology_all.rds",
+    "field": "QNum",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "4.2",
+    "frac": "0.00456553755522828",
+    "table": "Serology_all.rds",
+    "field": "QNum",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "4.1",
+    "frac": "0.00441826215022091",
+    "table": "Serology_all.rds",
+    "field": "QNum",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "4.6",
+    "frac": "0.00441826215022091",
+    "table": "Serology_all.rds",
+    "field": "QNum",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "5",
+    "frac": "0.00441826215022091",
+    "table": "Serology_all.rds",
+    "field": "QNum",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "4.3",
+    "frac": "0.00412371134020619",
+    "table": "Serology_all.rds",
+    "field": "QNum",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "4.4",
+    "frac": "0.00397643593519882",
+    "table": "Serology_all.rds",
+    "field": "QNum",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "4.7",
+    "frac": "0.00397643593519882",
+    "table": "Serology_all.rds",
+    "field": "QNum",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  }
+]

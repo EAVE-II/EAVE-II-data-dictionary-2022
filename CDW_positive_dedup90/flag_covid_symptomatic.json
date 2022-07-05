@@ -1,0 +1,26 @@
+[
+  {
+    "value": "true",
+    "frac": "0.6559",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "flag_covid_symptomatic",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "false",
+    "frac": "0.2308",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "flag_covid_symptomatic",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": null,
+    "frac": "0.1133",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "flag_covid_symptomatic",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  }
+]

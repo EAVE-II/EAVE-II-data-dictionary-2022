@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": null,
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "EAVE_LINKNO",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  }
+]

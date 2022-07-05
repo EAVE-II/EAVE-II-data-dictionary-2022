@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": null,
+    "table": "SMR01_CharlsonSept.rds",
+    "field": "UPI_NUMBER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-12-16 13:30:06"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2021-06-14",
+    "frac": "0.0142",
+    "table": "serology_primcare_march22.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "2020-09-14",
+    "frac": "0.0139",
+    "table": "serology_primcare_march22.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "2020-07-13",
+    "frac": "0.0136",
+    "table": "serology_primcare_march22.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "2020-08-17",
+    "frac": "0.0136",
+    "table": "serology_primcare_march22.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "2020-10-19",
+    "frac": "0.0132",
+    "table": "serology_primcare_march22.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "2021-04-26",
+    "frac": "0.0132",
+    "table": "serology_primcare_march22.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "2021-09-20",
+    "frac": "0.0132",
+    "table": "serology_primcare_march22.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "2020-08-31",
+    "frac": "0.0131",
+    "table": "serology_primcare_march22.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "2020-10-26",
+    "frac": "0.0131",
+    "table": "serology_primcare_march22.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "2020-12-07",
+    "frac": "0.0131",
+    "table": "serology_primcare_march22.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "value": null,
+    "frac": "0.998672385620915",
+    "table": "EAVEIDs_CHILIchecked.rds",
+    "field": "removal_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-11-20 15:15:56"
+  },
+  {
+    "value": "-25567",
+    "frac": "0.00132761437908497",
+    "table": "EAVEIDs_CHILIchecked.rds",
+    "field": "removal_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-11-20 15:15:56"
+  }
+]

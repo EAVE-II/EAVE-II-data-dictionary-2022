@@ -1,0 +1,18 @@
+[
+  {
+    "value": "F",
+    "frac": "0.5109",
+    "table": "serology_updated_weights.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-02 11:03:02"
+  },
+  {
+    "value": "M",
+    "frac": "0.4891",
+    "table": "serology_updated_weights.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-02 11:03:02"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "value": null,
+    "frac": "0.9668",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_DIAG_CEREBRALPALSY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "0",
+    "frac": "0.0314",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_DIAG_CEREBRALPALSY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "1",
+    "frac": "0.0018",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_DIAG_CEREBRALPALSY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  }
+]

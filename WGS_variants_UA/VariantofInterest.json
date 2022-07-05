@@ -1,0 +1,26 @@
+[
+  {
+    "value": "VOC-21APR-02",
+    "frac": "0.579042276096975",
+    "table": "WGS_variants_UA.rds",
+    "field": "VariantofInterest",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "VOC-20DEC-01",
+    "frac": "0.288018433179723",
+    "table": "WGS_variants_UA.rds",
+    "field": "VariantofInterest",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "Not assigned VOC/VUI",
+    "frac": "0.132939290723302",
+    "table": "WGS_variants_UA.rds",
+    "field": "VariantofInterest",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  }
+]

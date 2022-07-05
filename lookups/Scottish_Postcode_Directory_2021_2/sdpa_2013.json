@@ -1,0 +1,42 @@
+[
+  {
+    "value": "S11000004",
+    "frac": "0.2894",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "sdpa_2013",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": null,
+    "frac": "0.2567",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "sdpa_2013",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S11000003",
+    "frac": "0.2",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "sdpa_2013",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S11000001",
+    "frac": "0.1571",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "sdpa_2013",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S11000005",
+    "frac": "0.0968",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "sdpa_2013",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  }
+]

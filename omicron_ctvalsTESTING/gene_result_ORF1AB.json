@@ -1,0 +1,10 @@
+[
+  {
+    "value": "POSITIVE",
+    "frac": "1",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "gene_result_ORF1AB",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  }
+]

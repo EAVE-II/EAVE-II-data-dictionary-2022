@@ -1,0 +1,82 @@
+[
+  {
+    "value": "10",
+    "frac": "0.0234968192078802",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "14",
+    "frac": "0.0232916068130515",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "13",
+    "frac": "0.0231890006156372",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "12",
+    "frac": "0.0207264518776934",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "20",
+    "frac": "0.0207264518776934",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "21",
+    "frac": "0.0207264518776934",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "19",
+    "frac": "0.0205212394828648",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "16",
+    "frac": "0.0202134208906218",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "15",
+    "frac": "0.0193925713113072",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "11",
+    "frac": "0.0184691155345783",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  }
+]

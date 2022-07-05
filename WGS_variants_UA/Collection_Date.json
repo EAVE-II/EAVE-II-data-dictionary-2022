@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2021-09-02",
+    "frac": "0.0190852625635234",
+    "table": "WGS_variants_UA.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "2021-09-01",
+    "frac": "0.0154714850367024",
+    "table": "WGS_variants_UA.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "2021-09-09",
+    "frac": "0.015132693393563",
+    "table": "WGS_variants_UA.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "2021-09-14",
+    "frac": "0.0138904573687182",
+    "table": "WGS_variants_UA.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "2021-09-11",
+    "frac": "0.012309429700734",
+    "table": "WGS_variants_UA.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "2021-09-03",
+    "frac": "0.0119706380575946",
+    "table": "WGS_variants_UA.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "2021-09-08",
+    "frac": "0.0119706380575946",
+    "table": "WGS_variants_UA.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "2021-06-22",
+    "frac": "0.0112930547713156",
+    "table": "WGS_variants_UA.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "2021-07-05",
+    "frac": "0.0106154714850367",
+    "table": "WGS_variants_UA.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "2021-09-16",
+    "frac": "0.0103896103896104",
+    "table": "WGS_variants_UA.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "11",
+    "frac": "0.655086103323989",
+    "table": "SMR01_allstays.rds",
+    "field": "DISCHARGE_TYPE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "10",
+    "frac": "0.281537845414497",
+    "table": "SMR01_allstays.rds",
+    "field": "DISCHARGE_TYPE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "40",
+    "frac": "0.0172206647977573",
+    "table": "SMR01_allstays.rds",
+    "field": "DISCHARGE_TYPE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "12",
+    "frac": "0.0146175410492591",
+    "table": "SMR01_allstays.rds",
+    "field": "DISCHARGE_TYPE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "42",
+    "frac": "0.00961153384060873",
+    "table": "SMR01_allstays.rds",
+    "field": "DISCHARGE_TYPE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "18",
+    "frac": "0.00851021225470565",
+    "table": "SMR01_allstays.rds",
+    "field": "DISCHARGE_TYPE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "21",
+    "frac": "0.00650780937124549",
+    "table": "SMR01_allstays.rds",
+    "field": "DISCHARGE_TYPE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "20",
+    "frac": "0.00450540648778534",
+    "table": "SMR01_allstays.rds",
+    "field": "DISCHARGE_TYPE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "13",
+    "frac": "0.00120144173007609",
+    "table": "SMR01_allstays.rds",
+    "field": "DISCHARGE_TYPE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "22",
+    "frac": "0.00120144173007609",
+    "table": "SMR01_allstays.rds",
+    "field": "DISCHARGE_TYPE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  }
+]

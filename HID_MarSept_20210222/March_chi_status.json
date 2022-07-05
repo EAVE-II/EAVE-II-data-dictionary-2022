@@ -1,0 +1,18 @@
+[
+  {
+    "value": null,
+    "frac": "0.7421",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_chi_status",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "C",
+    "frac": "0.2579",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_chi_status",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  }
+]

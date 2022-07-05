@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2020-02-20",
+    "frac": "0.00467745078931982",
+    "table": "smr01_2019-22.rds",
+    "field": "ADMISSION_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-05-05 15:03:27"
+  },
+  {
+    "value": "2019-12-23",
+    "frac": "0.00448255700643149",
+    "table": "smr01_2019-22.rds",
+    "field": "ADMISSION_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-05-05 15:03:27"
+  },
+  {
+    "value": "2019-06-06",
+    "frac": "0.00409276944065484",
+    "table": "smr01_2019-22.rds",
+    "field": "ADMISSION_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-05-05 15:03:27"
+  },
+  {
+    "value": "2019-07-01",
+    "frac": "0.00409276944065484",
+    "table": "smr01_2019-22.rds",
+    "field": "ADMISSION_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-05-05 15:03:27"
+  },
+  {
+    "value": "2019-10-09",
+    "frac": "0.00409276944065484",
+    "table": "smr01_2019-22.rds",
+    "field": "ADMISSION_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-05-05 15:03:27"
+  },
+  {
+    "value": "2020-09-04",
+    "frac": "0.00409276944065484",
+    "table": "smr01_2019-22.rds",
+    "field": "ADMISSION_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-05-05 15:03:27"
+  },
+  {
+    "value": "2019-03-11",
+    "frac": "0.00389787565776652",
+    "table": "smr01_2019-22.rds",
+    "field": "ADMISSION_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-05-05 15:03:27"
+  },
+  {
+    "value": "2019-04-18",
+    "frac": "0.00389787565776652",
+    "table": "smr01_2019-22.rds",
+    "field": "ADMISSION_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-05-05 15:03:27"
+  },
+  {
+    "value": "2019-10-04",
+    "frac": "0.00389787565776652",
+    "table": "smr01_2019-22.rds",
+    "field": "ADMISSION_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-05-05 15:03:27"
+  },
+  {
+    "value": "2020-03-03",
+    "frac": "0.00389787565776652",
+    "table": "smr01_2019-22.rds",
+    "field": "ADMISSION_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-05-05 15:03:27"
+  }
+]

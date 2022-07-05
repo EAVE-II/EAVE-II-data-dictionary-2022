@@ -1,0 +1,82 @@
+[
+  {
+    "value": "<3.8",
+    "frac": "0.652127980682161",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_quant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "<4.81",
+    "frac": "0.127226079082403",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_quant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": ">2080.00",
+    "frac": "0.120434651373378",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_quant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "<3.80",
+    "frac": "0.00996076063990341",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_quant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": ">400.0",
+    "frac": "0.00588590401448838",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_quant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "4.4",
+    "frac": "0.00573498339873227",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_quant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "3.9",
+    "frac": "0.00482945970419559",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_quant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "4.8",
+    "frac": "0.00467853908843948",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_quant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "4.6",
+    "frac": "0.00452761847268337",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_quant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "4.9",
+    "frac": "0.00437669785692726",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_quant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  }
+]

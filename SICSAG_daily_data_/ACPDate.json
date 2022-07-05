@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2019-06-10",
+    "frac": "0.00556242274412855",
+    "table": "SICSAG_daily_data_.rds",
+    "field": "ACPDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:54"
+  },
+  {
+    "value": "2020-09-22",
+    "frac": "0.00556242274412855",
+    "table": "SICSAG_daily_data_.rds",
+    "field": "ACPDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:54"
+  },
+  {
+    "value": "2021-09-28",
+    "frac": "0.00556242274412855",
+    "table": "SICSAG_daily_data_.rds",
+    "field": "ACPDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:54"
+  },
+  {
+    "value": "2019-10-12",
+    "frac": "0.00525339925834363",
+    "table": "SICSAG_daily_data_.rds",
+    "field": "ACPDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:54"
+  },
+  {
+    "value": "2021-02-09",
+    "frac": "0.00525339925834363",
+    "table": "SICSAG_daily_data_.rds",
+    "field": "ACPDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:54"
+  },
+  {
+    "value": "2019-07-30",
+    "frac": "0.00494437577255871",
+    "table": "SICSAG_daily_data_.rds",
+    "field": "ACPDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:54"
+  },
+  {
+    "value": "2020-12-24",
+    "frac": "0.00494437577255871",
+    "table": "SICSAG_daily_data_.rds",
+    "field": "ACPDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:54"
+  },
+  {
+    "value": "2021-01-19",
+    "frac": "0.00494437577255871",
+    "table": "SICSAG_daily_data_.rds",
+    "field": "ACPDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:54"
+  },
+  {
+    "value": "2022-01-11",
+    "frac": "0.00494437577255871",
+    "table": "SICSAG_daily_data_.rds",
+    "field": "ACPDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:54"
+  },
+  {
+    "value": "2022-02-23",
+    "frac": "0.00494437577255871",
+    "table": "SICSAG_daily_data_.rds",
+    "field": "ACPDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:54"
+  }
+]

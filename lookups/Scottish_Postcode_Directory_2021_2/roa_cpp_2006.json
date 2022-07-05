@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.852985600644447",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "roa_cpp_2006",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S05000015",
+    "frac": "0.0643439734165744",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "roa_cpp_2006",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S05000020",
+    "frac": "0.0106736481723895",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "roa_cpp_2006",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S05000012",
+    "frac": "0.00755210955593596",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "roa_cpp_2006",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S05000017",
+    "frac": "0.00755210955593596",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "roa_cpp_2006",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S05000026",
+    "frac": "0.00755210955593596",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "roa_cpp_2006",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S05000007",
+    "frac": "0.00714933037961937",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "roa_cpp_2006",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S05000022",
+    "frac": "0.00684724599738193",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "roa_cpp_2006",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S05000008",
+    "frac": "0.0052361292921156",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "roa_cpp_2006",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "S05000027",
+    "frac": "0.00503473970395731",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "roa_cpp_2006",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  }
+]

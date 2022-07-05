@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": null,
+    "table": "serology_weights_EAVE_comorbs.rds",
+    "field": "EAVE_LINKNO",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-29 12:28:20"
+  }
+]

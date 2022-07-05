@@ -1,0 +1,58 @@
+[
+  {
+    "value": "2",
+    "frac": "0.3706",
+    "table": "CDW_full.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "1",
+    "frac": "0.3521",
+    "table": "CDW_full.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "5",
+    "frac": "0.108",
+    "table": "CDW_full.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "3",
+    "frac": "0.0757",
+    "table": "CDW_full.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "6",
+    "frac": "0.0455",
+    "table": "CDW_full.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "4",
+    "frac": "0.0389",
+    "table": "CDW_full.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": null,
+    "frac": "0.0092",
+    "table": "CDW_full.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  }
+]

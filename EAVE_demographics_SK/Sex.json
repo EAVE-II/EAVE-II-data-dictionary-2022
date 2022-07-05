@@ -1,0 +1,18 @@
+[
+  {
+    "value": "M",
+    "frac": "0.5022",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "F",
+    "frac": "0.4978",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "Sex",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  }
+]

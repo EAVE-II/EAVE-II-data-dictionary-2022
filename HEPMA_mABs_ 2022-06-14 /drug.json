@@ -1,0 +1,34 @@
+[
+  {
+    "value": "sotrovimab",
+    "frac": "0.488153998025666",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "drug",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  },
+  {
+    "value": "tocilizumab",
+    "frac": "0.211253701875617",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "drug",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  },
+  {
+    "value": "sarilumab",
+    "frac": "0.192003948667325",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "drug",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  },
+  {
+    "value": "ronapreve",
+    "frac": "0.108588351431392",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "drug",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "value": "890",
+    "frac": "1",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "pop",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  }
+]

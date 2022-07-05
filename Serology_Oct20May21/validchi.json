@@ -1,0 +1,10 @@
+[
+  {
+    "value": "Valid CHI",
+    "frac": "1",
+    "table": "Serology_Oct20May21.rds",
+    "field": "validchi",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "value": "Delta",
+    "frac": "0.6344",
+    "table": "WGS_variants_update.rds",
+    "field": "variant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-01-24 13:25:53"
+  },
+  {
+    "value": "Alpha",
+    "frac": "0.1705",
+    "table": "WGS_variants_update.rds",
+    "field": "variant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-01-24 13:25:53"
+  },
+  {
+    "value": "Omicron",
+    "frac": "0.1061",
+    "table": "WGS_variants_update.rds",
+    "field": "variant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-01-24 13:25:53"
+  },
+  {
+    "value": "Other",
+    "frac": "0.089",
+    "table": "WGS_variants_update.rds",
+    "field": "variant",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-01-24 13:25:53"
+  }
+]

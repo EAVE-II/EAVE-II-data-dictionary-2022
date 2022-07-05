@@ -1,0 +1,82 @@
+[
+  {
+    "value": "NON-ECOSS",
+    "frac": "0.92177483974359",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "ecoss_submitting_laboratory",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "GLA:REV",
+    "frac": "0.0212339743589744",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "ecoss_submitting_laboratory",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "EDI:RVL",
+    "frac": "0.0103165064102564",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "ecoss_submitting_laboratory",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "ABD:GHB",
+    "frac": "0.00841346153846154",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "ecoss_submitting_laboratory",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "LAN:LAW",
+    "frac": "0.00731169871794872",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "ecoss_submitting_laboratory",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "AYR:ARL",
+    "frac": "0.00721153846153846",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "ecoss_submitting_laboratory",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "DEE:UNI",
+    "frac": "0.0055088141025641",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "ecoss_submitting_laboratory",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "STI:ROY",
+    "frac": "0.00530849358974359",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "ecoss_submitting_laboratory",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "FIF:ARL",
+    "frac": "0.00500801282051282",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "ecoss_submitting_laboratory",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "BOR:ARL",
+    "frac": "0.0023036858974359",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "ecoss_submitting_laboratory",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  }
+]

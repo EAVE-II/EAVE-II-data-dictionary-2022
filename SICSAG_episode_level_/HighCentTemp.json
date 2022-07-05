@@ -1,0 +1,82 @@
+[
+  {
+    "value": "0",
+    "frac": "0.667609046849758",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighCentTemp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "37",
+    "frac": "0.0235258481421648",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighCentTemp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "37.2",
+    "frac": "0.0201938610662359",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighCentTemp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "37.5",
+    "frac": "0.0199919224555735",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighCentTemp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "36.8",
+    "frac": "0.0187802907915994",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighCentTemp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "37.4",
+    "frac": "0.0172657512116317",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighCentTemp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "37.1",
+    "frac": "0.0167609046849758",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighCentTemp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "37.6",
+    "frac": "0.0166599353796446",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighCentTemp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "37.3",
+    "frac": "0.0160541195476575",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighCentTemp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "36.9",
+    "frac": "0.0149434571890145",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighCentTemp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "value": "BA.2",
+    "frac": "0.294170673076923",
+    "table": "WGS_latest.rds",
+    "field": "VariantShorthand",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "B.1.617.2",
+    "frac": "0.284955929487179",
+    "table": "WGS_latest.rds",
+    "field": "VariantShorthand",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "BA.1",
+    "frac": "0.223457532051282",
+    "table": "WGS_latest.rds",
+    "field": "VariantShorthand",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "VOC1",
+    "frac": "0.086738782051282",
+    "table": "WGS_latest.rds",
+    "field": "VariantShorthand",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "NA",
+    "frac": "0.0473758012820513",
+    "table": "WGS_latest.rds",
+    "field": "VariantShorthand",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "AY.4.2",
+    "frac": "0.0436698717948718",
+    "table": "WGS_latest.rds",
+    "field": "VariantShorthand",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "B.1.1.529",
+    "frac": "0.00891426282051282",
+    "table": "WGS_latest.rds",
+    "field": "VariantShorthand",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "BA.5",
+    "frac": "0.00831330128205128",
+    "table": "WGS_latest.rds",
+    "field": "VariantShorthand",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "BA.4",
+    "frac": "0.00240384615384615",
+    "table": "WGS_latest.rds",
+    "field": "VariantShorthand",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "value": "POSITIVE",
+    "frac": "0.998599579873962",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "gene_result_MS2",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  },
+  {
+    "value": null,
+    "frac": "0.00140042012603781",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "gene_result_MS2",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  }
+]

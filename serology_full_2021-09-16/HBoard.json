@@ -1,0 +1,82 @@
+[
+  {
+    "value": "GLASGOW",
+    "frac": "0.135",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "HBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "LOTHIAN",
+    "frac": "0.123",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "HBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "Glasgow",
+    "frac": "0.0922",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "HBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "Lothian",
+    "frac": "0.0841",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "HBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "LANARKSHIRE",
+    "frac": "0.0822",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "HBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "Lanarkshire",
+    "frac": "0.0518",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "HBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "FIFE",
+    "frac": "0.0478",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "HBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "GRAMPIAN",
+    "frac": "0.0476",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "HBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "FORTH VALLEY",
+    "frac": "0.0458",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "HBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "HIGHLAND",
+    "frac": "0.0448",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "HBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  }
+]

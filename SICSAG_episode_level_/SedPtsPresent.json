@@ -1,0 +1,18 @@
+[
+  {
+    "value": "0",
+    "frac": "0.966",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "SedPtsPresent",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "1",
+    "frac": "0.034",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "SedPtsPresent",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "3",
+    "frac": "0.2259",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "4",
+    "frac": "0.2221",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "2",
+    "frac": "0.1995",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "1",
+    "frac": "0.1868",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "5",
+    "frac": "0.1657",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_sc_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  }
+]

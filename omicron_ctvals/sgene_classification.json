@@ -1,0 +1,34 @@
+[
+  {
+    "value": "True S Gene Dropout",
+    "frac": "0.5004",
+    "table": "omicron_ctvals.rds",
+    "field": "sgene_classification",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:18:58"
+  },
+  {
+    "value": "Positive S Gene",
+    "frac": "0.4557",
+    "table": "omicron_ctvals.rds",
+    "field": "sgene_classification",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:18:58"
+  },
+  {
+    "value": "Weak Positive",
+    "frac": "0.0343",
+    "table": "omicron_ctvals.rds",
+    "field": "sgene_classification",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:18:58"
+  },
+  {
+    "value": "other",
+    "frac": "0.0096",
+    "table": "omicron_ctvals.rds",
+    "field": "sgene_classification",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:18:58"
+  }
+]

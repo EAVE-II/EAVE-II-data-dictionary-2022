@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": "1",
+    "table": "Health_Board_Identifiers.rds",
+    "field": "HB_numberISD",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2019-07-12 10:47:24"
+  }
+]

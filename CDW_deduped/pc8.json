@@ -1,0 +1,18 @@
+[
+  {
+    "value": null,
+    "frac": "0.52",
+    "table": "CDW_deduped.rds",
+    "field": "pc8",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 05:46:21"
+  },
+  {
+    "value": "G84 8HL",
+    "frac": "0.48",
+    "table": "CDW_deduped.rds",
+    "field": "pc8",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 05:46:21"
+  }
+]

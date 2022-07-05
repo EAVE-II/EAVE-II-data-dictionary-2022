@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.174972849040666",
+    "table": "MABs_2022-06-29.rds",
+    "field": "Dosage",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-29 11:20:25"
+  },
+  {
+    "value": "300mg nirmatrelvir (two 150 mg tablets) with 100 mg ritonavir (one 100 mg tablet) PO BD for 5 days",
+    "frac": "0.135634125739109",
+    "table": "MABs_2022-06-29.rds",
+    "field": "Dosage",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-29 11:20:25"
+  },
+  {
+    "value": "500mg I/V Infusion",
+    "frac": "0.108845179196332",
+    "table": "MABs_2022-06-29.rds",
+    "field": "Dosage",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-29 11:20:25"
+  },
+  {
+    "value": "500mg",
+    "frac": "0.0604561361168095",
+    "table": "MABs_2022-06-29.rds",
+    "field": "Dosage",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-29 11:20:25"
+  },
+  {
+    "value": "800 mg PO every 12 hours for 5 days.",
+    "frac": "0.0584047303004706",
+    "table": "MABs_2022-06-29.rds",
+    "field": "Dosage",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-29 11:20:25"
+  },
+  {
+    "value": "Sotrovimab 500mg IV stat",
+    "frac": "0.0435622058646072",
+    "table": "MABs_2022-06-29.rds",
+    "field": "Dosage",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-29 11:20:25"
+  },
+  {
+    "value": "500mg stat dose",
+    "frac": "0.041872812839387",
+    "table": "MABs_2022-06-29.rds",
+    "field": "Dosage",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-29 11:20:25"
+  },
+  {
+    "value": "Molnupirivir 800mg po bd for 5 days",
+    "frac": "0.0339085314347774",
+    "table": "MABs_2022-06-29.rds",
+    "field": "Dosage",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-29 11:20:25"
+  },
+  {
+    "value": "800mg bd for 5/7",
+    "frac": "0.0296850488717268",
+    "table": "MABs_2022-06-29.rds",
+    "field": "Dosage",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-29 11:20:25"
+  },
+  {
+    "value": "PAXLOVID 150MG/100MG TABLETS",
+    "frac": "0.0296850488717268",
+    "table": "MABs_2022-06-29.rds",
+    "field": "Dosage",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-29 11:20:25"
+  }
+]

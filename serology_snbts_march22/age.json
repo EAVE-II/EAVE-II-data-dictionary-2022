@@ -1,0 +1,82 @@
+[
+  {
+    "value": "57",
+    "frac": "0.0275855150968001",
+    "table": "serology_snbts_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "56",
+    "frac": "0.0274852041328117",
+    "table": "serology_snbts_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "53",
+    "frac": "0.0262814725649513",
+    "table": "serology_snbts_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "54",
+    "frac": "0.0258802287089979",
+    "table": "serology_snbts_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "60",
+    "frac": "0.0258802287089979",
+    "table": "serology_snbts_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "52",
+    "frac": "0.0257799177450095",
+    "table": "serology_snbts_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "58",
+    "frac": "0.0254789848530444",
+    "table": "serology_snbts_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "55",
+    "frac": "0.0246764971411375",
+    "table": "serology_snbts_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "62",
+    "frac": "0.0241749423211957",
+    "table": "serology_snbts_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "51",
+    "frac": "0.0234727655732772",
+    "table": "serology_snbts_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  }
+]

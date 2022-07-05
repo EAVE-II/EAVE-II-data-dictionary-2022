@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": "1",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PriorDate",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

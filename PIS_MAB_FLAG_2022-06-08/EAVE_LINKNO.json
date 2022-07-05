@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": null,
+    "table": "PIS_MAB_FLAG_2022-06-08.rds",
+    "field": "EAVE_LINKNO",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-08 12:51:34"
+  }
+]

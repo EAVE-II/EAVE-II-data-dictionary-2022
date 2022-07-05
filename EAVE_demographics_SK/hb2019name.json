@@ -1,0 +1,82 @@
+[
+  {
+    "value": "NHS Greater Glasgow and Clyde",
+    "frac": "0.2198",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "NHS Lothian",
+    "frac": "0.1801",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "NHS Lanarkshire",
+    "frac": "0.1173",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "NHS Grampian",
+    "frac": "0.1097",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "NHS Tayside",
+    "frac": "0.0733",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "NHS Fife",
+    "frac": "0.0665",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "NHS Highland",
+    "frac": "0.058",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "NHS Ayrshire and Arran",
+    "frac": "0.0563",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "NHS Forth Valley",
+    "frac": "0.0515",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "NHS Dumfries and Galloway",
+    "frac": "0.0286",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  }
+]

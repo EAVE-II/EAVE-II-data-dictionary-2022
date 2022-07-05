@@ -1,0 +1,18 @@
+[
+  {
+    "value": "F",
+    "frac": "0.55",
+    "table": "serology_snbts_march22.rds",
+    "field": "sex",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "M",
+    "frac": "0.45",
+    "table": "serology_snbts_march22.rds",
+    "field": "sex",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "20200331",
+    "frac": "0.0151200151200151",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "20191031",
+    "frac": "0.0143640143640144",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "20181130",
+    "frac": "0.0137970137970138",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "20181031",
+    "frac": "0.0134190134190134",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "20190430",
+    "frac": "0.0134190134190134",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "20191231",
+    "frac": "0.0134190134190134",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "20190930",
+    "frac": "0.0128520128520129",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "20190228",
+    "frac": "0.0126630126630127",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "20190131",
+    "frac": "0.0120960120960121",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "20191130",
+    "frac": "0.0119070119070119",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "0",
+    "frac": "0.743951833607006",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighWhiteCell",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "11.4",
+    "frac": "0.00372194854953476",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighWhiteCell",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "9",
+    "frac": "0.00361247947454844",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighWhiteCell",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "13",
+    "frac": "0.00361247947454844",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighWhiteCell",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "10",
+    "frac": "0.00350301039956212",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighWhiteCell",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "12",
+    "frac": "0.00339354132457581",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighWhiteCell",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "10.6",
+    "frac": "0.00328407224958949",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighWhiteCell",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "10.2",
+    "frac": "0.00317460317460317",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighWhiteCell",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "10.5",
+    "frac": "0.00295566502463054",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighWhiteCell",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "11.7",
+    "frac": "0.00295566502463054",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighWhiteCell",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

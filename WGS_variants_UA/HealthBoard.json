@@ -1,0 +1,82 @@
+[
+  {
+    "value": "GC",
+    "frac": "0.307491987179487",
+    "table": "WGS_variants_UA.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "LO",
+    "frac": "0.178685897435897",
+    "table": "WGS_variants_UA.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "LN",
+    "frac": "0.142628205128205",
+    "table": "WGS_variants_UA.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "TY",
+    "frac": "0.0728165064102564",
+    "table": "WGS_variants_UA.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "AA",
+    "frac": "0.0681089743589744",
+    "table": "WGS_variants_UA.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "GR",
+    "frac": "0.0626001602564103",
+    "table": "WGS_variants_UA.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "FF",
+    "frac": "0.0556891025641026",
+    "table": "WGS_variants_UA.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "FV",
+    "frac": "0.0506810897435897",
+    "table": "WGS_variants_UA.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "HG",
+    "frac": "0.0313501602564103",
+    "table": "WGS_variants_UA.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  },
+  {
+    "value": "DG",
+    "frac": "0.0155248397435897",
+    "table": "WGS_variants_UA.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-05 10:53:35"
+  }
+]

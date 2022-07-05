@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Greater Glasgow & Clyde",
+    "frac": "0.357065019978206",
+    "table": "MABs_2022-06-07.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "Lothian",
+    "frac": "0.217944061024337",
+    "table": "MABs_2022-06-07.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "Tayside",
+    "frac": "0.137849618597893",
+    "table": "MABs_2022-06-07.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "Fife",
+    "frac": "0.0958953868507083",
+    "table": "MABs_2022-06-07.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "Lanarkshire",
+    "frac": "0.0737377406465674",
+    "table": "MABs_2022-06-07.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "Forth Valley",
+    "frac": "0.0539411551035234",
+    "table": "MABs_2022-06-07.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "Borders",
+    "frac": "0.0270613875771885",
+    "table": "MABs_2022-06-07.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "Ayshire & Arran",
+    "frac": "0.0208863058481656",
+    "table": "MABs_2022-06-07.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "Highland",
+    "frac": "0.0136215038140211",
+    "table": "MABs_2022-06-07.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "Shetland",
+    "frac": "0.00199782055938976",
+    "table": "MABs_2022-06-07.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  }
+]

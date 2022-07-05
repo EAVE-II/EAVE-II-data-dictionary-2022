@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": null,
+    "table": "serology_snbts_march22.rds",
+    "field": "SampleID",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  }
+]

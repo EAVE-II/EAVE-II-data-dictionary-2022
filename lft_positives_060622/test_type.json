@@ -1,0 +1,10 @@
+[
+  {
+    "value": "ANTIGEN",
+    "frac": "1",
+    "table": "lft_positives_060622.rds",
+    "field": "test_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:19:29"
+  }
+]

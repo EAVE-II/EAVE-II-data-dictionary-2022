@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.874061307398744",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Quant_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "3.9",
+    "frac": "0.00566293241413271",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Quant_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "4.2",
+    "frac": "0.00566293241413271",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Quant_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "4",
+    "frac": "0.00553982518773852",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Quant_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "4.3",
+    "frac": "0.00541671796134433",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Quant_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "4.6",
+    "frac": "0.00541671796134433",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Quant_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "5",
+    "frac": "0.00504739628216176",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Quant_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "4.4",
+    "frac": "0.00492428905576757",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Quant_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "4.9",
+    "frac": "0.00492428905576757",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Quant_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  },
+  {
+    "value": "5.1",
+    "frac": "0.00455496737658501",
+    "table": "serology_full_2021-09-16.rds",
+    "field": "Quant_Result",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-16 15:33:15"
+  }
+]

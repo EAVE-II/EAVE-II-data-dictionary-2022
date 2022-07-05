@@ -1,0 +1,58 @@
+[
+  {
+    "value": "1",
+    "frac": "0.3642",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "2",
+    "frac": "0.3519",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "3",
+    "frac": "0.0906",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "5",
+    "frac": "0.0874",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "4",
+    "frac": "0.0488",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "6",
+    "frac": "0.0475",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": null,
+    "frac": "0.0096",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "ur6_2016",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  }
+]

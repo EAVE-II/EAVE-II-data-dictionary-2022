@@ -1,0 +1,82 @@
+[
+  {
+    "value": "City Centre South - 04",
+    "frac": "0.0663780663780664",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "datazone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "City Centre East - 03",
+    "frac": "0.0649350649350649",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "datazone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Deans Village - 07",
+    "frac": "0.0476190476190476",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "datazone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Old Town, Princes Street and Leith Street - 04",
+    "frac": "0.0432900432900433",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "datazone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Hillside and Calton Hill - 01",
+    "frac": "0.0404040404040404",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "datazone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Inverness Central, Raigmore and Longman - 02",
+    "frac": "0.038961038961039",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "datazone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Kincorth, Leggart and Nigg South - 01",
+    "frac": "0.0346320346320346",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "datazone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Perth Road - 06",
+    "frac": "0.0317460317460317",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "datazone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Dumfries Central - 04",
+    "frac": "0.0303030303030303",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "datazone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Laurieston and Tradeston - 03",
+    "frac": "0.0288600288600289",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "datazone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  }
+]

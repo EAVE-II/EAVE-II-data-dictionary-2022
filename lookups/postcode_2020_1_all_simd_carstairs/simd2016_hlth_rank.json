@@ -1,0 +1,82 @@
+[
+  {
+    "value": "5425",
+    "frac": "0.0825035561877667",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2016_hlth_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "3704",
+    "frac": "0.0568990042674253",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2016_hlth_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "5642",
+    "frac": "0.0526315789473684",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2016_hlth_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": null,
+    "frac": "0.0469416785206259",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2016_hlth_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "5343",
+    "frac": "0.0384068278805121",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2016_hlth_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "5490",
+    "frac": "0.0369843527738265",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2016_hlth_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "6548",
+    "frac": "0.0369843527738265",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2016_hlth_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "3357",
+    "frac": "0.0284495021337127",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2016_hlth_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "54",
+    "frac": "0.0256045519203414",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2016_hlth_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "149",
+    "frac": "0.0256045519203414",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2016_hlth_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  }
+]

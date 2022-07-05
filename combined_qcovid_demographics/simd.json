@@ -1,0 +1,50 @@
+[
+  {
+    "value": "1",
+    "frac": "0.214",
+    "table": "combined_qcovid_demographics.rds",
+    "field": "simd",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:28:43"
+  },
+  {
+    "value": "2",
+    "frac": "0.2015",
+    "table": "combined_qcovid_demographics.rds",
+    "field": "simd",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:28:43"
+  },
+  {
+    "value": "5",
+    "frac": "0.1955",
+    "table": "combined_qcovid_demographics.rds",
+    "field": "simd",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:28:43"
+  },
+  {
+    "value": "4",
+    "frac": "0.1924",
+    "table": "combined_qcovid_demographics.rds",
+    "field": "simd",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:28:43"
+  },
+  {
+    "value": "3",
+    "frac": "0.1916",
+    "table": "combined_qcovid_demographics.rds",
+    "field": "simd",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:28:43"
+  },
+  {
+    "value": null,
+    "frac": "0.005",
+    "table": "combined_qcovid_demographics.rds",
+    "field": "simd",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:28:43"
+  }
+]

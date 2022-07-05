@@ -1,0 +1,82 @@
+[
+  {
+    "value": "City Centre East",
+    "frac": "0.0199328577423416",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "City Centre South",
+    "frac": "0.0153168275283256",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Deans Village",
+    "frac": "0.0140579101972304",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "City Centre West",
+    "frac": "0.0107007973143097",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Old Town, Princes Street and Leith Street",
+    "frac": "0.0107007973143097",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Laurieston and Tradeston",
+    "frac": "0.00923206042803189",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Inverness Central, Raigmore and Longman",
+    "frac": "0.00797314309693663",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Perth Road",
+    "frac": "0.00797314309693663",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Hillside and Calton Hill",
+    "frac": "0.00713386487620646",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "Peterhead Harbour",
+    "frac": "0.00713386487620646",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  }
+]

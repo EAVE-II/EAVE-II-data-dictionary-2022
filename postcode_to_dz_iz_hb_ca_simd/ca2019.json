@@ -1,0 +1,82 @@
+[
+  {
+    "value": "S12000049",
+    "frac": "0.1146",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "ca2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "S12000034",
+    "frac": "0.094",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "ca2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "S12000036",
+    "frac": "0.0873",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "ca2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "S12000033",
+    "frac": "0.06",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "ca2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "S12000047",
+    "frac": "0.0598",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "ca2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "S12000029",
+    "frac": "0.0494",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "ca2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "S12000050",
+    "frac": "0.0458",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "ca2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "S12000017",
+    "frac": "0.044",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "ca2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "S12000006",
+    "frac": "0.0345",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "ca2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "S12000020",
+    "frac": "0.0307",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "ca2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  }
+]

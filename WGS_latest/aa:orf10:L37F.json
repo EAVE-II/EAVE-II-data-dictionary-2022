@@ -1,0 +1,34 @@
+[
+  {
+    "value": "wt",
+    "frac": "0.9732",
+    "table": "WGS_latest.rds",
+    "field": "aa:orf10:L37F",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "-",
+    "frac": "0.0218",
+    "table": "WGS_latest.rds",
+    "field": "aa:orf10:L37F",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "F",
+    "frac": "0.0039",
+    "table": "WGS_latest.rds",
+    "field": "aa:orf10:L37F",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "amb",
+    "frac": "0.0011",
+    "table": "WGS_latest.rds",
+    "field": "aa:orf10:L37F",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "value": null,
+    "frac": "0.986571800781641",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "Older People",
+    "frac": "0.0116244112636537",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "Care at Home",
+    "frac": "0.00180378795470488",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  }
+]

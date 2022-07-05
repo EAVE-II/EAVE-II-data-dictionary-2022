@@ -1,0 +1,82 @@
+[
+  {
+    "value": "S08000031",
+    "frac": "0.2198",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S08000024",
+    "frac": "0.1801",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S08000032",
+    "frac": "0.1173",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S08000020",
+    "frac": "0.1097",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S08000030",
+    "frac": "0.0733",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S08000029",
+    "frac": "0.0665",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S08000022",
+    "frac": "0.058",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S08000015",
+    "frac": "0.0563",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S08000019",
+    "frac": "0.0515",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S08000017",
+    "frac": "0.0286",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  }
+]

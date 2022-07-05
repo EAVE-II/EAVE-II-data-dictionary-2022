@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Glasgow",
+    "frac": "0.530262889749338",
+    "table": "CDW_full.rds",
+    "field": "laboratory_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": null,
+    "frac": "0.141940085592011",
+    "table": "CDW_full.rds",
+    "field": "laboratory_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "West Regional Hub",
+    "frac": "0.0686773996331771",
+    "table": "CDW_full.rds",
+    "field": "laboratory_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "North Regional Hub",
+    "frac": "0.0375993478703892",
+    "table": "CDW_full.rds",
+    "field": "laboratory_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "East Regional Hub",
+    "frac": "0.0287344609741186",
+    "table": "CDW_full.rds",
+    "field": "laboratory_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Regional Virus Laboratory, Glasgow",
+    "frac": "0.0217036886081109",
+    "table": "CDW_full.rds",
+    "field": "laboratory_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Regional Virology Laboratory, Edinburgh",
+    "frac": "0.0186468310576727",
+    "table": "CDW_full.rds",
+    "field": "laboratory_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Crosshouse Hospital, Kilmarnock",
+    "frac": "0.0171184022824536",
+    "table": "CDW_full.rds",
+    "field": "laboratory_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Wishaw General",
+    "frac": "0.0141634399836968",
+    "table": "CDW_full.rds",
+    "field": "laboratory_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Raigmore Hospital, Inverness",
+    "frac": "0.0122274302017526",
+    "table": "CDW_full.rds",
+    "field": "laboratory_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  }
+]

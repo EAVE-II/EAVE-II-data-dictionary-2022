@@ -1,0 +1,82 @@
+[
+  {
+    "value": "C509",
+    "frac": "0.0290088638195004",
+    "table": "SMR01_allstays.rds",
+    "field": "Main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "H269",
+    "frac": "0.0277195809830782",
+    "table": "SMR01_allstays.rds",
+    "field": "Main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "U071",
+    "frac": "0.0267526188557615",
+    "table": "SMR01_allstays.rds",
+    "field": "Main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "C900",
+    "frac": "0.0204673650282031",
+    "table": "SMR01_allstays.rds",
+    "field": "Main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "N390",
+    "frac": "0.0186946011281225",
+    "table": "SMR01_allstays.rds",
+    "field": "Main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "R074",
+    "frac": "0.017566478646253",
+    "table": "SMR01_allstays.rds",
+    "field": "Main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "R104",
+    "frac": "0.0167606768734891",
+    "table": "SMR01_allstays.rds",
+    "field": "Main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "E831",
+    "frac": "0.0145044319097502",
+    "table": "SMR01_allstays.rds",
+    "field": "Main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "J22X",
+    "frac": "0.0135374697824335",
+    "table": "SMR01_allstays.rds",
+    "field": "Main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "K573",
+    "frac": "0.0135374697824335",
+    "table": "SMR01_allstays.rds",
+    "field": "Main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  }
+]

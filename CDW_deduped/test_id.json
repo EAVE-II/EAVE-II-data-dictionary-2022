@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": "1",
+    "table": "CDW_deduped.rds",
+    "field": "test_id",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 05:46:21"
+  }
+]

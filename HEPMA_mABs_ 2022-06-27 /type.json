@@ -1,0 +1,26 @@
+[
+  {
+    "value": "I",
+    "frac": "0.925890279114533",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": null,
+    "frac": "0.0471607314725698",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "O",
+    "frac": "0.026948989412897",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  }
+]

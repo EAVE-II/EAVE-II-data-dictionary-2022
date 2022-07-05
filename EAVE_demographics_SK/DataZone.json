@@ -1,0 +1,34 @@
+[
+  {
+    "value": null,
+    "frac": "0.695652173913043",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "DataZone",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S01010286",
+    "frac": "0.115942028985507",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "DataZone",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S01008651",
+    "frac": "0.0942028985507246",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "DataZone",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "S01010261",
+    "frac": "0.0942028985507246",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "DataZone",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  }
+]

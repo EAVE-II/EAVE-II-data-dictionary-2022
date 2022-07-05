@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2020-03-31",
+    "frac": "0.0149113379903278",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "2020-04-30",
+    "frac": "0.0134336378291241",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "2020-12-31",
+    "frac": "0.0119559376679205",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "2019-10-31",
+    "frac": "0.0115529285330467",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "2019-05-31",
+    "frac": "0.0112842557764643",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "2019-07-31",
+    "frac": "0.0112842557764643",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "2021-03-31",
+    "frac": "0.0106125738850081",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "2020-06-30",
+    "frac": "0.0104782375067168",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "2019-09-30",
+    "frac": "0.0100752283718431",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "2020-02-29",
+    "frac": "0.00994089199355185",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "dispensed_full_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  }
+]

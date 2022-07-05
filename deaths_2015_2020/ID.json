@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": null,
+    "table": "deaths_2015_2020.rds",
+    "field": "ID",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "1",
+    "frac": "0.178040947410678",
+    "table": "BNF_paragraphs.rds",
+    "field": "N_bnf_paras",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-07-27 13:59:09"
+  },
+  {
+    "value": "2",
+    "frac": "0.153653151344841",
+    "table": "BNF_paragraphs.rds",
+    "field": "N_bnf_paras",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-07-27 13:59:09"
+  },
+  {
+    "value": "3",
+    "frac": "0.120533922119631",
+    "table": "BNF_paragraphs.rds",
+    "field": "N_bnf_paras",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-07-27 13:59:09"
+  },
+  {
+    "value": "4",
+    "frac": "0.0956443195503814",
+    "table": "BNF_paragraphs.rds",
+    "field": "N_bnf_paras",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-07-27 13:59:09"
+  },
+  {
+    "value": "5",
+    "frac": "0.079084704937776",
+    "table": "BNF_paragraphs.rds",
+    "field": "N_bnf_paras",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-07-27 13:59:09"
+  },
+  {
+    "value": "6",
+    "frac": "0.065034122842232",
+    "table": "BNF_paragraphs.rds",
+    "field": "N_bnf_paras",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-07-27 13:59:09"
+  },
+  {
+    "value": "7",
+    "frac": "0.0570052187876355",
+    "table": "BNF_paragraphs.rds",
+    "field": "N_bnf_paras",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-07-27 13:59:09"
+  },
+  {
+    "value": "8",
+    "frac": "0.0431553592934564",
+    "table": "BNF_paragraphs.rds",
+    "field": "N_bnf_paras",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-07-27 13:59:09"
+  },
+  {
+    "value": "9",
+    "frac": "0.0357286230429546",
+    "table": "BNF_paragraphs.rds",
+    "field": "N_bnf_paras",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-07-27 13:59:09"
+  },
+  {
+    "value": "10",
+    "frac": "0.0340224809313529",
+    "table": "BNF_paragraphs.rds",
+    "field": "N_bnf_paras",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-07-27 13:59:09"
+  }
+]

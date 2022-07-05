@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": null,
+    "table": "COPS2021-11-30.rds",
+    "field": "validchi",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-30 14:11:45"
+  }
+]

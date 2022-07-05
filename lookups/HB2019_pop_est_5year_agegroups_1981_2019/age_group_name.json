@@ -1,0 +1,82 @@
+[
+  {
+    "value": "70-74",
+    "frac": "0.0533",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "age_group_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "85-89",
+    "frac": "0.0525",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "age_group_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "45-49",
+    "frac": "0.0521",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "age_group_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "0",
+    "frac": "0.0519",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "age_group_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "25-29",
+    "frac": "0.0517",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "age_group_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "5-9",
+    "frac": "0.0517",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "age_group_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "50-54",
+    "frac": "0.0515",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "age_group_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "65-69",
+    "frac": "0.0508",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "age_group_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "30-34",
+    "frac": "0.0504",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "age_group_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "90+",
+    "frac": "0.0504",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "age_group_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "value": "0",
+    "frac": "0.635271744570113",
+    "table": "WGS_latest.rds",
+    "field": "other_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "1",
+    "frac": "0.261135021519367",
+    "table": "WGS_latest.rds",
+    "field": "other_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "NA",
+    "frac": "0.0473426083475128",
+    "table": "WGS_latest.rds",
+    "field": "other_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "3",
+    "frac": "0.0267240516464818",
+    "table": "WGS_latest.rds",
+    "field": "other_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "2",
+    "frac": "0.0172154939445501",
+    "table": "WGS_latest.rds",
+    "field": "other_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "4",
+    "frac": "0.00400360324291863",
+    "table": "WGS_latest.rds",
+    "field": "other_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "5",
+    "frac": "0.00390351316184566",
+    "table": "WGS_latest.rds",
+    "field": "other_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "6",
+    "frac": "0.00280252227004304",
+    "table": "WGS_latest.rds",
+    "field": "other_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "7",
+    "frac": "0.00160144129716745",
+    "table": "WGS_latest.rds",
+    "field": "other_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "value": "06",
+    "frac": "0.9239",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "bnf_chapter_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "11",
+    "frac": "0.0708",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "bnf_chapter_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  },
+  {
+    "value": "01",
+    "frac": "0.0053",
+    "table": "PIS_ASTHMA_2021-09-03.rds",
+    "field": "bnf_chapter_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-09-03 14:39:58"
+  }
+]

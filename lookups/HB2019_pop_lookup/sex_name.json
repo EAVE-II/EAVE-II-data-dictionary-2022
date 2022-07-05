@@ -1,0 +1,18 @@
+[
+  {
+    "value": "F",
+    "frac": "0.5",
+    "table": "HB2019_pop_lookup.rds",
+    "field": "sex_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:16:29"
+  },
+  {
+    "value": "M",
+    "frac": "0.5",
+    "table": "HB2019_pop_lookup.rds",
+    "field": "sex_name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:16:29"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "<3.8",
+    "frac": "0.722670250896057",
+    "table": "Serology_all.rds",
+    "field": "Quantitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "<4.81",
+    "frac": "0.087962962962963",
+    "table": "Serology_all.rds",
+    "field": "Quantitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": ">2080.00",
+    "frac": "0.0752688172043011",
+    "table": "Serology_all.rds",
+    "field": "Quantitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "<3.80",
+    "frac": "0.013142174432497",
+    "table": "Serology_all.rds",
+    "field": "Quantitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": ">400.0",
+    "frac": "0.00791517323775388",
+    "table": "Serology_all.rds",
+    "field": "Quantitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "3.9",
+    "frac": "0.00492831541218638",
+    "table": "Serology_all.rds",
+    "field": "Quantitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "4.2",
+    "frac": "0.00462962962962963",
+    "table": "Serology_all.rds",
+    "field": "Quantitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "4.1",
+    "frac": "0.00448028673835125",
+    "table": "Serology_all.rds",
+    "field": "Quantitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "4.6",
+    "frac": "0.00448028673835125",
+    "table": "Serology_all.rds",
+    "field": "Quantitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "5.1",
+    "frac": "0.00448028673835125",
+    "table": "Serology_all.rds",
+    "field": "Quantitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  }
+]

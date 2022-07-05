@@ -1,0 +1,26 @@
+[
+  {
+    "value": null,
+    "frac": "0.997501135847342",
+    "table": "cases_severe_dates.rds",
+    "field": "Admission.date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "2020-04-05",
+    "frac": "0.00124943207632894",
+    "table": "cases_severe_dates.rds",
+    "field": "Admission.date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "2020-04-08",
+    "frac": "0.00124943207632894",
+    "table": "cases_severe_dates.rds",
+    "field": "Admission.date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  }
+]

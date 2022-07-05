@@ -1,0 +1,82 @@
+[
+  {
+    "value": "0",
+    "frac": "0.683049652532984",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowPotas",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "3.9",
+    "frac": "0.0222580320273945",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowPotas",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "4.1",
+    "frac": "0.0218551717192064",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowPotas",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "4",
+    "frac": "0.0212508812569242",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowPotas",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "4.3",
+    "frac": "0.0205458757175949",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowPotas",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "3.8",
+    "frac": "0.0202437304864538",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowPotas",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "4.2",
+    "frac": "0.0186322892537013",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowPotas",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "4.4",
+    "frac": "0.017826568637325",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowPotas",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "3.7",
+    "frac": "0.0164165575586665",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowPotas",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "4.5",
+    "frac": "0.0160136972504784",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowPotas",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

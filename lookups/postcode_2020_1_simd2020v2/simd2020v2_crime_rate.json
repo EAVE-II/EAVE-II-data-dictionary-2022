@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.433978132884777",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_crime_rate",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "12440.630732",
+    "frac": "0.0386879730866274",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_crime_rate",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "247.973935",
+    "frac": "0.0361648444070648",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_crime_rate",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "219.361364",
+    "frac": "0.0277544154751892",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_crime_rate",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "7035.074055",
+    "frac": "0.0252312867956266",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_crime_rate",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "387.092984",
+    "frac": "0.0235492010092515",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_crime_rate",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "8903.633512",
+    "frac": "0.0227081581160639",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_crime_rate",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "183.784659",
+    "frac": "0.0201850294365013",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_crime_rate",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "162.890032",
+    "frac": "0.0185029436501262",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_crime_rate",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "4155.017889",
+    "frac": "0.0176619007569386",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_crime_rate",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2021-07-06",
+    "frac": "0.00673400673400673",
+    "table": "smr01_2022_06_06.rds",
+    "field": "DISCHARGE_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "2022-02-15",
+    "frac": "0.00673400673400673",
+    "table": "smr01_2022_06_06.rds",
+    "field": "DISCHARGE_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "2018-04-17",
+    "frac": "0.00635989524878414",
+    "table": "smr01_2022_06_06.rds",
+    "field": "DISCHARGE_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "2018-09-25",
+    "frac": "0.00635989524878414",
+    "table": "smr01_2022_06_06.rds",
+    "field": "DISCHARGE_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "2018-08-24",
+    "frac": "0.00598578376356154",
+    "table": "smr01_2022_06_06.rds",
+    "field": "DISCHARGE_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "2021-10-13",
+    "frac": "0.00598578376356154",
+    "table": "smr01_2022_06_06.rds",
+    "field": "DISCHARGE_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "2022-03-21",
+    "frac": "0.00598578376356154",
+    "table": "smr01_2022_06_06.rds",
+    "field": "DISCHARGE_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "2018-04-25",
+    "frac": "0.00561167227833894",
+    "table": "smr01_2022_06_06.rds",
+    "field": "DISCHARGE_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "2018-05-02",
+    "frac": "0.00561167227833894",
+    "table": "smr01_2022_06_06.rds",
+    "field": "DISCHARGE_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "2018-05-08",
+    "frac": "0.00561167227833894",
+    "table": "smr01_2022_06_06.rds",
+    "field": "DISCHARGE_DATE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  }
+]

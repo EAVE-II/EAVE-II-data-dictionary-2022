@@ -1,0 +1,10 @@
+[
+  {
+    "value": "4.1.1",
+    "frac": "1",
+    "table": "WGS_latest.rds",
+    "field": "pangolin_version",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

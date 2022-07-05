@@ -1,0 +1,82 @@
+[
+  {
+    "value": "19",
+    "frac": "0.0350965406275141",
+    "table": "Serology_Oct20May21.rds",
+    "field": "ClinicalDetails/Age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "18",
+    "frac": "0.0305711987127916",
+    "table": "Serology_Oct20May21.rds",
+    "field": "ClinicalDetails/Age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "17",
+    "frac": "0.0297666934835076",
+    "table": "Serology_Oct20May21.rds",
+    "field": "ClinicalDetails/Age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "16",
+    "frac": "0.0287610619469027",
+    "table": "Serology_Oct20May21.rds",
+    "field": "ClinicalDetails/Age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "15",
+    "frac": "0.0281576830249397",
+    "table": "Serology_Oct20May21.rds",
+    "field": "ClinicalDetails/Age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "66",
+    "frac": "0.0229283990345937",
+    "table": "Serology_Oct20May21.rds",
+    "field": "ClinicalDetails/Age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "67",
+    "frac": "0.0226267095736122",
+    "table": "Serology_Oct20May21.rds",
+    "field": "ClinicalDetails/Age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "14",
+    "frac": "0.0219227674979887",
+    "table": "Serology_Oct20May21.rds",
+    "field": "ClinicalDetails/Age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "68",
+    "frac": "0.0219227674979887",
+    "table": "Serology_Oct20May21.rds",
+    "field": "ClinicalDetails/Age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "69",
+    "frac": "0.0191069991954948",
+    "table": "Serology_Oct20May21.rds",
+    "field": "ClinicalDetails/Age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  }
+]

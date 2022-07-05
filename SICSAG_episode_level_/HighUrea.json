@@ -1,0 +1,82 @@
+[
+  {
+    "value": "0",
+    "frac": "0.725005352172982",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighUrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "5.1",
+    "frac": "0.00588739028045386",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighUrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "3.6",
+    "frac": "0.00567330336116463",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighUrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "4.2",
+    "frac": "0.00567330336116463",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighUrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "5.7",
+    "frac": "0.00535217298223079",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighUrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "4",
+    "frac": "0.00524512952258617",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighUrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "6.4",
+    "frac": "0.00513808606294155",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighUrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "5",
+    "frac": "0.00503104260329694",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighUrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "5.5",
+    "frac": "0.00503104260329694",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighUrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "4.7",
+    "frac": "0.00481695568400771",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighUrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

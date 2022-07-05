@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Aberdeen City",
+    "frac": "0.03125",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "ca2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  },
+  {
+    "value": "Aberdeenshire",
+    "frac": "0.03125",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "ca2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  },
+  {
+    "value": "Angus",
+    "frac": "0.03125",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "ca2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  },
+  {
+    "value": "Argyll and Bute",
+    "frac": "0.03125",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "ca2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  },
+  {
+    "value": "City of Edinburgh",
+    "frac": "0.03125",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "ca2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  },
+  {
+    "value": "Clackmannanshire",
+    "frac": "0.03125",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "ca2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  },
+  {
+    "value": "Dumfries and Galloway",
+    "frac": "0.03125",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "ca2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  },
+  {
+    "value": "Dundee City",
+    "frac": "0.03125",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "ca2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  },
+  {
+    "value": "East Ayrshire",
+    "frac": "0.03125",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "ca2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  },
+  {
+    "value": "East Dunbartonshire",
+    "frac": "0.03125",
+    "table": "Population_2019_CA_age_sex.rds",
+    "field": "ca2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-08-26 14:39:43"
+  }
+]

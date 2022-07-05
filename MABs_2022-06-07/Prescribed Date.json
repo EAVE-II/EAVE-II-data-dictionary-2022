@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2022-03-10",
+    "frac": "0.0212564053900171",
+    "table": "MABs_2022-06-07.rds",
+    "field": "Prescribed Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "2022-03-24",
+    "frac": "0.0212564053900171",
+    "table": "MABs_2022-06-07.rds",
+    "field": "Prescribed Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "2022-03-16",
+    "frac": "0.0203074587208199",
+    "table": "MABs_2022-06-07.rds",
+    "field": "Prescribed Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "2022-03-21",
+    "frac": "0.0195483013854621",
+    "table": "MABs_2022-06-07.rds",
+    "field": "Prescribed Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "2022-03-17",
+    "frac": "0.0191687227177833",
+    "table": "MABs_2022-06-07.rds",
+    "field": "Prescribed Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "2022-03-25",
+    "frac": "0.0191687227177833",
+    "table": "MABs_2022-06-07.rds",
+    "field": "Prescribed Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "2022-03-22",
+    "frac": "0.0184095653824255",
+    "table": "MABs_2022-06-07.rds",
+    "field": "Prescribed Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "2022-03-18",
+    "frac": "0.0178401973809072",
+    "table": "MABs_2022-06-07.rds",
+    "field": "Prescribed Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "2022-03-14",
+    "frac": "0.0176504080470678",
+    "table": "MABs_2022-06-07.rds",
+    "field": "Prescribed Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  },
+  {
+    "value": "2022-03-15",
+    "frac": "0.0174606187132283",
+    "table": "MABs_2022-06-07.rds",
+    "field": "Prescribed Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-07 13:21:05"
+  }
+]

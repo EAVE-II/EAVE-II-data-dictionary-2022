@@ -1,0 +1,66 @@
+[
+  {
+    "value": "MTU",
+    "frac": "0.310079071164048",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "LTS",
+    "frac": "0.250025022520268",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": null,
+    "frac": "0.243218897007307",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "RTS",
+    "frac": "0.163046742067861",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "Care Home",
+    "frac": "0.0142127915123611",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "ATS",
+    "frac": "0.0124111700530477",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "ONS",
+    "frac": "0.00420378340506456",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "Domiciliary Care",
+    "frac": "0.00280252227004304",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "value": "BECLOMETASONE DIPROPIONATE",
+    "frac": "0.729145829165833",
+    "table": "PIS_0302.rds",
+    "field": "PI Approved Name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "SALMETEROL WITH FLUTICASONE PROPIONATE",
+    "frac": "0.15123024604921",
+    "table": "PIS_0302.rds",
+    "field": "PI Approved Name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "BUDESONIDE WITH FORMOTEROL FUMARATE",
+    "frac": "0.0325065013002601",
+    "table": "PIS_0302.rds",
+    "field": "PI Approved Name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "FLUTICASONE FUROATE AND VILANTEROL",
+    "frac": "0.0223044608921784",
+    "table": "PIS_0302.rds",
+    "field": "PI Approved Name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "FLUTICASONE PROPIONATE",
+    "frac": "0.0219043808761752",
+    "table": "PIS_0302.rds",
+    "field": "PI Approved Name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "BUDESONIDE",
+    "frac": "0.0201040208041608",
+    "table": "PIS_0302.rds",
+    "field": "PI Approved Name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "FLUTICASONE PROPIONATE AND FORMOTEROL FUMARATE",
+    "frac": "0.0123024604920984",
+    "table": "PIS_0302.rds",
+    "field": "PI Approved Name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "BECLOMETASONE DIPROPIONATE AND FORMOTEROL FUMARATE",
+    "frac": "0.010502100420084",
+    "table": "PIS_0302.rds",
+    "field": "PI Approved Name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  }
+]

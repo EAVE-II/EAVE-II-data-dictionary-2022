@@ -1,0 +1,50 @@
+[
+  {
+    "value": "REMDESIVIR 100 mg Injection",
+    "frac": "0.316125860373648",
+    "table": "HEPMA_rem_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "Remdesivir 100mg powder for solution for infusion vials",
+    "frac": "0.284169124877089",
+    "table": "HEPMA_rem_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "REMDESIVIR 100 mg in 20ml Injection",
+    "frac": "0.220255653883972",
+    "table": "HEPMA_rem_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "REMDESIVIR *UP*Y* 100 mg Infusion",
+    "frac": "0.0860373647984267",
+    "table": "HEPMA_rem_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "REMDESIVIR 100 mg Powder for Solution for Infusion Vials",
+    "frac": "0.0476892822025565",
+    "table": "HEPMA_rem_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "REMDESIVIR 100 mg  Injection",
+    "frac": "0.0457227138643068",
+    "table": "HEPMA_rem_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  }
+]

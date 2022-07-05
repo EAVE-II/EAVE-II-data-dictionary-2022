@@ -1,0 +1,82 @@
+[
+  {
+    "value": "",
+    "frac": "0.391484497785398",
+    "table": "longcovid_060222.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "30/12/2021",
+    "frac": "0.00542934704957851",
+    "table": "longcovid_060222.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "26/08/2021",
+    "frac": "0.00500071438776968",
+    "table": "longcovid_060222.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "29/12/2021",
+    "frac": "0.00471495927989713",
+    "table": "longcovid_060222.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "04/01/2022",
+    "frac": "0.00457208172596085",
+    "table": "longcovid_060222.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "09/09/2021",
+    "frac": "0.00457208172596085",
+    "table": "longcovid_060222.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "31/12/2021",
+    "frac": "0.00457208172596085",
+    "table": "longcovid_060222.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "07/09/2020",
+    "frac": "0.00400057151021575",
+    "table": "longcovid_060222.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "13/09/2021",
+    "frac": "0.00400057151021575",
+    "table": "longcovid_060222.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  },
+  {
+    "value": "27/12/2021",
+    "frac": "0.00400057151021575",
+    "table": "longcovid_060222.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-02 12:47:09"
+  }
+]

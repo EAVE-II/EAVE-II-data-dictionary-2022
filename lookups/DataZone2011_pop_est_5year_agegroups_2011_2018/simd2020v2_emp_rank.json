@@ -1,0 +1,26 @@
+[
+  {
+    "value": "2025",
+    "frac": "0.372093023255814",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "814",
+    "frac": "0.325581395348837",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "3272",
+    "frac": "0.302325581395349",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2020v2_emp_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  }
+]

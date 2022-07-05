@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2020-10-05",
+    "frac": "0.0175175175175175",
+    "table": "Serology_all.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "2021-09-20",
+    "frac": "0.0174174174174174",
+    "table": "Serology_all.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "2020-09-14",
+    "frac": "0.0171171171171171",
+    "table": "Serology_all.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "2020-11-16",
+    "frac": "0.0171171171171171",
+    "table": "Serology_all.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "2020-08-24",
+    "frac": "0.0167167167167167",
+    "table": "Serology_all.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "2020-10-12",
+    "frac": "0.0167167167167167",
+    "table": "Serology_all.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "2020-11-30",
+    "frac": "0.0167167167167167",
+    "table": "Serology_all.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "2021-05-10",
+    "frac": "0.0167167167167167",
+    "table": "Serology_all.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "2021-08-09",
+    "frac": "0.0165165165165165",
+    "table": "Serology_all.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "2020-10-19",
+    "frac": "0.0164164164164164",
+    "table": "Serology_all.rds",
+    "field": "Sampledate_iso",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  }
+]

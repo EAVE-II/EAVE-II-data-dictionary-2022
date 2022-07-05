@@ -1,0 +1,82 @@
+[
+  {
+    "value": "K417N",
+    "frac": "0.442558746736292",
+    "table": "WGS_latest.rds",
+    "field": "MOI_List",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "L452R;A2529V",
+    "frac": "0.202349869451697",
+    "table": "WGS_latest.rds",
+    "field": "MOI_List",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": null,
+    "frac": "0.198533842136975",
+    "table": "WGS_latest.rds",
+    "field": "MOI_List",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "L452R",
+    "frac": "0.0627636071500301",
+    "table": "WGS_latest.rds",
+    "field": "MOI_List",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "L452R;A222V;Y145H;A2529V",
+    "frac": "0.0407712392046596",
+    "table": "WGS_latest.rds",
+    "field": "MOI_List",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "A222V",
+    "frac": "0.0190801365736092",
+    "table": "WGS_latest.rds",
+    "field": "MOI_List",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "K417N;L452R",
+    "frac": "0.00753163285800362",
+    "table": "WGS_latest.rds",
+    "field": "MOI_List",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "P251L;L452R",
+    "frac": "0.00592488451496284",
+    "table": "WGS_latest.rds",
+    "field": "MOI_List",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "A2529V",
+    "frac": "0.00502108857200241",
+    "table": "WGS_latest.rds",
+    "field": "MOI_List",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "L452R;A222V;A2529V",
+    "frac": "0.00411729262904198",
+    "table": "WGS_latest.rds",
+    "field": "MOI_List",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

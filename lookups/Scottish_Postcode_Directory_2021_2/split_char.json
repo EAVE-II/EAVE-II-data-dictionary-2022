@@ -1,0 +1,18 @@
+[
+  {
+    "value": null,
+    "frac": "0.9987",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "split_char",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "A",
+    "frac": "0.0013",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "split_char",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  }
+]

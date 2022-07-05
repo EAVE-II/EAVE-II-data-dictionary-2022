@@ -1,0 +1,82 @@
+[
+  {
+    "value": "0",
+    "frac": "0.66960933536276",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "50",
+    "frac": "0.0293252156265855",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "45",
+    "frac": "0.0252663622526636",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "40",
+    "frac": "0.0240487062404871",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "48",
+    "frac": "0.0161339421613394",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "55",
+    "frac": "0.0156265854895992",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "42",
+    "frac": "0.0141045154743785",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "60",
+    "frac": "0.0140030441400304",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "52",
+    "frac": "0.0132927447995941",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "49",
+    "frac": "0.0117706747843734",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

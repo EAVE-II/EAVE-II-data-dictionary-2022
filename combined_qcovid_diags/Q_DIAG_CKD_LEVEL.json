@@ -1,0 +1,34 @@
+[
+  {
+    "value": null,
+    "frac": "0.931731731731732",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_DIAG_CKD_LEVEL",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "3",
+    "frac": "0.0364364364364364",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_DIAG_CKD_LEVEL",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "0",
+    "frac": "0.0307307307307307",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_DIAG_CKD_LEVEL",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "4",
+    "frac": "0.0011011011011011",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_DIAG_CKD_LEVEL",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  }
+]

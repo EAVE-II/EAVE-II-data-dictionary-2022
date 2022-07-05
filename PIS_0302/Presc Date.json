@@ -1,0 +1,82 @@
+[
+  {
+    "value": "3/16/20",
+    "frac": "0.0142326732673267",
+    "table": "PIS_0302.rds",
+    "field": "Presc Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "3/17/20",
+    "frac": "0.014026402640264",
+    "table": "PIS_0302.rds",
+    "field": "Presc Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "3/18/20",
+    "frac": "0.011963696369637",
+    "table": "PIS_0302.rds",
+    "field": "Presc Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "3/19/20",
+    "frac": "0.00763201320132013",
+    "table": "PIS_0302.rds",
+    "field": "Presc Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "3/13/20",
+    "frac": "0.00680693069306931",
+    "table": "PIS_0302.rds",
+    "field": "Presc Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "3/31/20",
+    "frac": "0.00515676567656766",
+    "table": "PIS_0302.rds",
+    "field": "Presc Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "9/30/20",
+    "frac": "0.00515676567656766",
+    "table": "PIS_0302.rds",
+    "field": "Presc Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "1/31/20",
+    "frac": "0.00495049504950495",
+    "table": "PIS_0302.rds",
+    "field": "Presc Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "12/31/19",
+    "frac": "0.00495049504950495",
+    "table": "PIS_0302.rds",
+    "field": "Presc Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  },
+  {
+    "value": "11/30/18",
+    "frac": "0.00474422442244224",
+    "table": "PIS_0302.rds",
+    "field": "Presc Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  }
+]

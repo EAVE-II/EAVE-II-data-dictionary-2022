@@ -1,0 +1,26 @@
+[
+  {
+    "value": null,
+    "frac": "0.7653",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "daily_dose_conversion",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "0.04",
+    "frac": "0.2031",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "daily_dose_conversion",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  },
+  {
+    "value": "0.02",
+    "frac": "0.0316",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "daily_dose_conversion",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  }
+]

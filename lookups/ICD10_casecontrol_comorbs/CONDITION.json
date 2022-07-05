@@ -1,0 +1,82 @@
+[
+  {
+    "value": "cancer",
+    "frac": "0.227906976744186",
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "CONDITION",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  },
+  {
+    "value": "other.cancer",
+    "frac": "0.188372093023256",
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "CONDITION",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  },
+  {
+    "value": "heart.other",
+    "frac": "0.0930232558139535",
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "CONDITION",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  },
+  {
+    "value": "neuro.other",
+    "frac": "0.0837209302325581",
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "CONDITION",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  },
+  {
+    "value": "resp.other",
+    "frac": "0.0813953488372093",
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "CONDITION",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  },
+  {
+    "value": "circulatory.other",
+    "frac": "0.0627906976744186",
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "CONDITION",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  },
+  {
+    "value": "resp.inf",
+    "frac": "0.0465116279069767",
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "CONDITION",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  },
+  {
+    "value": "kidney.other",
+    "frac": "0.0441860465116279",
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "CONDITION",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  },
+  {
+    "value": "liver",
+    "frac": "0.0418604651162791",
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "CONDITION",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  },
+  {
+    "value": "blood.cancer",
+    "frac": "0.0372093023255814",
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "CONDITION",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  }
+]

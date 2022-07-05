@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Glasgow City",
+    "frac": "0.1128",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hscp2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "Edinburgh",
+    "frac": "0.088",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hscp2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "Fife",
+    "frac": "0.072",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hscp2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "North Lanarkshire",
+    "frac": "0.0655",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hscp2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "South Lanarkshire",
+    "frac": "0.0577",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hscp2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "Aberdeenshire",
+    "frac": "0.0509",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hscp2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "Highland",
+    "frac": "0.0445",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hscp2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "Aberdeen City",
+    "frac": "0.0382",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hscp2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "West Lothian",
+    "frac": "0.0346",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hscp2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "Renfrewshire",
+    "frac": "0.032",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hscp2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  }
+]

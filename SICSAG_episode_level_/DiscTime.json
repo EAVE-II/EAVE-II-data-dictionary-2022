@@ -1,0 +1,82 @@
+[
+  {
+    "value": "57600",
+    "frac": "0.0694226828974328",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "DiscTime",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "54000",
+    "frac": "0.0592985416415572",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "DiscTime",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "50400",
+    "frac": "0.0537543690490539",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "DiscTime",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "64800",
+    "frac": "0.0433891768108955",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "DiscTime",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "61200",
+    "frac": "0.0386886826563818",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "DiscTime",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "39600",
+    "frac": "0.0306134747499096",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "DiscTime",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "59400",
+    "frac": "0.0306134747499096",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "DiscTime",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "43200",
+    "frac": "0.0300108472942027",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "DiscTime",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "68400",
+    "frac": "0.0300108472942027",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "DiscTime",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "52200",
+    "frac": "0.0298903218030613",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "DiscTime",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

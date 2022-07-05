@@ -1,0 +1,82 @@
+[
+  {
+    "value": "01/03/2022",
+    "frac": "0.0303708439897698",
+    "table": "WGS_latest.rds",
+    "field": "Alignment_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "15/03/2022",
+    "frac": "0.0201406649616368",
+    "table": "WGS_latest.rds",
+    "field": "Alignment_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "25/03/2022",
+    "frac": "0.0198209718670077",
+    "table": "WGS_latest.rds",
+    "field": "Alignment_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "22/07/2020",
+    "frac": "0.0182225063938619",
+    "table": "WGS_latest.rds",
+    "field": "Alignment_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "22/03/2022",
+    "frac": "0.0174765558397272",
+    "table": "WGS_latest.rds",
+    "field": "Alignment_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "28/02/2022",
+    "frac": "0.0169437340153453",
+    "table": "WGS_latest.rds",
+    "field": "Alignment_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "09/03/2022",
+    "frac": "0.0151321398124467",
+    "table": "WGS_latest.rds",
+    "field": "Alignment_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "26/04/2022",
+    "frac": "0.0150255754475703",
+    "table": "WGS_latest.rds",
+    "field": "Alignment_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "30/03/2022",
+    "frac": "0.0145993179880648",
+    "table": "WGS_latest.rds",
+    "field": "Alignment_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "22/02/2022",
+    "frac": "0.014386189258312",
+    "table": "WGS_latest.rds",
+    "field": "Alignment_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

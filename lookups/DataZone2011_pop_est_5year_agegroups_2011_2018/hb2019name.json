@@ -1,0 +1,82 @@
+[
+  {
+    "value": "NHS Greater Glasgow and Clyde",
+    "frac": "0.2111",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "NHS Lothian",
+    "frac": "0.1571",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "NHS Lanarkshire",
+    "frac": "0.1232",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "NHS Grampian",
+    "frac": "0.1057",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "NHS Tayside",
+    "frac": "0.0751",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "NHS Fife",
+    "frac": "0.072",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "NHS Ayrshire and Arran",
+    "frac": "0.0713",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "NHS Highland",
+    "frac": "0.0639",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "NHS Forth Valley",
+    "frac": "0.0586",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "NHS Dumfries and Galloway",
+    "frac": "0.027",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  }
+]

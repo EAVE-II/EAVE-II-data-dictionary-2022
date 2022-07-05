@@ -1,0 +1,10 @@
+[
+  {
+    "value": "0",
+    "frac": "1",
+    "table": "SMR01_allstays.rds",
+    "field": "covid_main_other_ep",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  }
+]

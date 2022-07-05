@@ -1,0 +1,82 @@
+[
+  {
+    "value": "0",
+    "frac": "0.670322973796466",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PairedDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "70",
+    "frac": "0.0225472273004266",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PairedDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "60",
+    "frac": "0.02224253503961",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PairedDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "80",
+    "frac": "0.0189924842575665",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PairedDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "65",
+    "frac": "0.0181799715620557",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PairedDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "75",
+    "frac": "0.0130002031281739",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PairedDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "72",
+    "frac": "0.0117814340849076",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PairedDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "62",
+    "frac": "0.0104611009547024",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PairedDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "55",
+    "frac": "0.00995328052000813",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PairedDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "85",
+    "frac": "0.00924233191143612",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PairedDias",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

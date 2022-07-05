@@ -1,0 +1,66 @@
+[
+  {
+    "value": null,
+    "frac": "0.796194291437156",
+    "table": "CDW_full.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Older People",
+    "frac": "0.156434651977967",
+    "table": "CDW_full.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Care at Home",
+    "frac": "0.0204306459689534",
+    "table": "CDW_full.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Learning Disabilities",
+    "frac": "0.0129193790686029",
+    "table": "CDW_full.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Physical and Sensory Impairment",
+    "frac": "0.00460691036554832",
+    "table": "CDW_full.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Children & Young People",
+    "frac": "0.0043064596895343",
+    "table": "CDW_full.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Mental Health Problems",
+    "frac": "0.00380570856284427",
+    "table": "CDW_full.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Alcohol & Drug Misuse",
+    "frac": "0.00130195292939409",
+    "table": "CDW_full.rds",
+    "field": "care_home_sub_type",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  }
+]

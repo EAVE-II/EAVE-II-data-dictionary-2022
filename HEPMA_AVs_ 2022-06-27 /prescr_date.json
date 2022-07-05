@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.133119853613907",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "prescr_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "2022-03-17",
+    "frac": "0.0407136322049405",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "prescr_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "2022-03-16",
+    "frac": "0.0370539798719122",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "prescr_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "2022-03-30",
+    "frac": "0.0365965233302836",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "prescr_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "2022-03-24",
+    "frac": "0.0333943275388838",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "prescr_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "2022-03-11",
+    "frac": "0.0279048490393413",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "prescr_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "2022-04-06",
+    "frac": "0.0269899359560842",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "prescr_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "2022-03-14",
+    "frac": "0.0265324794144556",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "prescr_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "2022-03-25",
+    "frac": "0.0265324794144556",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "prescr_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "2022-03-22",
+    "frac": "0.0256175663311985",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "prescr_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  }
+]

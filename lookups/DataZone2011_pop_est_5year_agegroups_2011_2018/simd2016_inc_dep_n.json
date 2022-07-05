@@ -1,0 +1,82 @@
+[
+  {
+    "value": "15",
+    "frac": "0.0458123107971746",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_inc_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "20",
+    "frac": "0.0453077699293643",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_inc_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "30",
+    "frac": "0.0443995963673058",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_inc_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "25",
+    "frac": "0.0439959636730575",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_inc_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "35",
+    "frac": "0.0410696266397578",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_inc_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "40",
+    "frac": "0.0391523713420787",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_inc_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "10",
+    "frac": "0.0337033299697275",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_inc_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "50",
+    "frac": "0.0337033299697275",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_inc_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "45",
+    "frac": "0.0330978809283552",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_inc_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "55",
+    "frac": "0.0323915237134208",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_inc_dep_n",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  }
+]

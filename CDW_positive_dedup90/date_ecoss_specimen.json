@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": null,
+    "table": "CDW_positive_dedup90.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  }
+]

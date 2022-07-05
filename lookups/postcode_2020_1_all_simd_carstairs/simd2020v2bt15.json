@@ -1,0 +1,18 @@
+[
+  {
+    "value": "0",
+    "frac": "0.8776",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2020v2bt15",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "1",
+    "frac": "0.1224",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2020v2bt15",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  }
+]

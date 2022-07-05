@@ -1,0 +1,34 @@
+[
+  {
+    "value": "",
+    "frac": "0.5594",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PregStatus",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "A. Not known to be pregnant",
+    "frac": "0.4059",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PregStatus",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "C. Recently pregnant (last 6 weeks)",
+    "frac": "0.0242",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PregStatus",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "B. Currently pregnant",
+    "frac": "0.0105",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "PregStatus",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

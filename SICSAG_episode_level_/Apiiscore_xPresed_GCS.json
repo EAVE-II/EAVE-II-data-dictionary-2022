@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.721624610435307",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "Apiiscore_xPresed_GCS",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "0",
+    "frac": "0.201166180758017",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "Apiiscore_xPresed_GCS",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "13",
+    "frac": "0.00603196943802151",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "Apiiscore_xPresed_GCS",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "17",
+    "frac": "0.00562983814215341",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "Apiiscore_xPresed_GCS",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "9",
+    "frac": "0.00502664119835126",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "Apiiscore_xPresed_GCS",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "14",
+    "frac": "0.00492610837438424",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "Apiiscore_xPresed_GCS",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "10",
+    "frac": "0.00472504272645019",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "Apiiscore_xPresed_GCS",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "11",
+    "frac": "0.00452397707851614",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "Apiiscore_xPresed_GCS",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "12",
+    "frac": "0.00452397707851614",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "Apiiscore_xPresed_GCS",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "16",
+    "frac": "0.00371971448677993",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "Apiiscore_xPresed_GCS",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

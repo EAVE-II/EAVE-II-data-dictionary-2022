@@ -1,0 +1,82 @@
+[
+  {
+    "value": "NHS:COV",
+    "frac": "0.85877175435087",
+    "table": "WGS_latest.rds",
+    "field": "SubLab",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "GLA:REV",
+    "frac": "0.0442088417683537",
+    "table": "WGS_latest.rds",
+    "field": "SubLab",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "EDI:RVL",
+    "frac": "0.0217043408681736",
+    "table": "WGS_latest.rds",
+    "field": "SubLab",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "FIF:ARL",
+    "frac": "0.011502300460092",
+    "table": "WGS_latest.rds",
+    "field": "SubLab",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "LAN:LAW",
+    "frac": "0.0114022804560912",
+    "table": "WGS_latest.rds",
+    "field": "SubLab",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "ABD:GHB",
+    "frac": "0.011002200440088",
+    "table": "WGS_latest.rds",
+    "field": "SubLab",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "DEE:UNI",
+    "frac": "0.0109021804360872",
+    "table": "WGS_latest.rds",
+    "field": "SubLab",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "STI:ROY",
+    "frac": "0.00810162032406481",
+    "table": "WGS_latest.rds",
+    "field": "SubLab",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "AYR:ARL",
+    "frac": "0.00740148029605921",
+    "table": "WGS_latest.rds",
+    "field": "SubLab",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "DMF:ROY",
+    "frac": "0.00500100020004001",
+    "table": "WGS_latest.rds",
+    "field": "SubLab",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

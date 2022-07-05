@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Sotrovimab 500 mg Injection for Infusion",
+    "frac": "0.409698169223157",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "SARILUMAB 200mg/1.14mL INJECTION (PRE-FILLED SYRINGE)",
+    "frac": "0.0905492330529441",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "TOCILIZUMAB Injection",
+    "frac": "0.0737258782780802",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "TOCILIZUMAB 400 mg in 20mL Injection for Infusion",
+    "frac": "0.0628401781296388",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": null,
+    "frac": "0.0484908461157843",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "SARILUMAB 200 mg Pre-filled Syringe",
+    "frac": "0.0395843641761504",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "SOTROVIMAB 500 mg Concentrate for IV Infusion",
+    "frac": "0.0306778822365166",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "SARILUMAB 200 mg Pre Filled Syringe",
+    "frac": "0.0291934685799109",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "RONAPREVE 2.4G (CASIRIVIMAB 1.2G /INDEVIMAB 1.2G) Injection",
+    "frac": "0.0282038594755072",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "Tocilizumab 400mg/20ml solution for infusion vials",
+    "frac": "0.0202869866402771",
+    "table": "HEPMA_mABs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "value": "2",
+    "frac": "0.5056",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "sex",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "1",
+    "frac": "0.4944",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "sex",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "28",
+    "frac": "0.0174",
+    "table": "serology_snbts_march22.rds",
+    "field": "isoweek",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "36",
+    "frac": "0.0167",
+    "table": "serology_snbts_march22.rds",
+    "field": "isoweek",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "37",
+    "frac": "0.0153",
+    "table": "serology_snbts_march22.rds",
+    "field": "isoweek",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "50",
+    "frac": "0.015",
+    "table": "serology_snbts_march22.rds",
+    "field": "isoweek",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "92",
+    "frac": "0.0144",
+    "table": "serology_snbts_march22.rds",
+    "field": "isoweek",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "46",
+    "frac": "0.014",
+    "table": "serology_snbts_march22.rds",
+    "field": "isoweek",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "72",
+    "frac": "0.0139",
+    "table": "serology_snbts_march22.rds",
+    "field": "isoweek",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "40",
+    "frac": "0.0138",
+    "table": "serology_snbts_march22.rds",
+    "field": "isoweek",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "68",
+    "frac": "0.0138",
+    "table": "serology_snbts_march22.rds",
+    "field": "isoweek",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "65",
+    "frac": "0.0137",
+    "table": "serology_snbts_march22.rds",
+    "field": "isoweek",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "value": "0",
+    "frac": "0.9936",
+    "table": "cases_severe_dates.rds",
+    "field": "icu",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "1",
+    "frac": "0.0064",
+    "table": "cases_severe_dates.rds",
+    "field": "icu",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  }
+]

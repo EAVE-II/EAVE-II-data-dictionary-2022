@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2021-12-08",
+    "frac": "0.036",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  },
+  {
+    "value": "2021-11-08",
+    "frac": "0.0337",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  },
+  {
+    "value": "2021-12-06",
+    "frac": "0.0334",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  },
+  {
+    "value": "2021-11-02",
+    "frac": "0.0306",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  },
+  {
+    "value": "2021-11-15",
+    "frac": "0.0303",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  },
+  {
+    "value": "2021-11-09",
+    "frac": "0.0302",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  },
+  {
+    "value": "2021-11-10",
+    "frac": "0.0295",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  },
+  {
+    "value": "2021-12-07",
+    "frac": "0.0293",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  },
+  {
+    "value": "2021-11-30",
+    "frac": "0.0292",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  },
+  {
+    "value": "2021-11-16",
+    "frac": "0.0285",
+    "table": "omicron_ctvalsTESTING.rds",
+    "field": "date_ecoss_specimen",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-12-10 18:56:25"
+  }
+]

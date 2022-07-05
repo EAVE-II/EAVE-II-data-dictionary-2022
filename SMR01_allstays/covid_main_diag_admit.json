@@ -1,0 +1,18 @@
+[
+  {
+    "value": "0",
+    "frac": "0.9824",
+    "table": "SMR01_allstays.rds",
+    "field": "covid_main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "1",
+    "frac": "0.0176",
+    "table": "SMR01_allstays.rds",
+    "field": "covid_main_diag_admit",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  }
+]

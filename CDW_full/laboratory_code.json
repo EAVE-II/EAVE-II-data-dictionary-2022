@@ -1,0 +1,82 @@
+[
+  {
+    "value": "GLS",
+    "frac": "0.530316926526037",
+    "table": "CDW_full.rds",
+    "field": "laboratory_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": null,
+    "frac": "0.0729644349332518",
+    "table": "CDW_full.rds",
+    "field": "laboratory_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "WESTRH",
+    "frac": "0.0686843982472231",
+    "table": "CDW_full.rds",
+    "field": "laboratory_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "REG:WST",
+    "frac": "0.0430041781310506",
+    "table": "CDW_full.rds",
+    "field": "laboratory_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "NORTHRH",
+    "frac": "0.0376031794558239",
+    "table": "CDW_full.rds",
+    "field": "laboratory_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "EASTRH",
+    "frac": "0.0287373891776215",
+    "table": "CDW_full.rds",
+    "field": "laboratory_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "GLA:REV",
+    "frac": "0.0217059003362886",
+    "table": "CDW_full.rds",
+    "field": "laboratory_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "EDI:RVL",
+    "frac": "0.0186487312748395",
+    "table": "CDW_full.rds",
+    "field": "laboratory_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "AYR:ARL",
+    "frac": "0.0171201467441149",
+    "table": "CDW_full.rds",
+    "field": "laboratory_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "LAN:LAW",
+    "frac": "0.0141648833180475",
+    "table": "CDW_full.rds",
+    "field": "laboratory_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "value": "none",
+    "frac": "0.9779",
+    "table": "EAVEIDs_CHILIchecked.rds",
+    "field": "exit_period",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-11-20 15:15:56"
+  },
+  {
+    "value": "before march",
+    "frac": "0.018",
+    "table": "EAVEIDs_CHILIchecked.rds",
+    "field": "exit_period",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-11-20 15:15:56"
+  },
+  {
+    "value": "between march - sept",
+    "frac": "0.0041",
+    "table": "EAVEIDs_CHILIchecked.rds",
+    "field": "exit_period",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-11-20 15:15:56"
+  }
+]

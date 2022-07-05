@@ -1,0 +1,34 @@
+[
+  {
+    "value": "NEGATIVE",
+    "frac": "0.534753475347535",
+    "table": "omicron_ctvals.rds",
+    "field": "gene_result_SGENE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:18:58"
+  },
+  {
+    "value": "POSITIVE",
+    "frac": "0.455745574557456",
+    "table": "omicron_ctvals.rds",
+    "field": "gene_result_SGENE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:18:58"
+  },
+  {
+    "value": null,
+    "frac": "0.0068006800680068",
+    "table": "omicron_ctvals.rds",
+    "field": "gene_result_SGENE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:18:58"
+  },
+  {
+    "value": "INCONCLUSIVE",
+    "frac": "0.0027002700270027",
+    "table": "omicron_ctvals.rds",
+    "field": "gene_result_SGENE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:18:58"
+  }
+]

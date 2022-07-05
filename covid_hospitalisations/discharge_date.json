@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.040605184113917",
+    "table": "covid_hospitalisations.rds",
+    "field": "discharge_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-17 16:53:46"
+  },
+  {
+    "value": "2020-04-08",
+    "frac": "0.00867727222160418",
+    "table": "covid_hospitalisations.rds",
+    "field": "discharge_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-17 16:53:46"
+  },
+  {
+    "value": "2021-01-19",
+    "frac": "0.00700856602514184",
+    "table": "covid_hospitalisations.rds",
+    "field": "discharge_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-17 16:53:46"
+  },
+  {
+    "value": "2021-09-14",
+    "frac": "0.00656357770608522",
+    "table": "covid_hospitalisations.rds",
+    "field": "discharge_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-17 16:53:46"
+  },
+  {
+    "value": "2021-01-25",
+    "frac": "0.00645233062632106",
+    "table": "covid_hospitalisations.rds",
+    "field": "discharge_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-17 16:53:46"
+  },
+  {
+    "value": "2021-01-22",
+    "frac": "0.00611858938702859",
+    "table": "covid_hospitalisations.rds",
+    "field": "discharge_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-17 16:53:46"
+  },
+  {
+    "value": "2021-01-15",
+    "frac": "0.00600734230726443",
+    "table": "covid_hospitalisations.rds",
+    "field": "discharge_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-17 16:53:46"
+  },
+  {
+    "value": "2021-01-12",
+    "frac": "0.00589609522750028",
+    "table": "covid_hospitalisations.rds",
+    "field": "discharge_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-17 16:53:46"
+  },
+  {
+    "value": "2020-04-09",
+    "frac": "0.00511736566915118",
+    "table": "covid_hospitalisations.rds",
+    "field": "discharge_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-17 16:53:46"
+  },
+  {
+    "value": "2021-01-21",
+    "frac": "0.00500611858938703",
+    "table": "covid_hospitalisations.rds",
+    "field": "discharge_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-17 16:53:46"
+  }
+]

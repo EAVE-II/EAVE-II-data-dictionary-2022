@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": null,
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  }
+]

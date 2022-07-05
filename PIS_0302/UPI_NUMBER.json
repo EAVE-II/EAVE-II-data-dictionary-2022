@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": "1",
+    "table": "PIS_0302.rds",
+    "field": "UPI_NUMBER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-12 15:36:44"
+  }
+]

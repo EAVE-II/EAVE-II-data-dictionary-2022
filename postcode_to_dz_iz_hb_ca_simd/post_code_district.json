@@ -1,0 +1,82 @@
+[
+  {
+    "value": "AB5",
+    "frac": "0.0163775455231117",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code_district",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "AB4",
+    "frac": "0.0148690873828251",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code_district",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "AB2",
+    "frac": "0.0126064001723952",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code_district",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "AB1",
+    "frac": "0.0119599181122724",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code_district",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "EH4",
+    "frac": "0.01142118306217",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code_district",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "KY11",
+    "frac": "0.0109901950220881",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code_district",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "AB42",
+    "frac": "0.0104514599719858",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code_district",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "G2",
+    "frac": "0.0104514599719858",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code_district",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "AB3",
+    "frac": "0.00969723090184247",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code_district",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "EH12",
+    "frac": "0.00937398987178106",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "post_code_district",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  }
+]

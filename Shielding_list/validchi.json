@@ -1,0 +1,10 @@
+[
+  {
+    "value": "Valid CHI",
+    "frac": "1",
+    "table": "Shielding_list.rds",
+    "field": "validchi",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-06-03 11:49:54"
+  }
+]

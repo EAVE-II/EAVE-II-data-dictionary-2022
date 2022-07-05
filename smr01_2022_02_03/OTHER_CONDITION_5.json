@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.859364358683314",
+    "table": "smr01_2022_02_03.rds",
+    "field": "OTHER_CONDITION_5",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-03 10:00:44"
+  },
+  {
+    "value": "I10X",
+    "frac": "0.0236095346197503",
+    "table": "smr01_2022_02_03.rds",
+    "field": "OTHER_CONDITION_5",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-03 10:00:44"
+  },
+  {
+    "value": "Z038",
+    "frac": "0.00930760499432463",
+    "table": "smr01_2022_02_03.rds",
+    "field": "OTHER_CONDITION_5",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-03 10:00:44"
+  },
+  {
+    "value": "E119",
+    "frac": "0.00919409761634506",
+    "table": "smr01_2022_02_03.rds",
+    "field": "OTHER_CONDITION_5",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-03 10:00:44"
+  },
+  {
+    "value": "Z867",
+    "frac": "0.0076049943246311",
+    "table": "smr01_2022_02_03.rds",
+    "field": "OTHER_CONDITION_5",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-03 10:00:44"
+  },
+  {
+    "value": "I489",
+    "frac": "0.00715096481271283",
+    "table": "smr01_2022_02_03.rds",
+    "field": "OTHER_CONDITION_5",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-03 10:00:44"
+  },
+  {
+    "value": "J449",
+    "frac": "0.00454029511918275",
+    "table": "smr01_2022_02_03.rds",
+    "field": "OTHER_CONDITION_5",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-03 10:00:44"
+  },
+  {
+    "value": "N183",
+    "frac": "0.00431328036322361",
+    "table": "smr01_2022_02_03.rds",
+    "field": "OTHER_CONDITION_5",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-03 10:00:44"
+  },
+  {
+    "value": "I259",
+    "frac": "0.00419977298524404",
+    "table": "smr01_2022_02_03.rds",
+    "field": "OTHER_CONDITION_5",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-03 10:00:44"
+  },
+  {
+    "value": "I252",
+    "frac": "0.0039727582292849",
+    "table": "smr01_2022_02_03.rds",
+    "field": "OTHER_CONDITION_5",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-03 10:00:44"
+  }
+]

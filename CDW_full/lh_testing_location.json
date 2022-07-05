@@ -1,0 +1,74 @@
+[
+  {
+    "value": null,
+    "frac": "0.412489975942261",
+    "table": "CDW_full.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Care Home",
+    "frac": "0.195368885324779",
+    "table": "CDW_full.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "MTU",
+    "frac": "0.150461106655974",
+    "table": "CDW_full.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "LTS",
+    "frac": "0.10224538893344",
+    "table": "CDW_full.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "RTS",
+    "frac": "0.099037690457097",
+    "table": "CDW_full.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Domiciliary Care",
+    "frac": "0.0332798716920609",
+    "table": "CDW_full.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "ATS",
+    "frac": "0.00471130713712911",
+    "table": "CDW_full.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "HTL",
+    "frac": "0.00120288692862871",
+    "table": "CDW_full.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "Prison",
+    "frac": "0.00120288692862871",
+    "table": "CDW_full.rds",
+    "field": "lh_testing_location",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  }
+]

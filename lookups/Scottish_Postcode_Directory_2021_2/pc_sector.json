@@ -1,0 +1,82 @@
+[
+  {
+    "value": "ZE1 0",
+    "frac": "0.00431320504313205",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "pc_sector",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "AB5 5",
+    "frac": "0.00414731254147313",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "pc_sector",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "AB56 2",
+    "frac": "0.0039814200398142",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "pc_sector",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "PH1 3",
+    "frac": "0.0039814200398142",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "pc_sector",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "PH2 9",
+    "frac": "0.0039814200398142",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "pc_sector",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "EH7 5",
+    "frac": "0.00381552753815528",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "pc_sector",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "FK2 7",
+    "frac": "0.00381552753815528",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "pc_sector",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "G67 2",
+    "frac": "0.00381552753815528",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "pc_sector",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "IV1 2",
+    "frac": "0.00381552753815528",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "pc_sector",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "KA7 2",
+    "frac": "0.00381552753815528",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "pc_sector",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  }
+]

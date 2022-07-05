@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.922188386012811",
+    "table": "cases_severe_dates.rds",
+    "field": "days_2_hosp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "0",
+    "frac": "0.038223248976163",
+    "table": "cases_severe_dates.rds",
+    "field": "days_2_hosp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "1",
+    "frac": "0.00483041058489972",
+    "table": "cases_severe_dates.rds",
+    "field": "days_2_hosp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "-1",
+    "frac": "0.00378032132731282",
+    "table": "cases_severe_dates.rds",
+    "field": "days_2_hosp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "8",
+    "frac": "0.00325527669851937",
+    "table": "cases_severe_dates.rds",
+    "field": "days_2_hosp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "9",
+    "frac": "0.00283524099548462",
+    "table": "cases_severe_dates.rds",
+    "field": "days_2_hosp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "2",
+    "frac": "0.00273023206972593",
+    "table": "cases_severe_dates.rds",
+    "field": "days_2_hosp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "3",
+    "frac": "0.00252021421820855",
+    "table": "cases_severe_dates.rds",
+    "field": "days_2_hosp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "4",
+    "frac": "0.00241520529244986",
+    "table": "cases_severe_dates.rds",
+    "field": "days_2_hosp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "6",
+    "frac": "0.00241520529244986",
+    "table": "cases_severe_dates.rds",
+    "field": "days_2_hosp",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "City Centre South",
+    "frac": "0.0210952482420626",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "City Centre East",
+    "frac": "0.0204559982953335",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "Deans Village",
+    "frac": "0.012571915619007",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "City Centre West",
+    "frac": "0.00937566588536118",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "Cullen, Portknockie, Findochty, Drybridge and Berryhillock",
+    "frac": "0.00831024930747922",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "Hillside and Calton Hill",
+    "frac": "0.00767099936075005",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "Perth Road",
+    "frac": "0.00767099936075005",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "Rural Keith and Strathisla",
+    "frac": "0.00767099936075005",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "Gardenstown and King Edward",
+    "frac": "0.00745791604517366",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "Old Town, Princes Street and Leith Street",
+    "frac": "0.00745791604517366",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "intzone2011name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "350",
+    "frac": "0.0212264150943396",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Dist",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-30 13:07:34"
+  },
+  {
+    "value": "518",
+    "frac": "0.0209187858900738",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Dist",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-30 13:07:34"
+  },
+  {
+    "value": "592",
+    "frac": "0.0209187858900738",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Dist",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-30 13:07:34"
+  },
+  {
+    "value": "602",
+    "frac": "0.0207136997538966",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Dist",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-30 13:07:34"
+  },
+  {
+    "value": "734",
+    "frac": "0.0194831829368335",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Dist",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-30 13:07:34"
+  },
+  {
+    "value": "646",
+    "frac": "0.0193806398687449",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Dist",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-30 13:07:34"
+  },
+  {
+    "value": "432",
+    "frac": "0.0191755537325677",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Dist",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-30 13:07:34"
+  },
+  {
+    "value": "564",
+    "frac": "0.0191755537325677",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Dist",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-30 13:07:34"
+  },
+  {
+    "value": "601",
+    "frac": "0.0191755537325677",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Dist",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-30 13:07:34"
+  },
+  {
+    "value": "479",
+    "frac": "0.0187653814602133",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Dist",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-30 13:07:34"
+  }
+]

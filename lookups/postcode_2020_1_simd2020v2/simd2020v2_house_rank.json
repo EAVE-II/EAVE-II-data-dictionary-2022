@@ -1,0 +1,82 @@
+[
+  {
+    "value": "13",
+    "frac": "0.0654338549075391",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_house_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "71",
+    "frac": "0.0611664295874822",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_house_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "4361.5",
+    "frac": "0.0483641536273115",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_house_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "63",
+    "frac": "0.042674253200569",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_house_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "341",
+    "frac": "0.0398293029871977",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_house_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "98",
+    "frac": "0.0384068278805121",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_house_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "4827",
+    "frac": "0.0341394025604552",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_house_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "507",
+    "frac": "0.0312944523470839",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_house_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "999",
+    "frac": "0.0298719772403983",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_house_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  },
+  {
+    "value": "96",
+    "frac": "0.0284495021337127",
+    "table": "postcode_2020_1_simd2020v2.rds",
+    "field": "simd2020v2_house_rank",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-16 12:06:00"
+  }
+]

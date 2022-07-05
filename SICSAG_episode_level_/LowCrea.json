@@ -1,0 +1,82 @@
+[
+  {
+    "value": "0",
+    "frac": "0.725208824159349",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowCrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "53",
+    "frac": "0.00685371599914329",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowCrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "62",
+    "frac": "0.00685371599914329",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowCrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "64",
+    "frac": "0.00674662668665667",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowCrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "58",
+    "frac": "0.00599700149925037",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowCrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "65",
+    "frac": "0.00599700149925037",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowCrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "60",
+    "frac": "0.00578282287427715",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowCrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "73",
+    "frac": "0.00578282287427715",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowCrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "57",
+    "frac": "0.00546155493681731",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowCrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "66",
+    "frac": "0.00535446562433069",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "LowCrea",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

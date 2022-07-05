@@ -1,0 +1,82 @@
+[
+  {
+    "value": "GLASGOW",
+    "frac": "0.22244448889778",
+    "table": "Serology_Oct20May21.rds",
+    "field": "Address1/Board",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "LOTHIAN",
+    "frac": "0.198439687937588",
+    "table": "Serology_Oct20May21.rds",
+    "field": "Address1/Board",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "LANARKSHIRE",
+    "frac": "0.135227045409082",
+    "table": "Serology_Oct20May21.rds",
+    "field": "Address1/Board",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "GRAMPIAN",
+    "frac": "0.0734146829365873",
+    "table": "Serology_Oct20May21.rds",
+    "field": "Address1/Board",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "FIFE",
+    "frac": "0.0724144828965793",
+    "table": "Serology_Oct20May21.rds",
+    "field": "Address1/Board",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "HIGHLAND",
+    "frac": "0.0722144428885777",
+    "table": "Serology_Oct20May21.rds",
+    "field": "Address1/Board",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "FORTH VALLEY",
+    "frac": "0.0713142628525705",
+    "table": "Serology_Oct20May21.rds",
+    "field": "Address1/Board",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "TAYSIDE",
+    "frac": "0.0693138627725545",
+    "table": "Serology_Oct20May21.rds",
+    "field": "Address1/Board",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "DUMFRIES",
+    "frac": "0.0354070814162833",
+    "table": "Serology_Oct20May21.rds",
+    "field": "Address1/Board",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  },
+  {
+    "value": "SHETLAND",
+    "frac": "0.0234046809361872",
+    "table": "Serology_Oct20May21.rds",
+    "field": "Address1/Board",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-08-30 15:43:53"
+  }
+]

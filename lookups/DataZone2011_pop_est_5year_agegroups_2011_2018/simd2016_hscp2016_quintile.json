@@ -1,0 +1,42 @@
+[
+  {
+    "value": "1",
+    "frac": "0.2071",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_hscp2016_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "5",
+    "frac": "0.2048",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_hscp2016_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "3",
+    "frac": "0.1988",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_hscp2016_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "2",
+    "frac": "0.1979",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_hscp2016_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  },
+  {
+    "value": "4",
+    "frac": "0.1914",
+    "table": "DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "field": "simd2016_hscp2016_quintile",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-05 13:16:27"
+  }
+]

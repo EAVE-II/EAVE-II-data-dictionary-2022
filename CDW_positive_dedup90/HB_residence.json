@@ -1,0 +1,82 @@
+[
+  {
+    "value": "NHS GREATER GLASGOW & CLYDE",
+    "frac": "0.24887466239872",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "HB_residence",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "NHS LOTHIAN",
+    "frac": "0.164649394818446",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "HB_residence",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "NHS LANARKSHIRE",
+    "frac": "0.143543062918876",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "HB_residence",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "NHS GRAMPIAN",
+    "frac": "0.0834250275082525",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "HB_residence",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "NHS AYRSHIRE & ARRAN",
+    "frac": "0.0735220566169851",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "HB_residence",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "NHS TAYSIDE",
+    "frac": "0.0734220266079824",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "HB_residence",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "NHS FIFE",
+    "frac": "0.061518455536661",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "HB_residence",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "NHS FORTH VALLEY",
+    "frac": "0.0608182454736421",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "HB_residence",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "NHS HIGHLAND",
+    "frac": "0.0455136540962289",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "HB_residence",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  },
+  {
+    "value": "NHS DUMFRIES & GALLOWAY",
+    "frac": "0.0236070821246374",
+    "table": "CDW_positive_dedup90.rds",
+    "field": "HB_residence",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-23 10:14:48"
+  }
+]

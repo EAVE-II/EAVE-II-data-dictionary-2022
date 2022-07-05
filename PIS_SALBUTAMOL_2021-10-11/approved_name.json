@@ -1,0 +1,10 @@
+[
+  {
+    "value": "SALBUTAMOL",
+    "frac": "1",
+    "table": "PIS_SALBUTAMOL_2021-10-11.rds",
+    "field": "approved_name",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-10-11 14:20:47"
+  }
+]

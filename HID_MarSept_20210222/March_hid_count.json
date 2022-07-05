@@ -1,0 +1,82 @@
+[
+  {
+    "value": "1",
+    "frac": "0.268632599474854",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_hid_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "2",
+    "frac": "0.258129670773581",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_hid_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "3",
+    "frac": "0.18410422136942",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_hid_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "4",
+    "frac": "0.146940012118764",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_hid_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "5",
+    "frac": "0.0620076752171279",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_hid_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "235865",
+    "frac": "0.0404968693193294",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_hid_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "6",
+    "frac": "0.0228236719854575",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_hid_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "7",
+    "frac": "0.00747323772975157",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_hid_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "8",
+    "frac": "0.00504948495253484",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_hid_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "9",
+    "frac": "0.0032316703696223",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "March_hid_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "value": "negative",
+    "frac": "0.8312",
+    "table": "serology_updated_weights.rds",
+    "field": "Result Qualitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-02 11:03:02"
+  },
+  {
+    "value": "positive",
+    "frac": "0.1588",
+    "table": "serology_updated_weights.rds",
+    "field": "Result Qualitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-02 11:03:02"
+  },
+  {
+    "value": "equivocal",
+    "frac": "0.01",
+    "table": "serology_updated_weights.rds",
+    "field": "Result Qualitative",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-11-02 11:03:02"
+  }
+]

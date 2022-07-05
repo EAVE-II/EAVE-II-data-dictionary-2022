@@ -1,0 +1,82 @@
+[
+  {
+    "value": "3",
+    "frac": "0.484417276280188",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_ETHNICITY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": null,
+    "frac": "0.218959815612787",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_ETHNICITY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "1",
+    "frac": "0.186992684637739",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_ETHNICITY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "0",
+    "frac": "0.0392824932357952",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_ETHNICITY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "16",
+    "frac": "0.0135284096602866",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_ETHNICITY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "9",
+    "frac": "0.0116244112636537",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_ETHNICITY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "15",
+    "frac": "0.00951999198316465",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_ETHNICITY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "8",
+    "frac": "0.00931957109930855",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_ETHNICITY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "13",
+    "frac": "0.00741557270267562",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_ETHNICITY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "11",
+    "frac": "0.00571199518989879",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_ETHNICITY",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  }
+]

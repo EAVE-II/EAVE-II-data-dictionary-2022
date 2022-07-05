@@ -1,0 +1,82 @@
+[
+  {
+    "value": "NHS Greater Glasgow and Clyde",
+    "frac": "0.2026",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "NHS Grampian",
+    "frac": "0.1896",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "NHS Lothian",
+    "frac": "0.1368",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "NHS Lanarkshire",
+    "frac": "0.0874",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "NHS Tayside",
+    "frac": "0.0828",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "NHS Highland",
+    "frac": "0.0651",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "NHS Ayrshire and Arran",
+    "frac": "0.0618",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "NHS Fife",
+    "frac": "0.0558",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "NHS Forth Valley",
+    "frac": "0.0453",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "NHS Dumfries and Galloway",
+    "frac": "0.0336",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "hb2019name",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  }
+]

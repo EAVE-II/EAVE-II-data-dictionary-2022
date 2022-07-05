@@ -1,0 +1,26 @@
+[
+  {
+    "value": "Negative",
+    "frac": "0.6442",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_qual",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "Positive",
+    "frac": "0.3491",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_qual",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "Equivocal",
+    "frac": "0.0067",
+    "table": "serology_primcare_march22.rds",
+    "field": "test_result_qual",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  }
+]

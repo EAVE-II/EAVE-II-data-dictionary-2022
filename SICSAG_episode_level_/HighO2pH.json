@@ -1,0 +1,82 @@
+[
+  {
+    "value": "0",
+    "frac": "0.858566344687341",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighO2pH",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "7.35",
+    "frac": "0.0083375699034062",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighO2pH",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "7.4",
+    "frac": "0.00793085917641078",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighO2pH",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "7.38",
+    "frac": "0.0074224707676665",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighO2pH",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "7.37",
+    "frac": "0.00711743772241993",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighO2pH",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "7.34",
+    "frac": "0.00701576004067107",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighO2pH",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "7.41",
+    "frac": "0.00701576004067107",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighO2pH",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "7.33",
+    "frac": "0.00569395017793594",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighO2pH",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "7.36",
+    "frac": "0.00569395017793594",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighO2pH",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  },
+  {
+    "value": "7.3",
+    "frac": "0.00549059481443823",
+    "table": "SICSAG_episode_level_.rds",
+    "field": "HighO2pH",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-05 09:04:51"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "NHS Greater Glasgow and Clyde",
+    "frac": "0.2345",
+    "table": "Serology_all.rds",
+    "field": "hb",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "NHS Lothian",
+    "frac": "0.1917",
+    "table": "Serology_all.rds",
+    "field": "hb",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "NHS Lanarkshire",
+    "frac": "0.1332",
+    "table": "Serology_all.rds",
+    "field": "hb",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "NHS Grampian",
+    "frac": "0.0765",
+    "table": "Serology_all.rds",
+    "field": "hb",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "NHS Fife",
+    "frac": "0.075",
+    "table": "Serology_all.rds",
+    "field": "hb",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "NHS Tayside",
+    "frac": "0.0732",
+    "table": "Serology_all.rds",
+    "field": "hb",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "NHS Highland",
+    "frac": "0.0729",
+    "table": "Serology_all.rds",
+    "field": "hb",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "NHS Forth Valley",
+    "frac": "0.0718",
+    "table": "Serology_all.rds",
+    "field": "hb",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "NHS Dumfries and Galloway",
+    "frac": "0.0302",
+    "table": "Serology_all.rds",
+    "field": "hb",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "NHS Shetland",
+    "frac": "0.0209",
+    "table": "Serology_all.rds",
+    "field": "hb",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "value": "G405H",
+    "frac": "0.596742349457058",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "ods_code_derived",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  },
+  {
+    "value": "L308H",
+    "frac": "0.133761105626851",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "ods_code_derived",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  },
+  {
+    "value": "A210H",
+    "frac": "0.0651530108588351",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "ods_code_derived",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  },
+  {
+    "value": "S217H",
+    "frac": "0.0597235932872656",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "ods_code_derived",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  },
+  {
+    "value": "Y146H",
+    "frac": "0.0498519249753208",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "ods_code_derived",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  },
+  {
+    "value": null,
+    "frac": "0.0483711747285291",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "ods_code_derived",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  },
+  {
+    "value": "V201H",
+    "frac": "0.0463968410661402",
+    "table": "HEPMA_mABs_ 2022-06-14 .rds",
+    "field": "ods_code_derived",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-14 10:33:23"
+  }
+]

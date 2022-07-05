@@ -1,0 +1,82 @@
+[
+  {
+    "value": "PF-07321332 Nirmatrelvir (Paxlovid - PINK) 150 mg Tablets",
+    "frac": "0.520912547528517",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": ".NIRMATRELVIR (PF-07321332) 150mg Tablets",
+    "frac": "0.136882129277567",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": null,
+    "frac": "0.122940430925222",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "PF-07321332 (NIRMATRELVIR) 150mg Tablets",
+    "frac": "0.0844951415293621",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "PF-07321332 (NIRMATRELVIR) 150mg Tablets (part of PAXLOVID)",
+    "frac": "0.0337980566117448",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "MOLNUPIRAVIR 200 mg Capsules",
+    "frac": "0.0308407266582172",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "PF-07321332 (Nirmatrelvir -Part Paxlovid Pack) 150 mg Tabs",
+    "frac": "0.0223912125052809",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "RITONAVIR (Part Paxlovid Pack) 100 mg Tablets",
+    "frac": "0.0223912125052809",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "Molnupiravir 200 mg Capsules",
+    "frac": "0.0194338825517533",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  },
+  {
+    "value": "NIRMATRELVIR (RECOVERY TRIAL) 150mg Tabs (part of PAXLOVID)",
+    "frac": "0.00591465990705534",
+    "table": "HEPMA_AVs_ 2022-06-27 .rds",
+    "field": "pr_item",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-27 12:46:17"
+  }
+]

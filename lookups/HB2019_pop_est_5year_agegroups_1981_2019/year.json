@@ -1,0 +1,82 @@
+[
+  {
+    "value": "1986",
+    "frac": "0.0277",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "1988",
+    "frac": "0.0275",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "2002",
+    "frac": "0.0274",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "2004",
+    "frac": "0.0274",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "2005",
+    "frac": "0.0271",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "1985",
+    "frac": "0.027",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "1992",
+    "frac": "0.0269",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "2014",
+    "frac": "0.0269",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "1990",
+    "frac": "0.0268",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  },
+  {
+    "value": "1983",
+    "frac": "0.0266",
+    "table": "HB2019_pop_est_5year_agegroups_1981_2019.rds",
+    "field": "year",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-05-01 13:34:28"
+  }
+]

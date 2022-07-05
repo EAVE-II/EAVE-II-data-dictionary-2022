@@ -1,0 +1,82 @@
+[
+  {
+    "value": "GC",
+    "frac": "0.251225122512251",
+    "table": "WGS_latest.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "LO",
+    "frac": "0.163716371637164",
+    "table": "WGS_latest.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "LN",
+    "frac": "0.136913691369137",
+    "table": "WGS_latest.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "GR",
+    "frac": "0.0882088208820882",
+    "table": "WGS_latest.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "TY",
+    "frac": "0.0732073207320732",
+    "table": "WGS_latest.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "AA",
+    "frac": "0.0667066706670667",
+    "table": "WGS_latest.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "FF",
+    "frac": "0.0636063606360636",
+    "table": "WGS_latest.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "FV",
+    "frac": "0.0628062806280628",
+    "table": "WGS_latest.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "HG",
+    "frac": "0.049004900490049",
+    "table": "WGS_latest.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "DG",
+    "frac": "0.021002100210021",
+    "table": "WGS_latest.rds",
+    "field": "HealthBoard",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

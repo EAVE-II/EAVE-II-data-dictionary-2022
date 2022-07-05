@@ -1,0 +1,34 @@
+[
+  {
+    "value": "Confirmed",
+    "frac": "0.532953295329533",
+    "table": "WGS_latest.rds",
+    "field": "VariantCalling",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "Probable",
+    "frac": "0.414541454145415",
+    "table": "WGS_latest.rds",
+    "field": "VariantCalling",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "NA",
+    "frac": "0.0473047304730473",
+    "table": "WGS_latest.rds",
+    "field": "VariantCalling",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "Probable; Secondary change",
+    "frac": "0.0052005200520052",
+    "table": "WGS_latest.rds",
+    "field": "VariantCalling",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

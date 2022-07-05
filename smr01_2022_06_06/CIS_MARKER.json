@@ -1,0 +1,82 @@
+[
+  {
+    "value": "3",
+    "frac": "0.0682077329739816",
+    "table": "smr01_2022_06_06.rds",
+    "field": "CIS_MARKER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "1",
+    "frac": "0.0669638229501399",
+    "table": "smr01_2022_06_06.rds",
+    "field": "CIS_MARKER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "2",
+    "frac": "0.0663418679382191",
+    "table": "smr01_2022_06_06.rds",
+    "field": "CIS_MARKER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "4",
+    "frac": "0.0644760029024567",
+    "table": "smr01_2022_06_06.rds",
+    "field": "CIS_MARKER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "5",
+    "frac": "0.0590857261324764",
+    "table": "smr01_2022_06_06.rds",
+    "field": "CIS_MARKER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "6",
+    "frac": "0.0571162019280605",
+    "table": "smr01_2022_06_06.rds",
+    "field": "CIS_MARKER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "7",
+    "frac": "0.0557686327355655",
+    "table": "smr01_2022_06_06.rds",
+    "field": "CIS_MARKER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "9",
+    "frac": "0.0468539442313673",
+    "table": "smr01_2022_06_06.rds",
+    "field": "CIS_MARKER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "8",
+    "frac": "0.0466466258940603",
+    "table": "smr01_2022_06_06.rds",
+    "field": "CIS_MARKER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  },
+  {
+    "value": "10",
+    "frac": "0.0419819633046543",
+    "table": "smr01_2022_06_06.rds",
+    "field": "CIS_MARKER",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-06-06 12:38:44"
+  }
+]

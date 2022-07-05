@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.878817519834801",
+    "table": "deaths_2015_2020.rds",
+    "field": "CAUSE_OF_DEATH_CODE_4",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  },
+  {
+    "value": "J449",
+    "frac": "0.0146723182262798",
+    "table": "deaths_2015_2020.rds",
+    "field": "CAUSE_OF_DEATH_CODE_4",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  },
+  {
+    "value": "N179",
+    "frac": "0.00825997174220193",
+    "table": "deaths_2015_2020.rds",
+    "field": "CAUSE_OF_DEATH_CODE_4",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  },
+  {
+    "value": "E119",
+    "frac": "0.00739050103249647",
+    "table": "deaths_2015_2020.rds",
+    "field": "CAUSE_OF_DEATH_CODE_4",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  },
+  {
+    "value": "I10",
+    "frac": "0.0071731333550701",
+    "table": "deaths_2015_2020.rds",
+    "field": "CAUSE_OF_DEATH_CODE_4",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  },
+  {
+    "value": "R688",
+    "frac": "0.00619497880665145",
+    "table": "deaths_2015_2020.rds",
+    "field": "CAUSE_OF_DEATH_CODE_4",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  },
+  {
+    "value": "N189",
+    "frac": "0.00565155961308553",
+    "table": "deaths_2015_2020.rds",
+    "field": "CAUSE_OF_DEATH_CODE_4",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  },
+  {
+    "value": "I219",
+    "frac": "0.00499945658080643",
+    "table": "deaths_2015_2020.rds",
+    "field": "CAUSE_OF_DEATH_CODE_4",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  },
+  {
+    "value": "C795",
+    "frac": "0.00434735354852733",
+    "table": "deaths_2015_2020.rds",
+    "field": "CAUSE_OF_DEATH_CODE_4",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  },
+  {
+    "value": "I259",
+    "frac": "0.00423866970981415",
+    "table": "deaths_2015_2020.rds",
+    "field": "CAUSE_OF_DEATH_CODE_4",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-04-20 16:47:23"
+  }
+]

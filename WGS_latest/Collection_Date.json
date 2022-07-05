@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2022-03-07",
+    "frac": "0.0149398761083445",
+    "table": "WGS_latest.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "2022-03-09",
+    "frac": "0.0140896392566501",
+    "table": "WGS_latest.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "2022-03-06",
+    "frac": "0.0132394024049557",
+    "table": "WGS_latest.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "2022-02-15",
+    "frac": "0.0129964775901858",
+    "table": "WGS_latest.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "2022-02-14",
+    "frac": "0.0126320903680311",
+    "table": "WGS_latest.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "2022-03-14",
+    "frac": "0.0123891655532613",
+    "table": "WGS_latest.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "2022-02-18",
+    "frac": "0.0121462407384914",
+    "table": "WGS_latest.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "2022-03-17",
+    "frac": "0.0119033159237216",
+    "table": "WGS_latest.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "2022-02-21",
+    "frac": "0.0117818535163367",
+    "table": "WGS_latest.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "2022-03-02",
+    "frac": "0.0116603911089518",
+    "table": "WGS_latest.rds",
+    "field": "Collection_Date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

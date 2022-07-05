@@ -1,0 +1,82 @@
+[
+  {
+    "value": "19",
+    "frac": "0.0321963980279706",
+    "table": "serology_primcare_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "17",
+    "frac": "0.0313914880772714",
+    "table": "serology_primcare_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "15",
+    "frac": "0.0288761444813362",
+    "table": "serology_primcare_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "16",
+    "frac": "0.0280712345306369",
+    "table": "serology_primcare_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "18",
+    "frac": "0.0263608008854009",
+    "table": "serology_primcare_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "14",
+    "frac": "0.0209276587181809",
+    "table": "serology_primcare_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "66",
+    "frac": "0.0191166113291076",
+    "table": "serology_primcare_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "13",
+    "frac": "0.0181104738907335",
+    "table": "serology_primcare_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "67",
+    "frac": "0.017506791427709",
+    "table": "serology_primcare_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "68",
+    "frac": "0.0173055639400342",
+    "table": "serology_primcare_march22.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": null,
+    "table": "ICD10_casecontrol_comorbs.rds",
+    "field": "ICD10",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-07-23 13:53:50"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: positive  specimen type: serum  --------------------------------------------------------------------  dr sally mavin, clinical scientist  final report",
+    "frac": "0.0494991160872127",
+    "table": "serology_primcare_march22.rds",
+    "field": "Text",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": null,
+    "frac": "0.0268120212139069",
+    "table": "serology_primcare_march22.rds",
+    "field": "Text",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 07/07/20 at  8:52 am  final report",
+    "frac": "0.0129640542133176",
+    "table": "serology_primcare_march22.rds",
+    "field": "Text",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 12/06/20 at  1:37 pm  final report",
+    "frac": "0.00854449027695934",
+    "table": "serology_primcare_march22.rds",
+    "field": "Text",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 31/07/20 at  2:59 pm  final report",
+    "frac": "0.0079552150854449",
+    "table": "serology_primcare_march22.rds",
+    "field": "Text",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 04/09/20 at 10:02 am  final report",
+    "frac": "0.00736593989393047",
+    "table": "serology_primcare_march22.rds",
+    "field": "Text",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 10/09/20 at  4:04 pm  final report",
+    "frac": "0.00677666470241603",
+    "table": "serology_primcare_march22.rds",
+    "field": "Text",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 14/09/20 at 11:13 am  final report",
+    "frac": "0.00677666470241603",
+    "table": "serology_primcare_march22.rds",
+    "field": "Text",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 15/07/20 at 12:07 pm  final report",
+    "frac": "0.00677666470241603",
+    "table": "serology_primcare_march22.rds",
+    "field": "Text",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  },
+  {
+    "value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 24/09/20 at 11:08 am  final report",
+    "frac": "0.00677666470241603",
+    "table": "serology_primcare_march22.rds",
+    "field": "Text",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-03-07 09:55:55"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "56",
+    "frac": "0.0200521355524363",
+    "table": "CDW_full.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "57",
+    "frac": "0.0197513535191498",
+    "table": "CDW_full.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "58",
+    "frac": "0.0192500501303389",
+    "table": "CDW_full.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "31",
+    "frac": "0.018748746741528",
+    "table": "CDW_full.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "55",
+    "frac": "0.018748746741528",
+    "table": "CDW_full.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "52",
+    "frac": "0.0185482253860036",
+    "table": "CDW_full.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "35",
+    "frac": "0.0177461399639062",
+    "table": "CDW_full.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "34",
+    "frac": "0.0175456186083818",
+    "table": "CDW_full.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "24",
+    "frac": "0.0174453579306196",
+    "table": "CDW_full.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  },
+  {
+    "value": "49",
+    "frac": "0.0173450972528574",
+    "table": "CDW_full.rds",
+    "field": "age",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:15:33"
+  }
+]

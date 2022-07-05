@@ -1,0 +1,50 @@
+[
+  {
+    "value": null,
+    "frac": "0.989284998998598",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "Sept_transfer_out_reason",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "Q",
+    "frac": "0.00340476667334268",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "Sept_transfer_out_reason",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "E",
+    "frac": "0.00300420588824354",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "Sept_transfer_out_reason",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "6",
+    "frac": "0.00170238333667134",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "Sept_transfer_out_reason",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "5",
+    "frac": "0.00140196274784699",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "Sept_transfer_out_reason",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  },
+  {
+    "value": "2",
+    "frac": "0.00120168235529742",
+    "table": "HID_MarSept_20210222.rds",
+    "field": "Sept_transfer_out_reason",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-23 09:53:52"
+  }
+]

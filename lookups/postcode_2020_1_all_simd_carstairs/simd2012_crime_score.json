@@ -1,0 +1,82 @@
+[
+  {
+    "value": null,
+    "frac": "0.135603910438348",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2012_crime_score",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "15916",
+    "frac": "0.00914538000630716",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2012_crime_score",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "283",
+    "frac": "0.00788394828129928",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2012_crime_score",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "773",
+    "frac": "0.00709555345316935",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2012_crime_score",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "123",
+    "frac": "0.00693787448754336",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2012_crime_score",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "96",
+    "frac": "0.00678019552191738",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2012_crime_score",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "117",
+    "frac": "0.00662251655629139",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2012_crime_score",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "209",
+    "frac": "0.00662251655629139",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2012_crime_score",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "173",
+    "frac": "0.00630715862503942",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2012_crime_score",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  },
+  {
+    "value": "85",
+    "frac": "0.00583412172816146",
+    "table": "postcode_2020_1_all_simd_carstairs.rds",
+    "field": "simd2012_crime_score",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-02 13:13:10"
+  }
+]

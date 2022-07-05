@@ -1,0 +1,82 @@
+[
+  {
+    "value": "S08000024",
+    "frac": "0.0688555945170545",
+    "table": "EAVE_HBcounts.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:20:47"
+  },
+  {
+    "value": "S08000015",
+    "frac": "0.0685368186165126",
+    "table": "EAVE_HBcounts.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:20:47"
+  },
+  {
+    "value": "S08000030",
+    "frac": "0.0685368186165126",
+    "table": "EAVE_HBcounts.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:20:47"
+  },
+  {
+    "value": "S08000031",
+    "frac": "0.0685368186165126",
+    "table": "EAVE_HBcounts.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:20:47"
+  },
+  {
+    "value": "S08000029",
+    "frac": "0.0678992668154288",
+    "table": "EAVE_HBcounts.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:20:47"
+  },
+  {
+    "value": "S08000020",
+    "frac": "0.0672617150143449",
+    "table": "EAVE_HBcounts.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:20:47"
+  },
+  {
+    "value": "S08000032",
+    "frac": "0.0672617150143449",
+    "table": "EAVE_HBcounts.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:20:47"
+  },
+  {
+    "value": "S08000019",
+    "frac": "0.066942939113803",
+    "table": "EAVE_HBcounts.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:20:47"
+  },
+  {
+    "value": "S08000022",
+    "frac": "0.0666241632132611",
+    "table": "EAVE_HBcounts.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:20:47"
+  },
+  {
+    "value": "S08000016",
+    "frac": "0.0663053873127192",
+    "table": "EAVE_HBcounts.rds",
+    "field": "hb2019",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2020-06-11 11:20:47"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "3",
+    "frac": "0.2343",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "4",
+    "frac": "0.223",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "2",
+    "frac": "0.1974",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "1",
+    "frac": "0.1778",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  },
+  {
+    "value": "5",
+    "frac": "0.1675",
+    "table": "postcode_to_dz_iz_hb_ca_simd.rds",
+    "field": "simd2020",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-01-27 15:45:44"
+  }
+]

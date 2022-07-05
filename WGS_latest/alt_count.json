@@ -1,0 +1,82 @@
+[
+  {
+    "value": "3",
+    "frac": "0.335368905796376",
+    "table": "WGS_latest.rds",
+    "field": "alt_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "11",
+    "frac": "0.240064070477525",
+    "table": "WGS_latest.rds",
+    "field": "alt_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "9",
+    "frac": "0.228551406547202",
+    "table": "WGS_latest.rds",
+    "field": "alt_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "13",
+    "frac": "0.0838922815096606",
+    "table": "WGS_latest.rds",
+    "field": "alt_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "NA",
+    "frac": "0.0473520872960256",
+    "table": "WGS_latest.rds",
+    "field": "alt_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "8",
+    "frac": "0.0203223545900491",
+    "table": "WGS_latest.rds",
+    "field": "alt_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "10",
+    "frac": "0.0141155270797878",
+    "table": "WGS_latest.rds",
+    "field": "alt_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "4",
+    "frac": "0.00800880969065973",
+    "table": "WGS_latest.rds",
+    "field": "alt_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "7",
+    "frac": "0.00620682751026129",
+    "table": "WGS_latest.rds",
+    "field": "alt_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  },
+  {
+    "value": "5",
+    "frac": "0.00360396436079688",
+    "table": "WGS_latest.rds",
+    "field": "alt_count",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 10:04:31"
+  }
+]

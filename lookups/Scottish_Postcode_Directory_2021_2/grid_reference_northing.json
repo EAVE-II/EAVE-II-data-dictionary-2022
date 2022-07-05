@@ -1,0 +1,82 @@
+[
+  {
+    "value": "666213",
+    "frac": "0.209876543209877",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "grid_reference_northing",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "674777",
+    "frac": "0.152263374485597",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "grid_reference_northing",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "672938",
+    "frac": "0.0699588477366255",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "grid_reference_northing",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "730386",
+    "frac": "0.065843621399177",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "grid_reference_northing",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "667531",
+    "frac": "0.0534979423868313",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "grid_reference_northing",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "674730",
+    "frac": "0.0534979423868313",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "grid_reference_northing",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "674986",
+    "frac": "0.0534979423868313",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "grid_reference_northing",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "721813",
+    "frac": "0.0534979423868313",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "grid_reference_northing",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "802269",
+    "frac": "0.0534979423868313",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "grid_reference_northing",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  },
+  {
+    "value": "680221",
+    "frac": "0.0493827160493827",
+    "table": "Scottish_Postcode_Directory_2021_2.rds",
+    "field": "grid_reference_northing",
+    "folder": "/conf/EAVE/GPanalysis/data/lookups",
+    "date_last_modified": "2021-10-28 14:55:27"
+  }
+]

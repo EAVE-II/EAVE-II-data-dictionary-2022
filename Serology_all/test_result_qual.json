@@ -1,0 +1,26 @@
+[
+  {
+    "value": "Negative",
+    "frac": "0.668",
+    "table": "Serology_all.rds",
+    "field": "test_result_qual",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "Positive",
+    "frac": "0.3217",
+    "table": "Serology_all.rds",
+    "field": "test_result_qual",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  },
+  {
+    "value": "Equivocal",
+    "frac": "0.0103",
+    "table": "Serology_all.rds",
+    "field": "test_result_qual",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-02-22 10:43:21"
+  }
+]

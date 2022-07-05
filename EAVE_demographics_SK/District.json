@@ -1,0 +1,82 @@
+[
+  {
+    "value": "EH4",
+    "frac": "0.012834111158252",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "District",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "EH54",
+    "frac": "0.012091641917692",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "District",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "KY11",
+    "frac": "0.0115613067458634",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "District",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "ML3",
+    "frac": "0.0114552397114977",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "District",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "ML1",
+    "frac": "0.0113491726771319",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "District",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "EH11",
+    "frac": "0.0109249045396691",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "District",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "DD4",
+    "frac": "0.0105006364022062",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "District",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "G72",
+    "frac": "0.0105006364022062",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "District",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": "IV2",
+    "frac": "0.010182435299109",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "District",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  },
+  {
+    "value": null,
+    "frac": "0.010182435299109",
+    "table": "EAVE_demographics_SK.rds",
+    "field": "District",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2020-09-04 11:19:25"
+  }
+]

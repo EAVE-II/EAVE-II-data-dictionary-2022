@@ -1,0 +1,82 @@
+[
+  {
+    "value": "73",
+    "frac": "0.0229321049469257",
+    "table": "SMR01_allstays.rds",
+    "field": "AGE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "71",
+    "frac": "0.0212297216102544",
+    "table": "SMR01_allstays.rds",
+    "field": "AGE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "75",
+    "frac": "0.0211295814139796",
+    "table": "SMR01_allstays.rds",
+    "field": "AGE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "72",
+    "frac": "0.0204286000400561",
+    "table": "SMR01_allstays.rds",
+    "field": "AGE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "66",
+    "frac": "0.0201281794512317",
+    "table": "SMR01_allstays.rds",
+    "field": "AGE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "65",
+    "frac": "0.0200280392549569",
+    "table": "SMR01_allstays.rds",
+    "field": "AGE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "69",
+    "frac": "0.0199278990586822",
+    "table": "SMR01_allstays.rds",
+    "field": "AGE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "77",
+    "frac": "0.0199278990586822",
+    "table": "SMR01_allstays.rds",
+    "field": "AGE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "68",
+    "frac": "0.0197276186661326",
+    "table": "SMR01_allstays.rds",
+    "field": "AGE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  },
+  {
+    "value": "62",
+    "frac": "0.0191267774884839",
+    "table": "SMR01_allstays.rds",
+    "field": "AGE",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-07-04 06:12:42"
+  }
+]

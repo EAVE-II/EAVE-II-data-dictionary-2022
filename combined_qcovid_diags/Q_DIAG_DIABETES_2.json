@@ -1,0 +1,26 @@
+[
+  {
+    "value": null,
+    "frac": "0.9115",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_DIAG_DIABETES_2",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "1",
+    "frac": "0.0577",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_DIAG_DIABETES_2",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  },
+  {
+    "value": "0",
+    "frac": "0.0308",
+    "table": "combined_qcovid_diags.rds",
+    "field": "Q_DIAG_DIABETES_2",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-02-09 12:11:42"
+  }
+]
