@@ -10,6 +10,7 @@
     --phs-magenta: #9B4393;
     --phs-blue: #0078D4;
     --md-primary-fg-color:   var(--phs-purple);
+    --md-accent-fg-color:   var(--phs-magenta);
 }
 
 .md-typeset table th[role=columnheader] {
@@ -21,8 +22,21 @@
     background-color: white !important ;
 }
 
+center table {
 
+    /*font-size: large !important;*/
+    
+}
 
+.md-button--primary{
+    color: white !important;
+    background-color: var(--phs-purple) !important;
+}
+
+.md-button--secondary{
+    color: white !important;
+    background-color: var(--phs-blue) !important;
+}
 
 
 

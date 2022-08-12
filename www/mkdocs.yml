@@ -11,11 +11,14 @@ theme:
 plugins:
   - search
   - macros
-
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
   
 markdown_extensions:
   - tables
   #- include
+  - attr_list
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -41,7 +44,10 @@ extra_javascript:
 
 nav:
   - Overview: index.md
-  - Datasets:
+  - Demographics: demographics.md
+  - QCOVID: qcovid.md
+  - Serology: serology.md
+  - Other:
       - 1. Demographics: demoggraphics
       - 2. QCOVID:
           - QCOVID Feb 22: tables/QCOVID_feb22_detailed.md
