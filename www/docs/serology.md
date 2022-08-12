@@ -26,7 +26,7 @@
 
 
 !!! important
-    Due to a change in assays used for the collection of the primary care data, the data must be transformed for the results to be consistent between the two assays that were used
+    Due to a change in assays used in the measurement of antibodies for the primary care cohort, the data must be transformed for the results to be consistent between the two assays that were used
 	```r
 	df_serology_primcare <- df_serology_primcare %>%
 	                        mutate(IgG = ifelse(Sampledate_iso < "2021-04-12",2.6*IgG,IgG),
