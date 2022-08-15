@@ -1,9 +1,16 @@
 # :drop_of_blood: Serology
 
 
+## About
+
 * In EAVE-II we have access to *two* serology datasets.
 * These contain measurements of IgG (Immunoglobin-G) in individual's blood serum.
-* Quantative (IgG in Binding Activation Units [BAU]) and qualitative (Postivie/Equivocal/Negative) measurements are available.
+* Measurements:   
+    * Quantative: {++ IgG (Binding Activation Units [BAU]) ++}
+    * Qualitative: {++ Postivie/Equivocal/Negative ++}
+* Key Timestamps:
+    * `Sampledate_iso`: the date the measurement was taken from the individual 
+	* `SpecimenDate`: the date the measurement was received in the lab
 * Different **assays** were used for the different datasets (see details below).
 
 ### Useful Links
@@ -14,7 +21,7 @@
 
 ### Overview
 
-* People who have attended primary care during the pandemic and had their blood taken (for unknown reasons)
+* People who have attended primary care during the pandemic and had their blood taken (for unspecified reasons)
 * The selection of samples to test for IgG was performed in such as way so that the cohort is fairly representative of the scottish population (in terms of age and sex)
     * *note*: with the exception of under 15s, ages 15-20 are oversampled inorder to account for a lack of blood samples of young children 
 	* Due to attending primary care, the cohort is less healthy than the Scottish Population
