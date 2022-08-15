@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": "1",
+    "table": "cases_severe_dates.rds",
+    "field": "Admission.date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  }
+]

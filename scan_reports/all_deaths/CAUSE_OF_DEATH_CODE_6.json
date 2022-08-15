@@ -1,0 +1,50 @@
+[
+  {
+    "value": null,
+    "frac": "0.992690961498868",
+    "table": "all_deaths.rds",
+    "field": "CAUSE_OF_DEATH_CODE_6",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "I10",
+    "frac": "0.00205888408482602",
+    "table": "all_deaths.rds",
+    "field": "CAUSE_OF_DEATH_CODE_6",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "N179",
+    "frac": "0.00175005147210212",
+    "table": "all_deaths.rds",
+    "field": "CAUSE_OF_DEATH_CODE_6",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "F192",
+    "frac": "0.00123533045089561",
+    "table": "all_deaths.rds",
+    "field": "CAUSE_OF_DEATH_CODE_6",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "E119",
+    "frac": "0.00113238624665431",
+    "table": "all_deaths.rds",
+    "field": "CAUSE_OF_DEATH_CODE_6",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "N189",
+    "frac": "0.00113238624665431",
+    "table": "all_deaths.rds",
+    "field": "CAUSE_OF_DEATH_CODE_6",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  }
+]

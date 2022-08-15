@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2020-07-31",
+    "frac": "0.0038337678270204",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "admission_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  },
+  {
+    "value": "2020-02-13",
+    "frac": "0.00368041711393958",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "admission_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  },
+  {
+    "value": "2021-07-05",
+    "frac": "0.00368041711393958",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "admission_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  },
+  {
+    "value": "2022-05-03",
+    "frac": "0.00368041711393958",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "admission_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  },
+  {
+    "value": "2021-06-15",
+    "frac": "0.00352706640085876",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "admission_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  },
+  {
+    "value": "2021-06-18",
+    "frac": "0.00352706640085876",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "admission_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  },
+  {
+    "value": "2020-03-06",
+    "frac": "0.00322036497469713",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "admission_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  },
+  {
+    "value": "2020-12-18",
+    "frac": "0.00322036497469713",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "admission_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  },
+  {
+    "value": "2021-03-19",
+    "frac": "0.00322036497469713",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "admission_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  },
+  {
+    "value": "2021-06-04",
+    "frac": "0.00322036497469713",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "admission_date",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  }
+]

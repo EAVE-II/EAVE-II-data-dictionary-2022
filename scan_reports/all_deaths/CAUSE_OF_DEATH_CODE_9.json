@@ -1,0 +1,10 @@
+[
+  {
+    "value": null,
+    "frac": "1",
+    "table": "all_deaths.rds",
+    "field": "CAUSE_OF_DEATH_CODE_9",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  }
+]

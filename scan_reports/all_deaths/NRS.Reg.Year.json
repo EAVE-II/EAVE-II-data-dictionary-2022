@@ -1,0 +1,26 @@
+[
+  {
+    "value": "2020",
+    "frac": "0.3901",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Year",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2021",
+    "frac": "0.3865",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Year",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2022",
+    "frac": "0.2234",
+    "table": "all_deaths.rds",
+    "field": "NRS.Reg.Year",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  }
+]

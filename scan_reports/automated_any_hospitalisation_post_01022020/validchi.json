@@ -1,0 +1,10 @@
+[
+  {
+    "value": "Valid CHI",
+    "frac": "1",
+    "table": "automated_any_hospitalisation_post_01022020.rds",
+    "field": "validchi",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-15 03:27:26"
+  }
+]

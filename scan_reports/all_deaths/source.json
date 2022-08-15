@@ -1,0 +1,18 @@
+[
+  {
+    "value": "SMRA",
+    "frac": "0.9963",
+    "table": "all_deaths.rds",
+    "field": "source",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "daily",
+    "frac": "0.0037",
+    "table": "all_deaths.rds",
+    "field": "source",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  }
+]

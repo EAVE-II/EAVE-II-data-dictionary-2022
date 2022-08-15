@@ -1,0 +1,82 @@
+[
+  {
+    "value": "84",
+    "frac": "0.0363377994315875",
+    "table": "all_deaths.rds",
+    "field": "NRS.age_at_death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "86",
+    "frac": "0.0353227771010962",
+    "table": "all_deaths.rds",
+    "field": "NRS.age_at_death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "87",
+    "frac": "0.0348152659358506",
+    "table": "all_deaths.rds",
+    "field": "NRS.age_at_death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "85",
+    "frac": "0.0347137637028015",
+    "table": "all_deaths.rds",
+    "field": "NRS.age_at_death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "88",
+    "frac": "0.0340032480714576",
+    "table": "all_deaths.rds",
+    "field": "NRS.age_at_death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "81",
+    "frac": "0.0324807145757207",
+    "table": "all_deaths.rds",
+    "field": "NRS.age_at_death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "82",
+    "frac": "0.031973203410475",
+    "table": "all_deaths.rds",
+    "field": "NRS.age_at_death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "89",
+    "frac": "0.0317701989443768",
+    "table": "all_deaths.rds",
+    "field": "NRS.age_at_death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "80",
+    "frac": "0.0312626877791311",
+    "table": "all_deaths.rds",
+    "field": "NRS.age_at_death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "83",
+    "frac": "0.031161185546082",
+    "table": "all_deaths.rds",
+    "field": "NRS.age_at_death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  }
+]

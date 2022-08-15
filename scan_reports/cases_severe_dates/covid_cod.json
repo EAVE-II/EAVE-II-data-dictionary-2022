@@ -1,0 +1,26 @@
+[
+  {
+    "value": null,
+    "frac": "0.9592",
+    "table": "cases_severe_dates.rds",
+    "field": "covid_cod",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "1",
+    "frac": "0.0322",
+    "table": "cases_severe_dates.rds",
+    "field": "covid_cod",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  },
+  {
+    "value": "0",
+    "frac": "0.0086",
+    "table": "cases_severe_dates.rds",
+    "field": "covid_cod",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2021-07-28 09:31:23"
+  }
+]

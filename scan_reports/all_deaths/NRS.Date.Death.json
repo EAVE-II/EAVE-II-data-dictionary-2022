@@ -1,0 +1,82 @@
+[
+  {
+    "value": "2020-04-08",
+    "frac": "0.00359712230215827",
+    "table": "all_deaths.rds",
+    "field": "NRS.Date.Death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2020-11-18",
+    "frac": "0.00359712230215827",
+    "table": "all_deaths.rds",
+    "field": "NRS.Date.Death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2020-12-10",
+    "frac": "0.00359712230215827",
+    "table": "all_deaths.rds",
+    "field": "NRS.Date.Death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2020-04-05",
+    "frac": "0.00343361674296926",
+    "table": "all_deaths.rds",
+    "field": "NRS.Date.Death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2020-04-29",
+    "frac": "0.00343361674296926",
+    "table": "all_deaths.rds",
+    "field": "NRS.Date.Death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2022-06-28",
+    "frac": "0.00343361674296926",
+    "table": "all_deaths.rds",
+    "field": "NRS.Date.Death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2020-04-09",
+    "frac": "0.00327011118378025",
+    "table": "all_deaths.rds",
+    "field": "NRS.Date.Death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2020-12-31",
+    "frac": "0.00327011118378025",
+    "table": "all_deaths.rds",
+    "field": "NRS.Date.Death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2021-01-21",
+    "frac": "0.00327011118378025",
+    "table": "all_deaths.rds",
+    "field": "NRS.Date.Death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  },
+  {
+    "value": "2021-02-11",
+    "frac": "0.00327011118378025",
+    "table": "all_deaths.rds",
+    "field": "NRS.Date.Death",
+    "folder": "/conf/EAVE/GPanalysis/data",
+    "date_last_modified": "2022-08-11 11:36:22"
+  }
+]
