@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//HEPMA_rem_ 2022-06-27 .rds",
+    "finfo": [
+      {
+        "size": 21820,
+        "mtime": "2022-06-27 12:46:17",
+        "ctime": "2022-06-27 12:46:17",
+        "atime": "2022-08-15 15:01:11",
+        "uname": "tanjam01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 2043
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "ods_code_derived": {
+      "name": "ods_code_derived",
+      "label": "",
+      "description": "",
+      "type": "fct",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "G405H",
+          "frac": "0.31"
+        },
+        {
+          "value": "S217H",
+          "frac": "0.28"
+        },
+        {
+          "value": "L308H",
+          "frac": "0.22"
+        },
+        {
+          "value": "V201H",
+          "frac": "0.086"
+        },
+        {
+          "value": "Y146H",
+          "frac": "0.052"
+        }
+      ]
+    },
+    "pr_item": {
+      "name": "pr_item",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "REMDESIVIR 100 mg Injection",
+          "frac": "0.32"
+        },
+        {
+          "value": "Remdesivir 100mg powder for solution for infusion vials",
+          "frac": "0.28"
+        },
+        {
+          "value": "REMDESIVIR 100 mg in 20ml Injection",
+          "frac": "0.22"
+        },
+        {
+          "value": "REMDESIVIR *UP*Y* 100 mg Infusion",
+          "frac": "0.086"
+        },
+        {
+          "value": "REMDESIVIR 100 mg Powder for Solution for Infusion Vials",
+          "frac": "0.048"
+        }
+      ]
+    },
+    "prescr_date": {
+      "name": "prescr_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2022-03-29",
+          "frac": "0.027"
+        },
+        {
+          "value": "2022-03-24",
+          "frac": "0.026"
+        },
+        {
+          "value": "2022-04-02",
+          "frac": "0.025"
+        },
+        {
+          "value": "2022-04-05",
+          "frac": "0.023"
+        },
+        {
+          "value": "2022-03-23",
+          "frac": "0.023"
+        }
+      ]
+    },
+    "ad_item": {
+      "name": "ad_item",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "REMDESIVIR 100 mg Injection",
+          "frac": "0.32"
+        },
+        {
+          "value": "Remdesivir 100mg powder for solution for infusion vials",
+          "frac": "0.28"
+        },
+        {
+          "value": "REMDESIVIR 100 mg in 20ml Injection",
+          "frac": "0.22"
+        },
+        {
+          "value": "REMDESIVIR *UP*Y* 100 mg Infusion",
+          "frac": "0.086"
+        },
+        {
+          "value": "REMDESIVIR 100 mg Powder for Solution for Infusion Vials",
+          "frac": "0.048"
+        }
+      ]
+    },
+    "admin_date": {
+      "name": "admin_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2022-03-29",
+          "frac": "0.021"
+        },
+        {
+          "value": "2022-03-24",
+          "frac": "0.02"
+        },
+        {
+          "value": "2022-03-31",
+          "frac": "0.02"
+        },
+        {
+          "value": "2022-04-02",
+          "frac": "0.02"
+        },
+        {
+          "value": "2022-03-11",
+          "frac": "0.019"
+        }
+      ]
+    },
+    "administereddatetime": {
+      "name": "administereddatetime",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "type": {
+      "name": "type",
+      "label": "",
+      "description": "",
+      "type": "fct",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "I",
+          "frac": "1"
+        }
+      ]
+    },
+    "n_admin": {
+      "name": "n_admin",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 19,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.27"
+        },
+        {
+          "value": "2",
+          "frac": "0.25"
+        },
+        {
+          "value": "3",
+          "frac": "0.23"
+        },
+        {
+          "value": "4",
+          "frac": "0.11"
+        },
+        {
+          "value": "5",
+          "frac": "0.087"
+        }
+      ]
+    }
+  }
+}

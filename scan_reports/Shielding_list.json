@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//Shielding_list.rds",
+    "finfo": [
+      {
+        "size": 1170125,
+        "mtime": "2021-06-03 11:49:54",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 10:19:02",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 242737
+  },
+  "columns": {
+    "group": {
+      "name": "group",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 7,
+      "values": [
+        {
+          "value": "3",
+          "frac": "0.35"
+        },
+        {
+          "value": "7",
+          "frac": "0.25"
+        },
+        {
+          "value": "5",
+          "frac": "0.17"
+        },
+        {
+          "value": "2",
+          "frac": "0.14"
+        },
+        {
+          "value": "4",
+          "frac": "0.059"
+        }
+      ]
+    },
+    "Removal": {
+      "name": "Removal",
+      "label": "",
+      "description": "",
+      "type": "fct",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": " ",
+          "frac": "0.85"
+        },
+        {
+          "value": "R",
+          "frac": "0.15"
+        }
+      ]
+    },
+    "validchi": {
+      "name": "validchi",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Valid CHI",
+          "frac": "1"
+        }
+      ]
+    },
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    }
+  }
+}

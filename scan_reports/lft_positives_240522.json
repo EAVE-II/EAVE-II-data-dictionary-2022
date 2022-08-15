@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//lft_positives_240522.rds",
+    "finfo": [
+      {
+        "size": 3296712,
+        "mtime": "2022-05-24 11:18:04",
+        "ctime": "2022-05-24 11:18:04",
+        "atime": "2022-08-15 14:54:32",
+        "uname": "safras01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 740574
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "date_ecoss_specimen": {
+      "name": "date_ecoss_specimen",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2022-03-14",
+          "frac": "0.018"
+        },
+        {
+          "value": "2022-03-15",
+          "frac": "0.017"
+        },
+        {
+          "value": "2022-03-20",
+          "frac": "0.016"
+        },
+        {
+          "value": "2022-03-22",
+          "frac": "0.016"
+        },
+        {
+          "value": "2022-03-11",
+          "frac": "0.016"
+        }
+      ]
+    },
+    "test_result": {
+      "name": "test_result",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "POSITIVE",
+          "frac": "1"
+        }
+      ]
+    },
+    "test_type": {
+      "name": "test_type",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "ANTIGEN",
+          "frac": "1"
+        }
+      ]
+    }
+  }
+}

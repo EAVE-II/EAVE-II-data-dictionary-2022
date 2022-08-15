@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//COPS2021-11-30.rds",
+    "finfo": [
+      {
+        "size": 144,
+        "mtime": "2021-11-30 14:11:45",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:53:37",
+        "uname": "annago02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 0
+  },
+  "columns": {
+    "validchi": {
+      "name": "validchi",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//SMR01_comorbsSept.rds",
+    "finfo": [
+      {
+        "size": 2742354,
+        "mtime": "2020-12-16 16:07:12",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:57:41",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 895640
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "CONDITION": {
+      "name": "CONDITION",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Chronic Pulmonary Disease",
+          "frac": "0.19"
+        },
+        {
+          "value": "Diabetes without Chronic Complication",
+          "frac": "0.14"
+        },
+        {
+          "value": "Any Malignancy including Lymphoma (except malignant Neoplasm of skin)",
+          "frac": "0.13"
+        },
+        {
+          "value": "Myocardial Infraction",
+          "frac": "0.085"
+        },
+        {
+          "value": "Cerebrovascular Disease",
+          "frac": "0.081"
+        }
+      ]
+    },
+    "present": {
+      "name": "present",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "1"
+        }
+      ]
+    },
+    "n_yrs_lookback": {
+      "name": "n_yrs_lookback",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 5,
+      "max": 5,
+      "values": [
+        {
+          "value": "5",
+          "frac": "1"
+        }
+      ]
+    },
+    "extract_date": {
+      "name": "extract_date",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "20200901",
+          "frac": "1"
+        }
+      ]
+    }
+  }
+}

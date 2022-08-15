@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//PIS_SALBUTAMOL_2021-10-11.rds",
+    "finfo": [
+      {
+        "size": 41234243,
+        "mtime": "2021-10-11 14:20:47",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:55:26",
+        "uname": "safras01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 5463716
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "approved_name": {
+      "name": "approved_name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "SALBUTAMOL",
+          "frac": "1"
+        }
+      ]
+    },
+    "bnf_chapter_code": {
+      "name": "bnf_chapter_code",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "03",
+          "frac": "1"
+        }
+      ]
+    },
+    "bnf_section_code": {
+      "name": "bnf_section_code",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "0301",
+          "frac": "1"
+        }
+      ]
+    },
+    "bnf_sub_section_code": {
+      "name": "bnf_sub_section_code",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "030101",
+          "frac": "1"
+        }
+      ]
+    },
+    "bnf_code_paragraph_code": {
+      "name": "bnf_code_paragraph_code",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "0301011",
+          "frac": "1"
+        }
+      ]
+    },
+    "prescribed_full_date": {
+      "name": "prescribed_full_date",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2020-03-16",
+          "frac": "0.0067"
+        },
+        {
+          "value": "2020-03-17",
+          "frac": "0.0057"
+        },
+        {
+          "value": "2020-03-23",
+          "frac": "0.005"
+        },
+        {
+          "value": "2020-03-31",
+          "frac": "0.0047"
+        },
+        {
+          "value": "2020-03-18",
+          "frac": "0.0042"
+        }
+      ]
+    },
+    "no_items": {
+      "name": "no_items",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "1",
+          "frac": "1"
+        },
+        {
+          "frac": "0.0022"
+        }
+      ]
+    },
+    "daily_dose_conversion": {
+      "name": "daily_dose_conversion",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.76"
+        },
+        {
+          "value": "0.04",
+          "frac": "0.21"
+        },
+        {
+          "value": "0.02",
+          "frac": "0.033"
+        }
+      ]
+    },
+    "quantity": {
+      "name": "quantity",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.67"
+        },
+        {
+          "value": "2",
+          "frac": "0.3"
+        },
+        {
+          "value": "20",
+          "frac": "0.0065"
+        },
+        {
+          "value": "40",
+          "frac": "0.0062"
+        },
+        {
+          "value": "3",
+          "frac": "0.0059"
+        }
+      ]
+    },
+    "no_of_defined_daily_doses": {
+      "name": "no_of_defined_daily_doses",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "25",
+          "frac": "0.64"
+        },
+        {
+          "value": "50",
+          "frac": "0.31"
+        },
+        {
+          "value": "100",
+          "frac": "0.011"
+        },
+        {
+          "value": "75",
+          "frac": "0.0058"
+        },
+        {
+          "value": "4",
+          "frac": "0.0046"
+        }
+      ]
+    },
+    "dispensed_full_date": {
+      "name": "dispensed_full_date",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2020-03-31",
+          "frac": "0.017"
+        },
+        {
+          "value": "2020-01-31",
+          "frac": "0.012"
+        },
+        {
+          "value": "2020-06-30",
+          "frac": "0.011"
+        },
+        {
+          "value": "2020-09-30",
+          "frac": "0.011"
+        },
+        {
+          "value": "2019-12-31",
+          "frac": "0.011"
+        }
+      ]
+    }
+  }
+}

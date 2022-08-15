@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//HID_MarSept_20210222.rds",
+    "finfo": [
+      {
+        "size": 113641109,
+        "mtime": "2021-02-23 09:53:52",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 11:23:04",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 5822066
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "March_chi_status": {
+      "name": "March_chi_status",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.74"
+        },
+        {
+          "value": "C",
+          "frac": "0.26"
+        }
+      ]
+    },
+    "March_transfer_out_date": {
+      "name": "March_transfer_out_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "March_transfer_out_reason": {
+      "name": "March_transfer_out_reason",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "March_transfer_out_code": {
+      "name": "March_transfer_out_code",
+      "label": "",
+      "description": "",
+      "type": "lgl",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "Sept_chi_status": {
+      "name": "Sept_chi_status",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.73"
+        },
+        {
+          "value": "C",
+          "frac": "0.27"
+        }
+      ]
+    },
+    "Sept_transfer_out_date": {
+      "name": "Sept_transfer_out_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "Sept_transfer_out_reason": {
+      "name": "Sept_transfer_out_reason",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.99"
+        },
+        {
+          "value": "E",
+          "frac": "0.0044"
+        },
+        {
+          "value": "Q",
+          "frac": "0.0038"
+        },
+        {
+          "value": "5",
+          "frac": "0.0018"
+        },
+        {
+          "value": "6",
+          "frac": "0.0014"
+        }
+      ]
+    },
+    "Sept_transfer_out_code": {
+      "name": "Sept_transfer_out_code",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "Date_address_changed_Mar": {
+      "name": "Date_address_changed_Mar",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "March_hid": {
+      "name": "March_hid",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 2979960,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "March_hid_count": {
+      "name": "March_hid_count",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 235865,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.27"
+        },
+        {
+          "value": "2",
+          "frac": "0.26"
+        },
+        {
+          "value": "3",
+          "frac": "0.18"
+        },
+        {
+          "value": "4",
+          "frac": "0.15"
+        },
+        {
+          "value": "5",
+          "frac": "0.06"
+        }
+      ]
+    },
+    "Date_address_changed_Sept": {
+      "name": "Date_address_changed_Sept",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "1"
+        },
+        {
+          "value": "20180914",
+          "frac": "0.0043"
+        }
+      ]
+    },
+    "Sept_hid": {
+      "name": "Sept_hid",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 393,
+      "max": 3115514,
+      "values": [
+        {}
+      ]
+    },
+    "Sept_hid_count": {
+      "name": "Sept_hid_count",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 246,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.29"
+        },
+        {
+          "value": "2",
+          "frac": "0.27"
+        },
+        {
+          "value": "3",
+          "frac": "0.18"
+        },
+        {
+          "value": "4",
+          "frac": "0.16"
+        },
+        {
+          "value": "5",
+          "frac": "0.063"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data/cleaned_data//Platelet_counts.rds",
+    "finfo": [
+      {
+        "size": 18083281,
+        "mtime": "2022-08-15 07:05:58",
+        "ctime": "2022-08-15 07:05:58",
+        "atime": "2022-08-14 04:40:45",
+        "uname": "safras01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 2208141
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "ExtractDate": {
+      "name": "ExtractDate",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2021-08-16",
+          "frac": "0.44"
+        },
+        {
+          "value": "2021-05-12",
+          "frac": "0.17"
+        },
+        {
+          "value": "2021-11-11",
+          "frac": "0.037"
+        },
+        {
+          "value": "2021-08-17",
+          "frac": "0.015"
+        },
+        {
+          "value": "2021-06-16",
+          "frac": "0.011"
+        }
+      ]
+    },
+    "StartDate": {
+      "name": "StartDate",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2020-03-03",
+          "frac": "0.0034"
+        },
+        {
+          "value": "2021-01-26",
+          "frac": "0.0034"
+        },
+        {
+          "value": "2022-03-16",
+          "frac": "0.0034"
+        },
+        {
+          "value": "2021-07-07",
+          "frac": "0.0033"
+        },
+        {
+          "value": "2022-07-12",
+          "frac": "0.0033"
+        }
+      ]
+    },
+    "Quick_groups": {
+      "name": "Quick_groups",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "platelet count",
+          "frac": "1"
+        }
+      ]
+    },
+    "Data2": {
+      "name": "Data2",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.0081"
+        },
+        {
+          "value": "",
+          "frac": "0.007"
+        },
+        {
+          "value": "245",
+          "frac": "0.005"
+        },
+        {
+          "value": "210",
+          "frac": "0.0048"
+        },
+        {
+          "value": "224",
+          "frac": "0.0047"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//automated_any_hospitalisation_post_01022020.rds",
+    "finfo": [
+      {
+        "size": 12490215,
+        "mtime": "2022-08-15 03:27:26",
+        "ctime": "2022-08-15 03:27:26",
+        "atime": "2022-08-15 14:25:54",
+        "uname": "safras01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 1718545
+  },
+  "columns": {
+    "admission_date": {
+      "name": "admission_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2021-06-30",
+          "frac": "0.0038"
+        },
+        {
+          "value": "2022-01-10",
+          "frac": "0.0038"
+        },
+        {
+          "value": "2020-03-02",
+          "frac": "0.0035"
+        },
+        {
+          "value": "2020-02-18",
+          "frac": "0.0032"
+        },
+        {
+          "value": "2021-06-28",
+          "frac": "0.0032"
+        }
+      ]
+    },
+    "discharge_date": {
+      "name": "discharge_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.028"
+        },
+        {
+          "value": "2020-12-11",
+          "frac": "0.004"
+        },
+        {
+          "value": "2021-07-28",
+          "frac": "0.0038"
+        },
+        {
+          "value": "2021-11-05",
+          "frac": "0.0034"
+        },
+        {
+          "value": "2021-01-29",
+          "frac": "0.0032"
+        }
+      ]
+    },
+    "emergency": {
+      "name": "emergency",
+      "label": "",
+      "description": "",
+      "type": "lgl",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "TRUE",
+          "frac": "0.79"
+        },
+        {
+          "value": "FALSE",
+          "frac": "0.21"
+        }
+      ]
+    },
+    "validchi": {
+      "name": "validchi",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Valid CHI",
+          "frac": "1"
+        }
+      ]
+    },
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    }
+  }
+}

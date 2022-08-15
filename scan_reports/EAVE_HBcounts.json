@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data/lookups//EAVE_HBcounts.rds",
+    "finfo": [
+      {
+        "size": 18990,
+        "mtime": "2020-06-11 11:20:47",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 15:20:00",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 3137
+  },
+  "columns": {
+    "hb2019": {
+      "name": "hb2019",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S08000024",
+          "frac": "0.069"
+        },
+        {
+          "value": "S08000015",
+          "frac": "0.069"
+        },
+        {
+          "value": "S08000030",
+          "frac": "0.069"
+        },
+        {
+          "value": "S08000031",
+          "frac": "0.069"
+        },
+        {
+          "value": "S08000029",
+          "frac": "0.068"
+        }
+      ]
+    },
+    "hb2019name": {
+      "name": "hb2019name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS Lothian",
+          "frac": "0.069"
+        },
+        {
+          "value": "NHS Ayrshire and Arran",
+          "frac": "0.069"
+        },
+        {
+          "value": "NHS Greater Glasgow and Clyde",
+          "frac": "0.069"
+        },
+        {
+          "value": "NHS Tayside",
+          "frac": "0.069"
+        },
+        {
+          "value": "NHS Fife",
+          "frac": "0.068"
+        }
+      ]
+    },
+    "ageYear": {
+      "name": "ageYear",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 120,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.0096"
+        },
+        {
+          "value": "1",
+          "frac": "0.0096"
+        },
+        {
+          "value": "2",
+          "frac": "0.0096"
+        },
+        {
+          "value": "3",
+          "frac": "0.0096"
+        },
+        {
+          "value": "4",
+          "frac": "0.0096"
+        }
+      ]
+    },
+    "Sex": {
+      "name": "Sex",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "F",
+          "frac": "0.51"
+        },
+        {
+          "value": "M",
+          "frac": "0.49"
+        }
+      ]
+    },
+    "Nregistered": {
+      "name": "Nregistered",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 11323,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.25"
+        },
+        {
+          "value": "2",
+          "frac": "0.15"
+        },
+        {
+          "value": "3",
+          "frac": "0.11"
+        },
+        {
+          "value": "104",
+          "frac": "0.066"
+        },
+        {
+          "value": "106",
+          "frac": "0.066"
+        }
+      ]
+    }
+  }
+}

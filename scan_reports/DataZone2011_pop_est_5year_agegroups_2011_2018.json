@@ -1,0 +1,2246 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data/lookups//DataZone2011_pop_est_5year_agegroups_2011_2018.rds",
+    "finfo": [
+      {
+        "size": 9812522,
+        "mtime": "2020-06-05 13:16:27",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 15:41:28",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 111616
+  },
+  "columns": {
+    "year": {
+      "name": "year",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 2011,
+      "max": 2018,
+      "values": [
+        {
+          "value": "2012",
+          "frac": "0.13"
+        },
+        {
+          "value": "2015",
+          "frac": "0.13"
+        },
+        {
+          "value": "2014",
+          "frac": "0.13"
+        },
+        {
+          "value": "2013",
+          "frac": "0.12"
+        },
+        {
+          "value": "2011",
+          "frac": "0.12"
+        }
+      ]
+    },
+    "datazone2011": {
+      "name": "datazone2011",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "datazone2011name": {
+      "name": "datazone2011name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "sex": {
+      "name": "sex",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "F",
+          "frac": "0.5"
+        },
+        {
+          "value": "M",
+          "frac": "0.5"
+        }
+      ]
+    },
+    "ageg04": {
+      "name": "ageg04",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 200,
+      "values": [
+        {
+          "value": "15",
+          "frac": "0.05"
+        },
+        {
+          "value": "18",
+          "frac": "0.048"
+        },
+        {
+          "value": "20",
+          "frac": "0.047"
+        },
+        {
+          "value": "13",
+          "frac": "0.046"
+        },
+        {
+          "value": "17",
+          "frac": "0.046"
+        }
+      ]
+    },
+    "ageg59": {
+      "name": "ageg59",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 128,
+      "values": [
+        {
+          "value": "16",
+          "frac": "0.047"
+        },
+        {
+          "value": "18",
+          "frac": "0.045"
+        },
+        {
+          "value": "13",
+          "frac": "0.045"
+        },
+        {
+          "value": "19",
+          "frac": "0.044"
+        },
+        {
+          "value": "14",
+          "frac": "0.044"
+        }
+      ]
+    },
+    "ageg1014": {
+      "name": "ageg1014",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 89,
+      "values": [
+        {
+          "value": "16",
+          "frac": "0.049"
+        },
+        {
+          "value": "18",
+          "frac": "0.048"
+        },
+        {
+          "value": "20",
+          "frac": "0.047"
+        },
+        {
+          "value": "17",
+          "frac": "0.044"
+        },
+        {
+          "value": "15",
+          "frac": "0.043"
+        }
+      ]
+    },
+    "ageg1519": {
+      "name": "ageg1519",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 543,
+      "values": [
+        {
+          "value": "17",
+          "frac": "0.05"
+        },
+        {
+          "value": "19",
+          "frac": "0.047"
+        },
+        {
+          "value": "20",
+          "frac": "0.046"
+        },
+        {
+          "value": "21",
+          "frac": "0.046"
+        },
+        {
+          "value": "18",
+          "frac": "0.044"
+        }
+      ]
+    },
+    "ageg2024": {
+      "name": "ageg2024",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 693,
+      "values": [
+        {
+          "value": "20",
+          "frac": "0.047"
+        },
+        {
+          "value": "18",
+          "frac": "0.047"
+        },
+        {
+          "value": "17",
+          "frac": "0.046"
+        },
+        {
+          "value": "21",
+          "frac": "0.044"
+        },
+        {
+          "value": "16",
+          "frac": "0.044"
+        }
+      ]
+    },
+    "ageg2529": {
+      "name": "ageg2529",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 319,
+      "values": [
+        {
+          "value": "18",
+          "frac": "0.041"
+        },
+        {
+          "value": "15",
+          "frac": "0.04"
+        },
+        {
+          "value": "17",
+          "frac": "0.039"
+        },
+        {
+          "value": "20",
+          "frac": "0.038"
+        },
+        {
+          "value": "19",
+          "frac": "0.038"
+        }
+      ]
+    },
+    "ageg3034": {
+      "name": "ageg3034",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 157,
+      "values": [
+        {
+          "value": "18",
+          "frac": "0.043"
+        },
+        {
+          "value": "20",
+          "frac": "0.043"
+        },
+        {
+          "value": "16",
+          "frac": "0.042"
+        },
+        {
+          "value": "17",
+          "frac": "0.041"
+        },
+        {
+          "value": "19",
+          "frac": "0.039"
+        }
+      ]
+    },
+    "ageg3539": {
+      "name": "ageg3539",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 183,
+      "values": [
+        {
+          "value": "18",
+          "frac": "0.049"
+        },
+        {
+          "value": "21",
+          "frac": "0.046"
+        },
+        {
+          "value": "17",
+          "frac": "0.045"
+        },
+        {
+          "value": "20",
+          "frac": "0.044"
+        },
+        {
+          "value": "19",
+          "frac": "0.043"
+        }
+      ]
+    },
+    "ageg4044": {
+      "name": "ageg4044",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 122,
+      "values": [
+        {
+          "value": "24",
+          "frac": "0.044"
+        },
+        {
+          "value": "18",
+          "frac": "0.044"
+        },
+        {
+          "value": "23",
+          "frac": "0.043"
+        },
+        {
+          "value": "22",
+          "frac": "0.043"
+        },
+        {
+          "value": "21",
+          "frac": "0.043"
+        }
+      ]
+    },
+    "ageg4549": {
+      "name": "ageg4549",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 111,
+      "values": [
+        {
+          "value": "26",
+          "frac": "0.044"
+        },
+        {
+          "value": "23",
+          "frac": "0.043"
+        },
+        {
+          "value": "24",
+          "frac": "0.042"
+        },
+        {
+          "value": "25",
+          "frac": "0.042"
+        },
+        {
+          "value": "27",
+          "frac": "0.042"
+        }
+      ]
+    },
+    "ageg5054": {
+      "name": "ageg5054",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 89,
+      "values": [
+        {
+          "value": "26",
+          "frac": "0.045"
+        },
+        {
+          "value": "27",
+          "frac": "0.043"
+        },
+        {
+          "value": "25",
+          "frac": "0.04"
+        },
+        {
+          "value": "24",
+          "frac": "0.039"
+        },
+        {
+          "value": "22",
+          "frac": "0.039"
+        }
+      ]
+    },
+    "ageg5559": {
+      "name": "ageg5559",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 73,
+      "values": [
+        {
+          "value": "24",
+          "frac": "0.046"
+        },
+        {
+          "value": "22",
+          "frac": "0.044"
+        },
+        {
+          "value": "23",
+          "frac": "0.043"
+        },
+        {
+          "value": "27",
+          "frac": "0.043"
+        },
+        {
+          "value": "25",
+          "frac": "0.043"
+        }
+      ]
+    },
+    "ageg6064": {
+      "name": "ageg6064",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 71,
+      "values": [
+        {
+          "value": "22",
+          "frac": "0.047"
+        },
+        {
+          "value": "21",
+          "frac": "0.045"
+        },
+        {
+          "value": "24",
+          "frac": "0.044"
+        },
+        {
+          "value": "25",
+          "frac": "0.044"
+        },
+        {
+          "value": "23",
+          "frac": "0.042"
+        }
+      ]
+    },
+    "ageg6569": {
+      "name": "ageg6569",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 76,
+      "values": [
+        {
+          "value": "19",
+          "frac": "0.043"
+        },
+        {
+          "value": "21",
+          "frac": "0.042"
+        },
+        {
+          "value": "18",
+          "frac": "0.042"
+        },
+        {
+          "value": "16",
+          "frac": "0.041"
+        },
+        {
+          "value": "17",
+          "frac": "0.041"
+        }
+      ]
+    },
+    "ageg7074": {
+      "name": "ageg7074",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 83,
+      "values": [
+        {
+          "value": "14",
+          "frac": "0.05"
+        },
+        {
+          "value": "16",
+          "frac": "0.048"
+        },
+        {
+          "value": "13",
+          "frac": "0.048"
+        },
+        {
+          "value": "12",
+          "frac": "0.046"
+        },
+        {
+          "value": "15",
+          "frac": "0.046"
+        }
+      ]
+    },
+    "ageg7579": {
+      "name": "ageg7579",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 55,
+      "values": [
+        {
+          "value": "8",
+          "frac": "0.058"
+        },
+        {
+          "value": "13",
+          "frac": "0.055"
+        },
+        {
+          "value": "11",
+          "frac": "0.055"
+        },
+        {
+          "value": "12",
+          "frac": "0.054"
+        },
+        {
+          "value": "9",
+          "frac": "0.054"
+        }
+      ]
+    },
+    "ageg8084": {
+      "name": "ageg8084",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 59,
+      "values": [
+        {
+          "value": "5",
+          "frac": "0.073"
+        },
+        {
+          "value": "7",
+          "frac": "0.068"
+        },
+        {
+          "value": "8",
+          "frac": "0.068"
+        },
+        {
+          "value": "4",
+          "frac": "0.066"
+        },
+        {
+          "value": "6",
+          "frac": "0.066"
+        }
+      ]
+    },
+    "ageg8589": {
+      "name": "ageg8589",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 52,
+      "values": [
+        {
+          "value": "2",
+          "frac": "0.13"
+        },
+        {
+          "value": "3",
+          "frac": "0.12"
+        },
+        {
+          "value": "1",
+          "frac": "0.12"
+        },
+        {
+          "value": "4",
+          "frac": "0.1"
+        },
+        {
+          "value": "5",
+          "frac": "0.09"
+        }
+      ]
+    },
+    "ageg90plus": {
+      "name": "ageg90plus",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 68,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.29"
+        },
+        {
+          "value": "1",
+          "frac": "0.22"
+        },
+        {
+          "value": "2",
+          "frac": "0.16"
+        },
+        {
+          "value": "3",
+          "frac": "0.099"
+        },
+        {
+          "value": "4",
+          "frac": "0.065"
+        }
+      ]
+    },
+    "total_pop": {
+      "name": "total_pop",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 2205,
+      "values": [
+        {
+          "value": "336",
+          "frac": "0.0063"
+        },
+        {
+          "value": "339",
+          "frac": "0.0061"
+        },
+        {
+          "value": "368",
+          "frac": "0.0058"
+        },
+        {
+          "value": "351",
+          "frac": "0.0056"
+        },
+        {
+          "value": "389",
+          "frac": "0.0056"
+        }
+      ]
+    },
+    "intzone2011": {
+      "name": "intzone2011",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S02002145",
+          "frac": "0.0062"
+        },
+        {
+          "value": "S02002496",
+          "frac": "0.0059"
+        },
+        {
+          "value": "S02002046",
+          "frac": "0.0056"
+        },
+        {
+          "value": "S02002169",
+          "frac": "0.0056"
+        },
+        {
+          "value": "S02001306",
+          "frac": "0.0053"
+        }
+      ]
+    },
+    "intzone2011name": {
+      "name": "intzone2011name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Blackburn",
+          "frac": "0.0073"
+        },
+        {
+          "value": "Ladywell",
+          "frac": "0.0068"
+        },
+        {
+          "value": "IZ17",
+          "frac": "0.0062"
+        },
+        {
+          "value": "IZ10",
+          "frac": "0.006"
+        },
+        {
+          "value": "Newmains",
+          "frac": "0.0057"
+        }
+      ]
+    },
+    "hb2019": {
+      "name": "hb2019",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S08000031",
+          "frac": "0.21"
+        },
+        {
+          "value": "S08000024",
+          "frac": "0.15"
+        },
+        {
+          "value": "S08000032",
+          "frac": "0.13"
+        },
+        {
+          "value": "S08000020",
+          "frac": "0.11"
+        },
+        {
+          "value": "S08000029",
+          "frac": "0.073"
+        }
+      ]
+    },
+    "hb2019name": {
+      "name": "hb2019name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS Greater Glasgow and Clyde",
+          "frac": "0.21"
+        },
+        {
+          "value": "NHS Lothian",
+          "frac": "0.15"
+        },
+        {
+          "value": "NHS Lanarkshire",
+          "frac": "0.13"
+        },
+        {
+          "value": "NHS Grampian",
+          "frac": "0.11"
+        },
+        {
+          "value": "NHS Fife",
+          "frac": "0.073"
+        }
+      ]
+    },
+    "hb2018": {
+      "name": "hb2018",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S08000021",
+          "frac": "0.21"
+        },
+        {
+          "value": "S08000024",
+          "frac": "0.15"
+        },
+        {
+          "value": "S08000023",
+          "frac": "0.13"
+        },
+        {
+          "value": "S08000020",
+          "frac": "0.11"
+        },
+        {
+          "value": "S08000029",
+          "frac": "0.073"
+        }
+      ]
+    },
+    "hb2014": {
+      "name": "hb2014",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S08000021",
+          "frac": "0.21"
+        },
+        {
+          "value": "S08000024",
+          "frac": "0.15"
+        },
+        {
+          "value": "S08000023",
+          "frac": "0.13"
+        },
+        {
+          "value": "S08000020",
+          "frac": "0.11"
+        },
+        {
+          "value": "S08000018",
+          "frac": "0.073"
+        }
+      ]
+    },
+    "hscp2019": {
+      "name": "hscp2019",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S37000034",
+          "frac": "0.11"
+        },
+        {
+          "value": "S37000012",
+          "frac": "0.081"
+        },
+        {
+          "value": "S37000032",
+          "frac": "0.073"
+        },
+        {
+          "value": "S37000035",
+          "frac": "0.066"
+        },
+        {
+          "value": "S37000028",
+          "frac": "0.061"
+        }
+      ]
+    },
+    "hscp2019name": {
+      "name": "hscp2019name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Glasgow City",
+          "frac": "0.11"
+        },
+        {
+          "value": "Edinburgh",
+          "frac": "0.081"
+        },
+        {
+          "value": "Fife",
+          "frac": "0.073"
+        },
+        {
+          "value": "North Lanarkshire",
+          "frac": "0.066"
+        },
+        {
+          "value": "South Lanarkshire",
+          "frac": "0.061"
+        }
+      ]
+    },
+    "hscp2018": {
+      "name": "hscp2018",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S37000015",
+          "frac": "0.11"
+        },
+        {
+          "value": "S37000012",
+          "frac": "0.081"
+        },
+        {
+          "value": "S37000032",
+          "frac": "0.073"
+        },
+        {
+          "value": "S37000021",
+          "frac": "0.066"
+        },
+        {
+          "value": "S37000028",
+          "frac": "0.061"
+        }
+      ]
+    },
+    "hscp2016": {
+      "name": "hscp2016",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S37000015",
+          "frac": "0.11"
+        },
+        {
+          "value": "S37000012",
+          "frac": "0.081"
+        },
+        {
+          "value": "S37000014",
+          "frac": "0.073"
+        },
+        {
+          "value": "S37000021",
+          "frac": "0.066"
+        },
+        {
+          "value": "S37000028",
+          "frac": "0.061"
+        }
+      ]
+    },
+    "ca2019": {
+      "name": "ca2019",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S12000049",
+          "frac": "0.11"
+        },
+        {
+          "value": "S12000036",
+          "frac": "0.081"
+        },
+        {
+          "value": "S12000047",
+          "frac": "0.073"
+        },
+        {
+          "value": "S12000050",
+          "frac": "0.066"
+        },
+        {
+          "value": "S12000029",
+          "frac": "0.061"
+        }
+      ]
+    },
+    "ca2019name": {
+      "name": "ca2019name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Glasgow City",
+          "frac": "0.11"
+        },
+        {
+          "value": "City of Edinburgh",
+          "frac": "0.081"
+        },
+        {
+          "value": "Fife",
+          "frac": "0.073"
+        },
+        {
+          "value": "North Lanarkshire",
+          "frac": "0.066"
+        },
+        {
+          "value": "South Lanarkshire",
+          "frac": "0.061"
+        }
+      ]
+    },
+    "ca2018": {
+      "name": "ca2018",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S12000046",
+          "frac": "0.11"
+        },
+        {
+          "value": "S12000036",
+          "frac": "0.081"
+        },
+        {
+          "value": "S12000047",
+          "frac": "0.073"
+        },
+        {
+          "value": "S12000044",
+          "frac": "0.066"
+        },
+        {
+          "value": "S12000029",
+          "frac": "0.061"
+        }
+      ]
+    },
+    "ca2011": {
+      "name": "ca2011",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S12000046",
+          "frac": "0.11"
+        },
+        {
+          "value": "S12000036",
+          "frac": "0.081"
+        },
+        {
+          "value": "S12000015",
+          "frac": "0.073"
+        },
+        {
+          "value": "S12000044",
+          "frac": "0.066"
+        },
+        {
+          "value": "S12000029",
+          "frac": "0.061"
+        }
+      ]
+    },
+    "simd2020v2_rank": {
+      "name": "simd2020v2_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6976,
+      "values": [
+        {}
+      ]
+    },
+    "simd2020v2_sc_decile": {
+      "name": "simd2020v2_sc_decile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 10,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.11"
+        },
+        {
+          "value": "3",
+          "frac": "0.1"
+        },
+        {
+          "value": "4",
+          "frac": "0.1"
+        },
+        {
+          "value": "6",
+          "frac": "0.1"
+        },
+        {
+          "value": "2",
+          "frac": "0.099"
+        }
+      ]
+    },
+    "simd2020v2_sc_quintile": {
+      "name": "simd2020v2_sc_quintile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 5,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.21"
+        },
+        {
+          "value": "2",
+          "frac": "0.21"
+        },
+        {
+          "value": "3",
+          "frac": "0.2"
+        },
+        {
+          "value": "5",
+          "frac": "0.19"
+        },
+        {
+          "value": "4",
+          "frac": "0.19"
+        }
+      ]
+    },
+    "simd2020v2_hb2019_decile": {
+      "name": "simd2020v2_hb2019_decile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 10,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.11"
+        },
+        {
+          "value": "4",
+          "frac": "0.11"
+        },
+        {
+          "value": "2",
+          "frac": "0.1"
+        },
+        {
+          "value": "7",
+          "frac": "0.1"
+        },
+        {
+          "value": "3",
+          "frac": "0.1"
+        }
+      ]
+    },
+    "simd2020v2_hb2019_quintile": {
+      "name": "simd2020v2_hb2019_quintile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 5,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.21"
+        },
+        {
+          "value": "2",
+          "frac": "0.21"
+        },
+        {
+          "value": "4",
+          "frac": "0.2"
+        },
+        {
+          "value": "5",
+          "frac": "0.19"
+        },
+        {
+          "value": "3",
+          "frac": "0.19"
+        }
+      ]
+    },
+    "simd2020v2_hscp2019_decile": {
+      "name": "simd2020v2_hscp2019_decile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 10,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.11"
+        },
+        {
+          "value": "4",
+          "frac": "0.1"
+        },
+        {
+          "value": "2",
+          "frac": "0.1"
+        },
+        {
+          "value": "6",
+          "frac": "0.1"
+        },
+        {
+          "value": "3",
+          "frac": "0.1"
+        }
+      ]
+    },
+    "simd2020v2_hscp2019_quintile": {
+      "name": "simd2020v2_hscp2019_quintile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 5,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.21"
+        },
+        {
+          "value": "2",
+          "frac": "0.2"
+        },
+        {
+          "value": "4",
+          "frac": "0.2"
+        },
+        {
+          "value": "3",
+          "frac": "0.2"
+        },
+        {
+          "value": "5",
+          "frac": "0.19"
+        }
+      ]
+    },
+    "simd2020v2_ca2019_decile": {
+      "name": "simd2020v2_ca2019_decile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 10,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.11"
+        },
+        {
+          "value": "4",
+          "frac": "0.1"
+        },
+        {
+          "value": "2",
+          "frac": "0.1"
+        },
+        {
+          "value": "3",
+          "frac": "0.1"
+        },
+        {
+          "value": "7",
+          "frac": "0.099"
+        }
+      ]
+    },
+    "simd2020v2_ca2019_quintile": {
+      "name": "simd2020v2_ca2019_quintile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 5,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.21"
+        },
+        {
+          "value": "2",
+          "frac": "0.2"
+        },
+        {
+          "value": "4",
+          "frac": "0.2"
+        },
+        {
+          "value": "3",
+          "frac": "0.19"
+        },
+        {
+          "value": "5",
+          "frac": "0.19"
+        }
+      ]
+    },
+    "simd2020v2tp15": {
+      "name": "simd2020v2tp15",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.84"
+        },
+        {
+          "value": "1",
+          "frac": "0.16"
+        }
+      ]
+    },
+    "simd2020v2bt15": {
+      "name": "simd2020v2bt15",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.86"
+        },
+        {
+          "value": "1",
+          "frac": "0.14"
+        }
+      ]
+    },
+    "simd2020v2_educ_rank": {
+      "name": "simd2020v2_educ_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6976,
+      "values": [
+        {}
+      ]
+    },
+    "simd2020v2_emp_rate": {
+      "name": "simd2020v2_emp_rate",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "0.03",
+          "frac": "0.1"
+        },
+        {
+          "value": "0.04",
+          "frac": "0.09"
+        },
+        {
+          "value": "0.02",
+          "frac": "0.081"
+        },
+        {
+          "value": "0.06",
+          "frac": "0.065"
+        },
+        {
+          "value": "0.05",
+          "frac": "0.064"
+        }
+      ]
+    },
+    "simd2020v2_emp_dep_n": {
+      "name": "simd2020v2_emp_dep_n",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 311,
+      "values": [
+        {
+          "value": "14",
+          "frac": "0.026"
+        },
+        {
+          "value": "19",
+          "frac": "0.023"
+        },
+        {
+          "value": "13",
+          "frac": "0.022"
+        },
+        {
+          "value": "20",
+          "frac": "0.02"
+        },
+        {
+          "value": "10",
+          "frac": "0.02"
+        }
+      ]
+    },
+    "simd2020v2_emp_rank": {
+      "name": "simd2020v2_emp_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6974,
+      "values": [
+        {
+          "value": "3272",
+          "frac": "0.43"
+        },
+        {
+          "value": "2025",
+          "frac": "0.38"
+        },
+        {
+          "value": "4232.5",
+          "frac": "0.2"
+        }
+      ]
+    },
+    "simd2020v2_hlth_rank": {
+      "name": "simd2020v2_hlth_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6974,
+      "values": [
+        {}
+      ]
+    },
+    "simd2020v2_house_rank": {
+      "name": "simd2020v2_house_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6974,
+      "values": [
+        {}
+      ]
+    },
+    "simd2020v2_inc_rate": {
+      "name": "simd2020v2_inc_rate",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "0.04",
+          "frac": "0.073"
+        },
+        {
+          "value": "0.03",
+          "frac": "0.072"
+        },
+        {
+          "value": "0.02",
+          "frac": "0.069"
+        },
+        {
+          "value": "0.05",
+          "frac": "0.061"
+        },
+        {
+          "value": "0.07",
+          "frac": "0.051"
+        }
+      ]
+    },
+    "simd2020v2_inc_dep_n": {
+      "name": "simd2020v2_inc_dep_n",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 656,
+      "values": [
+        {
+          "value": "28",
+          "frac": "0.012"
+        },
+        {
+          "value": "32",
+          "frac": "0.011"
+        },
+        {
+          "value": "17",
+          "frac": "0.011"
+        },
+        {
+          "value": "36",
+          "frac": "0.011"
+        },
+        {
+          "value": "24",
+          "frac": "0.011"
+        }
+      ]
+    },
+    "simd2020v2_inc_rank": {
+      "name": "simd2020v2_inc_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6969,
+      "values": [
+        {
+          "value": "5955.5",
+          "frac": "0.54"
+        },
+        {
+          "value": "4385.5",
+          "frac": "0.46"
+        }
+      ]
+    },
+    "simd2020v2_access_rank": {
+      "name": "simd2020v2_access_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6976,
+      "values": [
+        {}
+      ]
+    },
+    "simd2020v2_crime_rate": {
+      "name": "simd2020v2_crime_rate",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "simd2020v2_crime_count": {
+      "name": "simd2020v2_crime_count",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.13"
+        },
+        {
+          "value": "8.159284",
+          "frac": "0.0082"
+        },
+        {
+          "value": "5.040592",
+          "frac": "0.0075"
+        },
+        {
+          "value": "22.104219",
+          "frac": "0.0075"
+        },
+        {
+          "value": "7.056829",
+          "frac": "0.0073"
+        }
+      ]
+    },
+    "simd2020v2_crime_rank": {
+      "name": "simd2020v2_crime_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 2,
+      "max": 6928,
+      "values": [
+        {
+          "value": "6928",
+          "frac": "1"
+        }
+      ]
+    },
+    "simd2016_rank": {
+      "name": "simd2016_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 2,
+      "max": 6976,
+      "values": [
+        {}
+      ]
+    },
+    "simd2016_sc_decile": {
+      "name": "simd2016_sc_decile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 10,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.11"
+        },
+        {
+          "value": "3",
+          "frac": "0.1"
+        },
+        {
+          "value": "6",
+          "frac": "0.1"
+        },
+        {
+          "value": "2",
+          "frac": "0.1"
+        },
+        {
+          "value": "9",
+          "frac": "0.1"
+        }
+      ]
+    },
+    "simd2016_sc_quintile": {
+      "name": "simd2016_sc_quintile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 5,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.21"
+        },
+        {
+          "value": "2",
+          "frac": "0.2"
+        },
+        {
+          "value": "3",
+          "frac": "0.2"
+        },
+        {
+          "value": "4",
+          "frac": "0.19"
+        },
+        {
+          "value": "5",
+          "frac": "0.19"
+        }
+      ]
+    },
+    "simd2016_hb2014_decile": {
+      "name": "simd2016_hb2014_decile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 10,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.11"
+        },
+        {
+          "value": "3",
+          "frac": "0.1"
+        },
+        {
+          "value": "9",
+          "frac": "0.1"
+        },
+        {
+          "value": "2",
+          "frac": "0.1"
+        },
+        {
+          "value": "4",
+          "frac": "0.1"
+        }
+      ]
+    },
+    "simd2016_hb2014_quintile": {
+      "name": "simd2016_hb2014_quintile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 5,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.21"
+        },
+        {
+          "value": "2",
+          "frac": "0.21"
+        },
+        {
+          "value": "4",
+          "frac": "0.2"
+        },
+        {
+          "value": "5",
+          "frac": "0.19"
+        },
+        {
+          "value": "3",
+          "frac": "0.19"
+        }
+      ]
+    },
+    "simd2016_hscp2016_decile": {
+      "name": "simd2016_hscp2016_decile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 10,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.11"
+        },
+        {
+          "value": "3",
+          "frac": "0.11"
+        },
+        {
+          "value": "6",
+          "frac": "0.1"
+        },
+        {
+          "value": "4",
+          "frac": "0.1"
+        },
+        {
+          "value": "10",
+          "frac": "0.098"
+        }
+      ]
+    },
+    "simd2016_hscp2016_quintile": {
+      "name": "simd2016_hscp2016_quintile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 5,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.21"
+        },
+        {
+          "value": "2",
+          "frac": "0.21"
+        },
+        {
+          "value": "3",
+          "frac": "0.2"
+        },
+        {
+          "value": "5",
+          "frac": "0.19"
+        },
+        {
+          "value": "4",
+          "frac": "0.19"
+        }
+      ]
+    },
+    "simd2016_ca2011_decile": {
+      "name": "simd2016_ca2011_decile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 10,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.11"
+        },
+        {
+          "value": "3",
+          "frac": "0.11"
+        },
+        {
+          "value": "4",
+          "frac": "0.1"
+        },
+        {
+          "value": "6",
+          "frac": "0.1"
+        },
+        {
+          "value": "8",
+          "frac": "0.099"
+        }
+      ]
+    },
+    "simd2016_ca2011_quintile": {
+      "name": "simd2016_ca2011_quintile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 5,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.21"
+        },
+        {
+          "value": "2",
+          "frac": "0.21"
+        },
+        {
+          "value": "3",
+          "frac": "0.2"
+        },
+        {
+          "value": "5",
+          "frac": "0.19"
+        },
+        {
+          "value": "4",
+          "frac": "0.19"
+        }
+      ]
+    },
+    "simd2016tp15": {
+      "name": "simd2016tp15",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.84"
+        },
+        {
+          "value": "1",
+          "frac": "0.16"
+        }
+      ]
+    },
+    "simd2016bt15": {
+      "name": "simd2016bt15",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.86"
+        },
+        {
+          "value": "1",
+          "frac": "0.14"
+        }
+      ]
+    },
+    "simd2016_inc_rate": {
+      "name": "simd2016_inc_rate",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "3",
+          "frac": "0.07"
+        },
+        {
+          "value": "5",
+          "frac": "0.064"
+        },
+        {
+          "value": "2",
+          "frac": "0.062"
+        },
+        {
+          "value": "4",
+          "frac": "0.062"
+        },
+        {
+          "value": "6",
+          "frac": "0.052"
+        }
+      ]
+    },
+    "simd2016_inc_dep_n": {
+      "name": "simd2016_inc_dep_n",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "20",
+          "frac": "0.046"
+        },
+        {
+          "value": "15",
+          "frac": "0.044"
+        },
+        {
+          "value": "30",
+          "frac": "0.044"
+        },
+        {
+          "value": "25",
+          "frac": "0.043"
+        },
+        {
+          "value": "40",
+          "frac": "0.042"
+        }
+      ]
+    },
+    "simd2016_inc_rank": {
+      "name": "simd2016_inc_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6975.5,
+      "values": [
+        {}
+      ]
+    },
+    "simd2016_emp_rate": {
+      "name": "simd2016_emp_rate",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "4",
+          "frac": "0.082"
+        },
+        {
+          "value": "3",
+          "frac": "0.076"
+        },
+        {
+          "value": "5",
+          "frac": "0.074"
+        },
+        {
+          "value": "6",
+          "frac": "0.068"
+        },
+        {
+          "value": "2",
+          "frac": "0.056"
+        }
+      ]
+    },
+    "simd2016_emp_dep_n": {
+      "name": "simd2016_emp_dep_n",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 325,
+      "values": [
+        {
+          "value": "15",
+          "frac": "0.09"
+        },
+        {
+          "value": "20",
+          "frac": "0.077"
+        },
+        {
+          "value": "25",
+          "frac": "0.072"
+        },
+        {
+          "value": "10",
+          "frac": "0.068"
+        },
+        {
+          "value": "30",
+          "frac": "0.062"
+        }
+      ]
+    },
+    "simd2016_emp_rank": {
+      "name": "simd2016_emp_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6975,
+      "values": [
+        {}
+      ]
+    },
+    "simd2016_hlth_score": {
+      "name": "simd2016_hlth_score",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": -2.6227,
+      "max": 3.1497,
+      "values": [
+        {}
+      ]
+    },
+    "simd2016_hlth_rank": {
+      "name": "simd2016_hlth_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6976,
+      "values": [
+        {}
+      ]
+    },
+    "simd2016_educ_rank": {
+      "name": "simd2016_educ_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6974,
+      "values": [
+        {}
+      ]
+    },
+    "simd2016_educ_score": {
+      "name": "simd2016_educ_score",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": -2.4003,
+      "max": 2.5591,
+      "values": [
+        {}
+      ]
+    },
+    "simd2016_house_score": {
+      "name": "simd2016_house_score",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 0.6418,
+      "values": [
+        {
+          "value": "0.142857143",
+          "frac": "0.36"
+        },
+        {
+          "value": "0.133333333",
+          "frac": "0.33"
+        },
+        {
+          "value": "0.076923077",
+          "frac": "0.31"
+        }
+      ]
+    },
+    "simd2016_house_rank": {
+      "name": "simd2016_house_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6974,
+      "values": [
+        {
+          "value": "2359",
+          "frac": "0.52"
+        },
+        {
+          "value": "2657",
+          "frac": "0.48"
+        }
+      ]
+    },
+    "simd2016_access_score": {
+      "name": "simd2016_access_score",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0.0033,
+      "max": 100,
+      "values": [
+        {}
+      ]
+    },
+    "simd2016_access_rank": {
+      "name": "simd2016_access_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 6976,
+      "values": [
+        {}
+      ]
+    },
+    "simd2016_crime_rate": {
+      "name": "simd2016_crime_rate",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "simd2016_crime_n": {
+      "name": "simd2016_crime_n",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.11"
+        },
+        {
+          "value": "6.002793296",
+          "frac": "0.0091"
+        },
+        {
+          "value": "3.001396648",
+          "frac": "0.0072"
+        },
+        {
+          "value": "4.001862197",
+          "frac": "0.0072"
+        },
+        {
+          "value": "18.02714932",
+          "frac": "0.0072"
+        }
+      ]
+    },
+    "simd2016_crime_rank": {
+      "name": "simd2016_crime_rank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 2,
+      "max": 6934.5,
+      "values": [
+        {
+          "value": "6934.5",
+          "frac": "1"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//omicron_ctvals.rds",
+    "finfo": [
+      {
+        "size": 42301758,
+        "mtime": "2022-08-15 06:23:36",
+        "ctime": "2022-08-15 06:23:36",
+        "atime": "2022-08-15 10:36:03",
+        "uname": "safras01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 845431
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "test_id": {
+      "name": "test_id",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "date_ecoss_specimen": {
+      "name": "date_ecoss_specimen",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2022-01-04",
+          "frac": "0.027"
+        },
+        {
+          "value": "2021-12-29",
+          "frac": "0.026"
+        },
+        {
+          "value": "2021-12-28",
+          "frac": "0.025"
+        },
+        {
+          "value": "2022-01-03",
+          "frac": "0.024"
+        },
+        {
+          "value": "2021-12-30",
+          "frac": "0.023"
+        }
+      ]
+    },
+    "ct_value_ORF1AB": {
+      "name": "ct_value_ORF1AB",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "ct_value_NGENE": {
+      "name": "ct_value_NGENE",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "ct_value_SGENE": {
+      "name": "ct_value_SGENE",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.98"
+        },
+        {
+          "value": "-1.00",
+          "frac": "0.016"
+        }
+      ]
+    },
+    "ct_value_MS2": {
+      "name": "ct_value_MS2",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "gene_result_ORF1AB": {
+      "name": "gene_result_ORF1AB",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "POSITIVE",
+          "frac": "0.99"
+        },
+        {
+          "frac": "0.0077"
+        },
+        {
+          "value": "NEGATIVE",
+          "frac": "0.0018"
+        }
+      ]
+    },
+    "gene_result_NGENE": {
+      "name": "gene_result_NGENE",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "POSITIVE",
+          "frac": "0.99"
+        },
+        {
+          "frac": "0.0078"
+        },
+        {
+          "value": "INCONCLUSIVE",
+          "frac": "0.0048"
+        },
+        {
+          "value": "NEGATIVE",
+          "frac": "0.0016"
+        }
+      ]
+    },
+    "gene_result_SGENE": {
+      "name": "gene_result_SGENE",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NEGATIVE",
+          "frac": "0.53"
+        },
+        {
+          "value": "POSITIVE",
+          "frac": "0.46"
+        },
+        {
+          "frac": "0.0088"
+        },
+        {
+          "value": "INCONCLUSIVE",
+          "frac": "0.0016"
+        }
+      ]
+    },
+    "gene_result_MS2": {
+      "name": "gene_result_MS2",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "POSITIVE",
+          "frac": "0.99"
+        },
+        {
+          "frac": "0.0086"
+        }
+      ]
+    },
+    "sgene_classification": {
+      "name": "sgene_classification",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "True S Gene Dropout",
+          "frac": "0.5"
+        },
+        {
+          "value": "Positive S Gene",
+          "frac": "0.46"
+        },
+        {
+          "value": "Weak Positive",
+          "frac": "0.034"
+        },
+        {
+          "value": "other",
+          "frac": "0.01"
+        }
+      ]
+    }
+  }
+}

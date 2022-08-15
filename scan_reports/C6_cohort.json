@@ -1,0 +1,593 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data/cleaned_data//C6_cohort.rds",
+    "finfo": [
+      {
+        "size": 10990722,
+        "mtime": "2021-03-12 14:57:09",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 15:20:23",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 1232710
+  },
+  "columns": {
+    "Sex": {
+      "name": "Sex",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "F",
+          "frac": "0.52"
+        },
+        {
+          "value": "M",
+          "frac": "0.48"
+        }
+      ]
+    },
+    "Age": {
+      "name": "Age",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "61   ",
+          "frac": "0.033"
+        },
+        {
+          "value": "57   ",
+          "frac": "0.032"
+        },
+        {
+          "value": "63   ",
+          "frac": "0.03"
+        },
+        {
+          "value": "62   ",
+          "frac": "0.029"
+        },
+        {
+          "value": "56   ",
+          "frac": "0.029"
+        }
+      ]
+    },
+    "COV_RISK_GROUP": {
+      "name": "COV_RISK_GROUP",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.61"
+        },
+        {
+          "frac": "0.39"
+        }
+      ]
+    },
+    "COV_CONTRA_COD": {
+      "name": "COV_CONTRA_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "COV1_DECL_COD": {
+      "name": "COV1_DECL_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0013"
+        }
+      ]
+    },
+    "COV2_DECL_COD": {
+      "name": "COV2_DECL_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0011"
+        }
+      ]
+    },
+    "COV_AST_COD": {
+      "name": "COV_AST_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.58"
+        },
+        {
+          "value": "1",
+          "frac": "0.42"
+        }
+      ]
+    },
+    "COV_ASTADM_COD": {
+      "name": "COV_ASTADM_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.98"
+        },
+        {
+          "value": "1",
+          "frac": "0.023"
+        }
+      ]
+    },
+    "COV_ASTRX_COD": {
+      "name": "COV_ASTRX_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "1",
+          "frac": "0.038"
+        }
+      ]
+    },
+    "COV_ASTRX_INH_COD": {
+      "name": "COV_ASTRX_INH_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.58"
+        },
+        {
+          "value": "1",
+          "frac": "0.42"
+        }
+      ]
+    },
+    "COV_AST_GROUP": {
+      "name": "COV_AST_GROUP",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "1",
+          "frac": "0.041"
+        }
+      ]
+    },
+    "COV_BMI_GROUP": {
+      "name": "COV_BMI_GROUP",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.9"
+        },
+        {
+          "value": "1",
+          "frac": "0.099"
+        }
+      ]
+    },
+    "COV_CARER_COD": {
+      "name": "COV_CARER_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.95"
+        },
+        {
+          "value": "1",
+          "frac": "0.054"
+        }
+      ]
+    },
+    "COV_CARER_GROUP": {
+      "name": "COV_CARER_GROUP",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.95"
+        },
+        {
+          "value": "1",
+          "frac": "0.049"
+        }
+      ]
+    },
+    "COV_CHD_COD": {
+      "name": "COV_CHD_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.86"
+        },
+        {
+          "value": "1",
+          "frac": "0.14"
+        }
+      ]
+    },
+    "COV_CKD_COD": {
+      "name": "COV_CKD_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0098"
+        }
+      ]
+    },
+    "COV_CKD_GROUP": {
+      "name": "COV_CKD_GROUP",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.98"
+        },
+        {
+          "value": "1",
+          "frac": "0.022"
+        }
+      ]
+    },
+    "COV_CLD_COD": {
+      "name": "COV_CLD_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.97"
+        },
+        {
+          "value": "1",
+          "frac": "0.026"
+        }
+      ]
+    },
+    "COV_CNSGROUP_COD": {
+      "name": "COV_CNSGROUP_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.89"
+        },
+        {
+          "value": "1",
+          "frac": "0.11"
+        }
+      ]
+    },
+    "COV_DIAB_COD": {
+      "name": "COV_DIAB_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.88"
+        },
+        {
+          "value": "1",
+          "frac": "0.12"
+        }
+      ]
+    },
+    "COV_DIAB_GROUP": {
+      "name": "COV_DIAB_GROUP",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.88"
+        },
+        {
+          "value": "1",
+          "frac": "0.12"
+        }
+      ]
+    },
+    "COV_IMMDX_COD": {
+      "name": "COV_IMMDX_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.95"
+        },
+        {
+          "value": "1",
+          "frac": "0.052"
+        }
+      ]
+    },
+    "COV_IMMRX_COD": {
+      "name": "COV_IMMRX_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.97"
+        },
+        {
+          "value": "1",
+          "frac": "0.026"
+        }
+      ]
+    },
+    "COV_IMMRX_CORT_20": {
+      "name": "COV_IMMRX_CORT_20",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "COV_IMMUNO_GROUP": {
+      "name": "COV_IMMUNO_GROUP",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.93"
+        },
+        {
+          "value": "1",
+          "frac": "0.067"
+        }
+      ]
+    },
+    "COV_LEARNDIS_COD": {
+      "name": "COV_LEARNDIS_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.98"
+        },
+        {
+          "value": "1",
+          "frac": "0.016"
+        }
+      ]
+    },
+    "COV_RESP_COD": {
+      "name": "COV_RESP_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.94"
+        },
+        {
+          "value": "1",
+          "frac": "0.057"
+        }
+      ]
+    },
+    "COV_RESP_GROUP": {
+      "name": "COV_RESP_GROUP",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.91"
+        },
+        {
+          "value": "1",
+          "frac": "0.092"
+        }
+      ]
+    },
+    "COV_SEV_MENTAL_COD": {
+      "name": "COV_SEV_MENTAL_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "1",
+          "frac": "0.041"
+        }
+      ]
+    },
+    "COV_SEV_MENTAL_GROUP": {
+      "name": "COV_SEV_MENTAL_GROUP",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "1",
+          "frac": "0.039"
+        }
+      ]
+    },
+    "COV_SMHRES_COD": {
+      "name": "COV_SMHRES_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0019"
+        }
+      ]
+    },
+    "COV_SPLEEN_COD": {
+      "name": "COV_SPLEEN_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.98"
+        },
+        {
+          "value": "1",
+          "frac": "0.019"
+        }
+      ]
+    },
+    "validchi": {
+      "name": "validchi",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Valid CHI",
+          "frac": "1"
+        }
+      ]
+    },
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    }
+  }
+}

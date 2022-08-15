@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data/cleaned_data//AZ_safety_2022-02-17_myopericarditis.rds",
+    "finfo": [
+      {
+        "size": 145,
+        "mtime": "2022-02-18 09:01:29",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:58:35",
+        "uname": "ellioh01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 0
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "StartDate": {
+      "name": "StartDate",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    }
+  }
+}

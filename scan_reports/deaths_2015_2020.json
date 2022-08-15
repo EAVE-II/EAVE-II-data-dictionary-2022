@@ -1,0 +1,362 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//deaths_2015_2020.rds",
+    "finfo": [
+      {
+        "size": 5581347,
+        "mtime": "2022-04-20 16:47:23",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:53:38",
+        "uname": "safras01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 352133
+  },
+  "columns": {
+    "ID": {
+      "name": "ID",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "DATE_OF_DEATH": {
+      "name": "DATE_OF_DEATH",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2020-04-06",
+          "frac": "0.056"
+        },
+        {
+          "value": "2020-01-08",
+          "frac": "0.049"
+        },
+        {
+          "value": "2020-04-14",
+          "frac": "0.045"
+        },
+        {
+          "value": "2017-01-10",
+          "frac": "0.042"
+        },
+        {
+          "value": "2018-04-03",
+          "frac": "0.042"
+        }
+      ]
+    },
+    "AGE": {
+      "name": "AGE",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 107,
+      "values": [
+        {
+          "value": "84",
+          "frac": "0.036"
+        },
+        {
+          "value": "87",
+          "frac": "0.035"
+        },
+        {
+          "value": "85",
+          "frac": "0.035"
+        },
+        {
+          "value": "86",
+          "frac": "0.035"
+        },
+        {
+          "value": "81",
+          "frac": "0.033"
+        }
+      ]
+    },
+    "UNDERLYING_CAUSE_OF_DEATH": {
+      "name": "UNDERLYING_CAUSE_OF_DEATH",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "I219",
+          "frac": "0.078"
+        },
+        {
+          "value": "C349",
+          "frac": "0.072"
+        },
+        {
+          "value": "F03",
+          "frac": "0.04"
+        },
+        {
+          "value": "F019",
+          "frac": "0.038"
+        },
+        {
+          "value": "I259",
+          "frac": "0.036"
+        }
+      ]
+    },
+    "CAUSE_OF_DEATH_CODE_0": {
+      "name": "CAUSE_OF_DEATH_CODE_0",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "C349",
+          "frac": "0.059"
+        },
+        {
+          "value": "R688",
+          "frac": "0.051"
+        },
+        {
+          "value": "J189",
+          "frac": "0.042"
+        },
+        {
+          "value": "I259",
+          "frac": "0.038"
+        },
+        {
+          "value": "F019",
+          "frac": "0.035"
+        }
+      ]
+    },
+    "CAUSE_OF_DEATH_CODE_1": {
+      "name": "CAUSE_OF_DEATH_CODE_1",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.18"
+        },
+        {
+          "value": "I259",
+          "frac": "0.061"
+        },
+        {
+          "value": "I10",
+          "frac": "0.039"
+        },
+        {
+          "value": "E119",
+          "frac": "0.033"
+        },
+        {
+          "value": "F03",
+          "frac": "0.03"
+        }
+      ]
+    },
+    "CAUSE_OF_DEATH_CODE_2": {
+      "name": "CAUSE_OF_DEATH_CODE_2",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.45"
+        },
+        {
+          "value": "I259",
+          "frac": "0.043"
+        },
+        {
+          "value": "I10",
+          "frac": "0.032"
+        },
+        {
+          "value": "J449",
+          "frac": "0.028"
+        },
+        {
+          "value": "E119",
+          "frac": "0.024"
+        }
+      ]
+    },
+    "CAUSE_OF_DEATH_CODE_3": {
+      "name": "CAUSE_OF_DEATH_CODE_3",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.69"
+        },
+        {
+          "value": "J449",
+          "frac": "0.027"
+        },
+        {
+          "value": "I259",
+          "frac": "0.02"
+        },
+        {
+          "value": "E119",
+          "frac": "0.016"
+        },
+        {
+          "value": "I10",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "CAUSE_OF_DEATH_CODE_4": {
+      "name": "CAUSE_OF_DEATH_CODE_4",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.87"
+        },
+        {
+          "value": "J449",
+          "frac": "0.016"
+        },
+        {
+          "value": "N189",
+          "frac": "0.0068"
+        },
+        {
+          "value": "E119",
+          "frac": "0.0066"
+        },
+        {
+          "value": "I10",
+          "frac": "0.0066"
+        }
+      ]
+    },
+    "CAUSE_OF_DEATH_CODE_5": {
+      "name": "CAUSE_OF_DEATH_CODE_5",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "J449",
+          "frac": "0.004"
+        },
+        {
+          "value": "W19",
+          "frac": "0.0039"
+        },
+        {
+          "value": "I10",
+          "frac": "0.0032"
+        },
+        {
+          "value": "N179",
+          "frac": "0.0031"
+        }
+      ]
+    },
+    "CAUSE_OF_DEATH_CODE_6": {
+      "name": "CAUSE_OF_DEATH_CODE_6",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.99"
+        },
+        {
+          "value": "T424",
+          "frac": "0.0019"
+        },
+        {
+          "value": "W19",
+          "frac": "0.0012"
+        },
+        {
+          "value": "F192",
+          "frac": "0.0011"
+        },
+        {
+          "value": "N189",
+          "frac": "0.0011"
+        }
+      ]
+    },
+    "CAUSE_OF_DEATH_CODE_7": {
+      "name": "CAUSE_OF_DEATH_CODE_7",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "CAUSE_OF_DEATH_CODE_8": {
+      "name": "CAUSE_OF_DEATH_CODE_8",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "CAUSE_OF_DEATH_CODE_9": {
+      "name": "CAUSE_OF_DEATH_CODE_9",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    }
+  }
+}

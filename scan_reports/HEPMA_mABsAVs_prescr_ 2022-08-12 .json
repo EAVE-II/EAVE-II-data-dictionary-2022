@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//HEPMA_mABsAVs_prescr_ 2022-08-12 .rds",
+    "finfo": [
+      {
+        "size": 52056,
+        "mtime": "2022-08-12 18:01:56",
+        "ctime": "2022-08-12 18:01:56",
+        "atime": "2022-08-15 15:38:04",
+        "uname": "tanjam01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 5240
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "prescr_date": {
+      "name": "prescr_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2022-03-16",
+          "frac": "0.013"
+        },
+        {
+          "value": "2022-06-24",
+          "frac": "0.012"
+        },
+        {
+          "value": "2022-03-18",
+          "frac": "0.011"
+        },
+        {
+          "value": "2022-03-29",
+          "frac": "0.011"
+        },
+        {
+          "value": "2022-07-01",
+          "frac": "0.011"
+        }
+      ]
+    },
+    "drug_prescr": {
+      "name": "drug_prescr",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "remdesivir",
+          "frac": "0.38"
+        },
+        {
+          "value": "sotrovimab",
+          "frac": "0.21"
+        },
+        {
+          "value": "paxlovid",
+          "frac": "0.18"
+        },
+        {
+          "value": "tocilizumab",
+          "frac": "0.097"
+        },
+        {
+          "value": "sarilumab",
+          "frac": "0.073"
+        }
+      ]
+    },
+    "prescr_item": {
+      "name": "prescr_item",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Sotrovimab 500 mg Injection for Infusion",
+          "frac": "0.16"
+        },
+        {
+          "value": "REMDESIVIR 100 mg Injection",
+          "frac": "0.093"
+        },
+        {
+          "value": "Remdesivir 100mg powder for solution for infusion vials",
+          "frac": "0.074"
+        },
+        {
+          "value": "REMDESIVIR 100 mg in 20ml Injection",
+          "frac": "0.066"
+        },
+        {
+          "value": "PF-07321332 Nirmatrelvir (Paxlovid - PINK) 150 mg Tablets",
+          "frac": "0.048"
+        }
+      ]
+    },
+    "presc_med_dose": {
+      "name": "presc_med_dose",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "500.000000",
+          "frac": "0.2"
+        },
+        {
+          "value": "100.000000",
+          "frac": "0.16"
+        },
+        {
+          "value": "200.000000",
+          "frac": "0.13"
+        },
+        {
+          "value": "100",
+          "frac": "0.096"
+        },
+        {
+          "value": "300.000000",
+          "frac": "0.085"
+        }
+      ]
+    },
+    "presc_med_unit": {
+      "name": "presc_med_unit",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "mg",
+          "frac": "0.77"
+        },
+        {
+          "value": "MG",
+          "frac": "0.2"
+        },
+        {
+          "value": "g",
+          "frac": "0.026"
+        },
+        {
+          "value": "Test",
+          "frac": "0.004"
+        }
+      ]
+    },
+    "patient_HB": {
+      "name": "patient_HB",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS GREATER GLASGOW & CLYDE",
+          "frac": "0.44"
+        },
+        {
+          "value": "NHS LANARKSHIRE",
+          "frac": "0.18"
+        },
+        {
+          "value": "NHS LOTHIAN",
+          "frac": "0.13"
+        },
+        {
+          "value": "NHS DUMFRIES & GALLOWAY",
+          "frac": "0.11"
+        },
+        {
+          "value": "NHS FORTH VALLEY",
+          "frac": "0.072"
+        }
+      ]
+    },
+    "presc_setting_description": {
+      "name": "presc_setting_description",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.8"
+        },
+        {
+          "value": "ADMITTED PATIENT SETTING",
+          "frac": "0.17"
+        },
+        {
+          "value": "OUTPATIENT SETTING",
+          "frac": "0.019"
+        },
+        {
+          "value": "DISCHARGE OF ADMITTED PATIENT",
+          "frac": "0.0061"
+        },
+        {
+          "value": "EMERGENCY CARE DEPARTMENT SETTING",
+          "frac": "0.0046"
+        }
+      ]
+    },
+    "type": {
+      "name": "type",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "I",
+          "frac": "0.74"
+        },
+        {
+          "frac": "0.2"
+        },
+        {
+          "value": "O",
+          "frac": "0.052"
+        },
+        {
+          "value": "D",
+          "frac": "0.0097"
+        }
+      ]
+    },
+    "source": {
+      "name": "source",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "HEPMA_v1",
+          "frac": "0.8"
+        },
+        {
+          "value": "HEPMA_v2",
+          "frac": "0.2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data/cleaned_data//Downs_cohort_Nov2021.rds",
+    "finfo": [
+      {
+        "size": 45174,
+        "mtime": "2021-12-15 17:48:59",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 15:19:48",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 3565
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "Age": {
+      "name": "Age",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "12   ",
+          "frac": "0.022"
+        },
+        {
+          "value": "5    ",
+          "frac": "0.021"
+        },
+        {
+          "value": "17   ",
+          "frac": "0.021"
+        },
+        {
+          "value": "54   ",
+          "frac": "0.021"
+        },
+        {
+          "value": "9    ",
+          "frac": "0.02"
+        }
+      ]
+    },
+    "Sex": {
+      "name": "Sex",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "M",
+          "frac": "0.54"
+        },
+        {
+          "value": "F",
+          "frac": "0.46"
+        }
+      ]
+    },
+    "FLUCOV_DOWNS_COD": {
+      "name": "FLUCOV_DOWNS_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "1"
+        }
+      ]
+    },
+    "datazone2011": {
+      "name": "datazone2011",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.39"
+        },
+        {
+          "value": "S01012542",
+          "frac": "0.32"
+        },
+        {
+          "value": "S01006524",
+          "frac": "0.29"
+        }
+      ]
+    },
+    "ur6_2016": {
+      "name": "ur6_2016",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "2",
+          "frac": "0.37"
+        },
+        {
+          "value": "1",
+          "frac": "0.31"
+        },
+        {
+          "value": "5",
+          "frac": "0.12"
+        },
+        {
+          "value": "3",
+          "frac": "0.079"
+        },
+        {
+          "value": "6",
+          "frac": "0.067"
+        }
+      ]
+    },
+    "hb2019": {
+      "name": "hb2019",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S08000031",
+          "frac": "0.23"
+        },
+        {
+          "value": "S08000024",
+          "frac": "0.14"
+        },
+        {
+          "value": "S08000032",
+          "frac": "0.13"
+        },
+        {
+          "value": "S08000020",
+          "frac": "0.094"
+        },
+        {
+          "value": "S08000030",
+          "frac": "0.078"
+        }
+      ]
+    },
+    "hb2019name": {
+      "name": "hb2019name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS Greater Glasgow and Clyde",
+          "frac": "0.23"
+        },
+        {
+          "value": "NHS Lothian",
+          "frac": "0.14"
+        },
+        {
+          "value": "NHS Lanarkshire",
+          "frac": "0.13"
+        },
+        {
+          "value": "NHS Grampian",
+          "frac": "0.094"
+        },
+        {
+          "value": "NHS Tayside",
+          "frac": "0.078"
+        }
+      ]
+    }
+  }
+}

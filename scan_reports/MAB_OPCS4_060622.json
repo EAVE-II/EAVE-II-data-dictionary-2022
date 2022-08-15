@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//MAB_OPCS4_060622.rds",
+    "finfo": [
+      {
+        "size": 1372413,
+        "mtime": "2022-06-06 12:34:06",
+        "ctime": "2022-06-06 12:34:06",
+        "atime": "2022-08-15 14:54:45",
+        "uname": "ellioh01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 415771
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "main_operation": {
+      "name": "main_operation",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "X729",
+          "frac": "0.47"
+        },
+        {
+          "value": "X721",
+          "frac": "0.27"
+        },
+        {
+          "value": "X724",
+          "frac": "0.16"
+        },
+        {
+          "value": "E852",
+          "frac": "0.034"
+        },
+        {
+          "value": "X739",
+          "frac": "0.022"
+        }
+      ]
+    },
+    "date_main_operation": {
+      "name": "date_main_operation",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2018-12-04",
+          "frac": "0.0074"
+        },
+        {
+          "value": "2019-05-02",
+          "frac": "0.007"
+        },
+        {
+          "value": "2020-08-05",
+          "frac": "0.007"
+        },
+        {
+          "value": "2018-06-14",
+          "frac": "0.0066"
+        },
+        {
+          "value": "2019-04-03",
+          "frac": "0.0066"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//vax_eligible.rds",
+    "finfo": [
+      {
+        "size": 32350954,
+        "mtime": "2021-10-01 14:04:07",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:57:47",
+        "uname": "ellioh01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 5291690
+  },
+  "columns": {
+    "patient_sex": {
+      "name": "patient_sex",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "MALE",
+          "frac": "0.5"
+        },
+        {
+          "value": "FEMALE",
+          "frac": "0.5"
+        }
+      ]
+    },
+    "age": {
+      "name": "age",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 2,
+      "max": 100,
+      "values": [
+        {
+          "value": "26",
+          "frac": "0.019"
+        },
+        {
+          "value": "56",
+          "frac": "0.019"
+        },
+        {
+          "value": "54",
+          "frac": "0.018"
+        },
+        {
+          "value": "27",
+          "frac": "0.018"
+        },
+        {
+          "value": "31",
+          "frac": "0.018"
+        }
+      ]
+    },
+    "validchi": {
+      "name": "validchi",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Valid CHI",
+          "frac": "1"
+        }
+      ]
+    },
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    }
+  }
+}

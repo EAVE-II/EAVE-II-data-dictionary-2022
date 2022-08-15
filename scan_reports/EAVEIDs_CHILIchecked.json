@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//EAVEIDs_CHILIchecked.rds",
+    "finfo": [
+      {
+        "size": 17258111,
+        "mtime": "2020-11-20 15:15:56",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:54:02",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 5847940
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "source": {
+      "name": "source",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "EAVE_DEMOGRAPH",
+          "frac": "1"
+        },
+        {
+          "value": "ECOSS",
+          "frac": "0.0048"
+        }
+      ]
+    },
+    "chili_checked": {
+      "name": "chili_checked",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Y",
+          "frac": "0.99"
+        },
+        {
+          "value": "N",
+          "frac": "0.0054"
+        }
+      ]
+    },
+    "March_transfer_out_date": {
+      "name": "March_transfer_out_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "Sept_transfer_out_date": {
+      "name": "Sept_transfer_out_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "removal_date": {
+      "name": "removal_date",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "exit_period": {
+      "name": "exit_period",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "none",
+          "frac": "0.98"
+        },
+        {
+          "value": "before march",
+          "frac": "0.016"
+        },
+        {
+          "value": "between march - sept",
+          "frac": "0.005"
+        }
+      ]
+    },
+    "date_last_checked": {
+      "name": "date_last_checked",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2020-11-20",
+          "frac": "1"
+        }
+      ]
+    }
+  }
+}

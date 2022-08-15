@@ -1,0 +1,1786 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//SICSAG_episode_level_.rds",
+    "finfo": [
+      {
+        "size": 8322220,
+        "mtime": "2022-08-09 10:26:43",
+        "ctime": "2022-08-09 10:26:59",
+        "atime": "2022-08-15 10:57:02",
+        "uname": "michab06",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 137915
+  },
+  "columns": {
+    "id": {
+      "name": "id",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 6,
+      "max": 137913,
+      "values": [
+        {}
+      ]
+    },
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "AdmitUnit": {
+      "name": "AdmitUnit",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2019-07-23",
+          "frac": "0.0062"
+        },
+        {
+          "value": "2019-11-28",
+          "frac": "0.0062"
+        },
+        {
+          "value": "2019-04-25",
+          "frac": "0.0059"
+        },
+        {
+          "value": "2019-06-20",
+          "frac": "0.0056"
+        },
+        {
+          "value": "2019-08-07",
+          "frac": "0.0056"
+        }
+      ]
+    },
+    "AdmitTime": {
+      "name": "AdmitTime",
+      "label": "",
+      "description": "",
+      "type": "drtn",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "61200",
+          "frac": "0.037"
+        },
+        {
+          "value": "57600",
+          "frac": "0.034"
+        },
+        {
+          "value": "64800",
+          "frac": "0.034"
+        },
+        {
+          "value": "54000",
+          "frac": "0.031"
+        },
+        {
+          "value": "68400",
+          "frac": "0.029"
+        }
+      ]
+    },
+    "Age": {
+      "name": "Age",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 10,
+      "max": 120,
+      "values": [
+        {
+          "value": "73",
+          "frac": "0.026"
+        },
+        {
+          "value": "72",
+          "frac": "0.026"
+        },
+        {
+          "value": "66",
+          "frac": "0.025"
+        },
+        {
+          "value": "64",
+          "frac": "0.025"
+        },
+        {
+          "value": "70",
+          "frac": "0.025"
+        }
+      ]
+    },
+    "AdmitHosp": {
+      "name": "AdmitHosp",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2020-03-02",
+          "frac": "0.0063"
+        },
+        {
+          "value": "2019-06-19",
+          "frac": "0.006"
+        },
+        {
+          "value": "2019-04-19",
+          "frac": "0.0054"
+        },
+        {
+          "value": "2019-07-23",
+          "frac": "0.0054"
+        },
+        {
+          "value": "2019-08-30",
+          "frac": "0.0051"
+        }
+      ]
+    },
+    "PriorDate": {
+      "name": "PriorDate",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "PriorTime": {
+      "name": "PriorTime",
+      "label": "",
+      "description": "",
+      "type": "drtn",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "ApIIScore": {
+      "name": "ApIIScore",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 51,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.69"
+        },
+        {
+          "value": "11",
+          "frac": "0.024"
+        },
+        {
+          "value": "14",
+          "frac": "0.02"
+        },
+        {
+          "value": "10",
+          "frac": "0.02"
+        },
+        {
+          "value": "13",
+          "frac": "0.019"
+        }
+      ]
+    },
+    "Apmortpred": {
+      "name": "Apmortpred",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 98.9,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.82"
+        },
+        {
+          "value": "2.4",
+          "frac": "0.0056"
+        },
+        {
+          "value": "14.2",
+          "frac": "0.0054"
+        },
+        {
+          "value": "16.1",
+          "frac": "0.0053"
+        },
+        {
+          "value": "9.6",
+          "frac": "0.005"
+        }
+      ]
+    },
+    "SAPSIIscore": {
+      "name": "SAPSIIscore",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 48,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.98"
+        },
+        {
+          "value": "18",
+          "frac": "0.0047"
+        },
+        {
+          "value": "13",
+          "frac": "0.0038"
+        },
+        {
+          "value": "22",
+          "frac": "0.0033"
+        },
+        {
+          "value": "21",
+          "frac": "0.0029"
+        }
+      ]
+    },
+    "Sapsmortpred": {
+      "name": "Sapsmortpred",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 41.5,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "LowHR": {
+      "name": "LowHR",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 155,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.67"
+        },
+        {
+          "value": "70",
+          "frac": "0.019"
+        },
+        {
+          "value": "60",
+          "frac": "0.019"
+        },
+        {
+          "value": "65",
+          "frac": "0.015"
+        },
+        {
+          "value": "80",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "HighHR": {
+      "name": "HighHR",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 266,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.67"
+        },
+        {
+          "value": "90",
+          "frac": "0.017"
+        },
+        {
+          "value": "95",
+          "frac": "0.014"
+        },
+        {
+          "value": "100",
+          "frac": "0.013"
+        },
+        {
+          "value": "105",
+          "frac": "0.012"
+        }
+      ]
+    },
+    "LowCentTemp": {
+      "name": "LowCentTemp",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 39,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.67"
+        },
+        {
+          "value": "36",
+          "frac": "0.039"
+        },
+        {
+          "value": "36.1",
+          "frac": "0.022"
+        },
+        {
+          "value": "36.5",
+          "frac": "0.021"
+        },
+        {
+          "value": "36.2",
+          "frac": "0.02"
+        }
+      ]
+    },
+    "HighCentTemp": {
+      "name": "HighCentTemp",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 41.2,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.67"
+        },
+        {
+          "value": "37",
+          "frac": "0.025"
+        },
+        {
+          "value": "37.2",
+          "frac": "0.021"
+        },
+        {
+          "value": "37.5",
+          "frac": "0.02"
+        },
+        {
+          "value": "37.1",
+          "frac": "0.018"
+        }
+      ]
+    },
+    "LowGroinTemp": {
+      "name": "LowGroinTemp",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 0,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "HighGroinTemp": {
+      "name": "HighGroinTemp",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 0,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "LowRR": {
+      "name": "LowRR",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 41,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.66"
+        },
+        {
+          "value": "12",
+          "frac": "0.051"
+        },
+        {
+          "value": "14",
+          "frac": "0.037"
+        },
+        {
+          "value": "10",
+          "frac": "0.036"
+        },
+        {
+          "value": "16",
+          "frac": "0.028"
+        }
+      ]
+    },
+    "HighRR": {
+      "name": "HighRR",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 236,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.66"
+        },
+        {
+          "value": "20",
+          "frac": "0.039"
+        },
+        {
+          "value": "22",
+          "frac": "0.034"
+        },
+        {
+          "value": "24",
+          "frac": "0.027"
+        },
+        {
+          "value": "18",
+          "frac": "0.024"
+        }
+      ]
+    },
+    "SysBP": {
+      "name": "SysBP",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 10510,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.68"
+        },
+        {
+          "value": "140",
+          "frac": "0.015"
+        },
+        {
+          "value": "130",
+          "frac": "0.014"
+        },
+        {
+          "value": "145",
+          "frac": "0.013"
+        },
+        {
+          "value": "150",
+          "frac": "0.012"
+        }
+      ]
+    },
+    "PairedDias": {
+      "name": "PairedDias",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 170,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.67"
+        },
+        {
+          "value": "70",
+          "frac": "0.024"
+        },
+        {
+          "value": "60",
+          "frac": "0.023"
+        },
+        {
+          "value": "80",
+          "frac": "0.017"
+        },
+        {
+          "value": "65",
+          "frac": "0.017"
+        }
+      ]
+    },
+    "LowDias": {
+      "name": "LowDias",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 105,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.67"
+        },
+        {
+          "value": "50",
+          "frac": "0.033"
+        },
+        {
+          "value": "40",
+          "frac": "0.026"
+        },
+        {
+          "value": "45",
+          "frac": "0.025"
+        },
+        {
+          "value": "60",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "PairedSys": {
+      "name": "PairedSys",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 208,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.68"
+        },
+        {
+          "value": "100",
+          "frac": "0.017"
+        },
+        {
+          "value": "110",
+          "frac": "0.015"
+        },
+        {
+          "value": "90",
+          "frac": "0.014"
+        },
+        {
+          "value": "95",
+          "frac": "0.014"
+        }
+      ]
+    },
+    "GCSIntub": {
+      "name": "GCSIntub",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.95"
+        },
+        {
+          "value": "1",
+          "frac": "0.05"
+        }
+      ]
+    },
+    "TotalUrine": {
+      "name": "TotalUrine",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 11085,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.93"
+        },
+        {
+          "value": "1",
+          "frac": "0.019"
+        },
+        {
+          "value": "1500",
+          "frac": "0.0041"
+        },
+        {
+          "value": "900",
+          "frac": "0.0031"
+        },
+        {
+          "value": "1200",
+          "frac": "0.0031"
+        }
+      ]
+    },
+    "LowSodium": {
+      "name": "LowSodium",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 161,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.69"
+        },
+        {
+          "value": "139",
+          "frac": "0.032"
+        },
+        {
+          "value": "138",
+          "frac": "0.032"
+        },
+        {
+          "value": "137",
+          "frac": "0.031"
+        },
+        {
+          "value": "136",
+          "frac": "0.03"
+        }
+      ]
+    },
+    "HighSodium": {
+      "name": "HighSodium",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 163,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.69"
+        },
+        {
+          "value": "139",
+          "frac": "0.036"
+        },
+        {
+          "value": "140",
+          "frac": "0.035"
+        },
+        {
+          "value": "138",
+          "frac": "0.032"
+        },
+        {
+          "value": "141",
+          "frac": "0.029"
+        }
+      ]
+    },
+    "LowPotas": {
+      "name": "LowPotas",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 9.4,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.69"
+        },
+        {
+          "value": "4.1",
+          "frac": "0.022"
+        },
+        {
+          "value": "4.2",
+          "frac": "0.022"
+        },
+        {
+          "value": "3.9",
+          "frac": "0.021"
+        },
+        {
+          "value": "4",
+          "frac": "0.02"
+        }
+      ]
+    },
+    "HighPotas": {
+      "name": "HighPotas",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 9.4,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.69"
+        },
+        {
+          "value": "4.5",
+          "frac": "0.022"
+        },
+        {
+          "value": "4.4",
+          "frac": "0.021"
+        },
+        {
+          "value": "4.1",
+          "frac": "0.02"
+        },
+        {
+          "value": "4.2",
+          "frac": "0.02"
+        }
+      ]
+    },
+    "LowSerumBi": {
+      "name": "LowSerumBi",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 93,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.8"
+        },
+        {
+          "value": "24",
+          "frac": "0.017"
+        },
+        {
+          "value": "22",
+          "frac": "0.017"
+        },
+        {
+          "value": "23",
+          "frac": "0.017"
+        },
+        {
+          "value": "21",
+          "frac": "0.017"
+        }
+      ]
+    },
+    "HighSerumBi": {
+      "name": "HighSerumBi",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 97,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.79"
+        },
+        {
+          "value": "24",
+          "frac": "0.019"
+        },
+        {
+          "value": "25",
+          "frac": "0.017"
+        },
+        {
+          "value": "22",
+          "frac": "0.016"
+        },
+        {
+          "value": "23",
+          "frac": "0.016"
+        }
+      ]
+    },
+    "HighUrea": {
+      "name": "HighUrea",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 512.3,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.74"
+        },
+        {
+          "value": "4.3",
+          "frac": "0.0056"
+        },
+        {
+          "value": "4.5",
+          "frac": "0.0053"
+        },
+        {
+          "value": "5.9",
+          "frac": "0.0053"
+        },
+        {
+          "value": "4",
+          "frac": "0.0052"
+        }
+      ]
+    },
+    "LowCrea": {
+      "name": "LowCrea",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1745,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.73"
+        },
+        {
+          "value": "66",
+          "frac": "0.0065"
+        },
+        {
+          "value": "62",
+          "frac": "0.0063"
+        },
+        {
+          "value": "63",
+          "frac": "0.0063"
+        },
+        {
+          "value": "57",
+          "frac": "0.006"
+        }
+      ]
+    },
+    "HighCrea": {
+      "name": "HighCrea",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 2400,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.74"
+        },
+        {
+          "value": "66",
+          "frac": "0.0073"
+        },
+        {
+          "value": "62",
+          "frac": "0.006"
+        },
+        {
+          "value": "65",
+          "frac": "0.0059"
+        },
+        {
+          "value": "68",
+          "frac": "0.0057"
+        }
+      ]
+    },
+    "HighBil": {
+      "name": "HighBil",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 626,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.72"
+        },
+        {
+          "value": "8",
+          "frac": "0.022"
+        },
+        {
+          "value": "7",
+          "frac": "0.021"
+        },
+        {
+          "value": "10",
+          "frac": "0.02"
+        },
+        {
+          "value": "6",
+          "frac": "0.02"
+        }
+      ]
+    },
+    "LowHaemo": {
+      "name": "LowHaemo",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 19.2,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.7"
+        },
+        {
+          "value": "11.6",
+          "frac": "0.0074"
+        },
+        {
+          "value": "12",
+          "frac": "0.0072"
+        },
+        {
+          "value": "11",
+          "frac": "0.0068"
+        },
+        {
+          "value": "11.2",
+          "frac": "0.0066"
+        }
+      ]
+    },
+    "HighHaemo": {
+      "name": "HighHaemo",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 22,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.7"
+        },
+        {
+          "value": "11",
+          "frac": "0.0064"
+        },
+        {
+          "value": "12",
+          "frac": "0.0064"
+        },
+        {
+          "value": "10",
+          "frac": "0.006"
+        },
+        {
+          "value": "11.2",
+          "frac": "0.0058"
+        }
+      ]
+    },
+    "LowWhiteCell": {
+      "name": "LowWhiteCell",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 426.4,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.74"
+        },
+        {
+          "value": "9",
+          "frac": "0.0039"
+        },
+        {
+          "value": "9.2",
+          "frac": "0.0038"
+        },
+        {
+          "value": "8",
+          "frac": "0.0036"
+        },
+        {
+          "value": "10.5",
+          "frac": "0.0036"
+        }
+      ]
+    },
+    "HighWhiteCell": {
+      "name": "HighWhiteCell",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 458.5,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.75"
+        },
+        {
+          "value": "14.7",
+          "frac": "0.0036"
+        },
+        {
+          "value": "11",
+          "frac": "0.0034"
+        },
+        {
+          "value": "11.3",
+          "frac": "0.0034"
+        },
+        {
+          "value": "13",
+          "frac": "0.0033"
+        }
+      ]
+    },
+    "LowpO2": {
+      "name": "LowpO2",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.55"
+        },
+        {
+          "value": "0",
+          "frac": "0.22"
+        },
+        {
+          "value": "9.7",
+          "frac": "0.0067"
+        },
+        {
+          "value": "9.6",
+          "frac": "0.0064"
+        },
+        {
+          "value": "9.8",
+          "frac": "0.006"
+        }
+      ]
+    },
+    "LowpO2PC": {
+      "name": "LowpO2PC",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 100,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.74"
+        },
+        {
+          "value": "21",
+          "frac": "0.037"
+        },
+        {
+          "value": "40",
+          "frac": "0.034"
+        },
+        {
+          "value": "28",
+          "frac": "0.032"
+        },
+        {
+          "value": "30",
+          "frac": "0.028"
+        }
+      ]
+    },
+    "LowpO2CO2": {
+      "name": "LowpO2CO2",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.54"
+        },
+        {
+          "value": "0",
+          "frac": "0.21"
+        },
+        {
+          "value": "5.1",
+          "frac": "0.012"
+        },
+        {
+          "value": "5.3",
+          "frac": "0.012"
+        },
+        {
+          "value": "5",
+          "frac": "0.011"
+        }
+      ]
+    },
+    "LowpO2pH": {
+      "name": "LowpO2pH",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.54"
+        },
+        {
+          "value": "0",
+          "frac": "0.21"
+        },
+        {
+          "value": "7.4",
+          "frac": "0.018"
+        },
+        {
+          "value": "7.42",
+          "frac": "0.018"
+        },
+        {
+          "value": "7.41",
+          "frac": "0.016"
+        }
+      ]
+    },
+    "HighO2PC": {
+      "name": "HighO2PC",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 5040,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.86"
+        },
+        {
+          "value": "50",
+          "frac": "0.039"
+        },
+        {
+          "value": "60",
+          "frac": "0.023"
+        },
+        {
+          "value": "100",
+          "frac": "0.021"
+        },
+        {
+          "value": "40",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "HighO2pO2": {
+      "name": "HighO2pO2",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 99,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.96"
+        },
+        {
+          "value": "9.9",
+          "frac": "0.0024"
+        },
+        {
+          "value": "11",
+          "frac": "0.002"
+        },
+        {
+          "value": "13",
+          "frac": "0.002"
+        },
+        {
+          "value": "11.6",
+          "frac": "0.0019"
+        }
+      ]
+    },
+    "HighO2CO2": {
+      "name": "HighO2CO2",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 16.6,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.87"
+        },
+        {
+          "value": "5.5",
+          "frac": "0.0069"
+        },
+        {
+          "value": "5.4",
+          "frac": "0.0066"
+        },
+        {
+          "value": "5.6",
+          "frac": "0.0054"
+        },
+        {
+          "value": "5.1",
+          "frac": "0.0053"
+        }
+      ]
+    },
+    "HighO2pH": {
+      "name": "HighO2pH",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 7.96,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.86"
+        },
+        {
+          "value": "7.36",
+          "frac": "0.0073"
+        },
+        {
+          "value": "7.38",
+          "frac": "0.007"
+        },
+        {
+          "value": "7.4",
+          "frac": "0.0067"
+        },
+        {
+          "value": "7.39",
+          "frac": "0.0062"
+        }
+      ]
+    },
+    "DiscDate": {
+      "name": "DiscDate",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.007"
+        },
+        {
+          "value": "2019-11-01",
+          "frac": "0.0064"
+        },
+        {
+          "value": "2019-05-03",
+          "frac": "0.0061"
+        },
+        {
+          "value": "2019-06-24",
+          "frac": "0.0061"
+        },
+        {
+          "value": "2019-07-24",
+          "frac": "0.0061"
+        }
+      ]
+    },
+    "DiscTime": {
+      "name": "DiscTime",
+      "label": "",
+      "description": "",
+      "type": "drtn",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "57600",
+          "frac": "0.067"
+        },
+        {
+          "value": "54000",
+          "frac": "0.064"
+        },
+        {
+          "value": "50400",
+          "frac": "0.05"
+        },
+        {
+          "value": "64800",
+          "frac": "0.045"
+        },
+        {
+          "value": "61200",
+          "frac": "0.042"
+        }
+      ]
+    },
+    "ReasonDisc": {
+      "name": "ReasonDisc",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "A. Fully ready for non-Unit car",
+          "frac": "0.83"
+        },
+        {
+          "value": "",
+          "frac": "0.076"
+        },
+        {
+          "value": "D. Specialist care",
+          "frac": "0.07"
+        },
+        {
+          "value": "H. Self discharge",
+          "frac": "0.0091"
+        },
+        {
+          "value": "G. Palliative care",
+          "frac": "0.0074"
+        }
+      ]
+    },
+    "PosDate": {
+      "name": "PosDate",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.32"
+        },
+        {
+          "value": "2019-05-03",
+          "frac": "0.0064"
+        },
+        {
+          "value": "2019-05-20",
+          "frac": "0.0058"
+        },
+        {
+          "value": "2021-04-29",
+          "frac": "0.0058"
+        },
+        {
+          "value": "2019-04-26",
+          "frac": "0.0055"
+        }
+      ]
+    },
+    "PosTime": {
+      "name": "PosTime",
+      "label": "",
+      "description": "",
+      "type": "drtn",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "36000",
+          "frac": "0.2"
+        },
+        {
+          "frac": "0.11"
+        },
+        {
+          "value": "32400",
+          "frac": "0.1"
+        },
+        {
+          "value": "43200",
+          "frac": "0.094"
+        },
+        {
+          "value": "39600",
+          "frac": "0.092"
+        }
+      ]
+    },
+    "DateDiscHosp": {
+      "name": "DateDiscHosp",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.99"
+        },
+        {
+          "value": "2019-08-14",
+          "frac": "0.0022"
+        },
+        {
+          "value": "2021-05-10",
+          "frac": "0.0022"
+        },
+        {
+          "value": "2021-12-10",
+          "frac": "0.0022"
+        },
+        {
+          "value": "2021-06-02",
+          "frac": "0.002"
+        }
+      ]
+    },
+    "DateUltHosp": {
+      "name": "DateUltHosp",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.99"
+        },
+        {
+          "value": "2021-12-10",
+          "frac": "0.0023"
+        },
+        {
+          "value": "2019-08-14",
+          "frac": "0.0019"
+        },
+        {
+          "value": "2021-05-10",
+          "frac": "0.0019"
+        },
+        {
+          "value": "2021-12-24",
+          "frac": "0.0019"
+        }
+      ]
+    },
+    "CreationVersion": {
+      "name": "CreationVersion",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 400,
+      "max": 400,
+      "values": [
+        {
+          "value": "400",
+          "frac": "1"
+        }
+      ]
+    },
+    "Declared_Clinically_Ready": {
+      "name": "Declared_Clinically_Ready",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.9"
+        },
+        {
+          "value": "0",
+          "frac": "0.1"
+        }
+      ]
+    },
+    "DateEndAcute_ThisHosp": {
+      "name": "DateEndAcute_ThisHosp",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "DateEndAcute_FinalHosp": {
+      "name": "DateEndAcute_FinalHosp",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "Central_Temp_Present": {
+      "name": "Central_Temp_Present",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "1"
+        }
+      ]
+    },
+    "GCS_Available": {
+      "name": "GCS_Available",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.71"
+        },
+        {
+          "value": "1",
+          "frac": "0.29"
+        }
+      ]
+    },
+    "SedPtsPresent": {
+      "name": "SedPtsPresent",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.97"
+        },
+        {
+          "value": "1",
+          "frac": "0.031"
+        }
+      ]
+    },
+    "ImageCirrhosis": {
+      "name": "ImageCirrhosis",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.98"
+        },
+        {
+          "value": "1",
+          "frac": "0.018"
+        }
+      ]
+    },
+    "PregStatus": {
+      "name": "PregStatus",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "",
+          "frac": "0.56"
+        },
+        {
+          "value": "A. Not known to be pregnant",
+          "frac": "0.4"
+        },
+        {
+          "value": "C. Recently pregnant (last 6 weeks)",
+          "frac": "0.029"
+        },
+        {
+          "value": "B. Currently pregnant",
+          "frac": "0.01"
+        }
+      ]
+    },
+    "Apiiscore_xPresed_GCS": {
+      "name": "Apiiscore_xPresed_GCS",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.73"
+        },
+        {
+          "value": "0",
+          "frac": "0.2"
+        },
+        {
+          "value": "13",
+          "frac": "0.0062"
+        },
+        {
+          "value": "11",
+          "frac": "0.0061"
+        },
+        {
+          "value": "14",
+          "frac": "0.0061"
+        }
+      ]
+    },
+    "Apmortpred_xPresed_GCS": {
+      "name": "Apmortpred_xPresed_GCS",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.78"
+        },
+        {
+          "value": "0",
+          "frac": "0.22"
+        }
+      ]
+    },
+    "PostCode1": {
+      "name": "PostCode1",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "ML1",
+          "frac": "0.014"
+        },
+        {
+          "value": "IV30",
+          "frac": "0.012"
+        },
+        {
+          "value": "IV2",
+          "frac": "0.011"
+        },
+        {
+          "value": "PH1",
+          "frac": "0.011"
+        },
+        {
+          "value": "DD4",
+          "frac": "0.011"
+        }
+      ]
+    },
+    "PostCode2": {
+      "name": "PostCode2",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "0AA",
+          "frac": "0.15"
+        },
+        {
+          "value": "000",
+          "frac": "0.069"
+        },
+        {
+          "value": "2DE",
+          "frac": "0.069"
+        },
+        {
+          "value": "6DT",
+          "frac": "0.069"
+        },
+        {
+          "value": "8EB",
+          "frac": "0.069"
+        }
+      ]
+    }
+  }
+}
