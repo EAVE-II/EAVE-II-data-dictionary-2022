@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//CharlsonSept.rds",
+    "finfo": [
+      {
+        "size": 16107410,
+        "mtime": "2020-12-16 16:07:17",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 15:20:09",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 5932586
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "score": {
+      "name": "score",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.91"
+        },
+        {
+          "value": "1",
+          "frac": "0.027"
+        },
+        {
+          "value": "2",
+          "frac": "0.021"
+        },
+        {
+          "frac": "0.02"
+        },
+        {
+          "value": "3",
+          "frac": "0.0079"
+        }
+      ]
+    },
+    "extract_date": {
+      "name": "extract_date",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "20200901",
+          "frac": "0.98"
+        },
+        {
+          "frac": "0.02"
+        }
+      ]
+    }
+  }
+}

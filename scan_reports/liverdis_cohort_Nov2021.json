@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data/cleaned_data//liverdis_cohort_Nov2021.rds",
+    "finfo": [
+      {
+        "size": 586775,
+        "mtime": "2021-12-17 11:55:22",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 15:49:48",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 52133
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "Age": {
+      "name": "Age",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "60   ",
+          "frac": "0.031"
+        },
+        {
+          "value": "63   ",
+          "frac": "0.028"
+        },
+        {
+          "value": "57   ",
+          "frac": "0.028"
+        },
+        {
+          "value": "59   ",
+          "frac": "0.028"
+        },
+        {
+          "value": "61   ",
+          "frac": "0.028"
+        }
+      ]
+    },
+    "Sex": {
+      "name": "Sex",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "M",
+          "frac": "0.57"
+        },
+        {
+          "value": "F",
+          "frac": "0.43"
+        }
+      ]
+    },
+    "FLUCOV_CLD_COD": {
+      "name": "FLUCOV_CLD_COD",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "1"
+        }
+      ]
+    },
+    "datazone2011": {
+      "name": "datazone2011",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.44"
+        },
+        {
+          "value": "S01008712",
+          "frac": "0.19"
+        },
+        {
+          "value": "S01006677",
+          "frac": "0.14"
+        },
+        {
+          "value": "S01008929",
+          "frac": "0.12"
+        },
+        {
+          "value": "S01006684",
+          "frac": "0.11"
+        }
+      ]
+    },
+    "ur6_2016": {
+      "name": "ur6_2016",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.44"
+        },
+        {
+          "value": "2",
+          "frac": "0.31"
+        },
+        {
+          "value": "5",
+          "frac": "0.091"
+        },
+        {
+          "value": "3",
+          "frac": "0.072"
+        },
+        {
+          "value": "6",
+          "frac": "0.051"
+        }
+      ]
+    },
+    "hb2019": {
+      "name": "hb2019",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S08000031",
+          "frac": "0.29"
+        },
+        {
+          "value": "S08000024",
+          "frac": "0.16"
+        },
+        {
+          "value": "S08000032",
+          "frac": "0.1"
+        },
+        {
+          "value": "S08000020",
+          "frac": "0.1"
+        },
+        {
+          "value": "S08000030",
+          "frac": "0.081"
+        }
+      ]
+    },
+    "hb2019name": {
+      "name": "hb2019name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS Greater Glasgow and Clyde",
+          "frac": "0.29"
+        },
+        {
+          "value": "NHS Lothian",
+          "frac": "0.16"
+        },
+        {
+          "value": "NHS Lanarkshire",
+          "frac": "0.1"
+        },
+        {
+          "value": "NHS Grampian",
+          "frac": "0.1"
+        },
+        {
+          "value": "NHS Tayside",
+          "frac": "0.081"
+        }
+      ]
+    }
+  }
+}

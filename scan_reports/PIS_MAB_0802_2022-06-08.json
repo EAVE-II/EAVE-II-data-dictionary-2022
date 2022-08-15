@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//PIS_MAB_0802_2022-06-08.rds",
+    "finfo": [
+      {
+        "size": 149615,
+        "mtime": "2022-06-08 12:50:54",
+        "ctime": "2022-06-08 12:50:54",
+        "atime": "2022-08-15 14:55:18",
+        "uname": "safras01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 22694
+  },
+  "columns": {
+    "bnf_section_code": {
+      "name": "bnf_section_code",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "0802",
+          "frac": "1"
+        }
+      ]
+    },
+    "approved_name": {
+      "name": "approved_name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "AZATHIOPRINE",
+          "frac": "0.57"
+        },
+        {
+          "value": "MYCOPHENOLATE",
+          "frac": "0.22"
+        },
+        {
+          "value": "TACROLIMUS",
+          "frac": "0.14"
+        },
+        {
+          "value": "CICLOSPORIN",
+          "frac": "0.067"
+        },
+        {
+          "value": "SIROLIMUS",
+          "frac": "0.0054"
+        }
+      ]
+    },
+    "prescribed_full_date": {
+      "name": "prescribed_full_date",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2020-01-06",
+          "frac": "0.048"
+        },
+        {
+          "value": "2020-01-13",
+          "frac": "0.046"
+        },
+        {
+          "value": "2020-01-20",
+          "frac": "0.04"
+        },
+        {
+          "value": "2020-01-27",
+          "frac": "0.039"
+        },
+        {
+          "value": "2020-01-07",
+          "frac": "0.038"
+        }
+      ]
+    },
+    "mab_flag": {
+      "name": "mab_flag",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Yes",
+          "frac": "1"
+        }
+      ]
+    },
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    }
+  }
+}

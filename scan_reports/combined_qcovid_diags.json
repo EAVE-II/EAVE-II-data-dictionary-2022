@@ -1,0 +1,667 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//combined_qcovid_diags.rds",
+    "finfo": [
+      {
+        "size": 25906632,
+        "mtime": "2021-02-09 12:11:42",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:53:02",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 4803694
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "Q_DIAG_AF": {
+      "name": "Q_DIAG_AF",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.94"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.028"
+        }
+      ]
+    },
+    "Q_DIAG_ASTHMA": {
+      "name": "Q_DIAG_ASTHMA",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.82"
+        },
+        {
+          "value": "1",
+          "frac": "0.15"
+        },
+        {
+          "value": "0",
+          "frac": "0.03"
+        }
+      ]
+    },
+    "Q_DIAG_BLOOD_CANCER": {
+      "name": "Q_DIAG_BLOOD_CANCER",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.034"
+        },
+        {
+          "value": "1",
+          "frac": "0.0057"
+        }
+      ]
+    },
+    "Q_DIAG_CCF": {
+      "name": "Q_DIAG_CCF",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.95"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.013"
+        }
+      ]
+    },
+    "Q_DIAG_CEREBRALPALSY": {
+      "name": "Q_DIAG_CEREBRALPALSY",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.034"
+        },
+        {
+          "value": "1",
+          "frac": "0.0023"
+        }
+      ]
+    },
+    "Q_DIAG_CHD": {
+      "name": "Q_DIAG_CHD",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.92"
+        },
+        {
+          "value": "1",
+          "frac": "0.046"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        }
+      ]
+    },
+    "Q_DIAG_CIRRHOSIS": {
+      "name": "Q_DIAG_CIRRHOSIS",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.034"
+        },
+        {
+          "value": "1",
+          "frac": "0.0052"
+        }
+      ]
+    },
+    "Q_DIAG_CONGEN_HD": {
+      "name": "Q_DIAG_CONGEN_HD",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.95"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.012"
+        }
+      ]
+    },
+    "Q_DIAG_COPD": {
+      "name": "Q_DIAG_COPD",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.94"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.03"
+        }
+      ]
+    },
+    "Q_DIAG_DEMENTIA": {
+      "name": "Q_DIAG_DEMENTIA",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.95"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.012"
+        }
+      ]
+    },
+    "Q_DIAG_DIABETES_1": {
+      "name": "Q_DIAG_DIABETES_1",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.0054"
+        }
+      ]
+    },
+    "Q_DIAG_DIABETES_2": {
+      "name": "Q_DIAG_DIABETES_2",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.91"
+        },
+        {
+          "value": "1",
+          "frac": "0.057"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        }
+      ]
+    },
+    "Q_DIAG_EPILEPSY": {
+      "name": "Q_DIAG_EPILEPSY",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.95"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "Q_DIAG_FRACTURE": {
+      "name": "Q_DIAG_FRACTURE",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.92"
+        },
+        {
+          "value": "1",
+          "frac": "0.046"
+        },
+        {
+          "value": "0",
+          "frac": "0.032"
+        }
+      ]
+    },
+    "Q_DIAG_NEURO": {
+      "name": "Q_DIAG_NEURO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.0047"
+        }
+      ]
+    },
+    "Q_DIAG_PARKINSONS": {
+      "name": "Q_DIAG_PARKINSONS",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.0024"
+        }
+      ]
+    },
+    "Q_DIAG_PULM_HYPER": {
+      "name": "Q_DIAG_PULM_HYPER",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.97"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.0017"
+        }
+      ]
+    },
+    "Q_DIAG_PULM_RARE": {
+      "name": "Q_DIAG_PULM_RARE",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.0047"
+        }
+      ]
+    },
+    "Q_DIAG_PVD": {
+      "name": "Q_DIAG_PVD",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.0089"
+        }
+      ]
+    },
+    "Q_DIAG_RA_SLE": {
+      "name": "Q_DIAG_RA_SLE",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.01"
+        }
+      ]
+    },
+    "Q_DIAG_RESP_CANCER": {
+      "name": "Q_DIAG_RESP_CANCER",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.0025"
+        }
+      ]
+    },
+    "Q_DIAG_SEV_MENT_ILL": {
+      "name": "Q_DIAG_SEV_MENT_ILL",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.85"
+        },
+        {
+          "value": "1",
+          "frac": "0.12"
+        },
+        {
+          "value": "0",
+          "frac": "0.03"
+        }
+      ]
+    },
+    "Q_DIAG_SICKLE_CELL": {
+      "name": "Q_DIAG_SICKLE_CELL",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.97"
+        },
+        {
+          "value": "0",
+          "frac": "0.034"
+        }
+      ]
+    },
+    "Q_DIAG_STROKE": {
+      "name": "Q_DIAG_STROKE",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.94"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.03"
+        }
+      ]
+    },
+    "Q_DIAG_VTE": {
+      "name": "Q_DIAG_VTE",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.95"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "1",
+          "frac": "0.018"
+        }
+      ]
+    },
+    "Q_BMI": {
+      "name": "Q_BMI",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.53"
+        },
+        {
+          "value": "27",
+          "frac": "0.033"
+        },
+        {
+          "value": "25",
+          "frac": "0.033"
+        },
+        {
+          "value": "26",
+          "frac": "0.031"
+        },
+        {
+          "value": "24",
+          "frac": "0.031"
+        }
+      ]
+    },
+    "Q_HOME_CAT": {
+      "name": "Q_HOME_CAT",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0066"
+        }
+      ]
+    },
+    "Q_LEARN_CAT": {
+      "name": "Q_LEARN_CAT",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.98"
+        },
+        {
+          "value": "1",
+          "frac": "0.022"
+        }
+      ]
+    },
+    "Q_ETHNICITY": {
+      "name": "Q_ETHNICITY",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "3",
+          "frac": "0.48"
+        },
+        {
+          "frac": "0.22"
+        },
+        {
+          "value": "1",
+          "frac": "0.19"
+        },
+        {
+          "value": "0",
+          "frac": "0.044"
+        },
+        {
+          "value": "16",
+          "frac": "0.016"
+        }
+      ]
+    },
+    "Q_DIAG_CKD_LEVEL": {
+      "name": "Q_DIAG_CKD_LEVEL",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.94"
+        },
+        {
+          "value": "0",
+          "frac": "0.033"
+        },
+        {
+          "value": "3",
+          "frac": "0.031"
+        },
+        {
+          "value": "4",
+          "frac": "0.0012"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//MABs_2022-06-29.rds",
+    "finfo": [
+      {
+        "size": 61022,
+        "mtime": "2022-06-29 11:20:25",
+        "ctime": "2022-06-29 11:20:25",
+        "atime": "2022-08-15 14:54:46",
+        "uname": "tanjam01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 8391
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "Drug Prescribed": {
+      "name": "Drug Prescribed",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Paxlovid",
+          "frac": "0.31"
+        },
+        {
+          "value": "Sotrovimab",
+          "frac": "0.3"
+        },
+        {
+          "value": "Molnupiravir",
+          "frac": "0.2"
+        },
+        {
+          "value": "Remdesivir",
+          "frac": "0.034"
+        },
+        {
+          "value": "sotrovimab",
+          "frac": "0.032"
+        }
+      ]
+    },
+    "Dosage": {
+      "name": "Dosage",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.17"
+        },
+        {
+          "value": "300mg nirmatrelvir (two 150 mg tablets) with 100 mg ritonavir (one 100 mg tablet) PO BD for 5 days",
+          "frac": "0.14"
+        },
+        {
+          "value": "500mg I/V Infusion",
+          "frac": "0.11"
+        },
+        {
+          "value": "500mg",
+          "frac": "0.06"
+        },
+        {
+          "value": "800 mg PO every 12 hours for 5 days.",
+          "frac": "0.058"
+        }
+      ]
+    },
+    "Prescribed Date": {
+      "name": "Prescribed Date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2022-03-24",
+          "frac": "0.017"
+        },
+        {
+          "value": "2022-03-17",
+          "frac": "0.017"
+        },
+        {
+          "value": "2022-03-10",
+          "frac": "0.015"
+        },
+        {
+          "value": "2022-03-16",
+          "frac": "0.015"
+        },
+        {
+          "value": "2022-03-21",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "Healthcare Setting": {
+      "name": "Healthcare Setting",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "3",
+          "frac": "0.66"
+        },
+        {
+          "value": "Group 3 - Non-hospitalised COVID-19 patients",
+          "frac": "0.19"
+        },
+        {
+          "value": "2",
+          "frac": "0.076"
+        },
+        {
+          "frac": "0.026"
+        },
+        {
+          "value": "Not Known",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "HealthBoard": {
+      "name": "HealthBoard",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Greater Glasgow and Clyde",
+          "frac": "0.32"
+        },
+        {
+          "value": "Lothian",
+          "frac": "0.19"
+        },
+        {
+          "value": "Tayside",
+          "frac": "0.099"
+        },
+        {
+          "value": "Grampian",
+          "frac": "0.081"
+        },
+        {
+          "value": "Fife",
+          "frac": "0.078"
+        }
+      ]
+    }
+  }
+}

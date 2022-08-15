@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//serology_weights_EAVE_comorbs.rds",
+    "finfo": [
+      {
+        "size": 249746,
+        "mtime": "2021-09-29 12:28:20",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:56:05",
+        "uname": "ellioh01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 37098
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "Age": {
+      "name": "Age",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 104,
+      "values": [
+        {
+          "value": "19",
+          "frac": "0.037"
+        },
+        {
+          "value": "18",
+          "frac": "0.029"
+        },
+        {
+          "value": "16",
+          "frac": "0.028"
+        },
+        {
+          "value": "17",
+          "frac": "0.028"
+        },
+        {
+          "value": "15",
+          "frac": "0.026"
+        }
+      ]
+    },
+    "Sex": {
+      "name": "Sex",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "F",
+          "frac": "0.5"
+        },
+        {
+          "value": "M",
+          "frac": "0.5"
+        }
+      ]
+    },
+    "Pop_Weight": {
+      "name": "Pop_Weight",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0.5513,
+      "max": 1.2572,
+      "values": [
+        {
+          "value": "1.25721627920875",
+          "frac": "0.45"
+        },
+        {
+          "value": "0.868719362745098",
+          "frac": "0.18"
+        },
+        {
+          "value": "0.809892057354599",
+          "frac": "0.17"
+        },
+        {
+          "value": "0.642001261299138",
+          "frac": "0.12"
+        },
+        {
+          "value": "1",
+          "frac": "0.044"
+        }
+      ]
+    }
+  }
+}

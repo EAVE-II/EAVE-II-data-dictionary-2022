@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//SICSAG_daily_data_.rds",
+    "finfo": [
+      {
+        "size": 2875621,
+        "mtime": "2022-08-09 10:27:20",
+        "ctime": "2022-08-09 10:27:56",
+        "atime": "2022-08-15 14:56:06",
+        "uname": "michab06",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 605516
+  },
+  "columns": {
+    "id": {
+      "name": "id",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 3,
+      "max": 137902,
+      "values": [
+        {
+          "value": "59670",
+          "frac": "1"
+        }
+      ]
+    },
+    "ACPDate": {
+      "name": "ACPDate",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2022-07-22",
+          "frac": "0.0066"
+        },
+        {
+          "value": "2019-11-14",
+          "frac": "0.0063"
+        },
+        {
+          "value": "2021-01-31",
+          "frac": "0.0063"
+        },
+        {
+          "value": "2021-07-16",
+          "frac": "0.0063"
+        },
+        {
+          "value": "2019-08-28",
+          "frac": "0.0059"
+        }
+      ]
+    },
+    "HFNO": {
+      "name": "HFNO",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.9"
+        },
+        {
+          "value": "1",
+          "frac": "0.096"
+        }
+      ]
+    },
+    "Suspected_HAI": {
+      "name": "Suspected_HAI",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.98"
+        },
+        {
+          "value": "1",
+          "frac": "0.023"
+        }
+      ]
+    },
+    "HAI_Status": {
+      "name": "HAI_Status",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "",
+          "frac": "0.98"
+        },
+        {
+          "value": "No infecti",
+          "frac": "0.02"
+        },
+        {
+          "value": "Unresolved",
+          "frac": "0.0023"
+        },
+        {
+          "value": "Confirmed",
+          "frac": "0.0013"
+        }
+      ]
+    },
+    "Advanced_Ventilation_derived": {
+      "name": "Advanced_Ventilation_derived",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.76"
+        },
+        {
+          "value": "1",
+          "frac": "0.24"
+        }
+      ]
+    },
+    "Non_Invasive_Ventilation": {
+      "name": "Non_Invasive_Ventilation",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.89"
+        },
+        {
+          "value": "1",
+          "frac": "0.11"
+        }
+      ]
+    },
+    "no": {
+      "name": "no",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": 1,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "1"
+        }
+      ]
+    }
+  }
+}

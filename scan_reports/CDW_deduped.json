@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//CDW_deduped.rds",
+    "finfo": [
+      {
+        "size": 145458644,
+        "mtime": "2022-08-15 05:50:41",
+        "ctime": "2022-08-15 05:50:41",
+        "atime": "2022-08-15 14:31:06",
+        "uname": "safras01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 3953858
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "test_id": {
+      "name": "test_id",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "age": {
+      "name": "age",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 102,
+      "values": [
+        {
+          "value": "29",
+          "frac": "0.017"
+        },
+        {
+          "value": "33",
+          "frac": "0.017"
+        },
+        {
+          "value": "35",
+          "frac": "0.017"
+        },
+        {
+          "value": "34",
+          "frac": "0.016"
+        },
+        {
+          "value": "24",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "sex": {
+      "name": "sex",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Female",
+          "frac": "0.52"
+        },
+        {
+          "value": "Male",
+          "frac": "0.48"
+        }
+      ]
+    },
+    "HB_residence": {
+      "name": "HB_residence",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS GREATER GLASGOW & CLYDE",
+          "frac": "0.22"
+        },
+        {
+          "value": "NHS LOTHIAN",
+          "frac": "0.17"
+        },
+        {
+          "value": "NHS LANARKSHIRE",
+          "frac": "0.13"
+        },
+        {
+          "value": "NHS GRAMPIAN",
+          "frac": "0.1"
+        },
+        {
+          "value": "NHS TAYSIDE",
+          "frac": "0.076"
+        }
+      ]
+    },
+    "SpecimenDate": {
+      "name": "SpecimenDate",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2020-05-26",
+          "frac": "1"
+        }
+      ]
+    },
+    "reporting_health_board": {
+      "name": "reporting_health_board",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS GREATER GLASGOW & CLYDE",
+          "frac": "0.22"
+        },
+        {
+          "value": "NHS LOTHIAN",
+          "frac": "0.17"
+        },
+        {
+          "value": "NHS LANARKSHIRE",
+          "frac": "0.13"
+        },
+        {
+          "value": "NHS GRAMPIAN",
+          "frac": "0.1"
+        },
+        {
+          "value": "NHS TAYSIDE",
+          "frac": "0.076"
+        }
+      ]
+    },
+    "submitting_lab": {
+      "name": "submitting_lab",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NON-ECOSS",
+          "frac": "0.79"
+        },
+        {
+          "value": "GLA:REV",
+          "frac": "0.049"
+        },
+        {
+          "value": "EDI:RVL",
+          "frac": "0.03"
+        },
+        {
+          "value": "ABD:GHB",
+          "frac": "0.023"
+        },
+        {
+          "value": "DEE:UNI",
+          "frac": "0.019"
+        }
+      ]
+    },
+    "lab_code": {
+      "name": "lab_code",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "GLS",
+          "frac": "0.73"
+        },
+        {
+          "frac": "0.065"
+        },
+        {
+          "value": "AYR:ARL",
+          "frac": "0.014"
+        },
+        {
+          "value": "NC",
+          "frac": "0.013"
+        },
+        {
+          "value": "REG:WST",
+          "frac": "0.013"
+        }
+      ]
+    },
+    "lab_name": {
+      "name": "lab_name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Glasgow",
+          "frac": "0.73"
+        },
+        {
+          "frac": "0.088"
+        },
+        {
+          "value": "Crosshouse Hospital, Kilmarnock",
+          "frac": "0.014"
+        },
+        {
+          "value": "Newcastle",
+          "frac": "0.013"
+        },
+        {
+          "value": "Regional Virus Laboratory, Glasgow",
+          "frac": "0.012"
+        }
+      ]
+    },
+    "test_result_record_source": {
+      "name": "test_result_record_source",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS DIGITAL",
+          "frac": "0.76"
+        },
+        {
+          "value": "ECOSS",
+          "frac": "0.21"
+        },
+        {
+          "value": "SGSS",
+          "frac": "0.023"
+        },
+        {
+          "value": "SCOT",
+          "frac": "0.0054"
+        },
+        {
+          "value": "ONS",
+          "frac": "0.0019"
+        }
+      ]
+    },
+    "flag_lighthouse_labs_testing": {
+      "name": "flag_lighthouse_labs_testing",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.76"
+        },
+        {
+          "value": "0",
+          "frac": "0.24"
+        }
+      ]
+    },
+    "flag_deduplicated_cases": {
+      "name": "flag_deduplicated_cases",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "1"
+        }
+      ]
+    },
+    "NCOV_RESULT": {
+      "name": "NCOV_RESULT",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NEGATIVE",
+          "frac": "0.62"
+        },
+        {
+          "value": "POSITIVE",
+          "frac": "0.38"
+        }
+      ]
+    },
+    "NRS.Date.Death": {
+      "name": "NRS.Date.Death",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "NRS.Reg.Date": {
+      "name": "NRS.Reg.Date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "death28": {
+      "name": "death28",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0097"
+        }
+      ]
+    },
+    "pc8": {
+      "name": "pc8",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "simd2020v2_sc_quintile": {
+      "name": "simd2020v2_sc_quintile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "4",
+          "frac": "0.21"
+        },
+        {
+          "value": "5",
+          "frac": "0.2"
+        },
+        {
+          "value": "1",
+          "frac": "0.2"
+        },
+        {
+          "value": "2",
+          "frac": "0.2"
+        },
+        {
+          "value": "3",
+          "frac": "0.19"
+        }
+      ]
+    },
+    "datazone2011": {
+      "name": "datazone2011",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.26"
+        },
+        {
+          "value": "S01008908",
+          "frac": "0.2"
+        },
+        {
+          "value": "S01006788",
+          "frac": "0.18"
+        },
+        {
+          "value": "S01007929",
+          "frac": "0.18"
+        },
+        {
+          "value": "S01012182",
+          "frac": "0.18"
+        }
+      ]
+    },
+    "ur6_2016": {
+      "name": "ur6_2016",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "2",
+          "frac": "0.36"
+        },
+        {
+          "value": "1",
+          "frac": "0.35"
+        },
+        {
+          "value": "5",
+          "frac": "0.12"
+        },
+        {
+          "value": "3",
+          "frac": "0.086"
+        },
+        {
+          "value": "6",
+          "frac": "0.046"
+        }
+      ]
+    },
+    "result": {
+      "name": "result",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.62"
+        },
+        {
+          "value": "1",
+          "frac": "0.38"
+        }
+      ]
+    }
+  }
+}

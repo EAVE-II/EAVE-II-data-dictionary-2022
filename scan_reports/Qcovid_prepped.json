@@ -1,0 +1,1642 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data/cleaned_data//Qcovid_prepped.rds",
+    "finfo": [
+      {
+        "size": 87995512,
+        "mtime": "2020-12-10 09:58:00",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 15:27:00",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 4806874
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "SpecimenDate": {
+      "name": "SpecimenDate",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        },
+        {
+          "value": "2020-05-11",
+          "frac": "0.0013"
+        },
+        {
+          "value": "2020-05-21",
+          "frac": "0.0013"
+        },
+        {
+          "value": "2020-05-25",
+          "frac": "0.0013"
+        }
+      ]
+    },
+    "result": {
+      "name": "result",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.98"
+        },
+        {
+          "frac": "0.018"
+        },
+        {
+          "value": "1",
+          "frac": "0.0036"
+        }
+      ]
+    },
+    "death28": {
+      "name": "death28",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "0",
+          "frac": "0.043"
+        },
+        {
+          "value": "1",
+          "frac": "0.0016"
+        }
+      ]
+    },
+    "NRS.Date.Death": {
+      "name": "NRS.Date.Death",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "NRS.Reg.Date": {
+      "name": "NRS.Reg.Date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "death_covid": {
+      "name": "death_covid",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.98"
+        },
+        {
+          "frac": "0.018"
+        }
+      ]
+    },
+    "DATE_OF_DEATH": {
+      "name": "DATE_OF_DEATH",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "icu_death": {
+      "name": "icu_death",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.98"
+        },
+        {
+          "frac": "0.018"
+        }
+      ]
+    },
+    "date_icu_death": {
+      "name": "date_icu_death",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "hosp_covid": {
+      "name": "hosp_covid",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.98"
+        },
+        {
+          "frac": "0.018"
+        }
+      ]
+    },
+    "date_hosp_covid": {
+      "name": "date_hosp_covid",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "tested": {
+      "name": "tested",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.94"
+        },
+        {
+          "value": "1",
+          "frac": "0.045"
+        },
+        {
+          "frac": "0.018"
+        }
+      ]
+    },
+    "Time.To.Test": {
+      "name": "Time.To.Test",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "114",
+          "frac": "0.98"
+        },
+        {
+          "frac": "0.019"
+        },
+        {
+          "value": "71",
+          "frac": "0.0013"
+        },
+        {
+          "value": "81",
+          "frac": "0.0013"
+        },
+        {
+          "value": "85",
+          "frac": "0.0013"
+        }
+      ]
+    },
+    "Time.To.Death": {
+      "name": "Time.To.Death",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "103",
+          "frac": "0.98"
+        },
+        {
+          "frac": "0.018"
+        }
+      ]
+    },
+    "Time.To.ICU.Death": {
+      "name": "Time.To.ICU.Death",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "103",
+          "frac": "0.98"
+        },
+        {
+          "frac": "0.018"
+        }
+      ]
+    },
+    "Time.To.Hosp": {
+      "name": "Time.To.Hosp",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "103",
+          "frac": "0.98"
+        },
+        {
+          "frac": "0.018"
+        }
+      ]
+    },
+    "Sex": {
+      "name": "Sex",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "M",
+          "frac": "0.5"
+        },
+        {
+          "value": "F",
+          "frac": "0.5"
+        }
+      ]
+    },
+    "DeductionDate": {
+      "name": "DeductionDate",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "Age": {
+      "name": "Age",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 19,
+      "max": 107,
+      "values": [
+        {
+          "value": "35",
+          "frac": "0.019"
+        },
+        {
+          "value": "30",
+          "frac": "0.019"
+        },
+        {
+          "value": "51",
+          "frac": "0.019"
+        },
+        {
+          "value": "49",
+          "frac": "0.019"
+        },
+        {
+          "value": "56",
+          "frac": "0.019"
+        }
+      ]
+    },
+    "Q_BMI": {
+      "name": "Q_BMI",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.6"
+        },
+        {
+          "value": "1",
+          "frac": "0.4"
+        }
+      ]
+    },
+    "Q_DIAG_AF": {
+      "name": "Q_DIAG_AF",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.98"
+        },
+        {
+          "value": "1",
+          "frac": "0.024"
+        }
+      ]
+    },
+    "Q_DIAG_ASTHMA": {
+      "name": "Q_DIAG_ASTHMA",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.89"
+        },
+        {
+          "value": "1",
+          "frac": "0.11"
+        }
+      ]
+    },
+    "Q_DIAG_BLOOD_CANCER": {
+      "name": "Q_DIAG_BLOOD_CANCER",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0048"
+        }
+      ]
+    },
+    "Q_DIAG_CCF": {
+      "name": "Q_DIAG_CCF",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0098"
+        }
+      ]
+    },
+    "Q_DIAG_CEREBRALPALSY": {
+      "name": "Q_DIAG_CEREBRALPALSY",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "Q_DIAG_CHD": {
+      "name": "Q_DIAG_CHD",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.96"
+        },
+        {
+          "value": "1",
+          "frac": "0.038"
+        }
+      ]
+    },
+    "Q_DIAG_CIRRHOSIS": {
+      "name": "Q_DIAG_CIRRHOSIS",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0045"
+        }
+      ]
+    },
+    "Q_DIAG_CKD3": {
+      "name": "Q_DIAG_CKD3",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.97"
+        },
+        {
+          "value": "1",
+          "frac": "0.029"
+        }
+      ]
+    },
+    "Q_DIAG_CKD4": {
+      "name": "Q_DIAG_CKD4",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0013"
+        }
+      ]
+    },
+    "Q_DIAG_CKD5": {
+      "name": "Q_DIAG_CKD5",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "Q_DIAG_CONGEN_HD": {
+      "name": "Q_DIAG_CONGEN_HD",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.007"
+        }
+      ]
+    },
+    "Q_DIAG_COPD": {
+      "name": "Q_DIAG_COPD",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.97"
+        },
+        {
+          "value": "1",
+          "frac": "0.026"
+        }
+      ]
+    },
+    "Q_DIAG_DEMENTIA": {
+      "name": "Q_DIAG_DEMENTIA",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0076"
+        }
+      ]
+    },
+    "Q_DIAG_DIABETES_1": {
+      "name": "Q_DIAG_DIABETES_1",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0045"
+        }
+      ]
+    },
+    "Q_DIAG_DIABETES_2": {
+      "name": "Q_DIAG_DIABETES_2",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.95"
+        },
+        {
+          "value": "1",
+          "frac": "0.049"
+        }
+      ]
+    },
+    "Q_DIAG_EPILEPSY": {
+      "name": "Q_DIAG_EPILEPSY",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "Q_DIAG_FRACTURE": {
+      "name": "Q_DIAG_FRACTURE",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.96"
+        },
+        {
+          "value": "1",
+          "frac": "0.04"
+        }
+      ]
+    },
+    "Q_DIAG_NEURO": {
+      "name": "Q_DIAG_NEURO",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0045"
+        }
+      ]
+    },
+    "Q_DIAG_PARKINSONS": {
+      "name": "Q_DIAG_PARKINSONS",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0019"
+        }
+      ]
+    },
+    "Q_DIAG_PULM_HYPER": {
+      "name": "Q_DIAG_PULM_HYPER",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0017"
+        }
+      ]
+    },
+    "Q_DIAG_PULM_RARE": {
+      "name": "Q_DIAG_PULM_RARE",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0048"
+        }
+      ]
+    },
+    "Q_DIAG_PVD": {
+      "name": "Q_DIAG_PVD",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.009"
+        }
+      ]
+    },
+    "Q_DIAG_RA_SLE": {
+      "name": "Q_DIAG_RA_SLE",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0088"
+        }
+      ]
+    },
+    "Q_DIAG_RESP_CANCER": {
+      "name": "Q_DIAG_RESP_CANCER",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0021"
+        }
+      ]
+    },
+    "Q_DIAG_SEV_MENT_ILL": {
+      "name": "Q_DIAG_SEV_MENT_ILL",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.89"
+        },
+        {
+          "value": "1",
+          "frac": "0.11"
+        }
+      ]
+    },
+    "Q_DIAG_SICKLE_CELL": {
+      "name": "Q_DIAG_SICKLE_CELL",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0011"
+        }
+      ]
+    },
+    "Q_DIAG_STROKE": {
+      "name": "Q_DIAG_STROKE",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.98"
+        },
+        {
+          "value": "1",
+          "frac": "0.025"
+        }
+      ]
+    },
+    "Q_DIAG_VTE": {
+      "name": "Q_DIAG_VTE",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.014"
+        }
+      ]
+    },
+    "Q_ETHNICITY_0": {
+      "name": "Q_ETHNICITY_0",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.014"
+        }
+      ]
+    },
+    "Q_ETHNICITY_1": {
+      "name": "Q_ETHNICITY_1",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.85"
+        },
+        {
+          "value": "1",
+          "frac": "0.15"
+        }
+      ]
+    },
+    "Q_ETHNICITY_10": {
+      "name": "Q_ETHNICITY_10",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "Q_ETHNICITY_11": {
+      "name": "Q_ETHNICITY_11",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0033"
+        }
+      ]
+    },
+    "Q_ETHNICITY_12": {
+      "name": "Q_ETHNICITY_12",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "Q_ETHNICITY_13": {
+      "name": "Q_ETHNICITY_13",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0053"
+        }
+      ]
+    },
+    "Q_ETHNICITY_14": {
+      "name": "Q_ETHNICITY_14",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "Q_ETHNICITY_15": {
+      "name": "Q_ETHNICITY_15",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.006"
+        }
+      ]
+    },
+    "Q_ETHNICITY_16": {
+      "name": "Q_ETHNICITY_16",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.009"
+        }
+      ]
+    },
+    "Q_ETHNICITY_2": {
+      "name": "Q_ETHNICITY_2",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0044"
+        }
+      ]
+    },
+    "Q_ETHNICITY_3": {
+      "name": "Q_ETHNICITY_3",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.66"
+        },
+        {
+          "value": "1",
+          "frac": "0.34"
+        }
+      ]
+    },
+    "Q_ETHNICITY_4": {
+      "name": "Q_ETHNICITY_4",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 0,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "Q_ETHNICITY_5": {
+      "name": "Q_ETHNICITY_5",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "Q_ETHNICITY_6": {
+      "name": "Q_ETHNICITY_6",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        }
+      ]
+    },
+    "Q_ETHNICITY_7": {
+      "name": "Q_ETHNICITY_7",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.0037"
+        }
+      ]
+    },
+    "Q_ETHNICITY_8": {
+      "name": "Q_ETHNICITY_8",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0065"
+        }
+      ]
+    },
+    "Q_ETHNICITY_9": {
+      "name": "Q_ETHNICITY_9",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0069"
+        }
+      ]
+    },
+    "Q_HOME_CAT": {
+      "name": "Q_HOME_CAT",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0058"
+        }
+      ]
+    },
+    "Q_LEARN_CAT": {
+      "name": "Q_LEARN_CAT",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.98"
+        },
+        {
+          "value": "1",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "Q_RX_IMMUNO": {
+      "name": "Q_RX_IMMUNO",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.0061"
+        }
+      ]
+    },
+    "Q_RX_LABA": {
+      "name": "Q_RX_LABA",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "Q_RX_PRED": {
+      "name": "Q_RX_PRED",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "1"
+        },
+        {
+          "value": "1",
+          "frac": "0.005"
+        }
+      ]
+    },
+    "SG_ASTRX_COD": {
+      "name": "SG_ASTRX_COD",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.93"
+        },
+        {
+          "value": "1",
+          "frac": "0.074"
+        }
+      ]
+    },
+    "SG_IMMRX_COD": {
+      "name": "SG_IMMRX_COD",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.99"
+        },
+        {
+          "value": "1",
+          "frac": "0.011"
+        }
+      ]
+    },
+    "valid_chi": {
+      "name": "valid_chi",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Valid CHI",
+          "frac": "0.74"
+        },
+        {
+          "frac": "0.26"
+        }
+      ]
+    },
+    "any_ethnicity": {
+      "name": "any_ethnicity",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.53"
+        },
+        {
+          "value": "0",
+          "frac": "0.47"
+        }
+      ]
+    },
+    "datazone2011": {
+      "name": "datazone2011",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.65"
+        },
+        {
+          "value": "S01010286",
+          "frac": "0.14"
+        },
+        {
+          "value": "S01007691",
+          "frac": "0.1"
+        },
+        {
+          "value": "S01010260",
+          "frac": "0.1"
+        }
+      ]
+    },
+    "any_comorb": {
+      "name": "any_comorb",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 12,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.29"
+        },
+        {
+          "value": "0",
+          "frac": "0.26"
+        },
+        {
+          "value": "2",
+          "frac": "0.22"
+        },
+        {
+          "value": "3",
+          "frac": "0.11"
+        },
+        {
+          "value": "4",
+          "frac": "0.06"
+        }
+      ]
+    },
+    "any_other": {
+      "name": "any_other",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.63"
+        },
+        {
+          "frac": "0.26"
+        },
+        {
+          "value": "1",
+          "frac": "0.081"
+        },
+        {
+          "value": "2",
+          "frac": "0.021"
+        },
+        {
+          "value": "3",
+          "frac": "0.0024"
+        }
+      ]
+    },
+    "eave_weight": {
+      "name": "eave_weight",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0.6943,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.1"
+        },
+        {
+          "value": "0.8609",
+          "frac": "0.013"
+        },
+        {
+          "value": "0.9115",
+          "frac": "0.012"
+        },
+        {
+          "value": "0.8052",
+          "frac": "0.01"
+        },
+        {
+          "value": "0.8157",
+          "frac": "0.01"
+        }
+      ]
+    },
+    "CKD_level": {
+      "name": "CKD_level",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "No CKD",
+          "frac": "0.97"
+        },
+        {
+          "value": "CKD 3",
+          "frac": "0.029"
+        },
+        {
+          "value": "CKD 4",
+          "frac": "0.0013"
+        }
+      ]
+    },
+    "ethnic_grp": {
+      "name": "ethnic_grp",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "White",
+          "frac": "0.49"
+        },
+        {
+          "value": "Not recorded",
+          "frac": "0.47"
+        },
+        {
+          "value": "Other",
+          "frac": "0.013"
+        },
+        {
+          "value": "Pakistani",
+          "frac": "0.0069"
+        },
+        {
+          "value": "Indian",
+          "frac": "0.0065"
+        }
+      ]
+    },
+    "agegrp": {
+      "name": "agegrp",
+      "label": "",
+      "description": "",
+      "type": "fct",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "19-29",
+          "frac": "0.18"
+        },
+        {
+          "value": "30-39",
+          "frac": "0.18"
+        },
+        {
+          "value": "50-59",
+          "frac": "0.17"
+        },
+        {
+          "value": "40-49",
+          "frac": "0.16"
+        },
+        {
+          "value": "60-69",
+          "frac": "0.15"
+        }
+      ]
+    },
+    "hb2019name": {
+      "name": "hb2019name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS Greater Glasgow and Clyde",
+          "frac": "0.23"
+        },
+        {
+          "value": "NHS Lothian",
+          "frac": "0.17"
+        },
+        {
+          "value": "NHS Lanarkshire",
+          "frac": "0.12"
+        },
+        {
+          "value": "NHS Grampian",
+          "frac": "0.11"
+        },
+        {
+          "value": "NHS Tayside",
+          "frac": "0.074"
+        }
+      ]
+    },
+    "SIMDrank": {
+      "name": "SIMDrank",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "frac": "0.65"
+        },
+        {
+          "value": "6347",
+          "frac": "0.14"
+        },
+        {
+          "value": "3550",
+          "frac": "0.1"
+        },
+        {
+          "value": "3886",
+          "frac": "0.1"
+        }
+      ]
+    },
+    "SIMD10": {
+      "name": "SIMD10",
+      "label": "",
+      "description": "",
+      "type": "ord",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.11"
+        },
+        {
+          "value": "3",
+          "frac": "0.1"
+        },
+        {
+          "value": "10",
+          "frac": "0.1"
+        },
+        {
+          "value": "2",
+          "frac": "0.1"
+        },
+        {
+          "value": "5",
+          "frac": "0.1"
+        }
+      ]
+    },
+    "SIMD5": {
+      "name": "SIMD5",
+      "label": "",
+      "description": "",
+      "type": "ord",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.21"
+        },
+        {
+          "value": "5",
+          "frac": "0.2"
+        },
+        {
+          "value": "3",
+          "frac": "0.2"
+        },
+        {
+          "value": "2",
+          "frac": "0.19"
+        },
+        {
+          "value": "4",
+          "frac": "0.19"
+        }
+      ]
+    }
+  }
+}

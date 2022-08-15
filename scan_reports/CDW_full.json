@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//CDW_full.rds",
+    "finfo": [
+      {
+        "size": 462120324,
+        "mtime": "2022-08-15 06:20:13",
+        "ctime": "2022-08-15 06:20:13",
+        "atime": "2022-08-15 11:59:16",
+        "uname": "safras01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 16741721
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "test_id": {
+      "name": "test_id",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "age": {
+      "name": "age",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 107,
+      "values": [
+        {
+          "value": "51",
+          "frac": "0.02"
+        },
+        {
+          "value": "56",
+          "frac": "0.019"
+        },
+        {
+          "value": "54",
+          "frac": "0.019"
+        },
+        {
+          "value": "34",
+          "frac": "0.018"
+        },
+        {
+          "value": "55",
+          "frac": "0.018"
+        }
+      ]
+    },
+    "subject_sex": {
+      "name": "subject_sex",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Female",
+          "frac": "0.63"
+        },
+        {
+          "value": "Male",
+          "frac": "0.37"
+        }
+      ]
+    },
+    "date_ecoss_specimen": {
+      "name": "date_ecoss_specimen",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2021-12-01",
+          "frac": "0.15"
+        },
+        {
+          "value": "2021-01-12",
+          "frac": "0.13"
+        },
+        {
+          "value": "2021-01-26",
+          "frac": "0.13"
+        },
+        {
+          "value": "2020-10-12",
+          "frac": "0.12"
+        },
+        {
+          "value": "2021-01-06",
+          "frac": "0.12"
+        }
+      ]
+    },
+    "HB_residence": {
+      "name": "HB_residence",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS GREATER GLASGOW & CLYDE",
+          "frac": "0.24"
+        },
+        {
+          "value": "NHS LOTHIAN",
+          "frac": "0.16"
+        },
+        {
+          "value": "NHS LANARKSHIRE",
+          "frac": "0.13"
+        },
+        {
+          "value": "NHS GRAMPIAN",
+          "frac": "0.097"
+        },
+        {
+          "value": "NHS TAYSIDE",
+          "frac": "0.073"
+        }
+      ]
+    },
+    "ecoss_organism": {
+      "name": "ecoss_organism",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.7"
+        },
+        {
+          "value": "Coronavirus",
+          "frac": "0.3"
+        }
+      ]
+    },
+    "care_home_role": {
+      "name": "care_home_role",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.97"
+        },
+        {
+          "value": "staff",
+          "frac": "0.027"
+        }
+      ]
+    },
+    "care_home_sub_type": {
+      "name": "care_home_sub_type",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.79"
+        },
+        {
+          "value": "Older People",
+          "frac": "0.16"
+        },
+        {
+          "value": "Care at Home",
+          "frac": "0.02"
+        },
+        {
+          "value": "Learning Disabilities",
+          "frac": "0.014"
+        },
+        {
+          "value": "Physical and Sensory Impairment",
+          "frac": "0.0046"
+        }
+      ]
+    },
+    "date_onset_of_symptoms": {
+      "name": "date_onset_of_symptoms",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.96"
+        },
+        {
+          "value": "2021-12-26",
+          "frac": "0.0026"
+        },
+        {
+          "value": "2021-12-14",
+          "frac": "0.002"
+        },
+        {
+          "value": "2021-12-31",
+          "frac": "0.002"
+        },
+        {
+          "value": "2022-01-01",
+          "frac": "0.0019"
+        }
+      ]
+    },
+    "flag_covid_symptomatic": {
+      "name": "flag_covid_symptomatic",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "false",
+          "frac": "0.43"
+        },
+        {
+          "frac": "0.34"
+        },
+        {
+          "value": "true",
+          "frac": "0.23"
+        }
+      ]
+    },
+    "lh_testing_location": {
+      "name": "lh_testing_location",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.42"
+        },
+        {
+          "value": "Care Home",
+          "frac": "0.2"
+        },
+        {
+          "value": "MTU",
+          "frac": "0.15"
+        },
+        {
+          "value": "LTS",
+          "frac": "0.1"
+        },
+        {
+          "value": "RTS",
+          "frac": "0.088"
+        }
+      ]
+    },
+    "ecoss_submitting_laboratory": {
+      "name": "ecoss_submitting_laboratory",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NON-ECOSS",
+          "frac": "0.7"
+        },
+        {
+          "value": "GLA:REV",
+          "frac": "0.094"
+        },
+        {
+          "value": "EDI:RVL",
+          "frac": "0.05"
+        },
+        {
+          "value": "ABD:GHB",
+          "frac": "0.031"
+        },
+        {
+          "value": "LAN:LAW",
+          "frac": "0.024"
+        }
+      ]
+    },
+    "test_result_record_source": {
+      "name": "test_result_record_source",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS DIGITAL",
+          "frac": "0.54"
+        },
+        {
+          "value": "ECOSS",
+          "frac": "0.3"
+        },
+        {
+          "value": "SCOT",
+          "frac": "0.14"
+        },
+        {
+          "value": "SGSS",
+          "frac": "0.025"
+        },
+        {
+          "value": "ONS",
+          "frac": "0.0013"
+        }
+      ]
+    },
+    "laboratory_code": {
+      "name": "laboratory_code",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "GLS",
+          "frac": "0.52"
+        },
+        {
+          "frac": "0.073"
+        },
+        {
+          "value": "WESTRH",
+          "frac": "0.071"
+        },
+        {
+          "value": "REG:WST",
+          "frac": "0.046"
+        },
+        {
+          "value": "NORTHRH",
+          "frac": "0.036"
+        }
+      ]
+    },
+    "laboratory_name": {
+      "name": "laboratory_name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Glasgow",
+          "frac": "0.52"
+        },
+        {
+          "frac": "0.15"
+        },
+        {
+          "value": "West Regional Hub",
+          "frac": "0.071"
+        },
+        {
+          "value": "North Regional Hub",
+          "frac": "0.036"
+        },
+        {
+          "value": "East Regional Hub",
+          "frac": "0.033"
+        }
+      ]
+    },
+    "flag_lighthouse_labs_testing": {
+      "name": "flag_lighthouse_labs_testing",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.54"
+        },
+        {
+          "value": "0",
+          "frac": "0.46"
+        }
+      ]
+    },
+    "flag_deduplicated_cases": {
+      "name": "flag_deduplicated_cases",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 1,
+      "values": [
+        {
+          "value": "0",
+          "frac": "0.77"
+        },
+        {
+          "value": "1",
+          "frac": "0.23"
+        }
+      ]
+    },
+    "test_result": {
+      "name": "test_result",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NEGATIVE",
+          "frac": "0.9"
+        },
+        {
+          "value": "POSITIVE",
+          "frac": "0.1"
+        }
+      ]
+    },
+    "simd2020v2_sc_quintile": {
+      "name": "simd2020v2_sc_quintile",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.22"
+        },
+        {
+          "value": "2",
+          "frac": "0.22"
+        },
+        {
+          "value": "3",
+          "frac": "0.19"
+        },
+        {
+          "value": "4",
+          "frac": "0.19"
+        },
+        {
+          "value": "5",
+          "frac": "0.17"
+        }
+      ]
+    },
+    "datazone2011": {
+      "name": "datazone2011",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.8"
+        },
+        {
+          "value": "S01008284",
+          "frac": "0.099"
+        },
+        {
+          "value": "S01008549",
+          "frac": "0.099"
+        }
+      ]
+    },
+    "ur6_2016": {
+      "name": "ur6_2016",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.36"
+        },
+        {
+          "value": "2",
+          "frac": "0.36"
+        },
+        {
+          "value": "5",
+          "frac": "0.11"
+        },
+        {
+          "value": "3",
+          "frac": "0.082"
+        },
+        {
+          "value": "6",
+          "frac": "0.044"
+        }
+      ]
+    }
+  }
+}

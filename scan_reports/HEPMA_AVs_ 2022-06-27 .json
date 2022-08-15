@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//HEPMA_AVs_ 2022-06-27 .rds",
+    "finfo": [
+      {
+        "size": 20404,
+        "mtime": "2022-06-27 12:46:17",
+        "ctime": "2022-06-27 12:46:17",
+        "atime": "2022-08-15 14:54:13",
+        "uname": "tanjam01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 2370
+  },
+  "columns": {
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "ods_code_derived": {
+      "name": "ods_code_derived",
+      "label": "",
+      "description": "",
+      "type": "fct",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "G405H",
+          "frac": "0.54"
+        },
+        {
+          "value": "L308H",
+          "frac": "0.14"
+        },
+        {
+          "frac": "0.12"
+        },
+        {
+          "value": "Y146H",
+          "frac": "0.11"
+        },
+        {
+          "value": "A210H",
+          "frac": "0.045"
+        }
+      ]
+    },
+    "pr_item": {
+      "name": "pr_item",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "PF-07321332 Nirmatrelvir (Paxlovid - PINK) 150 mg Tablets",
+          "frac": "0.52"
+        },
+        {
+          "value": ".NIRMATRELVIR (PF-07321332) 150mg Tablets",
+          "frac": "0.14"
+        },
+        {
+          "frac": "0.12"
+        },
+        {
+          "value": "PF-07321332 (NIRMATRELVIR) 150mg Tablets",
+          "frac": "0.084"
+        },
+        {
+          "value": "PF-07321332 (NIRMATRELVIR) 150mg Tablets (part of PAXLOVID)",
+          "frac": "0.034"
+        }
+      ]
+    },
+    "prescr_date": {
+      "name": "prescr_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.13"
+        },
+        {
+          "value": "2022-03-17",
+          "frac": "0.041"
+        },
+        {
+          "value": "2022-03-16",
+          "frac": "0.037"
+        },
+        {
+          "value": "2022-03-30",
+          "frac": "0.037"
+        },
+        {
+          "value": "2022-03-24",
+          "frac": "0.033"
+        }
+      ]
+    },
+    "ad_item": {
+      "name": "ad_item",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "PF-07321332 Nirmatrelvir (Paxlovid - PINK) 150 mg Tablets",
+          "frac": "0.5"
+        },
+        {
+          "frac": "0.16"
+        },
+        {
+          "value": "PF-07321332 Nirmatrelvir (Paxlovid) 150 mg tablets",
+          "frac": "0.12"
+        },
+        {
+          "value": ".NIRMATRELVIR (PF-07321332) 150mg Tablets",
+          "frac": "0.12"
+        },
+        {
+          "value": "PF-07321332 (NIRMATRELVIR) 150mg Tablets (part of PAXLOVID)",
+          "frac": "0.024"
+        }
+      ]
+    },
+    "admin_date": {
+      "name": "admin_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.18"
+        },
+        {
+          "value": "2022-03-18",
+          "frac": "0.032"
+        },
+        {
+          "value": "2022-03-17",
+          "frac": "0.029"
+        },
+        {
+          "value": "2022-03-19",
+          "frac": "0.029"
+        },
+        {
+          "value": "2022-03-16",
+          "frac": "0.022"
+        }
+      ]
+    },
+    "administereddatetime": {
+      "name": "administereddatetime",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "1"
+        }
+      ]
+    },
+    "type": {
+      "name": "type",
+      "label": "",
+      "description": "",
+      "type": "fct",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "I",
+          "frac": "0.78"
+        },
+        {
+          "frac": "0.12"
+        },
+        {
+          "value": "O",
+          "frac": "0.081"
+        },
+        {
+          "value": "D",
+          "frac": "0.016"
+        }
+      ]
+    },
+    "drug": {
+      "name": "drug",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "paxlovid",
+          "frac": "0.95"
+        },
+        {
+          "value": "molnupiravir",
+          "frac": "0.049"
+        }
+      ]
+    }
+  }
+}

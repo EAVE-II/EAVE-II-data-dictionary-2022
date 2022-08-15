@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data/lookups//HB2019_pop_est_1981_2019.rds",
+    "finfo": [
+      {
+        "size": 287201,
+        "mtime": "2020-05-01 13:34:13",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 15:05:12",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 99372
+  },
+  "columns": {
+    "year": {
+      "name": "year",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1981,
+      "max": 2019,
+      "values": [
+        {
+          "value": "1983",
+          "frac": "0.029"
+        },
+        {
+          "value": "2005",
+          "frac": "0.028"
+        },
+        {
+          "value": "1992",
+          "frac": "0.028"
+        },
+        {
+          "value": "1999",
+          "frac": "0.027"
+        },
+        {
+          "value": "1981",
+          "frac": "0.027"
+        }
+      ]
+    },
+    "hb2019": {
+      "name": "hb2019",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S08000025",
+          "frac": "0.074"
+        },
+        {
+          "value": "S08000026",
+          "frac": "0.074"
+        },
+        {
+          "value": "S08000020",
+          "frac": "0.073"
+        },
+        {
+          "value": "S08000019",
+          "frac": "0.073"
+        },
+        {
+          "value": "S08000024",
+          "frac": "0.073"
+        }
+      ]
+    },
+    "hb2019name": {
+      "name": "hb2019name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS Orkney",
+          "frac": "0.074"
+        },
+        {
+          "value": "NHS Shetland",
+          "frac": "0.074"
+        },
+        {
+          "value": "NHS Grampian",
+          "frac": "0.073"
+        },
+        {
+          "value": "NHS Forth Valley",
+          "frac": "0.073"
+        },
+        {
+          "value": "NHS Lothian",
+          "frac": "0.073"
+        }
+      ]
+    },
+    "hb2018": {
+      "name": "hb2018",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S08000025",
+          "frac": "0.074"
+        },
+        {
+          "value": "S08000026",
+          "frac": "0.074"
+        },
+        {
+          "value": "S08000020",
+          "frac": "0.073"
+        },
+        {
+          "value": "S08000019",
+          "frac": "0.073"
+        },
+        {
+          "value": "S08000024",
+          "frac": "0.073"
+        }
+      ]
+    },
+    "hb2014": {
+      "name": "hb2014",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "S08000025",
+          "frac": "0.074"
+        },
+        {
+          "value": "S08000026",
+          "frac": "0.074"
+        },
+        {
+          "value": "S08000020",
+          "frac": "0.073"
+        },
+        {
+          "value": "S08000019",
+          "frac": "0.073"
+        },
+        {
+          "value": "S08000024",
+          "frac": "0.073"
+        }
+      ]
+    },
+    "age": {
+      "name": "age",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 0,
+      "max": 90,
+      "values": [
+        {
+          "value": "3",
+          "frac": "0.013"
+        },
+        {
+          "value": "47",
+          "frac": "0.013"
+        },
+        {
+          "value": "29",
+          "frac": "0.013"
+        },
+        {
+          "value": "43",
+          "frac": "0.013"
+        },
+        {
+          "value": "77",
+          "frac": "0.013"
+        }
+      ]
+    },
+    "sex": {
+      "name": "sex",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 2,
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.51"
+        },
+        {
+          "value": "2",
+          "frac": "0.49"
+        }
+      ]
+    },
+    "sex_name": {
+      "name": "sex_name",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "M",
+          "frac": "0.51"
+        },
+        {
+          "value": "F",
+          "frac": "0.49"
+        }
+      ]
+    },
+    "pop": {
+      "name": "pop",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 12522,
+      "values": [
+        {
+          "value": "133",
+          "frac": "0.016"
+        },
+        {
+          "value": "138",
+          "frac": "0.016"
+        },
+        {
+          "value": "136",
+          "frac": "0.016"
+        },
+        {
+          "value": "114",
+          "frac": "0.015"
+        },
+        {
+          "value": "122",
+          "frac": "0.015"
+        }
+      ]
+    }
+  }
+}

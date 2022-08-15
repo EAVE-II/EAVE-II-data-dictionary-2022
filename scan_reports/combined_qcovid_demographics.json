@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//combined_qcovid_demographics.rds",
+    "finfo": [
+      {
+        "size": 40696195,
+        "mtime": "2021-02-09 12:28:43",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:33:28",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 4803694
+  },
+  "columns": {
+    "EAVE2": {
+      "name": "EAVE2",
+      "label": "",
+      "description": "",
+      "type": "fct",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "age": {
+      "name": "age",
+      "label": "",
+      "description": "",
+      "type": "fct",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "30   ",
+          "frac": "0.017"
+        },
+        {
+          "value": "33   ",
+          "frac": "0.016"
+        },
+        {
+          "value": "56   ",
+          "frac": "0.016"
+        },
+        {
+          "value": "28   ",
+          "frac": "0.016"
+        },
+        {
+          "value": "29   ",
+          "frac": "0.016"
+        }
+      ]
+    },
+    "Sex": {
+      "name": "Sex",
+      "label": "",
+      "description": "",
+      "type": "fct",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "F",
+          "frac": "0.52"
+        },
+        {
+          "value": "M",
+          "frac": "0.48"
+        }
+      ]
+    },
+    "simd": {
+      "name": "simd",
+      "label": "",
+      "description": "",
+      "type": "int",
+      "min": "NA",
+      "max": "NA",
+      "values": [
+        {
+          "value": "1",
+          "frac": "0.22"
+        },
+        {
+          "value": "5",
+          "frac": "0.2"
+        },
+        {
+          "value": "2",
+          "frac": "0.2"
+        },
+        {
+          "value": "3",
+          "frac": "0.19"
+        },
+        {
+          "value": "4",
+          "frac": "0.19"
+        }
+      ]
+    },
+    "hb": {
+      "name": "hb",
+      "label": "",
+      "description": "",
+      "type": "fct",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "NHS Greater Glasgow and Clyde",
+          "frac": "0.24"
+        },
+        {
+          "value": "NHS Lothian",
+          "frac": "0.17"
+        },
+        {
+          "value": "NHS Lanarkshire",
+          "frac": "0.13"
+        },
+        {
+          "value": "NHS Grampian",
+          "frac": "0.11"
+        },
+        {
+          "value": "NHS Tayside",
+          "frac": "0.067"
+        }
+      ]
+    }
+  }
+}

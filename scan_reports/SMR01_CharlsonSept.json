@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//SMR01_CharlsonSept.rds",
+    "finfo": [
+      {
+        "size": 9291850,
+        "mtime": "2020-12-16 13:30:06",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 14:57:39",
+        "uname": "emilym02",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 1200714
+  },
+  "columns": {
+    "UPI_NUMBER": {
+      "name": "UPI_NUMBER",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    },
+    "CONDITION": {
+      "name": "CONDITION",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Chronic Pulmonary Disease",
+          "frac": "0.17"
+        },
+        {
+          "value": "Any Malignancy including Lymphoma (except malignant Neoplasm of skin)",
+          "frac": "0.14"
+        },
+        {
+          "value": "Diabetes without Chronic Complication",
+          "frac": "0.13"
+        },
+        {
+          "value": "Renal Disease",
+          "frac": "0.083"
+        },
+        {
+          "value": "Cerebrovascular Disease",
+          "frac": "0.077"
+        }
+      ]
+    },
+    "min_date": {
+      "name": "min_date",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2015-09-03",
+          "frac": "0.018"
+        },
+        {
+          "value": "2015-09-07",
+          "frac": "0.016"
+        },
+        {
+          "value": "2015-09-04",
+          "frac": "0.015"
+        },
+        {
+          "value": "2015-09-08",
+          "frac": "0.015"
+        },
+        {
+          "value": "2015-10-21",
+          "frac": "0.015"
+        }
+      ]
+    },
+    "max_date": {
+      "name": "max_date",
+      "label": "",
+      "description": "",
+      "type": "dttm",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2019-10-07",
+          "frac": "0.011"
+        },
+        {
+          "value": "2020-03-04",
+          "frac": "0.011"
+        },
+        {
+          "value": "2018-12-20",
+          "frac": "0.01"
+        },
+        {
+          "value": "2020-02-27",
+          "frac": "0.01"
+        },
+        {
+          "value": "2020-06-02",
+          "frac": "0.01"
+        }
+      ]
+    },
+    "present": {
+      "name": "present",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 1,
+      "max": 1,
+      "values": [
+        {
+          "value": "1",
+          "frac": "1"
+        }
+      ]
+    },
+    "n_yrs_lookback": {
+      "name": "n_yrs_lookback",
+      "label": "",
+      "description": "",
+      "type": "dbl",
+      "min": 5,
+      "max": 5,
+      "values": [
+        {
+          "value": "5",
+          "frac": "1"
+        }
+      ]
+    },
+    "extract_date": {
+      "name": "extract_date",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "20200901",
+          "frac": "1"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "file": "/conf/EAVE/GPanalysis/data//covid_hospitalisations.rds",
+    "finfo": [
+      {
+        "size": 244975,
+        "mtime": "2021-11-17 16:53:46",
+        "ctime": "2022-05-12 10:14:22",
+        "atime": "2022-08-15 15:39:09",
+        "uname": "ellioh01",
+        "grname": "GPanalysis"
+      }
+    ],
+    "nrows": 29564
+  },
+  "columns": {
+    "admission_date": {
+      "name": "admission_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "2020-04-01",
+          "frac": "0.0074"
+        },
+        {
+          "value": "2020-04-03",
+          "frac": "0.0073"
+        },
+        {
+          "value": "2020-04-06",
+          "frac": "0.0073"
+        },
+        {
+          "value": "2021-01-21",
+          "frac": "0.0069"
+        },
+        {
+          "value": "2021-01-19",
+          "frac": "0.0066"
+        }
+      ]
+    },
+    "discharge_date": {
+      "name": "discharge_date",
+      "label": "",
+      "description": "",
+      "type": "date",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "frac": "0.039"
+        },
+        {
+          "value": "2021-01-22",
+          "frac": "0.0069"
+        },
+        {
+          "value": "2021-01-21",
+          "frac": "0.0064"
+        },
+        {
+          "value": "2020-04-08",
+          "frac": "0.0061"
+        },
+        {
+          "value": "2020-04-06",
+          "frac": "0.006"
+        }
+      ]
+    },
+    "validchi": {
+      "name": "validchi",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {
+          "value": "Valid CHI",
+          "frac": "1"
+        }
+      ]
+    },
+    "EAVE_LINKNO": {
+      "name": "EAVE_LINKNO",
+      "label": "",
+      "description": "",
+      "type": "chr",
+      "min": "",
+      "max": "",
+      "values": [
+        {}
+      ]
+    }
+  }
+}
