@@ -19,6 +19,13 @@
 
 ## :fontawesome-solid-user-doctor: Primary Care
 
+??? note "serology_primcare_july22_v3.rds"
+{% filter indent(width=4) %}
+{% include 'tables/serology_primcare_july22_v3.md' %}
+{% endfilter %}
+
+
+
 ### Overview
 
 * People who have attended primary care during the pandemic and had their blood taken (for unspecified reasons)
@@ -40,10 +47,14 @@
                                    QualResult = ifelse(IgG<33.8,"Negative", "Positive")) 
 	```
 
-
-[serology_primcare_march22]()
-
 ## :material-blood-bag: Blood Donors
+
+
+??? note "serology_snbts_july22_v3.rds"
+{% filter indent(width=4) %}
+{% include 'tables/serology_snbts_july22_v3.md' %}
+{% endfilter %}
+
 
 ### Overview
 
@@ -56,6 +67,3 @@
 
 ### Assay information
 * Abbott SARS-CoV-2 IgG assay was used up until the week commencing 19th Oct 2020 followed by EuroImmun SARS-CoV-2 IgG ELISA
-
-
-[serology_snbts_march22]()
