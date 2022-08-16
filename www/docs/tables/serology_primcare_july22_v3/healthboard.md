@@ -7,9 +7,9 @@
 ### Top 5 variables
 | value                         |   frac |
 |:------------------------------|-------:|
-| NHS Greater Glasgow and Clyde |  0.24  |
-| NHS Lothian                   |  0.16  |
-| NHS Lanarkshire               |  0.13  |
-| NHS Grampian                  |  0.082 |
-| NHS Fife                      |  0.079 |
+| NHS Greater Glasgow and Clyde |  0.25  |
+| NHS Lothian                   |  0.15  |
+| NHS Lanarkshire               |  0.14  |
+| NHS Fife                      |  0.08  |
+| NHS Tayside                   |  0.078 |
         

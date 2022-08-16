@@ -1,12 +1,12 @@
 
 
 * File: serology_snbts_july22_v3.rds
-* Label: Assay
-* Description: Antibody Assay machine was was used when measuring the blood serum sample for the presence of IgG antibodies to SARs-CoV-2
+* Label: 
+* Description: 
 
 ### Top 5 variables
 | value      |   frac |
 |:-----------|-------:|
-| Euroimmune |   0.81 |
-| Abbott     |   0.19 |
+| Euroimmune |   0.82 |
+| Abbott     |   0.18 |
         

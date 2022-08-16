@@ -9,5 +9,5 @@
 |:----------|-------:|
 | Negative  | 0.59   |
 | Positive  | 0.41   |
-| Equivocal | 0.0075 |
+| Equivocal | 0.0071 |
         

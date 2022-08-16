@@ -1,15 +1,15 @@
 
 
 * File: serology_primcare_july22_v3.rds
-* Label: 
-* Description: 
+* Label: Age
+* Description: Age in years
 
 ### Top 5 variables
 |   value |   frac |
 |--------:|-------:|
-|      19 |  0.037 |
-|      16 |  0.031 |
-|      18 |  0.03  |
-|      17 |  0.029 |
-|      15 |  0.027 |
+|      16 |  0.032 |
+|      19 |  0.031 |
+|      18 |  0.029 |
+|      17 |  0.028 |
+|      15 |  0.025 |
         
