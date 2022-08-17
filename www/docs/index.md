@@ -4,7 +4,7 @@ Additional datasets can be found, with details on which variables are present an
 <center>
 
 | Dataset                     | Description     | Recommended File(s) |
-|:----                        |:-----                 |
+|:----                        |:-----           |:------              |
 | [Demographics](demographics){ .md-button }   | Lookup file for studies within the EAVE-II cohort. This is the most up-to-date dataset that should be used to retrieve a study's Sex, Age, Health Board, Urban/Rural Classifier and SIMD (deprevation).  | `EAVE_demographics_SK.rds` |
 | [Vaccinations](vaccines){ .md-button } | Records of exposures to COVID-19 vaccines, that includes the dates, doses and vaccine product are given. Additional information such as flags for if the dose was a booster, if the study was shielding etc. are also provided.  | `cleaned_data//C19vaccine_dvprod_cleaned.rds` |
 | [QCovid](qcovid){ .md-button }       | Calculations of [QCovid](https://qcovid.org/) risks for the majority of EAVE-II studies. Individual risks, such asa flag that the study is risk of a severe outcome from COVID-19 due to Diabetes (`Q_DIAG_DIABETES_1`) are provided. Additional information such as a calculation of a study's BMI (`Q_BMI`) is provided  | `QCOVID_feb22.rds` |
