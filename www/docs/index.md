@@ -3,7 +3,7 @@
 </style>
 
 Welcome to the EAVE-II data-dictionary! This page summarises the recommendations of the key datasets to be used for analysis.
-For each dataset (`.rds` files), meta-data details information about the files and the columns within. Additionally the top 5 most common values and their frequency (`frac`) are summarised (where applicable). 
+For each dataset (`.rds` files), meta-data details information about the files and the columns within. Additionally the top 5 most common values and their frequency are summarised (where applicable). 
 
 <center>
 
