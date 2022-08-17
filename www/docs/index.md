@@ -39,7 +39,7 @@ For each dataset (`.rds` files), meta-data details information about the files a
 		<tr>
 			<td> <a class='md-button' href='qcovid'> QCovid </a> </td>
 			<td> 
-			Calculations of <a href='https://qcovid.org/> QCovid </a> risks for the majority of EAVE-II studies. Individual risks, such asa flag that the study is risk of a severe outcome from COVID-19 due to Diabetes (`Q_DIAG_DIABETES_1`) are provided. Additional information such as a calculation of a study's BMI (`Q_BMI`) is provided
+			Calculations of <a href='https://qcovid.org/'> QCovid </a> risks for the majority of EAVE-II studies. Individual risks, such asa flag that the study is risk of a severe outcome from COVID-19 due to Diabetes (`Q_DIAG_DIABETES_1`) are provided. Additional information such as a calculation of a study's BMI (`Q_BMI`) is provided
 			</td>
 			<td>
 			```
