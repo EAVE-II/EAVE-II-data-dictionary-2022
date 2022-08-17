@@ -51,9 +51,13 @@ nav:
   - Overview: index.md
   - Demographics: demographics.md
   - QCOVID: qcovid.md
+  - Sequencing: sequencing.md
   - Serology: serology.md
+  - Severe Outcomes:
+      - Cases: severe-cases.md
+      - Hospitalisations: hospitalisations.md
+      - Deaths: deaths.md
+  - Testing: testing.md
+  - Vaccines: vaccines.md
   - Other:
-      - 1. Demographics: demoggraphics
-      - 2. QCOVID:
-          - QCOVID Feb 22: tables/QCOVID_feb22_detailed.md
-          #- Details: tables/QCOVID_feb22_detailed.md
+      - Test

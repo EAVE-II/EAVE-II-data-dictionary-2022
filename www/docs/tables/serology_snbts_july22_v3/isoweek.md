@@ -1,8 +1,8 @@
 
 
 * File: serology_snbts_july22_v3.rds
-* Label: 
-* Description: 
+* Label: Week Number
+* Description: Week number since the start of the pandemic
 
 ### Top 5 variables
 |   value |   frac |

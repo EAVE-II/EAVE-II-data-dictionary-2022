@@ -2,7 +2,7 @@
 
 * File: QCOVID_feb22.rds
 * Label: Care housing category
-* Description: 
+* Description: Care housing category
 
 ### Top 5 variables
 | value   |   frac |

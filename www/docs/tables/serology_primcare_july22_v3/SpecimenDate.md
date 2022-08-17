@@ -2,7 +2,7 @@
 
 * File: serology_primcare_july22_v3.rds
 * Label: Specimen Date
-* Description: Date sample taken
+* Description: The date in whcih the specimen was tested by the assay for IgG levels (note: use `Sampledate_iso` for the date in which the blood specimen was extracted from the study
 
 ### Top 5 variables
 | value      |   frac |

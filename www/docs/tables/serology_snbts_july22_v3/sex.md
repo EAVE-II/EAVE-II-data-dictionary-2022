@@ -2,7 +2,7 @@
 
 * File: serology_snbts_july22_v3.rds
 * Label: Sex (number)
-* Description: Sex at birth
+* Description: Sex at birth - extracted from the serology files/team - it should not be trusted as being reliable
 
 ### Top 5 variables
 | value   |   frac |

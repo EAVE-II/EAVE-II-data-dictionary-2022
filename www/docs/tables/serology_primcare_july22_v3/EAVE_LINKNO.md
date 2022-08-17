@@ -1,8 +1,8 @@
 
 
 * File: serology_primcare_july22_v3.rds
-* Label: EAVE Link Number
-* Description: Randomly assigned study index number
+* Label: EAVE Study Identifier
+* Description: EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.
 
 ### Top 5 variables
 | value   | frac   |

@@ -1,8 +1,8 @@
 
 
 * File: serology_primcare_july22_v3.rds
-* Label: 
-* Description: 
+* Label: Date Collected
+* Description: The date that the specimen was collected from the origin (where it was taken)
 
 ### Top 5 variables
 | value      |   frac |
