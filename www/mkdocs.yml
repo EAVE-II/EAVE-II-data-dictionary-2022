@@ -51,13 +51,14 @@ nav:
   - Overview: index.md
   - Demographics: demographics.md
   - QCOVID: qcovid.md
-  - Sequencing: sequencing.md
   - Serology: serology.md
   - Severe Outcomes:
       - Cases: severe-cases.md
       - Hospitalisations: hospitalisations.md
       - Deaths: deaths.md
-  - Testing: testing.md
+  - Testing:
+      - PCR & LFT: testing.md
+      - Genomic Sequencing: sequencing.md
   - Vaccines: vaccines.md
   - Other:
       - Test
