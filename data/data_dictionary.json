@@ -1,0 +1,5312 @@
+[
+      {
+		"meta": {
+			"file": "/conf/EAVE/GPanalysis/data//serology_snbts_july22_v3.rds",
+			"finfo": [
+				{
+					"size": 544427,
+					"mtime": "2022-07-14 10:46:55",
+					"ctime": "2022-07-14 10:46:55",
+					"atime": "2022-08-15 14:47:31",
+					"uname": "nichoy01",
+					"grname": "GPanalysis"
+				}
+			],
+			"nrows": 46227
+		},
+		"columns": [
+			{
+				"name": "EAVE_LINKNO",
+				"label": "EAVE Study Identifier",
+				"description": "EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "SampleID",
+				"label": "Sample ID",
+				"description": "Original Sample ID from the serology team",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "age",
+				"label": "Age",
+				"description": "Age of the study given in years, extracted from the serology files - and shouldn't be well trusted",
+				"type": "dbl",
+				"min": 17,
+				"max": 84,
+				"values": [
+					{
+						"value": "57",
+						"frac": "0.028"
+					},
+					{
+						"value": "55",
+						"frac": "0.027"
+					},
+					{
+						"value": "56",
+						"frac": "0.027"
+					},
+					{
+						"value": "54",
+						"frac": "0.027"
+					},
+					{
+						"value": "52",
+						"frac": "0.026"
+					}
+				]
+			},
+			{
+				"name": "sex",
+				"label": "Sex (number)",
+				"description": "Sex at birth - extracted from the serology files/team - it should not be trusted as being reliable",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "F",
+						"frac": "0.54"
+					},
+					{
+						"value": "M",
+						"frac": "0.46"
+					}
+				]
+			},
+			{
+				"name": "isoweek",
+				"label": "Week Number",
+				"description": "Week number since the start of the pandemic",
+				"type": "dbl",
+				"min": 1,
+				"max": 53,
+				"values": [
+					{
+						"value": "28",
+						"frac": "0.03"
+					},
+					{
+						"value": "36",
+						"frac": "0.026"
+					},
+					{
+						"value": "32",
+						"frac": "0.025"
+					},
+					{
+						"value": "41",
+						"frac": "0.025"
+					},
+					{
+						"value": "51",
+						"frac": "0.024"
+					}
+				]
+			},
+			{
+				"name": "year",
+				"label": "Year",
+				"description": "Year of the lookup file used to determine the Health Boards",
+				"type": "dbl",
+				"min": 2020,
+				"max": 2022,
+				"values": [
+					{
+						"value": "2021",
+						"frac": "0.56"
+					},
+					{
+						"value": "2020",
+						"frac": "0.31"
+					},
+					{
+						"value": "2022",
+						"frac": "0.14"
+					}
+				]
+			},
+			{
+				"name": "Sampledate_iso",
+				"label": "Sample Date",
+				"description": "The date the serology measurement was taken from the individual (in ISO format)",
+				"type": "dttm",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2021-12-20",
+						"frac": "0.012"
+					},
+					{
+						"value": "2020-07-02",
+						"frac": "0.012"
+					},
+					{
+						"value": "2021-12-30",
+						"frac": "0.011"
+					},
+					{
+						"value": "2020-07-06",
+						"frac": "0.01"
+					},
+					{
+						"value": "2022-01-14",
+						"frac": "0.0095"
+					}
+				]
+			},
+			{
+				"name": "hb",
+				"label": "Health Board",
+				"description": "The Scottish Health Board in which the individual was registered with",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "NHS Lothian",
+						"frac": "0.18"
+					},
+					{
+						"value": "NHS Greater Glasgow and Clyde",
+						"frac": "0.16"
+					},
+					{
+						"value": "NHS Tayside",
+						"frac": "0.12"
+					},
+					{
+						"value": "NHS Grampian",
+						"frac": "0.12"
+					},
+					{
+						"value": "NHS Lanarkshire",
+						"frac": "0.099"
+					}
+				]
+			},
+			{
+				"name": "assay",
+				"label": "Assay",
+				"description": "Antibody Assay machine was was used when measuring the blood serum sample for the presence of IgG antibodies to SARs-CoV-2",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Euroimmune",
+						"frac": "0.82"
+					},
+					{
+						"value": "Abbott",
+						"frac": "0.18"
+					}
+				]
+			},
+			{
+				"name": "test_result_qual",
+				"label": "Qualitative Test Result",
+				"description": "Qualitative test results from the assay for the presence (or lack thereof) of IgG to SARs-CoV-2. The assay defines the threshold that determines +ve or -ve tests.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Positive",
+						"frac": "0.54"
+					},
+					{
+						"value": "Negative",
+						"frac": "0.45"
+					},
+					{
+						"value": "Equivocal",
+						"frac": "0.014"
+					}
+				]
+			},
+			{
+				"name": "test_result_quant",
+				"label": "Quantative Test Result",
+				"description": "IgG measurements in Binding Activation Units [BAUs] that are measured by the assay. There are values that are truncated above/below certain values as the result was out-of-bounds of the assay's sensitivity for these.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "0.1",
+						"frac": "0.17"
+					},
+					{
+						"value": "0.02",
+						"frac": "0.059"
+					},
+					{
+						"value": "0.2",
+						"frac": "0.053"
+					},
+					{
+						"value": "0.01",
+						"frac": "0.042"
+					},
+					{
+						"value": "0.03",
+						"frac": "0.027"
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "62fbc9437130a7df8f8b2447"
+		},
+		"meta": {
+			"file": "/conf/EAVE/GPanalysis/data//smr01_2022_06_06.rds",
+			"finfo": [
+				{
+					"size": 92128931,
+					"mtime": "2022-06-06 12:38:44",
+					"ctime": "2022-06-06 12:38:44",
+					"atime": "2022-08-15 15:20:42",
+					"uname": "ellioh01",
+					"grname": "GPanalysis"
+				}
+			],
+			"nrows": 6368507
+		},
+		"columns": [
+			{
+				"name": "EAVE_LINKNO",
+				"label": "EAVE Study Identifier",
+				"description": "EAVE-II Identifier, pseudoynmised CHI numbers that were used to link this dataset",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "CIS_MARKER",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 1,
+				"max": 1906,
+				"values": [
+					{
+						"value": "2",
+						"frac": "0.071"
+					},
+					{
+						"value": "3",
+						"frac": "0.069"
+					},
+					{
+						"value": "4",
+						"frac": "0.068"
+					},
+					{
+						"value": "1",
+						"frac": "0.066"
+					},
+					{
+						"value": "6",
+						"frac": "0.061"
+					}
+				]
+			},
+			{
+				"name": "ADMISSION_DATE",
+				"label": "Admission Date",
+				"description": "Date the study was admitted into hospital",
+				"type": "dttm",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2019-06-11",
+						"frac": "0.007"
+					},
+					{
+						"value": "2019-08-12",
+						"frac": "0.007"
+					},
+					{
+						"value": "2018-03-07",
+						"frac": "0.0062"
+					},
+					{
+						"value": "2018-06-05",
+						"frac": "0.0062"
+					},
+					{
+						"value": "2019-03-04",
+						"frac": "0.0062"
+					}
+				]
+			},
+			{
+				"name": "DISCHARGE_DATE",
+				"label": "Discharge Date",
+				"description": "Date the study was discharged from hospital",
+				"type": "dttm",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2019-06-18",
+						"frac": "0.0071"
+					},
+					{
+						"value": "2019-03-04",
+						"frac": "0.0067"
+					},
+					{
+						"value": "2019-08-12",
+						"frac": "0.0067"
+					},
+					{
+						"value": "2019-08-30",
+						"frac": "0.0067"
+					},
+					{
+						"value": "2020-01-17",
+						"frac": "0.0067"
+					}
+				]
+			},
+			{
+				"name": "MAIN_CONDITION",
+				"label": "Main Condition",
+				"description": "The reason the study was admitted into hospital (ICD10 code) ",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "H269",
+						"frac": "0.024"
+					},
+					{
+						"value": "N390",
+						"frac": "0.024"
+					},
+					{
+						"value": "U071",
+						"frac": "0.023"
+					},
+					{
+						"value": "A419",
+						"frac": "0.023"
+					},
+					{
+						"value": "J22X",
+						"frac": "0.021"
+					}
+				]
+			},
+			{
+				"name": "OTHER_CONDITION_1",
+				"label": "",
+				"description": "Other reasons identified for hospital admission (ICD10 codes)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.31"
+					},
+					{
+						"value": "Z511",
+						"frac": "0.038"
+					},
+					{
+						"value": "N390",
+						"frac": "0.02"
+					},
+					{
+						"value": "I10X",
+						"frac": "0.019"
+					},
+					{
+						"value": "N179",
+						"frac": "0.018"
+					}
+				]
+			},
+			{
+				"name": "OTHER_CONDITION_2",
+				"label": "",
+				"description": "Other reasons identified for hospital admission",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.55"
+					},
+					{
+						"value": "I10X",
+						"frac": "0.028"
+					},
+					{
+						"value": "E119",
+						"frac": "0.021"
+					},
+					{
+						"value": "I489",
+						"frac": "0.019"
+					},
+					{
+						"value": "Z511",
+						"frac": "0.019"
+					}
+				]
+			},
+			{
+				"name": "OTHER_CONDITION_3",
+				"label": "",
+				"description": "Other reasons identified for hospital admission",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.7"
+					},
+					{
+						"value": "I10X",
+						"frac": "0.027"
+					},
+					{
+						"value": "E119",
+						"frac": "0.022"
+					},
+					{
+						"value": "I489",
+						"frac": "0.015"
+					},
+					{
+						"value": "N179",
+						"frac": "0.012"
+					}
+				]
+			},
+			{
+				"name": "OTHER_CONDITION_4",
+				"label": "",
+				"description": "Other reasons identified for hospital admission",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.8"
+					},
+					{
+						"value": "I10X",
+						"frac": "0.029"
+					},
+					{
+						"value": "E119",
+						"frac": "0.019"
+					},
+					{
+						"value": "I489",
+						"frac": "0.011"
+					},
+					{
+						"value": "Z867",
+						"frac": "0.007"
+					}
+				]
+			},
+			{
+				"name": "OTHER_CONDITION_5",
+				"label": "",
+				"description": "Other reasons identified for hospital admission",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.88"
+					},
+					{
+						"value": "I10X",
+						"frac": "0.019"
+					},
+					{
+						"value": "E119",
+						"frac": "0.012"
+					},
+					{
+						"value": "Z038",
+						"frac": "0.0099"
+					},
+					{
+						"value": "Z867",
+						"frac": "0.0081"
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "62fbc93d43f66eb676968dc1"
+		},
+		"meta": {
+		        "file": "/conf/EAVE/GPanalysis/data//EAVE_demographics_SK.rds",
+		        "extra": "Key demographics file to rely on and look up information about a study (age, Sex,..)",
+			"finfo": [
+				{
+					"size": 70681206,
+					"mtime": "2020-09-04 11:19:25",
+					"ctime": "2022-05-12 10:14:22",
+					"atime": "2022-08-15 08:15:00",
+					"uname": "sharok01",
+					"grname": "GPanalysis"
+				}
+			],
+			"nrows": 5809882
+		},
+		"columns": [
+			{
+				"name": "EAVE_LINKNO",
+				"label": "EAVE Study Identifier",
+				"description": "EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "Sex",
+				"label": "Sex",
+				"description": "Sex at birth",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "M",
+						"frac": "0.5"
+					},
+					{
+						"value": "F",
+						"frac": "0.5"
+					}
+				]
+			},
+			{
+				"name": "ageYear",
+				"label": "Age",
+				"description": "Age in years",
+				"type": "dbl",
+				"min": -1,
+				"max": 111,
+				"values": [
+					{
+						"value": "51",
+						"frac": "0.017"
+					},
+					{
+						"value": "26",
+						"frac": "0.016"
+					},
+					{
+						"value": "50",
+						"frac": "0.016"
+					},
+					{
+						"value": "55",
+						"frac": "0.016"
+					},
+					{
+						"value": "27",
+						"frac": "0.016"
+					}
+				]
+			},
+			{
+				"name": "hb2019",
+				"label": "NHS Health Board Code",
+				"description": "Codes of 2019 NHS Health Boards",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "S08000031",
+						"frac": "0.22"
+					},
+					{
+						"value": "S08000024",
+						"frac": "0.18"
+					},
+					{
+						"value": "S08000032",
+						"frac": "0.12"
+					},
+					{
+						"value": "S08000020",
+						"frac": "0.11"
+					},
+					{
+						"value": "S08000030",
+						"frac": "0.076"
+					}
+				]
+			},
+			{
+				"name": "hb2019name",
+				"label": "NHS Health Board Name",
+				"description": "Names of 2019 NHS Health Boards",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "NHS Greater Glasgow and Clyde",
+						"frac": "0.22"
+					},
+					{
+						"value": "NHS Lothian",
+						"frac": "0.18"
+					},
+					{
+						"value": "NHS Lanarkshire",
+						"frac": "0.12"
+					},
+					{
+						"value": "NHS Grampian",
+						"frac": "0.11"
+					},
+					{
+						"value": "NHS Tayside",
+						"frac": "0.076"
+					}
+				]
+			},
+			{
+				"name": "District",
+				"label": "Postcode District",
+				"description": "Outward code of their postcode (Area + Disrict)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "EH54",
+						"frac": "0.015"
+					},
+					{
+						"value": "EH4",
+						"frac": "0.013"
+					},
+					{
+						"value": "KY11",
+						"frac": "0.011"
+					},
+					{
+						"value": "EH6",
+						"frac": "0.011"
+					},
+					{
+						"value": "ML3",
+						"frac": "0.01"
+					}
+				]
+			},
+			{
+				"name": "DataZone",
+				"label": "Data Zone",
+				"description": "Data Zone",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.69"
+					},
+					{
+						"value": "S01010286",
+						"frac": "0.13"
+					},
+					{
+						"value": "S01008425",
+						"frac": "0.089"
+					},
+					{
+						"value": "S01010048",
+						"frac": "0.089"
+					}
+				]
+			},
+			{
+				"name": "ur6_2016",
+				"label": "Urban/Rural classification",
+				"description": "Urban/Rural 6-fold classification (2016 classification)",
+				"type": "int",
+				"min": "NA",
+				"max": "NA",
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.36"
+					},
+					{
+						"value": "2",
+						"frac": "0.36"
+					},
+					{
+						"value": "3",
+						"frac": "0.091"
+					},
+					{
+						"value": "5",
+						"frac": "0.088"
+					},
+					{
+						"value": "6",
+						"frac": "0.051"
+					}
+				]
+			},
+			{
+				"name": "ur6_2016_name",
+				"label": "Urban/Rural classification name",
+				"description": "Urban/Rural 6-fold classification (2016 classification)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "1 Large Urban Areas",
+						"frac": "0.36"
+					},
+					{
+						"value": "2 Other Urban Areas",
+						"frac": "0.36"
+					},
+					{
+						"value": "3 Accessible Small Towns",
+						"frac": "0.091"
+					},
+					{
+						"value": "5 Accessible Rural",
+						"frac": "0.088"
+					},
+					{
+						"value": "6 Remote Rural",
+						"frac": "0.051"
+					}
+				]
+			},
+			{
+				"name": "simd2020v2_sc_quintile",
+				"label": "SIMD",
+				"description": "Scottish Index of Multiple Deprivation (calculated 2020, v2) Quintile Leave. Where 1 is the most deprived and 5 is the least deprived areas. This is based upon the LSOA (lower super output area) of the studies postcode.",
+				"type": "int",
+				"min": "NA",
+				"max": "NA",
+				"values": [
+					{
+						"value": "5",
+						"frac": "0.21"
+					},
+					{
+						"value": "4",
+						"frac": "0.2"
+					},
+					{
+						"value": "2",
+						"frac": "0.19"
+					},
+					{
+						"value": "3",
+						"frac": "0.19"
+					},
+					{
+						"value": "1",
+						"frac": "0.19"
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "62fbc93ceca7c388fd6c92c0"
+		},
+		"meta": {
+			"file": "/conf/EAVE/GPanalysis/data/cleaned_data//C19vaccine_dvprod_cleaned.rds",
+			"finfo": [
+				{
+					"size": 224007459,
+					"mtime": "2022-08-15 09:35:57",
+					"ctime": "2022-08-15 09:36:40",
+					"atime": "2022-08-16 11:09:40",
+					"uname": "nichoy01",
+					"grname": "GPanalysis"
+				}
+			],
+			"nrows": 12955518
+		},
+		"columns": [
+			{
+				"name": "vacc_occurence_time",
+				"label": "Vaccine Occurence Time",
+				"description": "The date/time that the vaccine was administered. Note: see vacc_occurrence_date, as time is not currently saved in this file.",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2021-12-22",
+						"frac": "0.0084"
+					},
+					{
+						"value": "2021-12-16",
+						"frac": "0.0073"
+					},
+					{
+						"value": "2021-02-08",
+						"frac": "0.007"
+					},
+					{
+						"value": "2021-12-20",
+						"frac": "0.0069"
+					},
+					{
+						"value": "2021-02-11",
+						"frac": "0.0064"
+					}
+				]
+			},
+			{
+				"name": "vacc_dose_number",
+				"label": "Vaccine Dose Number",
+				"description": "The total number of doses (including booster) the study has now received after this dose i.e. the dose number.",
+				"type": "dbl",
+				"min": 1,
+				"max": 5,
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.35"
+					},
+					{
+						"value": "2",
+						"frac": "0.33"
+					},
+					{
+						"value": "3",
+						"frac": "0.27"
+					},
+					{
+						"value": "4",
+						"frac": "0.044"
+					},
+					{
+						"value": "5",
+						"frac": "0.0018"
+					}
+				]
+			},
+			{
+				"name": "vacc_occurence_date",
+				"label": "Vaccine Occurrence Date",
+				"description": "The date that the vaccine was administered.",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2021-12-22",
+						"frac": "0.0084"
+					},
+					{
+						"value": "2021-12-16",
+						"frac": "0.0073"
+					},
+					{
+						"value": "2021-02-08",
+						"frac": "0.007"
+					},
+					{
+						"value": "2021-12-20",
+						"frac": "0.0069"
+					},
+					{
+						"value": "2021-02-11",
+						"frac": "0.0064"
+					}
+				]
+			},
+			{
+				"name": "vacc_product_name",
+				"label": "Vaccine Product Name",
+				"description": "The name of the vaccine (Pfizer/AstraZeneca/Moderna) that was administered.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Covid-19 mRNA Vaccine Pfizer",
+						"frac": "0.55"
+					},
+					{
+						"value": "Covid-19 Vaccine AstraZeneca",
+						"frac": "0.33"
+					},
+					{
+						"value": "Covid-19 mRNA Vaccine Moderna",
+						"frac": "0.12"
+					}
+				]
+			},
+			{
+				"name": "patient_sex",
+				"label": "Sex",
+				"description": "Sex at birth, determined from the vaccine record.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "FEMALE",
+						"frac": "0.53"
+					},
+					{
+						"value": "MALE",
+						"frac": "0.47"
+					}
+				]
+			},
+			{
+				"name": "patient_derived_post_code",
+				"label": "Postcode",
+				"description": "The postcode of the patient derived from the vaccine record (cannot be used!)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "patient_derived_health_board_code_9",
+				"label": "Health board areas",
+				"description": "The code for the Health Board in which the patient is a resident of(?).",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "S08000031",
+						"frac": "0.2"
+					},
+					{
+						"value": "S08000024",
+						"frac": "0.16"
+					},
+					{
+						"value": "S08000032",
+						"frac": "0.12"
+					},
+					{
+						"value": "S08000020",
+						"frac": "0.1"
+					},
+					{
+						"value": "S08000030",
+						"frac": "0.079"
+					}
+				]
+			},
+			{
+				"name": "patient_derived_council_area_code_9",
+				"label": "Local Authority",
+				"description": "The code for the local authority the patient lives in (?) from the vaccine record",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "S12000049",
+						"frac": "0.1"
+					},
+					{
+						"value": "S12000036",
+						"frac": "0.09"
+					},
+					{
+						"value": "S12000047",
+						"frac": "0.069"
+					},
+					{
+						"value": "S12000050",
+						"frac": "0.062"
+					},
+					{
+						"value": "S12000029",
+						"frac": "0.06"
+					}
+				]
+			},
+			{
+				"name": "patient_derived_health_board_name",
+				"label": "Health Board Name",
+				"description": "The name of the health board the patient is registered in (from the vaccine record)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "NHS Greater Glasgow and Clyde",
+						"frac": "0.2"
+					},
+					{
+						"value": "NHS Lothian",
+						"frac": "0.16"
+					},
+					{
+						"value": "NHS Lanarkshire",
+						"frac": "0.12"
+					},
+					{
+						"value": "NHS Grampian",
+						"frac": "0.1"
+					},
+					{
+						"value": "NHS Tayside",
+						"frac": "0.079"
+					}
+				]
+			},
+			{
+				"name": "patient_derived_council_area_name",
+				"label": "Council Area Name",
+				"description": "The name of the council area the study is registered in (from the vaccine record).",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Glasgow City",
+						"frac": "0.1"
+					},
+					{
+						"value": "City of Edinburgh",
+						"frac": "0.09"
+					},
+					{
+						"value": "Fife",
+						"frac": "0.069"
+					},
+					{
+						"value": "North Lanarkshire",
+						"frac": "0.062"
+					},
+					{
+						"value": "South Lanarkshire",
+						"frac": "0.06"
+					}
+				]
+			},
+			{
+				"name": "age",
+				"label": "Age",
+				"description": "Age in years (from the vaccine record)",
+				"type": "dbl",
+				"min": 5,
+				"max": 100,
+				"values": [
+					{
+						"value": "59",
+						"frac": "0.021"
+					},
+					{
+						"value": "60",
+						"frac": "0.018"
+					},
+					{
+						"value": "54",
+						"frac": "0.018"
+					},
+					{
+						"value": "64",
+						"frac": "0.018"
+					},
+					{
+						"value": "56",
+						"frac": "0.018"
+					}
+				]
+			},
+			{
+				"name": "pub_age_group",
+				"label": "Age Group",
+				"description": "The age group of the individual e.g. 40-49",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "40 to 49",
+						"frac": "0.14"
+					},
+					{
+						"value": "18 to 29",
+						"frac": "0.13"
+					},
+					{
+						"value": "30 to 39",
+						"frac": "0.13"
+					},
+					{
+						"value": "80 years of age and over",
+						"frac": "0.095"
+					},
+					{
+						"value": "55 to 59",
+						"frac": "0.086"
+					}
+				]
+			},
+			{
+				"name": "mhra_age_group",
+				"label": "MHRA Age Group",
+				"description": "The age group determined by [MHRA](https://www.gov.uk/guidance/contact-mhra)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "50 to 59",
+						"frac": "0.17"
+					},
+					{
+						"value": "60 to 69",
+						"frac": "0.16"
+					},
+					{
+						"value": "70 to 79",
+						"frac": "0.14"
+					},
+					{
+						"value": "40 to 49",
+						"frac": "0.14"
+					},
+					{
+						"value": "18 to 29",
+						"frac": "0.13"
+					}
+				]
+			},
+			{
+				"name": "care_home_staff",
+				"label": "Care Home Staff Flag",
+				"description": "A flag for if the study works in a care home or not (from the vaccine record)",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.0084"
+					}
+				]
+			},
+			{
+				"name": "frontline_hscw",
+				"label": "Frontline Worker Flag",
+				"description": "Flag for if the study is a frontline healthcare worker (HCW) ",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.94"
+					},
+					{
+						"value": "1",
+						"frac": "0.056"
+					}
+				]
+			},
+			{
+				"name": "care_home_resident",
+				"label": "Care Home Resident Flag",
+				"description": "A flag for if the study is a care home resident at the time of vaccination. ! See `ch_resident` (?)",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.0082"
+					}
+				]
+			},
+			{
+				"name": "shielding",
+				"label": "Shielding Flag",
+				"description": "A flag for if the study was shielding at the time of the vaccination.",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.96"
+					},
+					{
+						"value": "1",
+						"frac": "0.044"
+					}
+				]
+			},
+			{
+				"name": "ch_resident",
+				"label": "Care Home Resident Flag (duplicate?)",
+				"description": "See`care_home_resident`",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.0078"
+					}
+				]
+			},
+			{
+				"name": "hcw_cohort",
+				"label": "Health Care Worker Cohort Flag",
+				"description": "(?) Flag for if the study was in the health care workers cohort",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.98"
+					},
+					{
+						"value": "1",
+						"frac": "0.022"
+					}
+				]
+			},
+			{
+				"name": "scw_cohort",
+				"label": "?? (Social?) Care Worker?",
+				"description": "???",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.97"
+					},
+					{
+						"value": "1",
+						"frac": "0.033"
+					}
+				]
+			},
+			{
+				"name": "underlying_cond",
+				"label": "Flag for an underlying condition",
+				"description": "?? the study has an underlying condition when the vaccine was administered?",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.82"
+					},
+					{
+						"value": "1",
+						"frac": "0.18"
+					}
+				]
+			},
+			{
+				"name": "unpaid_carers",
+				"label": "Flag for unpaid Carers",
+				"description": "?? The study was an upaid carer at time of the vaccine",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.93"
+					},
+					{
+						"value": "1",
+						"frac": "0.072"
+					}
+				]
+			},
+			{
+				"name": "cev_12_15_yrs",
+				"label": "Flag for ??",
+				"description": "???",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "cev_5_11_yrs",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "severely_immuno_supp",
+				"label": "Severely Immuno-suppressed Flag",
+				"description": "A flag for if the study is severly immuno-suppressed (see also `immuno_supp`)",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.97"
+					},
+					{
+						"value": "1",
+						"frac": "0.026"
+					}
+				]
+			},
+			{
+				"name": "immuno_supp",
+				"label": "Immuno-suppressed Flag",
+				"description": "A flag for if the study is severly immuno-suppressed (see also `severely_immuno_supp`)",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.96"
+					},
+					{
+						"value": "1",
+						"frac": "0.044"
+					}
+				]
+			},
+			{
+				"name": "vacc_booster",
+				"label": "Vaccine Booster Flag",
+				"description": "A flag for if this vaccine dose is a booster dose or not. Reliable (?)",
+				"type": "lgl",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "FALSE",
+						"frac": "0.69"
+					},
+					{
+						"value": "TRUE",
+						"frac": "0.31"
+					}
+				]
+			},
+			{
+				"name": "third_eligible_8wk",
+				"label": "",
+				"description": "?? Eligible for a third in 8 weeks ??",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.97"
+					},
+					{
+						"value": "0",
+						"frac": "0.033"
+					}
+				]
+			},
+			{
+				"name": "third_eligible_12wk",
+				"label": "",
+				"description": "?? Eligible for a third in 12 weeks??",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.96"
+					},
+					{
+						"value": "0",
+						"frac": "0.035"
+					}
+				]
+			},
+			{
+				"name": "third_eligible_24wk",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.96"
+					},
+					{
+						"value": "0",
+						"frac": "0.043"
+					}
+				]
+			},
+			{
+				"name": "third_eligible_any_cohort",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.96"
+					},
+					{
+						"value": "0",
+						"frac": "0.035"
+					}
+				]
+			},
+			{
+				"name": "fourth_eligible_8wk",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.86"
+					},
+					{
+						"value": "0",
+						"frac": "0.14"
+					}
+				]
+			},
+			{
+				"name": "fourth_eligible_12wk",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.86"
+					},
+					{
+						"value": "0",
+						"frac": "0.14"
+					}
+				]
+			},
+			{
+				"name": "fourth_eligible_24wk",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.83"
+					},
+					{
+						"value": "0",
+						"frac": "0.17"
+					}
+				]
+			},
+			{
+				"name": "fourth_eligible_any_cohort",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.83"
+					},
+					{
+						"value": "0",
+						"frac": "0.17"
+					}
+				]
+			},
+			{
+				"name": "fifth_eligible_8wk",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.83"
+					},
+					{
+						"value": "1",
+						"frac": "0.17"
+					}
+				]
+			},
+			{
+				"name": "fifth_eligible_12wk",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.85"
+					},
+					{
+						"value": "1",
+						"frac": "0.15"
+					}
+				]
+			},
+			{
+				"name": "fifth_eligible_24wk",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.013"
+					}
+				]
+			},
+			{
+				"name": "fifth_eligible_any_cohort",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.98"
+					},
+					{
+						"value": "1",
+						"frac": "0.023"
+					}
+				]
+			},
+			{
+				"name": "first_dose",
+				"label": "First Dose Date",
+				"description": "Date of the first vaccine dose administered",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2021-02-08",
+						"frac": "0.017"
+					},
+					{
+						"value": "2021-02-12",
+						"frac": "0.017"
+					},
+					{
+						"value": "2021-02-10",
+						"frac": "0.017"
+					},
+					{
+						"value": "2021-02-09",
+						"frac": "0.016"
+					},
+					{
+						"value": "2021-02-11",
+						"frac": "0.016"
+					}
+				]
+			},
+			{
+				"name": "second_dose",
+				"label": "Second Dose Date",
+				"description": "Date the study received their second vaccine dose.",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.028"
+					},
+					{
+						"value": "2021-04-21",
+						"frac": "0.016"
+					},
+					{
+						"value": "2021-04-22",
+						"frac": "0.015"
+					},
+					{
+						"value": "2021-04-19",
+						"frac": "0.013"
+					},
+					{
+						"value": "2021-04-20",
+						"frac": "0.013"
+					}
+				]
+			},
+			{
+				"name": "third_dose",
+				"label": "Third Dose Date",
+				"description": "Date the study received their third vaccine dose.",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.14"
+					},
+					{
+						"value": "2021-12-21",
+						"frac": "0.019"
+					},
+					{
+						"value": "2021-12-20",
+						"frac": "0.018"
+					},
+					{
+						"value": "2021-12-22",
+						"frac": "0.018"
+					},
+					{
+						"value": "2021-12-18",
+						"frac": "0.017"
+					}
+				]
+			},
+			{
+				"name": "fourth_dose",
+				"label": "Fourth Dose Date",
+				"description": "Date the study received their fourth vaccine dose.",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.86"
+					},
+					{
+						"value": "2022-04-11",
+						"frac": "0.0075"
+					},
+					{
+						"value": "2022-04-13",
+						"frac": "0.0063"
+					},
+					{
+						"value": "2022-04-22",
+						"frac": "0.0058"
+					},
+					{
+						"value": "2022-04-12",
+						"frac": "0.0052"
+					}
+				]
+			},
+			{
+				"name": "fifth_dose",
+				"label": "Fifth Dose Date",
+				"description": "Date the study received their fifth vaccine dose.",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "date_of_death",
+				"label": "Date of Death",
+				"description": "Date of death - reliable?",
+				"type": "dttm",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "leaver_flag",
+				"label": "??",
+				"description": "??",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.0076"
+					}
+				]
+			},
+			{
+				"name": "validchi",
+				"label": "Valid CHI",
+				"description": "CHI number is valid when linking these datesets (will always be 1?)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Valid CHI",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "EAVE_LINKNO",
+				"label": "EAVE Study Identifier",
+				"description": "EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "62fbc940f83bac0cc07a0c14"
+		},
+		"meta": {
+			"file": "/conf/EAVE/GPanalysis/data//WGS_latest.rds",
+			"finfo": [
+				{
+					"size": 10279575,
+					"mtime": "2022-08-15 08:45:32",
+					"ctime": "2022-08-15 08:45:32",
+					"atime": "2022-08-15 19:48:28",
+					"uname": "ellioh01",
+					"grname": "GPanalysis"
+				}
+			],
+			"nrows": 352158
+		},
+		"columns": [
+			{
+				"name": "UniqID",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "SubLab",
+				"label": "Sub lab",
+				"description": "Sub lab ID",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "NHS:COV",
+						"frac": "0.85"
+					},
+					{
+						"value": "GLA:REV",
+						"frac": "0.041"
+					},
+					{
+						"value": "EDI:RVL",
+						"frac": "0.026"
+					},
+					{
+						"value": "LAN:LAW",
+						"frac": "0.013"
+					},
+					{
+						"value": "DEE:UNI",
+						"frac": "0.011"
+					}
+				]
+			},
+			{
+				"name": "query",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "SequenceID",
+				"label": "Sequence ID Number",
+				"description": "Sequence ID number",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "Collection_Date",
+				"label": "Collection date",
+				"description": "Date sample collected",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2022-03-07",
+						"frac": "0.014"
+					},
+					{
+						"value": "2022-03-14",
+						"frac": "0.014"
+					},
+					{
+						"value": "2022-03-02",
+						"frac": "0.013"
+					},
+					{
+						"value": "2022-03-09",
+						"frac": "0.012"
+					},
+					{
+						"value": "2022-02-15",
+						"frac": "0.012"
+					}
+				]
+			},
+			{
+				"name": "Sequencing_Date",
+				"label": "Sequencing date",
+				"description": "Date sample sequenced",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "05/03/2022",
+						"frac": "0.019"
+					},
+					{
+						"value": "10/03/2022",
+						"frac": "0.016"
+					},
+					{
+						"value": "29/03/2022",
+						"frac": "0.014"
+					},
+					{
+						"frac": "0.014"
+					},
+					{
+						"value": "26/02/2022",
+						"frac": "0.013"
+					}
+				]
+			},
+			{
+				"name": "Alignment_Date",
+				"label": "Alignment date",
+				"description": "The date the sequence is first available to PHS for analysis (used for sample tracking and calculating turn around times)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "01/03/2022",
+						"frac": "0.03"
+					},
+					{
+						"value": "15/03/2022",
+						"frac": "0.019"
+					},
+					{
+						"value": "28/02/2022",
+						"frac": "0.018"
+					},
+					{
+						"value": "22/03/2022",
+						"frac": "0.018"
+					},
+					{
+						"value": "09/03/2022",
+						"frac": "0.017"
+					}
+				]
+			},
+			{
+				"name": "adm2",
+				"label": "County of patient",
+				"description": "County level based on patient's outer postcode",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "GLASGOW",
+						"frac": "0.13"
+					},
+					{
+						"value": "EDINBURGH",
+						"frac": "0.093"
+					},
+					{
+						"value": "NORTH LANARKSHIRE",
+						"frac": "0.067"
+					},
+					{
+						"value": "FIFE",
+						"frac": "0.064"
+					},
+					{
+						"value": "SOUTH LANARKSHIRE",
+						"frac": "0.061"
+					}
+				]
+			},
+			{
+				"name": "HealthBoard",
+				"label": "NHS Health Board",
+				"description": "Name abbreviation of NHS Health Boards",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "GC",
+						"frac": "0.25"
+					},
+					{
+						"value": "LO",
+						"frac": "0.17"
+					},
+					{
+						"value": "LN",
+						"frac": "0.13"
+					},
+					{
+						"value": "GR",
+						"frac": "0.088"
+					},
+					{
+						"value": "TY",
+						"frac": "0.075"
+					}
+				]
+			},
+			{
+				"name": "VariantofInterest",
+				"label": "Variant of interest",
+				"description": "whether VOC/VOI or not",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "VOC-22JAN-01",
+						"frac": "0.29"
+					},
+					{
+						"value": "V-21APR-02",
+						"frac": "0.28"
+					},
+					{
+						"value": "VOC-21NOV-01",
+						"frac": "0.22"
+					},
+					{
+						"value": "V-20DEC-01",
+						"frac": "0.081"
+					},
+					{
+						"value": "Not assigned VOC/VUI",
+						"frac": "0.044"
+					}
+				]
+			},
+			{
+				"name": "VariantShorthand",
+				"label": "Variance shorthand",
+				"description": "seems incomplete? - better to use lineage",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "BA.2",
+						"frac": "0.29"
+					},
+					{
+						"value": "B.1.617.2",
+						"frac": "0.28"
+					},
+					{
+						"value": "BA.1",
+						"frac": "0.22"
+					},
+					{
+						"value": "VOC1",
+						"frac": "0.081"
+					},
+					{
+						"value": "NA",
+						"frac": "0.044"
+					}
+				]
+			},
+			{
+				"name": "VariantCalling",
+				"label": "Variant calling",
+				"description": "Based on the PHE VUI/VOC genomic definition, there are thresholds within number of mutation / deletions present within your sequence that match the profile. HR-LQG is high risk low quality.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Confirmed",
+						"frac": "0.52"
+					},
+					{
+						"value": "Probable",
+						"frac": "0.43"
+					},
+					{
+						"value": "NA",
+						"frac": "0.044"
+					},
+					{
+						"value": "Probable; Secondary change",
+						"frac": "0.0034"
+					}
+				]
+			},
+			{
+				"name": "ref_count",
+				"label": "Counts of reference bases",
+				"description": "Counts of reference bases (not mutations)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.93"
+					},
+					{
+						"value": "NA",
+						"frac": "0.044"
+					},
+					{
+						"value": "1",
+						"frac": "0.023"
+					}
+				]
+			},
+			{
+				"name": "alt_count",
+				"label": "Counts of mutations",
+				"description": "Counts of mutations (given that the mutation is an expected one within the VUI/VOC genomic profile)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "3",
+						"frac": "0.33"
+					},
+					{
+						"value": "11",
+						"frac": "0.24"
+					},
+					{
+						"value": "9",
+						"frac": "0.22"
+					},
+					{
+						"value": "13",
+						"frac": "0.079"
+					},
+					{
+						"value": "NA",
+						"frac": "0.044"
+					}
+				]
+			},
+			{
+				"name": "other_count",
+				"label": "Other counts",
+				"description": "Counts of bases that are not reference or expected mutations",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.64"
+					},
+					{
+						"value": "1",
+						"frac": "0.26"
+					},
+					{
+						"value": "NA",
+						"frac": "0.044"
+					},
+					{
+						"value": "3",
+						"frac": "0.024"
+					},
+					{
+						"value": "2",
+						"frac": "0.018"
+					}
+				]
+			},
+			{
+				"name": "Ambiguous",
+				"label": "Counts of ambiguous bases",
+				"description": "Counts of bases which are ambiguous (typically due to low sequencing quality)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.64"
+					},
+					{
+						"value": "1",
+						"frac": "0.26"
+					},
+					{
+						"value": "NA",
+						"frac": "0.044"
+					},
+					{
+						"value": "3",
+						"frac": "0.024"
+					},
+					{
+						"value": "2",
+						"frac": "0.017"
+					}
+				]
+			},
+			{
+				"name": "MOI_List",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "K417N",
+						"frac": "0.43"
+					},
+					{
+						"value": "L452R;A2529V",
+						"frac": "0.19"
+					},
+					{
+						"frac": "0.19"
+					},
+					{
+						"value": "L452R",
+						"frac": "0.066"
+					},
+					{
+						"value": "L452R;A222V;Y145H;A2529V",
+						"frac": "0.038"
+					}
+				]
+			},
+			{
+				"name": "aa:S:E484K",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "A",
+						"frac": "0.48"
+					},
+					{
+						"value": "wt",
+						"frac": "0.43"
+					},
+					{
+						"value": "amb",
+						"frac": "0.088"
+					}
+				]
+			},
+			{
+				"name": "aa:S:G446V",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.75"
+					},
+					{
+						"value": "S",
+						"frac": "0.15"
+					},
+					{
+						"value": "amb",
+						"frac": "0.092"
+					},
+					{
+						"value": "V",
+						"frac": "0.003"
+					}
+				]
+			},
+			{
+				"name": "aa:S:N439k",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.91"
+					},
+					{
+						"value": "amb",
+						"frac": "0.093"
+					},
+					{
+						"value": "K",
+						"frac": "0.0017"
+					}
+				]
+			},
+			{
+				"name": "aa:S:K417N",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "N",
+						"frac": "0.48"
+					},
+					{
+						"value": "wt",
+						"frac": "0.44"
+					},
+					{
+						"value": "amb",
+						"frac": "0.083"
+					},
+					{
+						"value": "T",
+						"frac": "0.0027"
+					}
+				]
+			},
+			{
+				"name": "aa:S:E484Q",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "A",
+						"frac": "0.48"
+					},
+					{
+						"value": "wt",
+						"frac": "0.43"
+					},
+					{
+						"value": "amb",
+						"frac": "0.088"
+					}
+				]
+			},
+			{
+				"name": "aa:S:P251L",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.97"
+					},
+					{
+						"value": "amb",
+						"frac": "0.022"
+					},
+					{
+						"value": "L",
+						"frac": "0.0056"
+					}
+				]
+			},
+			{
+				"name": "aa:S:L452R",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.55"
+					},
+					{
+						"value": "R",
+						"frac": "0.35"
+					},
+					{
+						"value": "amb",
+						"frac": "0.091"
+					},
+					{
+						"value": "Q",
+						"frac": "0.0046"
+					}
+				]
+			},
+			{
+				"name": "aa:S:A222V",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.9"
+					},
+					{
+						"value": "V",
+						"frac": "0.065"
+					},
+					{
+						"value": "amb",
+						"frac": "0.031"
+					}
+				]
+			},
+			{
+				"name": "aa:S:Y145H",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.71"
+					},
+					{
+						"value": "amb",
+						"frac": "0.25"
+					},
+					{
+						"value": "H",
+						"frac": "0.039"
+					}
+				]
+			},
+			{
+				"name": "aa:orf1ab:A2529V",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.74"
+					},
+					{
+						"value": "V",
+						"frac": "0.24"
+					},
+					{
+						"value": "amb",
+						"frac": "0.015"
+					}
+				]
+			},
+			{
+				"name": "aa:S:L452W",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.55"
+					},
+					{
+						"value": "R",
+						"frac": "0.35"
+					},
+					{
+						"value": "amb",
+						"frac": "0.091"
+					},
+					{
+						"value": "Q",
+						"frac": "0.0046"
+					}
+				]
+			},
+			{
+				"name": "aa:S:L452Q",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.55"
+					},
+					{
+						"value": "R",
+						"frac": "0.35"
+					},
+					{
+						"value": "amb",
+						"frac": "0.091"
+					},
+					{
+						"value": "Q",
+						"frac": "0.0046"
+					}
+				]
+			},
+			{
+				"name": "aa:S:L452M",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.55"
+					},
+					{
+						"value": "R",
+						"frac": "0.35"
+					},
+					{
+						"value": "amb",
+						"frac": "0.091"
+					},
+					{
+						"value": "Q",
+						"frac": "0.0046"
+					}
+				]
+			},
+			{
+				"name": "aa:orf10:L37F",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.96"
+					},
+					{
+						"value": "-",
+						"frac": "0.022"
+					},
+					{
+						"value": "F",
+						"frac": "0.013"
+					}
+				]
+			},
+			{
+				"name": "aa:orf1ab:N4060S",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "1"
+					},
+					{
+						"value": "amb",
+						"frac": "0.0041"
+					}
+				]
+			},
+			{
+				"name": "aa:orf1ab:S1221L",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "wt",
+						"frac": "0.98"
+					},
+					{
+						"value": "amb",
+						"frac": "0.022"
+					}
+				]
+			},
+			{
+				"name": "lineage",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "AY.4",
+						"frac": "0.2"
+					},
+					{
+						"value": "BA.2",
+						"frac": "0.19"
+					},
+					{
+						"value": "BA.1.1",
+						"frac": "0.099"
+					},
+					{
+						"value": "B.1.1.7",
+						"frac": "0.083"
+					},
+					{
+						"value": "BA.1",
+						"frac": "0.054"
+					}
+				]
+			},
+			{
+				"name": "pangolin_version",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "4.1.2",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "ISO_Week",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 1,
+				"max": 53,
+				"values": [
+					{
+						"value": "9",
+						"frac": "0.05"
+					},
+					{
+						"value": "10",
+						"frac": "0.049"
+					},
+					{
+						"value": "12",
+						"frac": "0.048"
+					},
+					{
+						"value": "7",
+						"frac": "0.045"
+					},
+					{
+						"value": "8",
+						"frac": "0.045"
+					}
+				]
+			},
+			{
+				"name": "validchi",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Valid CHI",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "EAVE_LINKNO",
+				"label": "EAVE Study Identifier",
+				"description": "EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "62fbc93cf152e0ca956f3159"
+		},
+		"meta": {
+			"file": "/conf/EAVE/GPanalysis/data//CDW_deduped.rds",
+			"finfo": [
+				{
+					"size": 145458644,
+					"mtime": "2022-08-15 05:50:41",
+					"ctime": "2022-08-15 05:50:41",
+					"atime": "2022-08-16 08:11:13",
+					"uname": "safras01",
+					"grname": "GPanalysis"
+				}
+			],
+			"nrows": 3953858
+		},
+		"columns": [
+			{
+				"name": "EAVE_LINKNO",
+				"label": "EAVE Study Identifier",
+				"description": "EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "test_id",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "age",
+				"label": "Age",
+				"description": "Age in years",
+				"type": "dbl",
+				"min": 0,
+				"max": 102,
+				"values": [
+					{
+						"value": "38",
+						"frac": "0.017"
+					},
+					{
+						"value": "34",
+						"frac": "0.016"
+					},
+					{
+						"value": "32",
+						"frac": "0.016"
+					},
+					{
+						"value": "35",
+						"frac": "0.016"
+					},
+					{
+						"value": "28",
+						"frac": "0.016"
+					}
+				]
+			},
+			{
+				"name": "sex",
+				"label": "Sex (number)",
+				"description": "Sex at birth",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Female",
+						"frac": "0.52"
+					},
+					{
+						"value": "Male",
+						"frac": "0.48"
+					}
+				]
+			},
+			{
+				"name": "HB_residence",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "NHS GREATER GLASGOW & CLYDE",
+						"frac": "0.23"
+					},
+					{
+						"value": "NHS LOTHIAN",
+						"frac": "0.17"
+					},
+					{
+						"value": "NHS LANARKSHIRE",
+						"frac": "0.13"
+					},
+					{
+						"value": "NHS GRAMPIAN",
+						"frac": "0.1"
+					},
+					{
+						"value": "NHS TAYSIDE",
+						"frac": "0.071"
+					}
+				]
+			},
+			{
+				"name": "SpecimenDate",
+				"label": "Specimen Date",
+				"description": "Date sample taken",
+				"type": "dttm",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "reporting_health_board",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "NHS GREATER GLASGOW & CLYDE",
+						"frac": "0.23"
+					},
+					{
+						"value": "NHS LOTHIAN",
+						"frac": "0.16"
+					},
+					{
+						"value": "NHS LANARKSHIRE",
+						"frac": "0.13"
+					},
+					{
+						"value": "NHS GRAMPIAN",
+						"frac": "0.098"
+					},
+					{
+						"value": "NHS TAYSIDE",
+						"frac": "0.072"
+					}
+				]
+			},
+			{
+				"name": "submitting_lab",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "NON-ECOSS",
+						"frac": "0.8"
+					},
+					{
+						"value": "GLA:REV",
+						"frac": "0.049"
+					},
+					{
+						"value": "EDI:RVL",
+						"frac": "0.029"
+					},
+					{
+						"value": "ABD:GHB",
+						"frac": "0.023"
+					},
+					{
+						"value": "LAN:LAW",
+						"frac": "0.017"
+					}
+				]
+			},
+			{
+				"name": "lab_code",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "GLS",
+						"frac": "0.73"
+					},
+					{
+						"frac": "0.06"
+					},
+					{
+						"value": "AYR:ARL",
+						"frac": "0.015"
+					},
+					{
+						"value": "FIF:ARL",
+						"frac": "0.014"
+					},
+					{
+						"value": "NC",
+						"frac": "0.013"
+					}
+				]
+			},
+			{
+				"name": "lab_name",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Glasgow",
+						"frac": "0.73"
+					},
+					{
+						"frac": "0.083"
+					},
+					{
+						"value": "Crosshouse Hospital, Kilmarnock",
+						"frac": "0.015"
+					},
+					{
+						"value": "Fife Area Laboratory",
+						"frac": "0.014"
+					},
+					{
+						"value": "Newcastle",
+						"frac": "0.013"
+					}
+				]
+			},
+			{
+				"name": "test_result_record_source",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "NHS DIGITAL",
+						"frac": "0.77"
+					},
+					{
+						"value": "ECOSS",
+						"frac": "0.2"
+					},
+					{
+						"value": "SGSS",
+						"frac": "0.023"
+					},
+					{
+						"value": "SCOT",
+						"frac": "0.0073"
+					},
+					{
+						"value": "ONS",
+						"frac": "0.0013"
+					}
+				]
+			},
+			{
+				"name": "flag_lighthouse_labs_testing",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.77"
+					},
+					{
+						"value": "0",
+						"frac": "0.23"
+					}
+				]
+			},
+			{
+				"name": "flag_deduplicated_cases",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 1,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "NCOV_RESULT",
+				"label": "COVID-19 result",
+				"description": "Novel Coronavirus result",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "NEGATIVE",
+						"frac": "0.62"
+					},
+					{
+						"value": "POSITIVE",
+						"frac": "0.38"
+					}
+				]
+			},
+			{
+				"name": "NRS.Date.Death",
+				"label": "Date of NRS death record",
+				"description": "Date of death",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "NRS.Reg.Date",
+				"label": "Date of death registered",
+				"description": "Date of death registered",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "death28",
+				"label": "Death within 28 days",
+				"description": "Death within 28 days of positive covid test",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.0077"
+					}
+				]
+			},
+			{
+				"name": "pc8",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "simd2020v2_sc_quintile",
+				"label": "",
+				"description": "",
+				"type": "int",
+				"min": "NA",
+				"max": "NA",
+				"values": [
+					{
+						"value": "5",
+						"frac": "0.2"
+					},
+					{
+						"value": "1",
+						"frac": "0.2"
+					},
+					{
+						"value": "2",
+						"frac": "0.2"
+					},
+					{
+						"value": "4",
+						"frac": "0.2"
+					},
+					{
+						"value": "3",
+						"frac": "0.19"
+					}
+				]
+			},
+			{
+				"name": "datazone2011",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.33"
+					},
+					{
+						"value": "S01008144",
+						"frac": "0.23"
+					},
+					{
+						"value": "S01012030",
+						"frac": "0.23"
+					},
+					{
+						"value": "S01012820",
+						"frac": "0.21"
+					}
+				]
+			},
+			{
+				"name": "ur6_2016",
+				"label": "Urban/Rural classification",
+				"description": "Urban/Rural 6-fold classification (2016 classification)",
+				"type": "int",
+				"min": "NA",
+				"max": "NA",
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.36"
+					},
+					{
+						"value": "2",
+						"frac": "0.36"
+					},
+					{
+						"value": "5",
+						"frac": "0.12"
+					},
+					{
+						"value": "3",
+						"frac": "0.083"
+					},
+					{
+						"value": "6",
+						"frac": "0.054"
+					}
+				]
+			},
+			{
+				"name": "result",
+				"label": "Result",
+				"description": "Result",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.62"
+					},
+					{
+						"value": "1",
+						"frac": "0.38"
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "62fbc94096db24773501cc9f"
+		},
+		"meta": {
+			"file": "/conf/EAVE/GPanalysis/data//cases_severe_dates.rds",
+			"finfo": [
+				{
+					"size": 3921592,
+					"mtime": "2021-07-28 09:31:23",
+					"ctime": "2022-05-12 10:14:22",
+					"atime": "2022-08-15 15:07:37",
+					"uname": "emilym02",
+					"grname": "GPanalysis"
+				}
+			],
+			"nrows": 325438
+		},
+		"columns": [
+			{
+				"name": "EAVE_LINKNO",
+				"label": "EAVE Study Identifier",
+				"description": "EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "SPECIMENDATE",
+				"label": "",
+				"description": "",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2021-06-30",
+						"frac": "0.013"
+					},
+					{
+						"value": "2021-06-28",
+						"frac": "0.013"
+					},
+					{
+						"value": "2021-06-29",
+						"frac": "0.013"
+					},
+					{
+						"value": "2021-07-02",
+						"frac": "0.012"
+					},
+					{
+						"value": "2021-06-22",
+						"frac": "0.012"
+					}
+				]
+			},
+			{
+				"name": "CURRENT_POSTCODE",
+				"label": "Postcode",
+				"description": "Postcode of residence",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "is.case",
+				"label": "is a covid case",
+				"description": "Flag to indicate person is a covid case (+ve test and/or covid on death certificate)",
+				"type": "dbl",
+				"min": 1,
+				"max": 1,
+				"values": [
+					{
+						"value": "1",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "DATE_OF_DEATH",
+				"label": "Date of death",
+				"description": "Date of patients death",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "covid_ucod",
+				"label": "COVID is underlying cause of death (COD)",
+				"description": "Indicator or whether covid is underlying or primary COD on death certificate",
+				"type": "dbl",
+				"min": "NA",
+				"max": "NA",
+				"values": [
+					{
+						"frac": "0.96"
+					},
+					{
+						"value": "1",
+						"frac": "0.03"
+					},
+					{
+						"value": "0",
+						"frac": "0.014"
+					}
+				]
+			},
+			{
+				"name": "covid_cod",
+				"label": "Covid listed as any cause of death",
+				"description": "Indicator or whether covid is listed as any COD on death certificate",
+				"type": "dbl",
+				"min": "NA",
+				"max": "NA",
+				"values": [
+					{
+						"frac": "0.96"
+					},
+					{
+						"value": "1",
+						"frac": "0.034"
+					},
+					{
+						"value": "0",
+						"frac": "0.0096"
+					}
+				]
+			},
+			{
+				"name": "dead28",
+				"label": "Death within 28 days",
+				"description": "Indicator of whether patient has died within 28 days of +ve covid Test",
+				"type": "dbl",
+				"min": "NA",
+				"max": "NA",
+				"values": [
+					{
+						"frac": "0.97"
+					},
+					{
+						"value": "1",
+						"frac": "0.026"
+					}
+				]
+			},
+			{
+				"name": "inhosp",
+				"label": "In hospital when test done",
+				"description": "Indicator whether patient was already admitted to hospital at time of test",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.94"
+					},
+					{
+						"value": "1",
+						"frac": "0.064"
+					}
+				]
+			},
+			{
+				"name": "icu",
+				"label": "ICU admission",
+				"description": "Indicator of whether patient was admitted to Intensive Care Unit (ICU)",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.008"
+					}
+				]
+			},
+			{
+				"name": "hdu",
+				"label": "HDU admission",
+				"description": "Indicator of whether patient was admitted to High Dependency Unit (HDU)",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.006"
+					}
+				]
+			},
+			{
+				"name": "RAPID",
+				"label": "rapid flag",
+				"description": "flag to indicate person in RAPID dataset",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.83"
+					},
+					{
+						"value": "1",
+						"frac": "0.17"
+					}
+				]
+			},
+			{
+				"name": "ICU_date",
+				"label": "ICU admission date",
+				"description": "Date admitted to ICU",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "days_to_icu",
+				"label": "Days to ICU",
+				"description": "Number of days from test to admission to ICU",
+				"type": "dbl",
+				"min": "NA",
+				"max": "NA",
+				"values": [
+					{
+						"frac": "0.99"
+					},
+					{
+						"value": "0",
+						"frac": "0.0022"
+					},
+					{
+						"value": "1",
+						"frac": "0.0021"
+					},
+					{
+						"value": "2",
+						"frac": "0.0011"
+					}
+				]
+			},
+			{
+				"name": "Admission.date",
+				"label": "",
+				"description": "",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					},
+					{
+						"value": "2020-04-01",
+						"frac": "0.0014"
+					},
+					{
+						"value": "2021-01-11",
+						"frac": "0.0014"
+					},
+					{
+						"value": "2021-01-20",
+						"frac": "0.0012"
+					}
+				]
+			},
+			{
+				"name": "days_2_hosp",
+				"label": "Days to hospital",
+				"description": "Number of days from test to admission to hospital",
+				"type": "dbl",
+				"min": "NA",
+				"max": "NA",
+				"values": [
+					{
+						"frac": "0.92"
+					},
+					{
+						"value": "0",
+						"frac": "0.04"
+					},
+					{
+						"value": "1",
+						"frac": "0.0045"
+					},
+					{
+						"value": "-1",
+						"frac": "0.0036"
+					},
+					{
+						"value": "7",
+						"frac": "0.0035"
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "62fbc93f25a252a23443f930"
+		},
+		"meta": {
+			"file": "/conf/EAVE/GPanalysis/data/cleaned_data//QCOVID_feb22.rds",
+			"finfo": [
+				{
+					"size": 30306682,
+					"mtime": "2022-03-10 14:43:24",
+					"ctime": "2022-05-12 10:14:22",
+					"atime": "2022-08-15 18:02:25",
+					"uname": "ellioh01",
+					"grname": "GPanalysis"
+				}
+			],
+			"nrows": 4280000
+		},
+		"columns": [
+			{
+				"name": "EAVE_LINKNO",
+				"label": "EAVE Study Identifier",
+				"description": "EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "Age",
+				"label": "Age",
+				"description": "Age at time of event",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "57   ",
+						"frac": "0.017"
+					},
+					{
+						"value": "55   ",
+						"frac": "0.017"
+					},
+					{
+						"value": "35   ",
+						"frac": "0.016"
+					},
+					{
+						"value": "40   ",
+						"frac": "0.016"
+					},
+					{
+						"value": "33   ",
+						"frac": "0.016"
+					}
+				]
+			},
+			{
+				"name": "Sex",
+				"label": "Sex",
+				"description": "Sex at birth",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "F",
+						"frac": "0.52"
+					},
+					{
+						"value": "M",
+						"frac": "0.48"
+					}
+				]
+			},
+			{
+				"name": "Q_BMI",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.49"
+					},
+					{
+						"value": "25",
+						"frac": "0.035"
+					},
+					{
+						"value": "26",
+						"frac": "0.035"
+					},
+					{
+						"value": "27",
+						"frac": "0.035"
+					},
+					{
+						"value": "28",
+						"frac": "0.034"
+					}
+				]
+			},
+			{
+				"name": "Q_ETHNICITY",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "1",
+						"frac": "0.65"
+					},
+					{
+						"frac": "0.35"
+					}
+				]
+			},
+			{
+				"name": "Q_HOME_CAT",
+				"label": "Care housing category",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.0067"
+					}
+				]
+			},
+			{
+				"name": "Q_LEARN_CAT",
+				"label": "Learning disability or Down's",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.98"
+					},
+					{
+						"value": "1",
+						"frac": "0.017"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_CKD_LEVEL",
+				"label": "Kidney disease",
+				"description": "Study marked as at risk of COVID-19 due to Kidney disease",
+				"type": "dbl",
+				"min": 0,
+				"max": 3,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.96"
+					},
+					{
+						"value": "3",
+						"frac": "0.039"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_AF",
+				"label": "Atrial fibrillation indicator",
+				"description": "Study marked as at risk of COVID-19 due to Atrial fibrillation indicator",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.97"
+					},
+					{
+						"value": "1",
+						"frac": "0.028"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_ASTHMA",
+				"label": "Asthma",
+				"description": "Study marked as at risk of COVID-19 due to Asthma",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.87"
+					},
+					{
+						"value": "1",
+						"frac": "0.13"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_BLOOD_CANCER",
+				"label": "Blood cancer",
+				"description": "Study marked as at risk of COVID-19 due to Blood cancer",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					},
+					{
+						"value": "1",
+						"frac": "0.005"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_CCF",
+				"label": "Heart failure indicator",
+				"description": "Study marked as at risk of COVID-19 due to Heart failure indicator",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.012"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_CEREBRALPALSY",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					},
+					{
+						"value": "1",
+						"frac": "0.002"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_CHD",
+				"label": "Coronary heart disease",
+				"description": "Study marked as at risk of COVID-19 due to Coronary heart disease",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.95"
+					},
+					{
+						"value": "1",
+						"frac": "0.047"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_CIRRHOSIS",
+				"label": "Cirrhosis",
+				"description": "Study marked as at risk of COVID-19 due to Cirrhosis",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					},
+					{
+						"value": "1",
+						"frac": "0.0031"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_CONGEN_HD",
+				"label": "Congenital heart disease",
+				"description": "Study marked as at risk of COVID-19 due to Congenital heart disease",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.0077"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_COPD",
+				"label": "Chronic obstructive pulmonary disease (COPD) indicator",
+				"description": "Study marked as at risk of COVID-19 due to Chronic obstructive pulmonary disease (COPD) indicator",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.97"
+					},
+					{
+						"value": "1",
+						"frac": "0.032"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_DEMENTIA",
+				"label": "Dementia",
+				"description": "Study marked as at risk of COVID-19 due to Dementia",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.0065"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_DIABETES_1",
+				"label": "Diabetes indicator",
+				"description": "Study marked as at risk of COVID-19 due to Diabetes indicator",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.71"
+					},
+					{
+						"value": "1",
+						"frac": "0.29"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_DIABETES_2",
+				"label": "Diabetes indicator",
+				"description": "Study marked as at risk of COVID-19 due to Diabetes indicator",
+				"type": "dbl",
+				"min": 0,
+				"max": 0,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_EPILEPSY",
+				"label": "Epilepsy",
+				"description": "Study marked as at risk of COVID-19 due to Epilepsy",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.98"
+					},
+					{
+						"value": "1",
+						"frac": "0.017"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_FRACTURE",
+				"label": "Fracture",
+				"description": "Study marked as at risk of COVID-19 due to Fracture",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.94"
+					},
+					{
+						"value": "1",
+						"frac": "0.056"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_HIV_AIDS",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_IMMU",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_NEURO",
+				"label": "Neurological disorder",
+				"description": "Study marked as at risk of COVID-19 due to Neurological disorder",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					},
+					{
+						"value": "1",
+						"frac": "0.0041"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_PARKINSONS",
+				"label": "Parkinson’s",
+				"description": "Study marked as at risk of COVID-19 due to Parkinson’s",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					},
+					{
+						"value": "1",
+						"frac": "0.0024"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_PULM_HYPER",
+				"label": "Pulmonary hypertension",
+				"description": "Study marked as at risk of COVID-19 due to Pulmonary hypertension",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					},
+					{
+						"value": "1",
+						"frac": "0.0014"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_PULM_RARE",
+				"label": "Pulmonary rare",
+				"description": "Study marked as at risk of COVID-19 due to Pulmonary rare",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.0057"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_PVD",
+				"label": "Peripheral vascular disease",
+				"description": "Study marked as at risk of COVID-19 due to Peripheral vascular disease",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					},
+					{
+						"value": "1",
+						"frac": "0.0022"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_RA_SLE",
+				"label": "Rheumatoid arthritis or SLE",
+				"description": "Study marked as at risk of COVID-19 due to Rheumatoid arthritis or SLE",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.98"
+					},
+					{
+						"value": "1",
+						"frac": "0.021"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_RESP_CANCER",
+				"label": "Respiratory cancer",
+				"description": "Study marked as at risk of COVID-19 due to Respiratory cancer",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					},
+					{
+						"value": "1",
+						"frac": "0.0013"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_SEV_MENT_ILL",
+				"label": "Severe mental illness indicator",
+				"description": "Study marked as at risk of COVID-19 due to Severe mental illness indicator",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					},
+					{
+						"value": "1",
+						"frac": "0.0049"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_SICKLE_CELL",
+				"label": "Sickle cell disease",
+				"description": "Study marked as at risk of COVID-19 due to Sickle cell disease",
+				"type": "dbl",
+				"min": 0,
+				"max": 0,
+				"values": [
+					{
+						"value": "0",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_STROKE",
+				"label": "Stroke/TIA",
+				"description": "Study marked as at risk of COVID-19 due to Stroke/TIA",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.97"
+					},
+					{
+						"value": "1",
+						"frac": "0.028"
+					}
+				]
+			},
+			{
+				"name": "Q_DIAG_VTE",
+				"label": "A thrombosis or pulmonary embolus indicator",
+				"description": "Study marked as at risk of COVID-19 due to A thrombosis or pulmonary embolus indicator",
+				"type": "dbl",
+				"min": 0,
+				"max": 1,
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.99"
+					},
+					{
+						"value": "1",
+						"frac": "0.01"
+					}
+				]
+			},
+			{
+				"name": "n_risk_gps",
+				"label": "",
+				"description": "",
+				"type": "ord",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "0",
+						"frac": "0.49"
+					},
+					{
+						"value": "1",
+						"frac": "0.34"
+					},
+					{
+						"value": "2",
+						"frac": "0.11"
+					},
+					{
+						"value": "3-4",
+						"frac": "0.053"
+					},
+					{
+						"value": "5+",
+						"frac": "0.0059"
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "62fbc942cbce36bf8287bb5d"
+		},
+		"meta": {
+			"file": "/conf/EAVE/GPanalysis/data//serology_primcare_july22_v3.rds",
+			"finfo": [
+				{
+					"size": 1164587,
+					"mtime": "2022-07-14 10:46:55",
+					"ctime": "2022-07-14 10:46:55",
+					"atime": "2022-08-15 14:55:48",
+					"uname": "nichoy01",
+					"grname": "GPanalysis"
+				}
+			],
+			"nrows": 66531
+		},
+		"columns": [
+			{
+				"name": "EAVE_LINKNO",
+				"label": "EAVE Study Identifier",
+				"description": "EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "LabSpecimenNo",
+				"label": "Number of laboratory specimen",
+				"description": "Number of laboratory specimen",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "Sampledate_iso",
+				"label": "Sample Date",
+				"description": "The date the serology measurement was taken from the individual (in ISO format)",
+				"type": "dttm",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2020-07-27",
+						"frac": "0.013"
+					},
+					{
+						"value": "2020-11-30",
+						"frac": "0.012"
+					},
+					{
+						"value": "2020-12-07",
+						"frac": "0.012"
+					},
+					{
+						"value": "2020-07-20",
+						"frac": "0.012"
+					},
+					{
+						"value": "2020-09-07",
+						"frac": "0.012"
+					}
+				]
+			},
+			{
+				"name": "year",
+				"label": "Year",
+				"description": "Year of the lookup file used to determine the Health Boards",
+				"type": "dbl",
+				"min": 2020,
+				"max": 2022,
+				"values": [
+					{
+						"value": "2021",
+						"frac": "0.5"
+					},
+					{
+						"value": "2020",
+						"frac": "0.38"
+					},
+					{
+						"value": "2022",
+						"frac": "0.12"
+					}
+				]
+			},
+			{
+				"name": "isoweek",
+				"label": "Week of Pandemic",
+				"description": "Week since the start of the pandemic",
+				"type": "dbl",
+				"min": 1,
+				"max": 53,
+				"values": [
+					{
+						"value": "25",
+						"frac": "0.023"
+					},
+					{
+						"value": "30",
+						"frac": "0.023"
+					},
+					{
+						"value": "23",
+						"frac": "0.023"
+					},
+					{
+						"value": "32",
+						"frac": "0.023"
+					},
+					{
+						"value": "31",
+						"frac": "0.022"
+					}
+				]
+			},
+			{
+				"name": "sex",
+				"label": "Sex (number)",
+				"description": "Sex at birth, extracted by the serology team, it should not be trusted to be accurate",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "F",
+						"frac": "0.5"
+					},
+					{
+						"value": "M",
+						"frac": "0.5"
+					}
+				]
+			},
+			{
+				"name": "age",
+				"label": "Age",
+				"description": "Age of the study given in years, extracted from the serology files - and shouldn't be well trusted",
+				"type": "dbl",
+				"min": 0,
+				"max": 105,
+				"values": [
+					{
+						"value": "16",
+						"frac": "0.032"
+					},
+					{
+						"value": "19",
+						"frac": "0.031"
+					},
+					{
+						"value": "18",
+						"frac": "0.029"
+					},
+					{
+						"value": "17",
+						"frac": "0.028"
+					},
+					{
+						"value": "15",
+						"frac": "0.025"
+					}
+				]
+			},
+			{
+				"name": "healthboard",
+				"label": "Health Board",
+				"description": "The Scottish Health Board in which the individual was registered with.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "NHS Greater Glasgow and Clyde",
+						"frac": "0.25"
+					},
+					{
+						"value": "NHS Lothian",
+						"frac": "0.15"
+					},
+					{
+						"value": "NHS Lanarkshire",
+						"frac": "0.14"
+					},
+					{
+						"value": "NHS Fife",
+						"frac": "0.08"
+					},
+					{
+						"value": "NHS Tayside",
+						"frac": "0.078"
+					}
+				]
+			},
+			{
+				"name": "SpecimenOrigin",
+				"label": "Origin of specimen",
+				"description": "Where was the specimen taken. This is a primary care dataset, all values are 'Hospital'?",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Hospital",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "DateCollected",
+				"label": "Date Collected",
+				"description": "The date that the specimen was collected from the origin (where it was taken)",
+				"type": "dttm",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2020-12-09",
+						"frac": "0.014"
+					},
+					{
+						"value": "2021-01-14",
+						"frac": "0.0072"
+					},
+					{
+						"value": "2020-10-15",
+						"frac": "0.0069"
+					},
+					{
+						"value": "2020-12-16",
+						"frac": "0.0062"
+					},
+					{
+						"value": "2020-10-08",
+						"frac": "0.0059"
+					}
+				]
+			},
+			{
+				"name": "EcossDateReceived",
+				"label": "ECOSS Date",
+				"description": "The date in which the data was transfered into ECOSS",
+				"type": "dttm",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2020-12-09 23:21:50",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "SpecimenDate",
+				"label": "Specimen Date",
+				"description": "The date in whcih the specimen was tested by the assay for IgG levels (note: use `Sampledate_iso` for the date in which the blood specimen was extracted from the study",
+				"type": "dttm",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2020-12-09",
+						"frac": "0.014"
+					},
+					{
+						"value": "2021-01-14",
+						"frac": "0.0072"
+					},
+					{
+						"value": "2020-10-15",
+						"frac": "0.0069"
+					},
+					{
+						"value": "2020-12-16",
+						"frac": "0.0062"
+					},
+					{
+						"value": "2020-10-08",
+						"frac": "0.0059"
+					}
+				]
+			},
+			{
+				"name": "SpecimenTypeRaw",
+				"label": "Specimen Type Raw",
+				"description": "Raw code for the specimen type (always STS as this is blood serum data)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "STS",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "SpecimenType",
+				"label": "Specimen Type",
+				"description": "Always 'Serum' as this is serology dataset",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Serum",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "SpecLevel2Group",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Blood other",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "SpecLevel1Group",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Normally Sterile Site",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "OrganismRaw",
+				"label": "Organism Raw",
+				"description": "Raw data of the test result from the assay",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "(stest) covid-19 (sars-cov-2) igg,negative",
+						"frac": "0.59"
+					},
+					{
+						"value": "(stest) covid-19 (sars-cov-2) igg,>positive",
+						"frac": "0.41"
+					},
+					{
+						"value": "(stest) covid-19 (sars-cov-2) igg,equivocal",
+						"frac": "0.0071"
+					}
+				]
+			},
+			{
+				"name": "Type",
+				"label": "Type",
+				"description": "Type of measurement (almost always IgG 2019-nCoV)",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2019-nCoV IgG",
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "OriginalOrganism",
+				"label": "Original organism",
+				"description": "Original organism - Coronavirus 2019 positive or negative",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Coronavirus 2019-nCoV IgG negative",
+						"frac": "0.59"
+					},
+					{
+						"value": "Coronavirus 2019-nCoV IgG",
+						"frac": "0.41"
+					},
+					{
+						"value": "Coronavirus 2019-nCoV IgG equivocal",
+						"frac": "0.0071"
+					}
+				]
+			},
+			{
+			        "name": "test_result_qual",
+			        "label": "Qualitative Test Result",
+			        "description": "Qualitative test results from the assay for the presence (or lack thereof) of IgG to SARs-CoV-2. The assay defines the threshold that determines +ve or -ve tests.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "Negative",
+						"frac": "0.59"
+					},
+					{
+						"value": "Positive",
+						"frac": "0.41"
+					},
+					{
+						"value": "Equivocal",
+						"frac": "0.0071"
+					}
+				]
+			},
+			{
+				"name": "test_result_quant",
+			        "label": "Quantative Test Result",
+			        "description": "IgG measurements in Binding Activation Units [BAUs] that are measured by the assay. There are values that are truncated above/below certain values as the result was out-of-bounds of the assay's sensitivity for these.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "<3.8",
+						"frac": "0.59"
+					},
+					{
+						"value": ">2080.00",
+						"frac": "0.19"
+					},
+					{
+						"value": "<4.81",
+						"frac": "0.13"
+					},
+					{
+						"value": "<3.80",
+						"frac": "0.0095"
+					},
+					{
+						"value": ">400.0",
+						"frac": "0.0054"
+					}
+				]
+			},
+			{
+				"name": "QNum",
+				"label": "Quantative Measumrent Value (Number)",
+				"description": "The raw quantative number value, removing truncated values (note: not so safe to use this as values below AND above the assay threshold have been set as NA",
+				"type": "dbl",
+				"min": "NA",
+				"max": "NA",
+				"values": [
+					{
+						"frac": "0.92"
+					},
+					{
+						"value": "4.9",
+						"frac": "0.0054"
+					},
+					{
+						"value": "3.9",
+						"frac": "0.0048"
+					},
+					{
+						"value": "4.3",
+						"frac": "0.0044"
+					},
+					{
+						"value": "4.4",
+						"frac": "0.0041"
+					}
+				]
+			},
+			{
+				"name": "Text",
+				"label": "Text",
+				"description": "Raw text output from the final report",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: positive  specimen type: serum  --------------------------------------------------------------------  dr sally mavin, clinical scientist  final report",
+						"frac": "0.053"
+					},
+					{
+						"frac": "0.029"
+					},
+					{
+						"value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 12/06/20 at  1:37 pm  final report",
+						"frac": "0.01"
+					},
+					{
+						"value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 05/03/21 at  9:19 am  final report",
+						"frac": "0.0089"
+					},
+					{
+						"value": "covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 14/09/20 at 11:13 am  final report",
+						"frac": "0.0083"
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "62fbc940108e702058cb2d10"
+		},
+		"meta": {
+			"file": "/conf/EAVE/GPanalysis/data//all_deaths.rds",
+			"finfo": [
+				{
+					"size": 3617219,
+					"mtime": "2022-08-11 11:36:22",
+					"ctime": "2022-08-11 11:37:58",
+					"atime": "2022-08-15 14:52:44",
+					"uname": "daniem10",
+					"grname": "GPanalysis"
+				}
+			],
+			"nrows": 163987
+		},
+		"columns": [
+			{
+				"name": "EAVE_LINKNO",
+				"label": "EAVE Study Identifier",
+				"description": "EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{}
+				]
+			},
+			{
+				"name": "NRS.Date.Death",
+				"label": "Date of NRS death record",
+				"description": "Date of death",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2020-04-13",
+						"frac": "0.0043"
+					},
+					{
+						"value": "2020-12-26",
+						"frac": "0.0038"
+					},
+					{
+						"value": "2022-03-20",
+						"frac": "0.0036"
+					},
+					{
+						"value": "2020-04-04",
+						"frac": "0.0035"
+					},
+					{
+						"value": "2020-04-18",
+						"frac": "0.0035"
+					}
+				]
+			},
+			{
+				"name": "NRS.Reg.Date",
+				"label": "Date of death registered",
+				"description": "Date of death registered",
+				"type": "date",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "2020-03-27",
+						"frac": "0.0036"
+					},
+					{
+						"value": "2022-01-05",
+						"frac": "0.0036"
+					},
+					{
+						"value": "2020-03-31",
+						"frac": "0.0035"
+					},
+					{
+						"value": "2020-12-30",
+						"frac": "0.0035"
+					},
+					{
+						"value": "2021-01-06",
+						"frac": "0.0035"
+					}
+				]
+			},
+			{
+				"name": "NRS.Reg.Dist",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 118,
+				"max": 875,
+				"values": [
+					{
+						"value": "564",
+						"frac": "0.021"
+					},
+					{
+						"value": "722",
+						"frac": "0.02"
+					},
+					{
+						"value": "518",
+						"frac": "0.02"
+					},
+					{
+						"value": "350",
+						"frac": "0.02"
+					},
+					{
+						"value": "592",
+						"frac": "0.019"
+					}
+				]
+			},
+			{
+				"name": "NRS.Entry",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 1,
+				"max": 999,
+				"values": [
+					{
+						"value": "11",
+						"frac": "0.0054"
+					},
+					{
+						"value": "8",
+						"frac": "0.0052"
+					},
+					{
+						"value": "35",
+						"frac": "0.0052"
+					},
+					{
+						"value": "4",
+						"frac": "0.005"
+					},
+					{
+						"value": "51",
+						"frac": "0.005"
+					}
+				]
+			},
+			{
+				"name": "NRS.Reg.Year",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 2020,
+				"max": 2022,
+				"values": [
+					{
+						"value": "2020",
+						"frac": "0.39"
+					},
+					{
+						"value": "2021",
+						"frac": "0.38"
+					},
+					{
+						"value": "2022",
+						"frac": "0.22"
+					}
+				]
+			},
+			{
+				"name": "NRS.age_at_death",
+				"label": "",
+				"description": "",
+				"type": "dbl",
+				"min": 0,
+				"max": 106,
+				"values": [
+					{
+						"value": "84",
+						"frac": "0.036"
+					},
+					{
+						"value": "85",
+						"frac": "0.035"
+					},
+					{
+						"value": "83",
+						"frac": "0.035"
+					},
+					{
+						"value": "87",
+						"frac": "0.035"
+					},
+					{
+						"value": "90",
+						"frac": "0.033"
+					}
+				]
+			},
+			{
+				"name": "UNDERLYING_CAUSE_OF_DEATH",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "U071",
+						"frac": "0.081"
+					},
+					{
+						"value": "I219",
+						"frac": "0.069"
+					},
+					{
+						"value": "C349",
+						"frac": "0.065"
+					},
+					{
+						"value": "F03",
+						"frac": "0.034"
+					},
+					{
+						"value": "G301",
+						"frac": "0.033"
+					}
+				]
+			},
+			{
+				"name": "CAUSE_OF_DEATH_CODE_0",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "R688",
+						"frac": "0.11"
+					},
+					{
+						"value": "C349",
+						"frac": "0.05"
+					},
+					{
+						"value": "J189",
+						"frac": "0.039"
+					},
+					{
+						"value": "F019",
+						"frac": "0.036"
+					},
+					{
+						"value": "I259",
+						"frac": "0.032"
+					}
+				]
+			},
+			{
+				"name": "CAUSE_OF_DEATH_CODE_1",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.19"
+					},
+					{
+						"value": "I259",
+						"frac": "0.055"
+					},
+					{
+						"value": "U071",
+						"frac": "0.037"
+					},
+					{
+						"value": "R688",
+						"frac": "0.034"
+					},
+					{
+						"value": "I489",
+						"frac": "0.032"
+					}
+				]
+			},
+			{
+				"name": "CAUSE_OF_DEATH_CODE_2",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.44"
+					},
+					{
+						"value": "E119",
+						"frac": "0.039"
+					},
+					{
+						"value": "I259",
+						"frac": "0.038"
+					},
+					{
+						"value": "J449",
+						"frac": "0.035"
+					},
+					{
+						"value": "I10",
+						"frac": "0.028"
+					}
+				]
+			},
+			{
+				"name": "CAUSE_OF_DEATH_CODE_3",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.68"
+					},
+					{
+						"value": "J449",
+						"frac": "0.034"
+					},
+					{
+						"value": "E119",
+						"frac": "0.026"
+					},
+					{
+						"value": "I10",
+						"frac": "0.021"
+					},
+					{
+						"value": "I259",
+						"frac": "0.02"
+					}
+				]
+			},
+			{
+				"name": "CAUSE_OF_DEATH_CODE_4",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.86"
+					},
+					{
+						"value": "J449",
+						"frac": "0.02"
+					},
+					{
+						"value": "E119",
+						"frac": "0.011"
+					},
+					{
+						"value": "N189",
+						"frac": "0.01"
+					},
+					{
+						"value": "I10",
+						"frac": "0.01"
+					}
+				]
+			},
+			{
+				"name": "CAUSE_OF_DEATH_CODE_5",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.96"
+					},
+					{
+						"value": "I10",
+						"frac": "0.0054"
+					},
+					{
+						"value": "J449",
+						"frac": "0.0051"
+					},
+					{
+						"value": "W19",
+						"frac": "0.0045"
+					},
+					{
+						"value": "E119",
+						"frac": "0.0039"
+					}
+				]
+			},
+			{
+				"name": "CAUSE_OF_DEATH_CODE_6",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "0.99"
+					},
+					{
+						"value": "I10",
+						"frac": "0.002"
+					},
+					{
+						"value": "T424",
+						"frac": "0.0014"
+					},
+					{
+						"value": "N189",
+						"frac": "0.0013"
+					},
+					{
+						"value": "T403",
+						"frac": "0.0011"
+					}
+				]
+			},
+			{
+				"name": "CAUSE_OF_DEATH_CODE_7",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					},
+					{
+						"value": "T424",
+						"frac": "0.0011"
+					}
+				]
+			},
+			{
+				"name": "CAUSE_OF_DEATH_CODE_8",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "CAUSE_OF_DEATH_CODE_9",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"frac": "1"
+					}
+				]
+			},
+			{
+				"name": "source",
+				"label": "",
+				"description": "",
+				"type": "chr",
+				"min": "",
+				"max": "",
+				"values": [
+					{
+						"value": "SMRA",
+						"frac": "1"
+					},
+					{
+						"value": "daily",
+						"frac": "0.0033"
+					}
+				]
+			}
+		]
+	}
+]
