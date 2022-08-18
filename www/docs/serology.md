@@ -61,7 +61,7 @@
 * People who have donated blood throughout the pandemic
    * There is a bias towards young females as they donate blood more regularly than other groups (comparitavely) 
    * This is a typically healthy/younger cohort than the Scottish Population
-* Approximately XXX samples
+* Approximately 40,000 samples
 * Covers the period March 2020 - March 2022
 
 
