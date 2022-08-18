@@ -16,6 +16,11 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       fallback_to_build_date: true
+  - mknotebooks:
+      enable_default_jupyter_cell_styling: true
+      write_markdown: false
+      binder: false
+
   
 markdown_extensions:
   - tables
@@ -65,3 +70,4 @@ nav:
       - Vaccines: vaccines.md
       - Other:
           - Test
+  - EAVE Helpers: EAVE Helpers.ipynb
