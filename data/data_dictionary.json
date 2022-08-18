@@ -3975,8 +3975,8 @@
 			},
 			{
 				"name": "Q_DIAG_DIABETES_1",
-				"label": "Diabetes indicator",
-				"description": "Study marked as at risk of COVID-19 due to Diabetes indicator",
+				"label": "Diabetes Type I-II and Pre-diabetes",
+				"description": "Study marked as at risk of COVID-19 due to Diabetes indicator(s)",
 				"type": "dbl",
 				"min": 0,
 				"max": 1,
@@ -3993,8 +3993,8 @@
 			},
 			{
 				"name": "Q_DIAG_DIABETES_2",
-				"label": "Diabetes indicator",
-				"description": "Study marked as at risk of COVID-19 due to Diabetes indicator",
+				"label": "Rare diabetes indicator",
+				"description": "Study marked as at risk of COVID-19 due to Rare Diabetes indicator",
 				"type": "dbl",
 				"min": 0,
 				"max": 0,
