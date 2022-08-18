@@ -8,7 +8,7 @@
 | size  | 10279575            |
 | mtime | 2022-08-15 08:45:32 |
 | ctime | 2022-08-15 08:45:32 |
-| file  | ...WGS_latest.rds   |
+| file  | WGS_latest.rds      |
 | nrows | 352158              |
 
 ### Columns

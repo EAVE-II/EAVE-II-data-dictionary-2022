@@ -8,7 +8,7 @@
 | size  | 3617219             |
 | mtime | 2022-08-11 11:36:22 |
 | ctime | 2022-08-11 11:37:58 |
-| file  | ...all_deaths.rds   |
+| file  | all_deaths.rds      |
 | nrows | 163987              |
 
 ### Columns

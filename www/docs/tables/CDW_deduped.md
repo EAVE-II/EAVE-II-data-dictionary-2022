@@ -8,7 +8,7 @@
 | size  | 145458644           |
 | mtime | 2022-08-15 05:50:41 |
 | ctime | 2022-08-15 05:50:41 |
-| file  | ...CDW_deduped.rds  |
+| file  | CDW_deduped.rds     |
 | nrows | 3953858             |
 
 ### Columns

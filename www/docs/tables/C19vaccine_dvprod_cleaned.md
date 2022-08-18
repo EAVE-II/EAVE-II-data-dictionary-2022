@@ -3,13 +3,13 @@
 
 
 
-|       | value                                                                  |
-|:------|:-----------------------------------------------------------------------|
-| size  | 224007459                                                              |
-| mtime | 2022-08-15 09:35:57                                                    |
-| ctime | 2022-08-15 09:36:40                                                    |
-| file  | /conf/EAVE/GPanalysis/data/cleaned_data//C19vaccine_dvprod_cleaned.rds |
-| nrows | 12955518                                                               |
+|       | value                                      |
+|:------|:-------------------------------------------|
+| size  | 224007459                                  |
+| mtime | 2022-08-15 09:35:57                        |
+| ctime | 2022-08-15 09:36:40                        |
+| file  | cleaned_data/C19vaccine_dvprod_cleaned.rds |
+| nrows | 12955518                                   |
 
 ### Columns
 

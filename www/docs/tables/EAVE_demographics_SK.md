@@ -3,13 +3,13 @@
 
 Key demographics file to rely on and look up information about a study (age, Sex,..)
 
-|       | value                       |
-|:------|:----------------------------|
-| size  | 70681206                    |
-| mtime | 2020-09-04 11:19:25         |
-| ctime | 2022-05-12 10:14:22         |
-| file  | ...EAVE_demographics_SK.rds |
-| nrows | 5809882                     |
+|       | value                    |
+|:------|:-------------------------|
+| size  | 70681206                 |
+| mtime | 2020-09-04 11:19:25      |
+| ctime | 2022-05-12 10:14:22      |
+| file  | EAVE_demographics_SK.rds |
+| nrows | 5809882                  |
 
 ### Columns
 
