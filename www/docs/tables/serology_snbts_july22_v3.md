@@ -3,13 +3,13 @@
 
 
 
-|       | value                                                    |
-|:------|:---------------------------------------------------------|
-| size  | 544427                                                   |
-| mtime | 2022-07-14 10:46:55                                      |
-| ctime | 2022-07-14 10:46:55                                      |
-| file  | /conf/EAVE/GPanalysis/data//serology_snbts_july22_v3.rds |
-| nrows | 46227                                                    |
+|       | value                           |
+|:------|:--------------------------------|
+| size  | 544427                          |
+| mtime | 2022-07-14 10:46:55             |
+| ctime | 2022-07-14 10:46:55             |
+| file  | ...serology_snbts_july22_v3.rds |
+| nrows | 46227                           |
 
 ### Columns
 
