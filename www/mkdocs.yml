@@ -60,7 +60,7 @@ nav:
           - Hospitalisations: hospitalisations.md
           - Deaths: deaths.md
       - Testing:
-          - PCR & LFT: testing.md
+          - PCR Tests: testing.md
           - Genomic Sequencing: sequencing.md
       - Vaccines: vaccines.md
       - Other:
