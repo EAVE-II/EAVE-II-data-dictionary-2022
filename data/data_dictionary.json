@@ -1,7 +1,7 @@
 [
   {
     "meta": {
-      "file": "/conf/EAVE/GPanalysis/data//serology_snbts_july22_v3.rds",
+      "file": "...serology_snbts_july22_v3.rds",
       "finfo": [
         {
           "size": 544427,
@@ -239,7 +239,7 @@
       "$oid": "62fbc9437130a7df8f8b2447"
     },
     "meta": {
-      "file": "/conf/EAVE/GPanalysis/data//smr01_2022_06_06.rds",
+      "file": "...smr01_2022_06_06.rds",
       "finfo": [
         {
           "size": 92128931,
@@ -486,7 +486,7 @@
       "$oid": "62fbc93d43f66eb676968dc1"
     },
     "meta": {
-      "file": "/conf/EAVE/GPanalysis/data//EAVE_demographics_SK.rds",
+      "file": "...EAVE_demographics_SK.rds",
       "extra": "Key demographics file to rely on and look up information about a study (age, Sex,..)",
       "finfo": [
         {
@@ -1613,7 +1613,7 @@
       "$oid": "62fbc940f83bac0cc07a0c14"
     },
     "meta": {
-      "file": "/conf/EAVE/GPanalysis/data//WGS_latest.rds",
+      "file": "...WGS_latest.rds",
       "finfo": [
         {
           "size": 10279575,
@@ -2407,7 +2407,7 @@
       "$oid": "62fbc93cf152e0ca956f3159"
     },
     "meta": {
-      "file": "/conf/EAVE/GPanalysis/data//CDW_deduped.rds",
+      "file": "...CDW_deduped.rds",
       "finfo": [
         {
           "size": 145458644,
@@ -2828,7 +2828,7 @@
       "$oid": "62fbc94096db24773501cc9f"
     },
     "meta": {
-      "file": "/conf/EAVE/GPanalysis/data//cases_severe_dates.rds",
+      "file": "...cases_severe_dates.rds",
       "finfo": [
         {
           "size": 3921592,
@@ -3707,7 +3707,7 @@
       "$oid": "62fbc942cbce36bf8287bb5d"
     },
     "meta": {
-      "file": "/conf/EAVE/GPanalysis/data//serology_primcare_july22_v3.rds",
+      "file": "...serology_primcare_july22_v3.rds",
       "finfo": [
         {
           "size": 1164587,
@@ -4154,7 +4154,7 @@
       "$oid": "62fbc940108e702058cb2d10"
     },
     "meta": {
-      "file": "/conf/EAVE/GPanalysis/data//all_deaths.rds",
+      "file": "...all_deaths.rds",
       "finfo": [
         {
           "size": 3617219,
