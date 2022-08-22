@@ -66,6 +66,7 @@ nav:
           - Deaths: deaths.md
       - Testing:
           - PCR Tests: testing.md
+          - LFT Tests: testing.md
           - Genomic Sequencing: sequencing.md
       - Vaccines: vaccines.md
       - Other:

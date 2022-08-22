@@ -28,6 +28,10 @@ center table {
     
 }
 
+.md-main__inner .md-content {
+    /*min-width: 90% !important;*/
+}
+
 .md-button--primary{
     color: white !important;
     background-color: var(--phs-purple) !important;

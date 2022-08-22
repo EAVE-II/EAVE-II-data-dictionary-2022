@@ -20,9 +20,22 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			<td> <a class='md-button' href='demographics'> Demographics </a> </td>
 			<td> Lookup file for studies within the EAVE-II cohort. This is the most up-to-date dataset that should be used to retrieve a study's Sex, Age, Health Board, Urban/Rural Classifier and SIMD (deprevation). </td>
 			<td>
+			Main Demographics:
 			```
 			EAVE_demographics_SK.rds
 			``` 
+			Latest ??:
+            ```
+			outputs/temp/Cohort_Demog_Endpoints_Times2021-07-28.rds
+			```
+			Smoking data:
+			```
+			outputs/temp/CR_Cohort_RG_EAVE_BP_Smoke.rds
+			```
+			Ethnicity Lookup ??:
+			```
+			lookups/EAVE_Ethnicity_2022.rds
+			```
 			</td>
 		</tr>
 		<tr>
@@ -31,8 +44,17 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			Records of exposures to COVID-19 vaccines, that includes the dates, doses and vaccine product are given. Additional information such as flags for if the dose was a booster, if the study was shielding etc. are also provided. 
 			</td>
 			<td>
+			Main COVID-19:
 			```
 			cleaned_data/C19vaccine_dvprod_cleaned.rds
+			```			
+			????:
+			```
+			cleaned_data/C19vaccine.rds
+			```			
+			Flu:
+			```
+			cleaned_data/fluvaccine.rds
 			```
 			</td>
 		</tr>
@@ -72,6 +94,10 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			```
 			cases_severe_dates.rds
 			```
+			???
+			```
+			SICSAG_episode_level_.rds
+			```
 			</td>
 		</tr>
 		<tr>
@@ -82,6 +108,10 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			<td>
 			```
 			smr01_2022_06_06.rds
+			```
+			???
+			```
+			SMR01_allstays.rds
 			```
 			</td>
 		</tr>
@@ -102,8 +132,21 @@ For each dataset (`.rds` files), meta-data details information about the files a
 				From the Corporate Data Warehouse (CDW), testing results for COVID-19 mostly taken from NHS Digital (but also ECOSS and other sources)
 			</td>
 			<td>
+			* PCR
 			```
 			CDW_deduped.rds
+			```
+            or ???
+			```
+ 			CDW_full.rds
+ 			```
+			* LFT 
+			```
+			???
+			```
+            * S-Gene Lookup??
+			```
+			omicron_ctvals.rds
 			```
 			</td>
 		</tr>
@@ -118,6 +161,31 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			```
 			</td>
 		</tr>
+		<tr>
+            <td> <a class='md-button' href=''> Prescribing Data </a> </td>
+			<td> 
+			Prescribing Information System (PIS)
+			</td>
+			<td>
+			   ???
+		       ```
+			   PIS_MAB_FLAG_2022-06-08 
+			   ```
+			</td>
+		</tr>
+		<tr>
+            <td> <a class='md-button' href=''> HEPMA </a> </td>
+			<td> 
+	  		Hospital Electronic Prescribing and Medicines 
+			</td>
+			<td>
+			   ???
+		       ```
+			   HEPMA_mABsAVs_prescr_ 2022-08-12 .rds
+			   ```
+			</td>
+		</tr>
+		
 	</tbody>
 </table>
 
