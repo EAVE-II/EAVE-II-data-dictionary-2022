@@ -164,12 +164,13 @@ For each dataset (`.rds` files), meta-data details information about the files a
 		<tr>
             <td> <a class='md-button' href=''> Prescribing Data </a> </td>
 			<td> 
-			Prescribing Information System (PIS)
+			Prescribing Information System (PIS) 
+            * Studies with any monoclonal antibodies (MABs) in their PIS records
 			</td>
 			<td>
-			   ???
+			   Monoclonal Antibodies:
 		       ```
-			   PIS_MAB_FLAG_2022-06-08 
+			   PIS_MAB_FLAG_2022-06-08.rds
 			   ```
 			</td>
 		</tr>
@@ -179,9 +180,18 @@ For each dataset (`.rds` files), meta-data details information about the files a
 	  		Hospital Electronic Prescribing and Medicines 
 			</td>
 			<td>
-			   ???
-		       ```
-			   HEPMA_mABsAVs_prescr_ 2022-08-12 .rds
+			   Therapies administered:
+			   ```
+               HEPMA_mABsAVs_admin_ 2022-08-12 .rds
+			   ```
+			   Theapies prescribed:
+			   ```
+               HEPMA_mABsAVs_prescr_ 2022-08-12 .rds
+			   ```
+ 		       Before HEPMA was restructured, split by MABS and remdesivir:
+			   ```
+			   HEPMA_mABs_ 2022-06-27 .rds
+			   HEPMA_rem_ 2022-06-27 .rds
 			   ```
 			</td>
 		</tr>
