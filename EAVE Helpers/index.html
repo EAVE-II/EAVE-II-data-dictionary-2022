@@ -1,0 +1,979 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="../images/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.1, mkdocs-material-8.4.1">
+    
+    
+      
+        <title>EAVE Helpers - EAVE-II Data Dictionary</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.69437709.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.cbb835fc.min.css">
+        
+      
+      
+  
+  
+    
+    
+  
+  
+  <style>:root{--md-admonition-icon--note:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M448 32c35.3 0 64 28.65 64 64v320c0 35.3-28.7 64-64 64H64c-35.35 0-64-28.7-64-64V96c0-35.35 28.65-64 64-64h384zM224 256v-96H64v96h160zM64 320v96h160v-96H64zm224 96h160v-96H288v96zm160-160v-96H288v96h160z"/></svg>');}</style>
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../css/ansi-colours.css">
+    
+      <link rel="stylesheet" href="../css/jupyter-cells.css">
+    
+      <link rel="stylesheet" href="../css/pandas-dataframe.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="eave" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#install" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="EAVE-II Data Dictionary" class="md-header__button md-logo" aria-label="EAVE-II Data Dictionary" data-md-component="logo">
+      
+  <img src="../images/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            EAVE-II Data Dictionary
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              EAVE Helpers
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="EAVE-II Data Dictionary" class="md-nav__button md-logo" aria-label="EAVE-II Data Dictionary" data-md-component="logo">
+      
+  <img src="../images/logo.png" alt="logo">
+
+    </a>
+    EAVE-II Data Dictionary
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Overview
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Datasets
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Datasets" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Datasets
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../demographics/" class="md-nav__link">
+        Demographics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../qcovid/" class="md-nav__link">
+        QCOVID
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../serology/" class="md-nav__link">
+        Serology
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_4" type="checkbox" id="__nav_2_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_4">
+          Severe Outcomes
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Severe Outcomes" data-md-level="2">
+        <label class="md-nav__title" for="__nav_2_4">
+          <span class="md-nav__icon md-icon"></span>
+          Severe Outcomes
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../severe-cases/" class="md-nav__link">
+        Cases
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hospitalisations/" class="md-nav__link">
+        Hospitalisations
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../deaths/" class="md-nav__link">
+        Deaths
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_5" type="checkbox" id="__nav_2_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_5">
+          Testing
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Testing" data-md-level="2">
+        <label class="md-nav__title" for="__nav_2_5">
+          <span class="md-nav__icon md-icon"></span>
+          Testing
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../testing.md#pcr" class="md-nav__link">
+        PCR
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../testing.md#lft" class="md-nav__link">
+        LFT
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../testing.md#s-gene" class="md-nav__link">
+        S-Gene
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sequencing/" class="md-nav__link">
+        Genomic Sequencing
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_6" type="checkbox" id="__nav_2_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_6">
+          Vaccines
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Vaccines" data-md-level="2">
+        <label class="md-nav__title" for="__nav_2_6">
+          <span class="md-nav__icon md-icon"></span>
+          Vaccines
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vaccines.md#covid-19" class="md-nav__link">
+        COVID-19
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vaccines.md#influenza" class="md-nav__link">
+        Influenza
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../prescribing/" class="md-nav__link">
+        Prescribing Data
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          EAVE Helpers
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        EAVE Helpers
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#install" class="md-nav__link">
+    Install
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-dictionary" class="md-nav__link">
+    Data Dictionary
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#install" class="md-nav__link">
+    Install
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-dictionary" class="md-nav__link">
+    Data Dictionary
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+
+
+                
+
+
+  <h1>EAVE Helpers</h1>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script>
+(function() {
+  function addWidgetsRenderer() {
+    var requireJsScript = document.createElement('script');
+    requireJsScript.src = 'https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js';
+
+    var mimeElement = document.querySelector('script[type="application/vnd.jupyter.widget-view+json"]');
+    var jupyterWidgetsScript = document.createElement('script');
+    var widgetRendererSrc = 'https://unpkg.com/@jupyter-widgets/html-manager@*/dist/embed-amd.js';
+    var widgetState;
+
+    // Fallback for older version:
+    try {
+      widgetState = mimeElement && JSON.parse(mimeElement.innerHTML);
+
+      if (widgetState && (widgetState.version_major < 2 || !widgetState.version_major)) {
+        widgetRendererSrc = 'jupyter-js-widgets@*/dist/embed.js';
+      }
+    } catch(e) {}
+
+    jupyterWidgetsScript.src = widgetRendererSrc;
+
+    document.body.appendChild(requireJsScript);
+    document.body.appendChild(jupyterWidgetsScript);
+  }
+
+  document.addEventListener('DOMContentLoaded', addWidgetsRenderer);
+}());
+</script>
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="install">Install</h2>
+<p>To install the helper package, install <code>remotes</code> and then install directly from GitHub like so:</p>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="n">remotes</span><span class="o">::</span><span class="nf">install_github</span><span class="p">(</span><span class="s">&quot;EAVE-II/eavehelpers&quot;</span><span class="p">)</span> 
+</code></pre></div>
+
+</div>
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area">
+<div class="output_subarea output_stream output_stderr output_text">
+<pre>
+<code>Downloading GitHub repo EAVE-II/eavehelpers@HEAD
+
+</code>
+</pre>
+</div>
+</div>
+<div class="output_area">
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>
+<code>
+<span class="ansi-green-fg">✔</span>  <span class="ansi-black-intense-fg">checking for file ‘/private/var/folders/1_/t4xb4ssn55v6wrkx8x5rzkqc0000gn/T/RtmpZROikZ/remotese90735356bd5/EAVE-II-eavehelpers-1bfb2ae/DESCRIPTION’</span>
+<span class="ansi-black-intense-fg">─</span><span class="ansi-black-intense-fg">  </span><span class="ansi-black-intense-fg">preparing ‘eavehelpers’:</span>
+<span class="ansi-green-fg">✔</span>  <span class="ansi-black-intense-fg">checking DESCRIPTION meta-information</span>
+<span class="ansi-black-intense-fg">─</span><span class="ansi-black-intense-fg">  </span><span class="ansi-black-intense-fg">checking for LF line-endings in source and make files and shell scripts</span>
+<span class="ansi-black-intense-fg">─</span><span class="ansi-black-intense-fg">  </span><span class="ansi-black-intense-fg">checking for empty or unneeded directories</span>
+<span class="ansi-black-intense-fg">─</span><span class="ansi-black-intense-fg">  </span><span class="ansi-black-intense-fg">building ‘eavehelpers_0.0.1.tar.gz’</span>
+
+
+</code>
+</pre>
+</div>
+</div>
+<div class="output_area">
+<div class="output_subarea output_stream output_stderr output_text">
+<pre>
+<code>Installing package into ‘/usr/local/lib/R/4.2/site-library’
+(as ‘lib’ is unspecified)
+
+</code>
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="data-dictionary">Data Dictionary</h2>
+<p>Look up labels and descriptions of variables in the EAVE-II datasets:</p>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="n">eavehelpers</span><span class="o">::</span><span class="nf">get_label</span><span class="p">(</span><span class="s">&#39;Q_DIAG_COPD&#39;</span><span class="p">)</span>
+</code></pre></div>
+
+</div>
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area">
+<p>'Chronic obstructive pulmonary disease (COPD) indicator'</p>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="highlight"><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="n">eavehelpers</span><span class="o">::</span><span class="nf">get_description</span><span class="p">(</span><span class="s">&#39;Q_DIAG_COPD&#39;</span><span class="p">)</span>
+</code></pre></div>
+
+</div>
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area">
+<p>'Study marked as at risk of COVID-19 due to Chronic obstructive pulmonary disease (COPD) indicator'</p>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Get the full data dictionary if you want to explore more / lookup more data</p>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="highlight"><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="n">dd</span> <span class="o">&lt;-</span> <span class="n">eavehelpers</span><span class="o">::</span><span class="nf">get_data_dictionary</span><span class="p">()</span>
+<a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a><span class="n">dd</span>
+</code></pre></div>
+
+</div>
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area">
+<p>A data.frame: 233 × 7</p>
+<p>| name &lt;chr&gt; | label &lt;chr&gt; | description &lt;chr&gt; | type &lt;chr&gt; | min &lt;chr&gt; | max &lt;chr&gt; | values &lt;list&gt; |
+|---|---|---|---|---|---|---|
+| EAVE_LINKNO       | EAVE Study Identifier           | EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.                                                                                                                  | chr  | &lt;!----&gt; | &lt;!----&gt; | NULL |
+| SampleID          | Sample ID                       | Original Sample ID from the serology team                                                                                                                                                                                | chr  | &lt;!----&gt; | &lt;!----&gt; | NULL |
+| age               | Age                             | Age of the study given in years, extracted from the serology files - and shouldn't be well trusted                                                                                                                       | dbl  | 17   | 84   | 57, 55, 56, 54, 52 |
+| sex               | Sex (number)                    | Sex at birth - extracted from the serology files/team - it should not be trusted as being reliable                                                                                                                       | chr  | &lt;!----&gt; | &lt;!----&gt; | F, M |
+| isoweek           | Week Number                     | Week number since the start of the pandemic                                                                                                                                                                              | dbl  | 1    | 53   | 28, 36, 32, 41, 51 |
+| year              | Year                            | Year of the lookup file used to determine the Health Boards                                                                                                                                                              | dbl  | 2020 | 2022 | 2021, 2020, 2022 |
+| Sampledate_iso    | Sample Date                     | The date the serology measurement was taken from the individual (in ISO format)                                                                                                                                          | dttm | &lt;!----&gt; | &lt;!----&gt; | 2021-12-20, 2020-07-02, 2021-12-30, 2020-07-06, 2022-01-14 |
+| hb                | Health Board                    | The Scottish Health Board in which the individual was registered with                                                                                                                                                    | chr  | &lt;!----&gt; | &lt;!----&gt; | NHS Lothian                  , NHS Greater Glasgow and Clyde, NHS Tayside                  , NHS Grampian                 , NHS Lanarkshire               |
+| assay             | Assay                           | Antibody Assay machine was was used when measuring the blood serum sample for the presence of IgG antibodies to SARs-CoV-2                                                                                               | chr  | &lt;!----&gt; | &lt;!----&gt; | Euroimmune, Abbott     |
+| test_result_qual  | Qualitative Test Result         | Qualitative test results from the assay for the presence (or lack thereof) of IgG to SARs-CoV-2. The assay defines the threshold that determines +ve or -ve tests.                                                       | chr  | &lt;!----&gt; | &lt;!----&gt; | Positive , Negative , Equivocal |
+| test_result_quant | Quantative Test Result          | IgG measurements in Binding Activation Units [BAUs] that are measured by the assay. There are values that are truncated above/below certain values as the result was out-of-bounds of the assay's sensitivity for these. | chr  | &lt;!----&gt; | &lt;!----&gt; | 0.1 , 0.02, 0.2 , 0.01, 0.03 |
+| EAVE_LINKNO       | EAVE Study Identifier           | EAVE-II Identifier, pseudoynmised CHI numbers that were used to link this dataset                                                                                                                                        | chr  | &lt;!----&gt; | &lt;!----&gt; | NULL |
+| CIS_MARKER        | &lt;!----&gt; | &lt;!----&gt; | dbl  | 1    | 1906 | 2, 3, 4, 1, 6 |
+| ADMISSION_DATE    | Admission Date                  | Date the study was admitted into hospital                                                                                                                                                                                | dttm | &lt;!----&gt; | &lt;!----&gt; | 2019-06-11, 2019-08-12, 2018-03-07, 2018-06-05, 2019-03-04 |
+| DISCHARGE_DATE    | Discharge Date                  | Date the study was discharged from hospital                                                                                                                                                                              | dttm | &lt;!----&gt; | &lt;!----&gt; | 2019-06-18, 2019-03-04, 2019-08-12, 2019-08-30, 2020-01-17 |
+| MAIN_CONDITION    | Main Condition                  | The reason the study was admitted into hospital (ICD10 code)                                                                                                                                                             | chr  | &lt;!----&gt; | &lt;!----&gt; | H269, N390, U071, A419, J22X |
+| OTHER_CONDITION_1 | &lt;!----&gt; | Other reasons identified for hospital admission (ICD10 codes)                                                                                                                                                            | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , Z511, N390, I10X, N179 |
+| OTHER_CONDITION_2 | &lt;!----&gt; | Other reasons identified for hospital admission                                                                                                                                                                          | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , I10X, E119, I489, Z511 |
+| OTHER_CONDITION_3 | &lt;!----&gt; | Other reasons identified for hospital admission                                                                                                                                                                          | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , I10X, E119, I489, N179 |
+| OTHER_CONDITION_4 | &lt;!----&gt; | Other reasons identified for hospital admission                                                                                                                                                                          | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , I10X, E119, I489, Z867 |
+| OTHER_CONDITION_5 | &lt;!----&gt; | Other reasons identified for hospital admission                                                                                                                                                                          | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , I10X, E119, Z038, Z867 |
+| EAVE_LINKNO       | EAVE Study Identifier           | EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.                                                                                                                  | chr  | &lt;!----&gt; | &lt;!----&gt; | NULL |
+| Sex               | Sex                             | Sex at birth                                                                                                                                                                                                             | chr  | &lt;!----&gt; | &lt;!----&gt; | M, F |
+| ageYear           | Age                             | Age in years                                                                                                                                                                                                             | dbl  | -1   | 111  | 51, 26, 50, 55, 27 |
+| hb2019            | NHS Health Board Code           | Codes of 2019 NHS Health Boards                                                                                                                                                                                          | chr  | &lt;!----&gt; | &lt;!----&gt; | S08000031, S08000024, S08000032, S08000020, S08000030 |
+| hb2019name        | NHS Health Board Name           | Names of 2019 NHS Health Boards                                                                                                                                                                                          | chr  | &lt;!----&gt; | &lt;!----&gt; | NHS Greater Glasgow and Clyde, NHS Lothian                  , NHS Lanarkshire              , NHS Grampian                 , NHS Tayside                   |
+| District          | Postcode District               | Outward code of their postcode (Area + Disrict)                                                                                                                                                                          | chr  | &lt;!----&gt; | &lt;!----&gt; | EH54, EH4 , KY11, EH6 , ML3  |
+| DataZone          | Data Zone                       | Data Zone                                                                                                                                                                                                                | chr  | &lt;!----&gt; | &lt;!----&gt; | NA       , S01010286, S01008425, S01010048 |
+| ur6_2016          | Urban/Rural classification      | Urban/Rural 6-fold classification (2016 classification)                                                                                                                                                                  | int  | NA   | NA   | 1, 2, 3, 5, 6 |
+| ur6_2016_name     | Urban/Rural classification name | Urban/Rural 6-fold classification (2016 classification)                                                                                                                                                                  | chr  | &lt;!----&gt; | &lt;!----&gt; | 1 Large Urban Areas     , 2 Other Urban Areas     , 3 Accessible Small Towns, 5 Accessible Rural      , 6 Remote Rural           |
+| ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ |
+| SpecimenTypeRaw           | Specimen Type Raw                    | Raw code for the specimen type (always STS as this is blood serum data)                                                                                                                                                  | chr  | &lt;!----&gt; | &lt;!----&gt; | STS |
+| SpecimenType              | Specimen Type                        | Always 'Serum' as this is serology dataset                                                                                                                                                                               | chr  | &lt;!----&gt; | &lt;!----&gt; | Serum |
+| SpecLevel2Group           | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | Blood other |
+| SpecLevel1Group           | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | Normally Sterile Site |
+| OrganismRaw               | Organism Raw                         | Raw data of the test result from the assay                                                                                                                                                                               | chr  | &lt;!----&gt; | &lt;!----&gt; | (stest) covid-19 (sars-cov-2) igg,negative , (stest) covid-19 (sars-cov-2) igg,&gt;positive, (stest) covid-19 (sars-cov-2) igg,equivocal |
+| Type                      | Type                                 | Type of measurement (almost always IgG 2019-nCoV)                                                                                                                                                                        | chr  | &lt;!----&gt; | &lt;!----&gt; | 2019-nCoV IgG |
+| OriginalOrganism          | Original organism                    | Original organism - Coronavirus 2019 positive or negative                                                                                                                                                                | chr  | &lt;!----&gt; | &lt;!----&gt; | Coronavirus 2019-nCoV IgG negative , Coronavirus 2019-nCoV IgG          , Coronavirus 2019-nCoV IgG equivocal |
+| test_result_qual          | Qualitative Test Result              | Qualitative test results from the assay for the presence (or lack thereof) of IgG to SARs-CoV-2. The assay defines the threshold that determines +ve or -ve tests.                                                       | chr  | &lt;!----&gt; | &lt;!----&gt; | Negative , Positive , Equivocal |
+| test_result_quant         | Quantative Test Result               | IgG measurements in Binding Activation Units [BAUs] that are measured by the assay. There are values that are truncated above/below certain values as the result was out-of-bounds of the assay's sensitivity for these. | chr  | &lt;!----&gt; | &lt;!----&gt; | &lt;3.8    , &gt;2080.00, &lt;4.81   , &lt;3.80   , &gt;400.0   |
+| QNum                      | Quantative Measumrent Value (Number) | The raw quantative number value, removing truncated values (note: not so safe to use this as values below AND above the assay threshold have been set as NA                                                              | dbl  | NA   | NA   | NA , 4.9, 3.9, 4.3, 4.4 |
+| Text                      | Text                                 | Raw text output from the final report                                                                                                                                                                                    | chr  | &lt;!----&gt; | &lt;!----&gt; | covid-19 - antibodies  covid-19 (sars-cov-2) igg: positive  specimen type: serum  --------------------------------------------------------------------  dr sally mavin, clinical scientist  final report                      , NA                                                                                                                                                                                                                            , covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 12/06/20 at  1:37 pm  final report, covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 05/03/21 at  9:19 am  final report, covid-19 - antibodies  covid-19 (sars-cov-2) igg: negative  specimen type: serum  --------------------------------------------------------------------  released from instrument: liaisonxl 14/09/20 at 11:13 am  final report |
+| EAVE_LINKNO               | EAVE Study Identifier                | EAVE-II Identifier, pseudoynmised CHI numbers are used to create randomly assigned study index numbers.                                                                                                                  | chr  | &lt;!----&gt; | &lt;!----&gt; | NULL |
+| NRS.Date.Death            | Date of NRS death record             | Date of death                                                                                                                                                                                                            | date | &lt;!----&gt; | &lt;!----&gt; | 2020-04-13, 2020-12-26, 2022-03-20, 2020-04-04, 2020-04-18 |
+| NRS.Reg.Date              | Date of death registered             | Date of death registered                                                                                                                                                                                                 | date | &lt;!----&gt; | &lt;!----&gt; | 2020-03-27, 2022-01-05, 2020-03-31, 2020-12-30, 2021-01-06 |
+| NRS.Reg.Dist              | &lt;!----&gt; | &lt;!----&gt; | dbl  | 118  | 875  | 564, 722, 518, 350, 592 |
+| NRS.Entry                 | &lt;!----&gt; | &lt;!----&gt; | dbl  | 1    | 999  | 11, 8 , 35, 4 , 51 |
+| NRS.Reg.Year              | &lt;!----&gt; | &lt;!----&gt; | dbl  | 2020 | 2022 | 2020, 2021, 2022 |
+| NRS.age_at_death          | &lt;!----&gt; | &lt;!----&gt; | dbl  | 0    | 106  | 84, 85, 83, 87, 90 |
+| UNDERLYING_CAUSE_OF_DEATH | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | U071, I219, C349, F03 , G301 |
+| CAUSE_OF_DEATH_CODE_0     | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | R688, C349, J189, F019, I259 |
+| CAUSE_OF_DEATH_CODE_1     | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , I259, U071, R688, I489 |
+| CAUSE_OF_DEATH_CODE_2     | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , E119, I259, J449, I10  |
+| CAUSE_OF_DEATH_CODE_3     | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , J449, E119, I10 , I259 |
+| CAUSE_OF_DEATH_CODE_4     | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , J449, E119, N189, I10  |
+| CAUSE_OF_DEATH_CODE_5     | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , I10 , J449, W19 , E119 |
+| CAUSE_OF_DEATH_CODE_6     | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , I10 , T424, N189, T403 |
+| CAUSE_OF_DEATH_CODE_7     | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | NA  , T424 |
+| CAUSE_OF_DEATH_CODE_8     | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | NULL |
+| CAUSE_OF_DEATH_CODE_9     | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | NULL |
+| source                    | &lt;!----&gt; | &lt;!----&gt; | chr  | &lt;!----&gt; | &lt;!----&gt; | SMRA , daily |</p>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="highlight"><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a>
+</code></pre></div>
+
+</div>
+</div>
+
+  <hr>
+<div class="md-source-file">
+  <small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">August 25, 2022</span>
+      
+        <br>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">August 25, 2022</span>
+      
+    
+  </small>
+</div>
+
+
+
+
+              
+
+ <!-- Giscus -->
+  <h2 id="__comments">Comments</h2>
+  <!-- Replace with generated snippet -->
+  <script src="https://giscus.app/client.js"
+        data-repo="EAVE-II/data-dictionary"
+        data-repo-id="R_kgDOHm3KEg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOHm3KEs4CQvzD"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+  </script>
+  
+  <!-- Synchronize Giscus theme with palette -->
+  <script>
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    /* Set palette on initial load */
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate" ? "dark" : "light"
+      giscus.setAttribute("data-theme", theme) 
+    }
+
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+          /* Instruct Giscus to change theme */
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
+
+
+            </article>
+            
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+        
+        <a href="../prescribing/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Prescribing Data" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Prescribing Data
+            </div>
+          </div>
+        </a>
+      
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.ecf98df9.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.9c69f0bc.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../javascripts/tablesort.js"></script>
+      
+    
+  </body>
+</html>
