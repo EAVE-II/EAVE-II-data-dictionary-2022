@@ -4566,3 +4566,1083 @@
     ]
   }
 ]
+[
+  {
+    "meta": {
+      "file": "/conf/EAVE/GPanalysis/data//lft_positives.rds",
+      "finfo": [
+        {
+          "size": 3970235,
+          "mtime": "2022-08-15 09:47:36",
+          "ctime": "2022-08-15 09:48:05",
+          "atime": "2022-08-16 08:20:53",
+          "uname": "nichoy01",
+          "grname": "GPanalysis"
+        }
+      ],
+      "nrows": 901332
+    },
+    "columns": [
+      {
+        "name": "EAVE_LINKNO",
+        "label": "EAVE Link Number",
+        "description": "Randomly assigned study index number",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {}
+        ]
+      },
+      {
+        "name": "date_ecoss_specimen",
+        "label": "",
+        "description": "",
+        "type": "date",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "2022-03-14",
+            "frac": "0.017"
+          },
+          {
+            "value": "2022-03-21",
+            "frac": "0.015"
+          },
+          {
+            "value": "2022-03-16",
+            "frac": "0.015"
+          },
+          {
+            "value": "2022-03-09",
+            "frac": "0.014"
+          },
+          {
+            "value": "2022-03-15",
+            "frac": "0.014"
+          }
+        ]
+      },
+      {
+        "name": "test_result",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "POSITIVE",
+            "frac": "1"
+          }
+        ]
+      },
+      {
+        "name": "test_type",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "ANTIGEN",
+            "frac": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "file": "/conf/EAVE/GPanalysis/data//PIS_MAB_FLAG_2022-06-08.rds",
+      "finfo": [
+        {
+          "size": 25453652,
+          "mtime": "2022-06-08 12:51:34",
+          "ctime": "2022-06-08 12:51:34",
+          "atime": "2022-08-15 15:20:42",
+          "uname": "safras01",
+          "grname": "GPanalysis"
+        }
+      ],
+      "nrows": 5792223
+    },
+    "columns": [
+      {
+        "name": "EAVE_LINKNO",
+        "label": "EAVE Link Number",
+        "description": "Randomly assigned study index number",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {}
+        ]
+      },
+      {
+        "name": "mab_drug",
+        "label": "",
+        "description": "",
+        "type": "dbl",
+        "min": 0,
+        "max": 1,
+        "values": [
+          {
+            "value": "0",
+            "frac": "1"
+          },
+          {
+            "value": "1",
+            "frac": "0.0033"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "file": "/conf/EAVE/GPanalysis/data/cleaned_data//fluvaccine.rds",
+      "finfo": [
+        {
+          "size": 18465380,
+          "mtime": "2022-08-15 06:21:42",
+          "ctime": "2022-08-15 06:21:42",
+          "atime": "2022-08-15 21:10:45",
+          "uname": "safras01",
+          "grname": "GPanalysis"
+        }
+      ],
+      "nrows": 2168746
+    },
+    "columns": [
+      {
+        "name": "Run_Date",
+        "label": "Date of extract",
+        "description": "Date extract run",
+        "type": "dttm",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "2021-12-02 14:16:10",
+            "frac": "0.28"
+          },
+          {
+            "value": "2021-10-01 08:38:41",
+            "frac": "0.042"
+          },
+          {
+            "value": "2021-12-06 07:34:50",
+            "frac": "0.04"
+          },
+          {
+            "value": "2021-11-01 08:34:35",
+            "frac": "0.037"
+          },
+          {
+            "value": "2021-10-21 08:39:11",
+            "frac": "0.02"
+          }
+        ]
+      },
+      {
+        "name": "date_of_birth",
+        "label": "",
+        "description": "",
+        "type": "dttm",
+        "min": "",
+        "max": "",
+        "values": [
+          {}
+        ]
+      },
+      {
+        "name": "postcode",
+        "label": "Postcode of residence",
+        "description": "Postcode (if available)",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "frac": "1"
+          }
+        ]
+      },
+      {
+        "name": "occurrence_time",
+        "label": "Date of vaccination",
+        "description": "Date of vaccination",
+        "type": "dttm",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "2021-11-09",
+            "frac": "0.016"
+          },
+          {
+            "value": "2021-11-04",
+            "frac": "0.015"
+          },
+          {
+            "value": "2021-11-03",
+            "frac": "0.015"
+          },
+          {
+            "value": "2021-10-20",
+            "frac": "0.015"
+          },
+          {
+            "value": "2021-11-06",
+            "frac": "0.015"
+          }
+        ]
+      },
+      {
+        "name": "type",
+        "label": "Vaccine type",
+        "description": "Vaccine type",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "36509011000001106",
+            "frac": "0.52"
+          },
+          {
+            "value": "38973211000001108",
+            "frac": "0.44"
+          },
+          {
+            "value": "27114211000001105",
+            "frac": "0.035"
+          }
+        ]
+      },
+      {
+        "name": "stage",
+        "label": "Dose number",
+        "description": "Dose number",
+        "type": "int",
+        "min": 1,
+        "max": 2,
+        "values": [
+          {
+            "value": "1",
+            "frac": "1"
+          },
+          {
+            "value": "2",
+            "frac": "0.0011"
+          }
+        ]
+      },
+      {
+        "name": "batch",
+        "label": "Batch number",
+        "description": "Batch number",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "8556B1A",
+            "frac": "0.13"
+          },
+          {
+            "value": "8636B1A",
+            "frac": "0.11"
+          },
+          {
+            "value": "8636A1A",
+            "frac": "0.1"
+          },
+          {
+            "value": "3079171A",
+            "frac": "0.089"
+          },
+          {
+            "value": "8642A1A",
+            "frac": "0.089"
+          }
+        ]
+      },
+      {
+        "name": "site",
+        "label": "Injeciton site",
+        "description": "Injeciton site",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "LUA",
+            "frac": "0.49"
+          },
+          {
+            "value": "RUA",
+            "frac": "0.47"
+          },
+          {
+            "value": "BN",
+            "frac": "0.035"
+          }
+        ]
+      },
+      {
+        "name": "method",
+        "label": "Method of delivery",
+        "description": "Method of delivery",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "IM",
+            "frac": "0.96"
+          },
+          {
+            "value": "NASAL",
+            "frac": "0.035"
+          }
+        ]
+      },
+      {
+        "name": "validchi",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "Valid CHI",
+            "frac": "1"
+          }
+        ]
+      },
+      {
+        "name": "EAVE_LINKNO",
+        "label": "EAVE Link Number",
+        "description": "Randomly assigned study index number",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "file": "/conf/EAVE/GPanalysis/data//omicron_ctvals.rds",
+      "finfo": [
+        {
+          "size": 42301758,
+          "mtime": "2022-08-15 06:23:36",
+          "ctime": "2022-08-15 06:23:36",
+          "atime": "2022-08-15 21:10:45",
+          "uname": "safras01",
+          "grname": "GPanalysis"
+        }
+      ],
+      "nrows": 845431
+    },
+    "columns": [
+      {
+        "name": "EAVE_LINKNO",
+        "label": "EAVE Link Number",
+        "description": "Randomly assigned study index number",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {}
+        ]
+      },
+      {
+        "name": "test_id",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "frac": "1"
+          }
+        ]
+      },
+      {
+        "name": "date_ecoss_specimen",
+        "label": "",
+        "description": "",
+        "type": "date",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "2021-12-29",
+            "frac": "0.028"
+          },
+          {
+            "value": "2021-12-30",
+            "frac": "0.028"
+          },
+          {
+            "value": "2022-01-04",
+            "frac": "0.026"
+          },
+          {
+            "value": "2022-01-03",
+            "frac": "0.024"
+          },
+          {
+            "value": "2022-01-05",
+            "frac": "0.023"
+          }
+        ]
+      },
+      {
+        "name": "ct_value_ORF1AB",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "frac": "1"
+          }
+        ]
+      },
+      {
+        "name": "ct_value_NGENE",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "frac": "1"
+          }
+        ]
+      },
+      {
+        "name": "ct_value_SGENE",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "frac": "0.98"
+          },
+          {
+            "value": "-1.00",
+            "frac": "0.017"
+          },
+          {
+            "value": "0.00",
+            "frac": "0.002"
+          }
+        ]
+      },
+      {
+        "name": "ct_value_MS2",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "frac": "1"
+          }
+        ]
+      },
+      {
+        "name": "gene_result_ORF1AB",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "POSITIVE",
+            "frac": "0.99"
+          },
+          {
+            "frac": "0.011"
+          },
+          {
+            "value": "INCONCLUSIVE",
+            "frac": "0.0012"
+          },
+          {
+            "value": "NEGATIVE",
+            "frac": "0.0012"
+          }
+        ]
+      },
+      {
+        "name": "gene_result_NGENE",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "POSITIVE",
+            "frac": "0.98"
+          },
+          {
+            "frac": "0.011"
+          },
+          {
+            "value": "INCONCLUSIVE",
+            "frac": "0.0053"
+          },
+          {
+            "value": "NEGATIVE",
+            "frac": "0.003"
+          }
+        ]
+      },
+      {
+        "name": "gene_result_SGENE",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "NEGATIVE",
+            "frac": "0.54"
+          },
+          {
+            "value": "POSITIVE",
+            "frac": "0.44"
+          },
+          {
+            "frac": "0.011"
+          },
+          {
+            "value": "INCONCLUSIVE",
+            "frac": "0.0025"
+          }
+        ]
+      },
+      {
+        "name": "gene_result_MS2",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "POSITIVE",
+            "frac": "0.99"
+          },
+          {
+            "frac": "0.011"
+          }
+        ]
+      },
+      {
+        "name": "sgene_classification",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "True S Gene Dropout",
+            "frac": "0.51"
+          },
+          {
+            "value": "Positive S Gene",
+            "frac": "0.44"
+          },
+          {
+            "value": "Weak Positive",
+            "frac": "0.038"
+          },
+          {
+            "value": "other",
+            "frac": "0.014"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "file": "/conf/EAVE/GPanalysis/data//HEPMA_mABsAVs_admin_ 2022-08-12 .rds",
+      "finfo": [
+        {
+          "size": 88618,
+          "mtime": "2022-08-12 18:01:56",
+          "ctime": "2022-08-12 18:01:56",
+          "atime": "2022-08-15 18:02:25",
+          "uname": "tanjam01",
+          "grname": "GPanalysis"
+        }
+      ],
+      "nrows": 10300
+    },
+    "columns": [
+      {
+        "name": "EAVE_LINKNO",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {}
+        ]
+      },
+      {
+        "name": "scheduled_date",
+        "label": "",
+        "description": "",
+        "type": "date",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "2022-07-01",
+            "frac": "0.014"
+          },
+          {
+            "value": "2022-06-30",
+            "frac": "0.013"
+          },
+          {
+            "value": "2022-03-18",
+            "frac": "0.012"
+          },
+          {
+            "value": "2022-07-02",
+            "frac": "0.011"
+          },
+          {
+            "value": "2022-07-03",
+            "frac": "0.011"
+          }
+        ]
+      },
+      {
+        "name": "admin_given_date_time",
+        "label": "",
+        "description": "",
+        "type": "dttm",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "frac": "1"
+          }
+        ]
+      },
+      {
+        "name": "drug_admin",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "paxlovid",
+            "frac": "0.43"
+          },
+          {
+            "value": "remdesivir",
+            "frac": "0.34"
+          },
+          {
+            "value": "sotrovimab",
+            "frac": "0.1"
+          },
+          {
+            "value": "tocilizumab",
+            "frac": "0.05"
+          },
+          {
+            "value": "sarilumab",
+            "frac": "0.037"
+          }
+        ]
+      },
+      {
+        "name": "admin_item",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "PF-07321332 Nirmatrelvir (Paxlovid - PINK) 150 mg Tablets",
+            "frac": "0.16"
+          },
+          {
+            "value": "REMDESIVIR 100 mg Injection",
+            "frac": "0.085"
+          },
+          {
+            "value": "Sotrovimab 500 mg Injection for Infusion",
+            "frac": "0.082"
+          },
+          {
+            "value": "Remdesivir 100mg powder for solution for infusion vials",
+            "frac": "0.071"
+          },
+          {
+            "value": "PF-07321332 NIRMATRELVIR (PAXLOVID - PINK) 150 MG TABLETS",
+            "frac": "0.064"
+          }
+        ]
+      },
+      {
+        "name": "patient_HB",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "NHS GREATER GLASGOW & CLYDE",
+            "frac": "0.48"
+          },
+          {
+            "value": "NHS LOTHIAN",
+            "frac": "0.17"
+          },
+          {
+            "value": "NHS LANARKSHIRE",
+            "frac": "0.17"
+          },
+          {
+            "value": "NHS FORTH VALLEY",
+            "frac": "0.065"
+          },
+          {
+            "value": "NHS AYRSHIRE & ARRAN",
+            "frac": "0.056"
+          }
+        ]
+      },
+      {
+        "name": "source",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "HEPMA_v1",
+            "frac": "0.72"
+          },
+          {
+            "value": "HEPMA_v2",
+            "frac": "0.28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "file": "/conf/EAVE/GPanalysis/data//HEPMA_mABsAVs_prescr_ 2022-08-12 .rds",
+      "finfo": [
+        {
+          "size": 52056,
+          "mtime": "2022-08-12 18:01:56",
+          "ctime": "2022-08-12 18:01:56",
+          "atime": "2022-08-15 15:38:04",
+          "uname": "tanjam01",
+          "grname": "GPanalysis"
+        }
+      ],
+      "nrows": 5240
+    },
+    "columns": [
+      {
+        "name": "EAVE_LINKNO",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {}
+        ]
+      },
+      {
+        "name": "prescr_date",
+        "label": "",
+        "description": "",
+        "type": "date",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "2022-03-16",
+            "frac": "0.013"
+          },
+          {
+            "value": "2022-06-24",
+            "frac": "0.012"
+          },
+          {
+            "value": "2022-03-18",
+            "frac": "0.011"
+          },
+          {
+            "value": "2022-03-29",
+            "frac": "0.011"
+          },
+          {
+            "value": "2022-07-01",
+            "frac": "0.011"
+          }
+        ]
+      },
+      {
+        "name": "drug_prescr",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "remdesivir",
+            "frac": "0.38"
+          },
+          {
+            "value": "sotrovimab",
+            "frac": "0.21"
+          },
+          {
+            "value": "paxlovid",
+            "frac": "0.18"
+          },
+          {
+            "value": "tocilizumab",
+            "frac": "0.097"
+          },
+          {
+            "value": "sarilumab",
+            "frac": "0.073"
+          }
+        ]
+      },
+      {
+        "name": "prescr_item",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "Sotrovimab 500 mg Injection for Infusion",
+            "frac": "0.16"
+          },
+          {
+            "value": "REMDESIVIR 100 mg Injection",
+            "frac": "0.093"
+          },
+          {
+            "value": "Remdesivir 100mg powder for solution for infusion vials",
+            "frac": "0.074"
+          },
+          {
+            "value": "REMDESIVIR 100 mg in 20ml Injection",
+            "frac": "0.066"
+          },
+          {
+            "value": "PF-07321332 Nirmatrelvir (Paxlovid - PINK) 150 mg Tablets",
+            "frac": "0.048"
+          }
+        ]
+      },
+      {
+        "name": "presc_med_dose",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "500.000000",
+            "frac": "0.2"
+          },
+          {
+            "value": "100.000000",
+            "frac": "0.16"
+          },
+          {
+            "value": "200.000000",
+            "frac": "0.13"
+          },
+          {
+            "value": "100",
+            "frac": "0.096"
+          },
+          {
+            "value": "300.000000",
+            "frac": "0.085"
+          }
+        ]
+      },
+      {
+        "name": "presc_med_unit",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "mg",
+            "frac": "0.77"
+          },
+          {
+            "value": "MG",
+            "frac": "0.2"
+          },
+          {
+            "value": "g",
+            "frac": "0.026"
+          },
+          {
+            "value": "Test",
+            "frac": "0.004"
+          }
+        ]
+      },
+      {
+        "name": "patient_HB",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "NHS GREATER GLASGOW & CLYDE",
+            "frac": "0.44"
+          },
+          {
+            "value": "NHS LANARKSHIRE",
+            "frac": "0.18"
+          },
+          {
+            "value": "NHS LOTHIAN",
+            "frac": "0.13"
+          },
+          {
+            "value": "NHS DUMFRIES & GALLOWAY",
+            "frac": "0.11"
+          },
+          {
+            "value": "NHS FORTH VALLEY",
+            "frac": "0.072"
+          }
+        ]
+      },
+      {
+        "name": "presc_setting_description",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "frac": "0.8"
+          },
+          {
+            "value": "ADMITTED PATIENT SETTING",
+            "frac": "0.17"
+          },
+          {
+            "value": "OUTPATIENT SETTING",
+            "frac": "0.019"
+          },
+          {
+            "value": "DISCHARGE OF ADMITTED PATIENT",
+            "frac": "0.0061"
+          },
+          {
+            "value": "EMERGENCY CARE DEPARTMENT SETTING",
+            "frac": "0.0046"
+          }
+        ]
+      },
+      {
+        "name": "type",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "I",
+            "frac": "0.74"
+          },
+          {
+            "frac": "0.2"
+          },
+          {
+            "value": "O",
+            "frac": "0.052"
+          },
+          {
+            "value": "D",
+            "frac": "0.0097"
+          }
+        ]
+      },
+      {
+        "name": "source",
+        "label": "",
+        "description": "",
+        "type": "chr",
+        "min": "",
+        "max": "",
+        "values": [
+          {
+            "value": "HEPMA_v1",
+            "frac": "0.8"
+          },
+          {
+            "value": "HEPMA_v2",
+            "frac": "0.2"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -65,10 +65,13 @@ nav:
           - Hospitalisations: hospitalisations.md
           - Deaths: deaths.md
       - Testing:
-          - PCR Tests: testing.md
-          - LFT Tests: testing.md
+          - PCR: testing.md
+          - LFT: testing.md
+          - S-Gene: testing.md
           - Genomic Sequencing: sequencing.md
-      - Vaccines: vaccines.md
+      - Vaccines:
+          - COVID-19: vaccines.md
+          - Influenza: vaccines.md
       - Other:
-          - Test
+          - Prescribing Data: prescribing.md
   - EAVE Helpers: EAVE Helpers.ipynb
