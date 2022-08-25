@@ -18,17 +18,14 @@ For each dataset (`.rds` files), meta-data details information about the files a
 	<tbody>
 		<tr>
 			<td> <a class='md-button' href='demographics'> Demographics </a> </td>
-			<td> Lookup file for studies within the EAVE-II cohort. This is the most up-to-date dataset that should be used to retrieve a study's Sex, Age, Health Board, Urban/Rural Classifier and SIMD (deprevation). </td>
+				<td> Lookup file for studies within the EAVE-II cohort. This is the most up-to-date dataset that should be used to retrieve a study's Sex, Age, Health Board, Urban/Rural Classifier and SIMD (deprevation).
+            </td>
 			<td>
 			<b> Main Demographics: </b>
 			```
 			EAVE_demographics_SK.rds
 			``` 
-			<b> Ethnicity Lookup: </b>
-			```
-			lookups/EAVE_Ethnicity_2022.rds
-			```
-			</td>
+			<p> {++ ~5.8 Million Records ++} </p>
 		</tr>
 		<tr>
 			<td> <a class='md-button' href='vaccines'> Vaccinations</a> </td>
@@ -39,11 +36,13 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			<b> COVID-19: </b>
 			```
 			cleaned_data/C19vaccine_dvprod_cleaned.rds
-			```			
+			```	 
+	        <p> {++ ~12 Million Records ++} </p>
 			<b> Flu: </b>
 			```
 			cleaned_data/fluvaccine.rds
 			```
+	        <p> {++ ~2.1 Million Records ++} </p>
 			</td>
 		</tr>
 		<tr>
@@ -56,6 +55,7 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			```
 			 QCOVID_feb22.rds
 			```
+			<p> {++ ~4.3 Million Records ++} </p>
 			</td>
 		</tr>
 		<tr>
@@ -68,10 +68,12 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			```
 			serology_primcare_july22_v3.rds
 			```
+            <p> {++ ~67 Thousand Records ++} </p>
 			<b> Blood Donors </b>
 			```
 			serology_snbts_july22_v3.rds
 			```
+			<p> {++ ~46 Thousand Records ++} </p>
 			</td>
 		</tr>
 		<tr>
@@ -84,6 +86,7 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			```
 			cases_severe_dates.rds
 			```
+			<p> {++ ~330 Thousand Records ++} </p>
 			</td>
 		</tr>
 		<tr>
@@ -96,6 +99,7 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			```
 			smr01_2022_06_06.rds
 			```
+			<p> {++ ~6.4 Million Records ++} </p>
 			</td>
 		</tr>
 		<tr>
@@ -107,6 +111,7 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			```
 			all_deaths.rds
 			```
+			<p> {++ ~164 Thousand Records ++} </p>
 			</td>
 		</tr>
 		<tr>
@@ -119,14 +124,17 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			```
 			CDW_deduped.rds
 			```
+			<p> {++ ~3.9 Million Records ++} </p>
 			<b> LFT Positive Test Results </b>:
 			```
 			lft_positives.rds
 			```
-            <b> S-Gene Lookup </b>:
+			<p> {++ ~0.9 Million Records ++} </p>
+            <b> S-Gene Testing </b>:
 			```
 			omicron_ctvals.rds
 			```
+			<p> {++ ~0.8 Million Records ++} </p>
 			</td>
 		</tr>
 		<tr>
@@ -139,6 +147,7 @@ For each dataset (`.rds` files), meta-data details information about the files a
 			```
 			WGS_latest.rds
 			```
+			<p> {++ ~350 Thousand Records ++} </p>
 			</td>
 		</tr>
 		<tr>
@@ -151,11 +160,14 @@ For each dataset (`.rds` files), meta-data details information about the files a
 		       ```
 			   PIS_MAB_FLAG_2022-06-08.rds
 			   ```
+			   <p> {++ ~5.8 Million Records ++} </p>
 			   <b> Hospital Electronic Prescribing and Medicines (HEPMA) therapies administered and prescribed:</b>
 			   ```
                HEPMA_mABsAVs_admin_ 2022-08-12 .rds
                HEPMA_mABsAVs_prescr_ 2022-08-12 .rds
 			   ```
+			   <p> {++ ~10 (administered) and 5 (prescribed) Thousand Records ++} </p>
+
 			</td>
 		</tr>
 		
